@@ -1,19 +1,19 @@
 name = "daop"
-compatibility_date = "2026-03-29"
+compatibility_date = "2026-04-20"
 pages_build_output_dir = "public"
 
 [[d1_databases]]
 binding = "DB"
 database_name = "ophimcomment"
-database_id = "18c4ed3a-ba65-496a-9400-d01337c6d0e7"
+database_id = "0992fa48-fbd0-40d7-8b2b-43e253f7fc32"
 
 [[kv_namespaces]]
 binding = "COMMENT_CACHE"
-id = "c5ed3fedc921460f9a407c82739b64e4"
+id = "46dd3a02db32476694d8a669f9f7914c"
 
 [[kv_namespaces]]
 binding = "COMMENT_RATE_LIMIT"
-id = "3cf12d0fd4874a1a9682f262fd3edb0d"
+id = "7a924561c78a4dee8c2caebf4dc6a523"
 
 [vars]
 # Khai báo trên Cloudflare Pages > Settings > Environment variables (không commit secret thật vào Git)
