@@ -17,7 +17,7 @@ id = "7a924561c78a4dee8c2caebf4dc6a523"
 
 [vars]
 # Khai báo trên Cloudflare Pages > Settings > Environment variables (không commit secret thật vào Git)
-SUPABASE_JWT_SECRET = ""
+#SUPABASE_JWT_SECRET = ""
 # COMMENTS_ADMIN_SECRET — KHÔNG đặt trong [vars] (plaintext). Chỉ thêm qua Secrets (mã hóa) trên Dashboard
 # hoặc: npx wrangler pages secret put COMMENTS_ADMIN_SECRET --project-name=<tên-project-Pages>
 
