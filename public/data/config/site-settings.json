@@ -132,8 +132,8 @@
   "upload_r2_poster_quality": "",
   "upload_r2_thumb_width": "238",
   "upload_r2_thumb_height": "344",
-  "ophim_start_page": "9999",
-  "ophim_end_page": "9999",
+  "ophim_start_page": "1471",
+  "ophim_end_page": "1201",
   "ophim_auto_start_page": "9999",
   "ophim_auto_end_page": "9999",
   "theme_accent_light": "#1d4ed8",
@@ -150,10 +150,6 @@
   "theme_section_title_light": "#1f2328",
   "theme_link_light": "#2563eb",
   "theme_slider_desc_light": "rgba(255,255,255,0.7)",
-  "update_data_two_phase": "0",
-  "update_data_manual_two_phase": "0",
-  "upload_images_after_build": "1",
-  "deploy_after_r2_upload": "1",
   "detail_hide_header_default": "false",
   "upload_r2_poster_width": "486",
   "upload_r2_poster_height": "274",
@@ -161,5 +157,9 @@
   "upload_r2_concurrency": "16",
   "upload_r2_reupload_existing": "0",
   "watch_hide_header_default": "false",
-  "site_url": "https://gotv.top"
+  "site_url": "https://gotv.top",
+  "update_data_two_phase": "0",
+  "update_data_manual_two_phase": "0",
+  "upload_images_after_build": "1",
+  "deploy_after_r2_upload": "1"
 }
