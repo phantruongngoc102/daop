@@ -1,6 +1,6 @@
 {
   "buildVersion": {
-    "builtAt": "2026-04-20T11:53:12.756Z"
+    "builtAt": "2026-04-20T12:51:45.195Z"
   },
   "siteSettings": {
     "site_name": "GoTV",
@@ -155,17 +155,17 @@
     "theme_link_light": "#2563eb",
     "theme_slider_desc_light": "rgba(255,255,255,0.7)",
     "detail_hide_header_default": "false",
+    "watch_hide_header_default": "false",
+    "deploy_after_r2_upload": "1",
+    "site_url": "https://gotv.top",
     "upload_r2_poster_width": "486",
     "upload_r2_poster_height": "274",
     "upload_r2_limit": "0",
     "upload_r2_concurrency": "16",
     "upload_r2_reupload_existing": "0",
-    "watch_hide_header_default": "false",
-    "site_url": "https://gotv.top",
     "update_data_two_phase": "0",
-    "update_data_manual_two_phase": "0",
-    "upload_images_after_build": "1",
-    "deploy_after_r2_upload": "1"
+    "update_data_manual_two_phase": "1",
+    "upload_images_after_build": "1"
   },
   "homepageSections": [
     {
@@ -977,18 +977,16 @@
           "slug": "su-that-cua-vu-be-boi",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/su/su-that-cua-vu-be-boi.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/su/su-that-cua-vu-be-boi.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "series",
           "genre": [
             {
-              "id": "620f3d2b91fa4af90ab697fe",
               "name": "Chính kịch",
               "slug": "chinh-kich"
             }
           ],
           "country": [
             {
-              "id": "620a2370e0fc277084dfd91e",
               "name": "Anh",
               "slug": "anh"
             }
@@ -1011,23 +1009,20 @@
           "slug": "o-day-cam-yeu-duong",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/o_/o-day-cam-yeu-duong.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/o_/o-day-cam-yeu-duong.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "series",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -1050,28 +1045,24 @@
           "slug": "yakamoz-s-245",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ya/yakamoz-s-245.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ya/yakamoz-s-245.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "series",
           "genre": [
             {
-              "id": "620a2282e0fc277084dfd435",
               "name": "Viễn Tưởng",
               "slug": "vien-tuong"
             },
             {
-              "id": "620a229be0fc277084dfd4dd",
               "name": "Khoa Học",
               "slug": "khoa-hoc"
             },
             {
-              "id": "620f3d2b91fa4af90ab697fe",
               "name": "Chính kịch",
               "slug": "chinh-kich"
             }
           ],
           "country": [
             {
-              "id": "620f7fa791fa4af90ab6ad1f",
               "name": "Thổ Nhĩ Kỳ",
               "slug": "tho-nhi-ky"
             }
@@ -1094,23 +1085,20 @@
           "slug": "mai",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ma/mai.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ma/mai.webp",
-          "year": 2019,
+          "year": "2019",
           "type": "series",
           "genre": [
             {
-              "id": "620f3d2b91fa4af90ab697fe",
               "name": "Chính kịch",
               "slug": "chinh-kich"
             },
             {
-              "id": "620f84d291fa4af90ab6b3f4",
               "name": "Bí ẩn",
               "slug": "bi-an"
             }
           ],
           "country": [
             {
-              "id": "620a2355e0fc277084dfd8ca",
               "name": "Ấn Độ",
               "slug": "an-do"
             }
@@ -1133,18 +1121,16 @@
           "slug": "nhung-chang-trai-o-loc-phong-quan",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-chang-trai-o-loc-phong-quan.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-chang-trai-o-loc-phong-quan.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "series",
           "genre": [
             {
-              "id": "620f3d2b91fa4af90ab697fe",
               "name": "Chính kịch",
               "slug": "chinh-kich"
             }
           ],
           "country": [
             {
-              "id": "620a2307e0fc277084dfd726",
               "name": "Nhật Bản",
               "slug": "nhat-ban"
             }
@@ -1167,23 +1153,20 @@
           "slug": "bi-mat-thi-tran-nho",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/bi/bi-mat-thi-tran-nho.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/bi/bi-mat-thi-tran-nho.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "series",
           "genre": [
             {
-              "id": "620f3d2b91fa4af90ab697fe",
               "name": "Chính kịch",
               "slug": "chinh-kich"
             },
             {
-              "id": "620f84d291fa4af90ab6b3f4",
               "name": "Bí ẩn",
               "slug": "bi-an"
             }
           ],
           "country": [
             {
-              "id": "621262d11f1609c9d934677f",
               "name": "Ba lan",
               "slug": "ba-lan"
             }
@@ -1206,18 +1189,16 @@
           "slug": "bup-be-nga-phan-2",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/bu/bup-be-nga-phan-2.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/bu/bup-be-nga-phan-2.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "series",
           "genre": [
             {
-              "id": "620f3d2b91fa4af90ab697fe",
               "name": "Chính kịch",
               "slug": "chinh-kich"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -1240,18 +1221,16 @@
           "slug": "de-che-pho-truong-phan-2",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/de/de-che-pho-truong-phan-2.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/de/de-che-pho-truong-phan-2.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "series",
           "genre": [
             {
-              "id": "620f84d291fa4af90ab6b3f4",
               "name": "Bí ẩn",
               "slug": "bi-an"
             }
           ],
           "country": [
             {
-              "id": "620a2370e0fc277084dfd91e",
               "name": "Anh",
               "slug": "anh"
             }
@@ -1274,18 +1253,16 @@
           "slug": "khach-tro-phong-1006",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/kh/khach-tro-phong-1006.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/kh/khach-tro-phong-1006.webp",
-          "year": 2018,
+          "year": "2018",
           "type": "series",
           "genre": [
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "620a2335e0fc277084dfd822",
               "name": "Đài Loan",
               "slug": "dai-loan"
             }
@@ -1308,18 +1285,16 @@
           "slug": "trai-tim-ngung-nhip",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/tr/trai-tim-ngung-nhip.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/tr/trai-tim-ngung-nhip.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "series",
           "genre": [
             {
-              "id": "620f3d2b91fa4af90ab697fe",
               "name": "Chính kịch",
               "slug": "chinh-kich"
             }
           ],
           "country": [
             {
-              "id": "620a2370e0fc277084dfd91e",
               "name": "Anh",
               "slug": "anh"
             }
@@ -1342,38 +1317,32 @@
           "slug": "chuyen-tau-bang-gia-phan-3",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ch/chuyen-tau-bang-gia-phan-3.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/chuyen-tau-bang-gia-phan-3.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "series",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a2282e0fc277084dfd435",
               "name": "Viễn Tưởng",
               "slug": "vien-tuong"
             },
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             },
             {
-              "id": "620a229be0fc277084dfd4dd",
               "name": "Khoa Học",
               "slug": "khoa-hoc"
             },
             {
-              "id": "620f3d2b91fa4af90ab697fe",
               "name": "Chính kịch",
               "slug": "chinh-kich"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -1396,33 +1365,28 @@
           "slug": "chieu-ta-trong-nha",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ch/chieu-ta-trong-nha.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/chieu-ta-trong-nha.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "series",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             },
             {
-              "id": "620e4c0b6ba8271c5eef05a8",
               "name": "Gia Đình",
               "slug": "gia-dinh"
             },
             {
-              "id": "62121e821f1609c9d934585c",
               "name": "Học Đường",
               "slug": "hoc-duong"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -1445,23 +1409,20 @@
           "slug": "cuoc-song-tren-sao-hoa",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/cu/cuoc-song-tren-sao-hoa.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/cu/cuoc-song-tren-sao-hoa.webp",
-          "year": 2018,
+          "year": "2018",
           "type": "series",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "620a2300e0fc277084dfd6d2",
               "name": "Hàn Quốc",
               "slug": "han-quoc"
             }
@@ -1524,18 +1485,16 @@
           "slug": "lua-chon-hoac-chet",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/lu/lua-chon-hoac-chet.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/lu/lua-chon-hoac-chet.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "single",
           "genre": [
             {
-              "id": "620a22ace0fc277084dfd531",
               "name": "Kinh Dị",
               "slug": "kinh-di"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -1558,18 +1517,16 @@
           "slug": "the-taming-of-the-shrewd",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/th/the-taming-of-the-shrewd.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/th/the-taming-of-the-shrewd.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "single",
           "genre": [
             {
-              "id": "620a221de0fc277084dfd1c1",
               "name": "Hài Hước",
               "slug": "hai-huoc"
             }
           ],
           "country": [
             {
-              "id": "621262d11f1609c9d934677f",
               "name": "Ba lan",
               "slug": "ba-lan"
             }
@@ -1592,18 +1549,16 @@
           "slug": "tuong-quan-tai-thuong-nguoi-tinh-vuot-thoi-gian",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/tu/tuong-quan-tai-thuong-nguoi-tinh-vuot-thoi-gian.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/tu/tuong-quan-tai-thuong-nguoi-tinh-vuot-thoi-gian.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "single",
           "genre": [
             {
-              "id": "620a222fe0fc277084dfd23d",
               "name": "Cổ Trang",
               "slug": "co-trang"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -1626,18 +1581,16 @@
           "slug": "nguoi-cua-chua",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ng/nguoi-cua-chua.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ng/nguoi-cua-chua.webp",
-          "year": 2021,
+          "year": "2021",
           "type": "single",
           "genre": [
             {
-              "id": "620f3d2b91fa4af90ab697fe",
               "name": "Chính kịch",
               "slug": "chinh-kich"
             }
           ],
           "country": [
             {
-              "id": "621f64afa666e8a57f65c512",
               "name": "Châu Phi",
               "slug": "chau-phi"
             }
@@ -1660,23 +1613,20 @@
           "slug": "tan-diet-2-ngay-tan-the",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ta/tan-diet-2-ngay-tan-the.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ta/tan-diet-2-ngay-tan-the.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "single",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a22ace0fc277084dfd531",
               "name": "Kinh Dị",
               "slug": "kinh-di"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -1699,18 +1649,16 @@
           "slug": "huyet-chien-thanh-so-lac",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/hu/huyet-chien-thanh-so-lac.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/hu/huyet-chien-thanh-so-lac.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "single",
           "genre": [
             {
-              "id": "620a222fe0fc277084dfd23d",
               "name": "Cổ Trang",
               "slug": "co-trang"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -1733,28 +1681,24 @@
           "slug": "saani-kaayidham",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/sa/saani-kaayidham.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/sa/saani-kaayidham.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "single",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a2249e0fc277084dfd2e5",
               "name": "Hình Sự",
               "slug": "hinh-su"
             },
             {
-              "id": "620f3d2b91fa4af90ab697fe",
               "name": "Chính kịch",
               "slug": "chinh-kich"
             }
           ],
           "country": [
             {
-              "id": "620a2355e0fc277084dfd8ca",
               "name": "Ấn Độ",
               "slug": "an-do"
             }
@@ -1777,33 +1721,28 @@
           "slug": "morbius",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/mo/morbius.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/mo/morbius.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "single",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a2282e0fc277084dfd435",
               "name": "Viễn Tưởng",
               "slug": "vien-tuong"
             },
             {
-              "id": "620a22ace0fc277084dfd531",
               "name": "Kinh Dị",
               "slug": "kinh-di"
             },
             {
-              "id": "620f84d291fa4af90ab6b3f4",
               "name": "Bí ẩn",
               "slug": "bi-an"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -1826,18 +1765,16 @@
           "slug": "vung-que-yen-binh",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/vu/vung-que-yen-binh.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/vu/vung-que-yen-binh.webp",
-          "year": 1992,
+          "year": "1992",
           "type": "single",
           "genre": [
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -1860,23 +1797,20 @@
           "slug": "vay-den",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/va/vay-den.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/va/vay-den.webp",
-          "year": 2011,
+          "year": "2011",
           "type": "single",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "620a2300e0fc277084dfd6d2",
               "name": "Hàn Quốc",
               "slug": "han-quoc"
             }
@@ -1899,11 +1833,10 @@
           "slug": "vu-dieu-hoang-da",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/vu/vu-dieu-hoang-da.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/vu/vu-dieu-hoang-da.webp",
-          "year": 1987,
+          "year": "1987",
           "type": "single",
           "genre": [
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
@@ -1933,18 +1866,16 @@
           "slug": "trieu-tien-cuoc-chien-khong-hoi-ket",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/tr/trieu-tien-cuoc-chien-khong-hoi-ket.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/tr/trieu-tien-cuoc-chien-khong-hoi-ket.webp",
-          "year": 2019,
+          "year": "2019",
           "type": "single",
           "genre": [
             {
-              "id": "620e0e64d9648f114cde7728",
               "name": "Tài Liệu",
               "slug": "tai-lieu"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -2044,33 +1975,28 @@
           "slug": "chieu-ta-trong-nha",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ch/chieu-ta-trong-nha.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/chieu-ta-trong-nha.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "series",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             },
             {
-              "id": "620e4c0b6ba8271c5eef05a8",
               "name": "Gia Đình",
               "slug": "gia-dinh"
             },
             {
-              "id": "62121e821f1609c9d934585c",
               "name": "Học Đường",
               "slug": "hoc-duong"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -2093,18 +2019,16 @@
           "slug": "run-ray-di-a-bo-2",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ru/run-ray-di-a-bo-2.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ru/run-ray-di-a-bo-2.webp",
-          "year": 2018,
+          "year": "2018",
           "type": "series",
           "genre": [
             {
-              "id": "620a222fe0fc277084dfd23d",
               "name": "Cổ Trang",
               "slug": "co-trang"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -2127,28 +2051,24 @@
           "slug": "tho-san-thien-lang",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/th/tho-san-thien-lang.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/th/tho-san-thien-lang.webp",
-          "year": 2018,
+          "year": "2018",
           "type": "hoathinh",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             },
             {
-              "id": "620a22ace0fc277084dfd531",
               "name": "Kinh Dị",
               "slug": "kinh-di"
             }
           ],
           "country": [
             {
-              "id": "620a2307e0fc277084dfd726",
               "name": "Nhật Bản",
               "slug": "nhat-ban"
             }
@@ -2171,28 +2091,24 @@
           "slug": "loi-thi-tham-cua-nhung-bong-ma",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/lo/loi-thi-tham-cua-nhung-bong-ma.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/lo/loi-thi-tham-cua-nhung-bong-ma.webp",
-          "year": 2005,
+          "year": "2005",
           "type": "series",
           "genre": [
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             },
             {
-              "id": "620a2282e0fc277084dfd435",
               "name": "Viễn Tưởng",
               "slug": "vien-tuong"
             },
             {
-              "id": "620a229be0fc277084dfd4dd",
               "name": "Khoa Học",
               "slug": "khoa-hoc"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -2215,23 +2131,20 @@
           "slug": "tinh-yeu-bien-mat",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ti/tinh-yeu-bien-mat.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ti/tinh-yeu-bien-mat.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "series",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -2254,43 +2167,36 @@
           "slug": "luoi-dien",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/lu/luoi-dien.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/lu/luoi-dien.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "series",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             },
             {
-              "id": "620a2249e0fc277084dfd2e5",
               "name": "Hình Sự",
               "slug": "hinh-su"
             },
             {
-              "id": "620a2282e0fc277084dfd435",
               "name": "Viễn Tưởng",
               "slug": "vien-tuong"
             },
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             },
             {
-              "id": "620a229be0fc277084dfd4dd",
               "name": "Khoa Học",
               "slug": "khoa-hoc"
             }
           ],
           "country": [
             {
-              "id": "620a2300e0fc277084dfd6d2",
               "name": "Hàn Quốc",
               "slug": "han-quoc"
             }
@@ -2313,23 +2219,20 @@
           "slug": "orient-thieu-nien-phuong-dong-phan-1",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/or/orient-thieu-nien-phuong-dong-phan-1.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/or/orient-thieu-nien-phuong-dong-phan-1.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "hoathinh",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             }
           ],
           "country": [
             {
-              "id": "620a2307e0fc277084dfd726",
               "name": "Nhật Bản",
               "slug": "nhat-ban"
             }
@@ -2408,28 +2311,24 @@
           "slug": "saani-kaayidham",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/sa/saani-kaayidham.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/sa/saani-kaayidham.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "single",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a2249e0fc277084dfd2e5",
               "name": "Hình Sự",
               "slug": "hinh-su"
             },
             {
-              "id": "620f3d2b91fa4af90ab697fe",
               "name": "Chính kịch",
               "slug": "chinh-kich"
             }
           ],
           "country": [
             {
-              "id": "620a2355e0fc277084dfd8ca",
               "name": "Ấn Độ",
               "slug": "an-do"
             }
@@ -2452,23 +2351,20 @@
           "slug": "thoat-khoi-canh-dong",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/th/thoat-khoi-canh-dong.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/th/thoat-khoi-canh-dong.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "single",
           "genre": [
             {
-              "id": "620a22ace0fc277084dfd531",
               "name": "Kinh Dị",
               "slug": "kinh-di"
             },
             {
-              "id": "620f84d291fa4af90ab6b3f4",
               "name": "Bí ẩn",
               "slug": "bi-an"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -2491,23 +2387,20 @@
           "slug": "ngo-khong-tieu-thanh-truyen",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ng/ngo-khong-tieu-thanh-truyen.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ng/ngo-khong-tieu-thanh-truyen.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "single",
           "genre": [
             {
-              "id": "620a222fe0fc277084dfd23d",
               "name": "Cổ Trang",
               "slug": "co-trang"
             },
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -2530,23 +2423,20 @@
           "slug": "dac-vu-vo-hinh",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/da/dac-vu-vo-hinh.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/da/dac-vu-vo-hinh.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "single",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -2569,18 +2459,16 @@
           "slug": "tho-ga-ra-kho-bau",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/th/tho-ga-ra-kho-bau.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/th/tho-ga-ra-kho-bau.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "hoathinh",
           "genre": [
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -2603,28 +2491,24 @@
           "slug": "khoi-nguon-dai-dich",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/kh/khoi-nguon-dai-dich.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/kh/khoi-nguon-dai-dich.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "single",
           "genre": [
             {
-              "id": "620a2282e0fc277084dfd435",
               "name": "Viễn Tưởng",
               "slug": "vien-tuong"
             },
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             },
             {
-              "id": "620a22ace0fc277084dfd531",
               "name": "Kinh Dị",
               "slug": "kinh-di"
             }
           ],
           "country": [
             {
-              "id": "620a2300e0fc277084dfd6d2",
               "name": "Hàn Quốc",
               "slug": "han-quoc"
             }
@@ -2647,23 +2531,20 @@
           "slug": "nang-tien-ca-o-paris",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/na/nang-tien-ca-o-paris.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/na/nang-tien-ca-o-paris.webp",
-          "year": 2020,
+          "year": "2020",
           "type": "single",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2282e0fc277084dfd435",
               "name": "Viễn Tưởng",
               "slug": "vien-tuong"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -2686,18 +2567,16 @@
           "slug": "can-phong-203",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ca/can-phong-203.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ca/can-phong-203.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "single",
           "genre": [
             {
-              "id": "620a22ace0fc277084dfd531",
               "name": "Kinh Dị",
               "slug": "kinh-di"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -2720,18 +2599,16 @@
           "slug": "san-linh-hon",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/sa/san-linh-hon.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/sa/san-linh-hon.webp",
-          "year": 2024,
+          "year": "2024",
           "type": "single",
           "genre": [
             {
-              "id": "620a22ace0fc277084dfd531",
               "name": "Kinh Dị",
               "slug": "kinh-di"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -2754,23 +2631,20 @@
           "slug": "nhung-ke-nguyen-rua-2022",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-ke-nguyen-rua-2022.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-ke-nguyen-rua-2022.webp",
-          "year": 2021,
+          "year": "2021",
           "type": "single",
           "genre": [
             {
-              "id": "620a2282e0fc277084dfd435",
               "name": "Viễn Tưởng",
               "slug": "vien-tuong"
             },
             {
-              "id": "620a22ace0fc277084dfd531",
               "name": "Kinh Dị",
               "slug": "kinh-di"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -2793,18 +2667,16 @@
           "slug": "ted-k",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/te/ted-k.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/te/ted-k.webp",
-          "year": 2021,
+          "year": "2021",
           "type": "single",
           "genre": [
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -2827,18 +2699,16 @@
           "slug": "nhung-bong-ma-cua-borley-rectory",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-bong-ma-cua-borley-rectory.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-bong-ma-cua-borley-rectory.webp",
-          "year": 2021,
+          "year": "2021",
           "type": "single",
           "genre": [
             {
-              "id": "620a22ace0fc277084dfd531",
               "name": "Kinh Dị",
               "slug": "kinh-di"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -2907,23 +2777,20 @@
           "slug": "nguoi-khoi-lua",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ng/nguoi-khoi-lua.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ng/nguoi-khoi-lua.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "single",
           "genre": [
             {
-              "id": "620a22ace0fc277084dfd531",
               "name": "Kinh Dị",
               "slug": "kinh-di"
             },
             {
-              "id": "620f84d291fa4af90ab6b3f4",
               "name": "Bí ẩn",
               "slug": "bi-an"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -2946,18 +2813,16 @@
           "slug": "tho-ga-ra-kho-bau",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/th/tho-ga-ra-kho-bau.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/th/tho-ga-ra-kho-bau.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "hoathinh",
           "genre": [
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -3001,18 +2866,16 @@
           "slug": "moi-gioi-hoang-hon-phan-5",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/mo/moi-gioi-hoang-hon-phan-5.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/mo/moi-gioi-hoang-hon-phan-5.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "tvshows",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -3035,18 +2898,16 @@
           "slug": "david-spade-khong-phai-chuyen-ca-nhan",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/da/david-spade-khong-phai-chuyen-ca-nhan.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/da/david-spade-khong-phai-chuyen-ca-nhan.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "tvshows",
           "genre": [
             {
-              "id": "620a221de0fc277084dfd1c1",
               "name": "Hài Hước",
               "slug": "hai-huoc"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -3069,18 +2930,16 @@
           "slug": "trieu-phu-noi-bip",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/tr/trieu-phu-noi-bip.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/tr/trieu-phu-noi-bip.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "tvshows",
           "genre": [
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             }
           ],
           "country": [
             {
-              "id": "620a2370e0fc277084dfd91e",
               "name": "Anh",
               "slug": "anh"
             }
@@ -3103,18 +2962,16 @@
           "slug": "christina-p-gen-cua-me",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ch/christina-p-gen-cua-me.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/christina-p-gen-cua-me.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "tvshows",
           "genre": [
             {
-              "id": "620a221de0fc277084dfd1c1",
               "name": "Hài Hước",
               "slug": "hai-huoc"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -3194,23 +3051,20 @@
           "slug": "orient",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/or/orient.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/or/orient.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "hoathinh",
           "genre": [
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             },
             {
-              "id": "620f84d291fa4af90ab6b3f4",
               "name": "Bí ẩn",
               "slug": "bi-an"
             }
           ],
           "country": [
             {
-              "id": "620a2307e0fc277084dfd726",
               "name": "Nhật Bản",
               "slug": "nhat-ban"
             }
@@ -3233,23 +3087,20 @@
           "slug": "cau-lac-bo-ryman",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ca/cau-lac-bo-ryman.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ca/cau-lac-bo-ryman.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "hoathinh",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a225fe0fc277084dfd38d",
               "name": "Thể Thao",
               "slug": "the-thao"
             }
           ],
           "country": [
             {
-              "id": "620a2307e0fc277084dfd726",
               "name": "Nhật Bản",
               "slug": "nhat-ban"
             }
@@ -3272,23 +3123,20 @@
           "slug": "yeu-han-tinh-thu",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ye/yeu-han-tinh-thu.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ye/yeu-han-tinh-thu.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "hoathinh",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             }
           ],
           "country": [
             {
-              "id": "620a2307e0fc277084dfd726",
               "name": "Nhật Bản",
               "slug": "nhat-ban"
             }
@@ -3311,23 +3159,20 @@
           "slug": "sabikui-bisco",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/sa/sabikui-bisco.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/sa/sabikui-bisco.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "hoathinh",
           "genre": [
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             },
             {
-              "id": "620f84d291fa4af90ab6b3f4",
               "name": "Bí ẩn",
               "slug": "bi-an"
             }
           ],
           "country": [
             {
-              "id": "620a2307e0fc277084dfd726",
               "name": "Nhật Bản",
               "slug": "nhat-ban"
             }
@@ -3350,33 +3195,28 @@
           "slug": "samurai-7",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/sa/samurai-7.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/sa/samurai-7.webp",
-          "year": 2004,
+          "year": "2004",
           "type": "hoathinh",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a2282e0fc277084dfd435",
               "name": "Viễn Tưởng",
               "slug": "vien-tuong"
             },
             {
-              "id": "620a229be0fc277084dfd4dd",
               "name": "Khoa Học",
               "slug": "khoa-hoc"
             },
             {
-              "id": "620f3d2b91fa4af90ab697fe",
               "name": "Chính kịch",
               "slug": "chinh-kich"
             }
           ],
           "country": [
             {
-              "id": "620a2307e0fc277084dfd726",
               "name": "Nhật Bản",
               "slug": "nhat-ban"
             }
@@ -3399,33 +3239,28 @@
           "slug": "rung-duong-cam-phan-2",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ru/rung-duong-cam-phan-2.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ru/rung-duong-cam-phan-2.webp",
-          "year": 2019,
+          "year": "2019",
           "type": "hoathinh",
           "genre": [
             {
-              "id": "620a22bae0fc277084dfd585",
               "name": "Âm Nhạc",
               "slug": "am-nhac"
             },
             {
-              "id": "620e4c0b6ba8271c5eef05a8",
               "name": "Gia Đình",
               "slug": "gia-dinh"
             },
             {
-              "id": "620f3d2b91fa4af90ab697fe",
               "name": "Chính kịch",
               "slug": "chinh-kich"
             }
           ],
           "country": [
             {
-              "id": "620a2307e0fc277084dfd726",
               "name": "Nhật Bản",
               "slug": "nhat-ban"
             },
             {
-              "id": "620a2370e0fc277084dfd91e",
               "name": "Anh",
               "slug": "anh"
             }
@@ -3448,28 +3283,24 @@
           "slug": "rong-tren-khong",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ro/rong-tren-khong.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ro/rong-tren-khong.webp",
-          "year": 2020,
+          "year": "2020",
           "type": "hoathinh",
           "genre": [
             {
-              "id": "620a221de0fc277084dfd1c1",
               "name": "Hài Hước",
               "slug": "hai-huoc"
             },
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             }
           ],
           "country": [
             {
-              "id": "620a2307e0fc277084dfd726",
               "name": "Nhật Bản",
               "slug": "nhat-ban"
             },
             {
-              "id": "620a2370e0fc277084dfd91e",
               "name": "Anh",
               "slug": "anh"
             }
@@ -3492,28 +3323,24 @@
           "slug": "rock-lee",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ro/rock-lee.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ro/rock-lee.webp",
-          "year": 2012,
+          "year": "2012",
           "type": "hoathinh",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a221de0fc277084dfd1c1",
               "name": "Hài Hước",
               "slug": "hai-huoc"
             }
           ],
           "country": [
             {
-              "id": "620a2307e0fc277084dfd726",
               "name": "Nhật Bản",
               "slug": "nhat-ban"
             },
             {
-              "id": "620a2370e0fc277084dfd91e",
               "name": "Anh",
               "slug": "anh"
             }
@@ -3536,18 +3363,16 @@
           "slug": "retsuko-hung-hang-phan-4",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/re/retsuko-hung-hang-phan-4.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/re/retsuko-hung-hang-phan-4.webp",
-          "year": 2021,
+          "year": "2021",
           "type": "hoathinh",
           "genre": [
             {
-              "id": "620a221de0fc277084dfd1c1",
               "name": "Hài Hước",
               "slug": "hai-huoc"
             }
           ],
           "country": [
             {
-              "id": "620a2307e0fc277084dfd726",
               "name": "Nhật Bản",
               "slug": "nhat-ban"
             }
@@ -3570,18 +3395,16 @@
           "slug": "retsuko-hung-hang-phan-3",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/re/retsuko-hung-hang-phan-3.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/re/retsuko-hung-hang-phan-3.webp",
-          "year": 2020,
+          "year": "2020",
           "type": "hoathinh",
           "genre": [
             {
-              "id": "620a221de0fc277084dfd1c1",
               "name": "Hài Hước",
               "slug": "hai-huoc"
             }
           ],
           "country": [
             {
-              "id": "620a2307e0fc277084dfd726",
               "name": "Nhật Bản",
               "slug": "nhat-ban"
             }
@@ -3604,18 +3427,16 @@
           "slug": "retsuko-hung-hang-phan-2",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/re/retsuko-hung-hang-phan-2.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/re/retsuko-hung-hang-phan-2.webp",
-          "year": 2018,
+          "year": "2018",
           "type": "hoathinh",
           "genre": [
             {
-              "id": "620a221de0fc277084dfd1c1",
               "name": "Hài Hước",
               "slug": "hai-huoc"
             }
           ],
           "country": [
             {
-              "id": "620a2307e0fc277084dfd726",
               "name": "Nhật Bản",
               "slug": "nhat-ban"
             }
@@ -3638,18 +3459,16 @@
           "slug": "retsuko-hung-hang-phan-1",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/re/retsuko-hung-hang-phan-1.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/re/retsuko-hung-hang-phan-1.webp",
-          "year": 2018,
+          "year": "2018",
           "type": "hoathinh",
           "genre": [
             {
-              "id": "620a221de0fc277084dfd1c1",
               "name": "Hài Hước",
               "slug": "hai-huoc"
             }
           ],
           "country": [
             {
-              "id": "620a2307e0fc277084dfd726",
               "name": "Nhật Bản",
               "slug": "nhat-ban"
             }
@@ -3672,18 +3491,16 @@
           "slug": "yasuke",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ya/yasuke.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ya/yasuke.webp",
-          "year": 2021,
+          "year": "2021",
           "type": "hoathinh",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             }
           ],
           "country": [
             {
-              "id": "620a2307e0fc277084dfd726",
               "name": "Nhật Bản",
               "slug": "nhat-ban"
             }
@@ -3760,28 +3577,24 @@
           "slug": "gap-chang-dung-luc",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ga/gap-chang-dung-luc.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ga/gap-chang-dung-luc.webp",
-          "year": 2021,
+          "year": "2021",
           "type": "series",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a222fe0fc277084dfd23d",
               "name": "Cổ Trang",
               "slug": "co-trang"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -3804,38 +3617,32 @@
           "slug": "anh-hung-thiet-quyen",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/an/anh-hung-thiet-quyen.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/an/anh-hung-thiet-quyen.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "series",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             },
             {
-              "id": "620a2279e0fc277084dfd3e1",
               "name": "Võ Thuật",
               "slug": "vo-thuat"
             },
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             }
           ],
           "country": [
             {
-              "id": "620a2347e0fc277084dfd876",
               "name": "Hồng Kông",
               "slug": "hong-kong"
             }
@@ -3858,23 +3665,20 @@
           "slug": "nhung-co-nang-thoi-dai",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-co-nang-thoi-dai.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-co-nang-thoi-dai.webp",
-          "year": 2018,
+          "year": "2018",
           "type": "single",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -3897,28 +3701,24 @@
           "slug": "the-gioi-ma-quai",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/th/the-gioi-ma-quai.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/th/the-gioi-ma-quai.webp",
-          "year": 2020,
+          "year": "2020",
           "type": "series",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             },
             {
-              "id": "620a22ace0fc277084dfd531",
               "name": "Kinh Dị",
               "slug": "kinh-di"
             }
           ],
           "country": [
             {
-              "id": "620a2300e0fc277084dfd6d2",
               "name": "Hàn Quốc",
               "slug": "han-quoc"
             }
@@ -3941,23 +3741,20 @@
           "slug": "ho-so-trinh-sat-phan-1",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ho/ho-so-trinh-sat-phan-1.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ho/ho-so-trinh-sat-phan-1.webp",
-          "year": 1995,
+          "year": "1995",
           "type": "series",
           "genre": [
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             },
             {
-              "id": "620a2249e0fc277084dfd2e5",
               "name": "Hình Sự",
               "slug": "hinh-su"
             }
           ],
           "country": [
             {
-              "id": "620a2347e0fc277084dfd876",
               "name": "Hồng Kông",
               "slug": "hong-kong"
             }
@@ -3980,28 +3777,24 @@
           "slug": "ho-so-trinh-sat-phan-2",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ho/ho-so-trinh-sat-phan-2.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ho/ho-so-trinh-sat-phan-2.webp",
-          "year": 1995,
+          "year": "1995",
           "type": "series",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             },
             {
-              "id": "620a2249e0fc277084dfd2e5",
               "name": "Hình Sự",
               "slug": "hinh-su"
             }
           ],
           "country": [
             {
-              "id": "620a2347e0fc277084dfd876",
               "name": "Hồng Kông",
               "slug": "hong-kong"
             }
@@ -4024,18 +3817,16 @@
           "slug": "ho-so-trinh-sat-phan-3",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ho/ho-so-trinh-sat-phan-3.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ho/ho-so-trinh-sat-phan-3.webp",
-          "year": 1997,
+          "year": "1997",
           "type": "series",
           "genre": [
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "620a2347e0fc277084dfd876",
               "name": "Hồng Kông",
               "slug": "hong-kong"
             }
@@ -4058,28 +3849,24 @@
           "slug": "em-la-dap-an-cua-anh",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/em/em-la-dap-an-cua-anh.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/em/em-la-dap-an-cua-anh.webp",
-          "year": 2019,
+          "year": "2019",
           "type": "series",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             },
             {
-              "id": "620a2249e0fc277084dfd2e5",
               "name": "Hình Sự",
               "slug": "hinh-su"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -4102,18 +3889,16 @@
           "slug": "khu-ta-diet-ma-2",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/kh/khu-ta-diet-ma-2.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/kh/khu-ta-diet-ma-2.webp",
-          "year": 2001,
+          "year": "2001",
           "type": "single",
           "genre": [
             {
-              "id": "620a22ace0fc277084dfd531",
               "name": "Kinh Dị",
               "slug": "kinh-di"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -4136,23 +3921,20 @@
           "slug": "chuyen-nha-poong-sang",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ch/chuyen-nha-poong-sang.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/chuyen-nha-poong-sang.webp",
-          "year": 2019,
+          "year": "2019",
           "type": "series",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "620a2300e0fc277084dfd6d2",
               "name": "Hàn Quốc",
               "slug": "han-quoc"
             }
@@ -4235,23 +4017,20 @@
           "slug": "cuoc-song-tren-sao-hoa",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/cu/cuoc-song-tren-sao-hoa.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/cu/cuoc-song-tren-sao-hoa.webp",
-          "year": 2018,
+          "year": "2018",
           "type": "series",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "620a2300e0fc277084dfd6d2",
               "name": "Hàn Quốc",
               "slug": "han-quoc"
             }
@@ -4274,23 +4053,20 @@
           "slug": "tinh-hong",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ti/tinh-hong.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ti/tinh-hong.webp",
-          "year": 2014,
+          "year": "2014",
           "type": "series",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "620a2300e0fc277084dfd6d2",
               "name": "Hàn Quốc",
               "slug": "han-quoc"
             }
@@ -4313,18 +4089,16 @@
           "slug": "run-ray-di-a-bo-2",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ru/run-ray-di-a-bo-2.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ru/run-ray-di-a-bo-2.webp",
-          "year": 2018,
+          "year": "2018",
           "type": "series",
           "genre": [
             {
-              "id": "620a222fe0fc277084dfd23d",
               "name": "Cổ Trang",
               "slug": "co-trang"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -4347,23 +4121,20 @@
           "slug": "nien-dai-cam-hong",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ni/nien-dai-cam-hong.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ni/nien-dai-cam-hong.webp",
-          "year": 2018,
+          "year": "2018",
           "type": "series",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -4386,23 +4157,20 @@
           "slug": "hanh-phuc-troi-ban",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ha/hanh-phuc-troi-ban.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ha/hanh-phuc-troi-ban.webp",
-          "year": 2016,
+          "year": "2016",
           "type": "series",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "620a2300e0fc277084dfd6d2",
               "name": "Hàn Quốc",
               "slug": "han-quoc"
             }
@@ -4425,23 +4193,20 @@
           "slug": "ba-chang-ngo-ngao",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ba/ba-chang-ngo-ngao.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ba/ba-chang-ngo-ngao.webp",
-          "year": 2018,
+          "year": "2018",
           "type": "series",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "620a2300e0fc277084dfd6d2",
               "name": "Hàn Quốc",
               "slug": "han-quoc"
             }
@@ -4464,23 +4229,20 @@
           "slug": "sieu-dau-bep",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/si/sieu-dau-bep.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/si/sieu-dau-bep.webp",
-          "year": 2016,
+          "year": "2016",
           "type": "series",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "620a2300e0fc277084dfd6d2",
               "name": "Hàn Quốc",
               "slug": "han-quoc"
             }
@@ -4503,23 +4265,20 @@
           "slug": "phat-dien-vi-tinh",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ph/phat-dien-vi-tinh.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ph/phat-dien-vi-tinh.webp",
-          "year": 2018,
+          "year": "2018",
           "type": "series",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "620a2300e0fc277084dfd6d2",
               "name": "Hàn Quốc",
               "slug": "han-quoc"
             }
@@ -4542,23 +4301,20 @@
           "slug": "lang-can-kiep",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/la/lang-can-kiep.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/la/lang-can-kiep.webp",
-          "year": 2018,
+          "year": "2018",
           "type": "series",
           "genre": [
             {
-              "id": "620a222fe0fc277084dfd23d",
               "name": "Cổ Trang",
               "slug": "co-trang"
             },
             {
-              "id": "620a2279e0fc277084dfd3e1",
               "name": "Võ Thuật",
               "slug": "vo-thuat"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -4581,33 +4337,28 @@
           "slug": "trong-minh-ve-dai-minh-co-mat",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/tr/trong-minh-ve-dai-minh-co-mat.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/tr/trong-minh-ve-dai-minh-co-mat.webp",
-          "year": 2018,
+          "year": "2018",
           "type": "series",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a222fe0fc277084dfd23d",
               "name": "Cổ Trang",
               "slug": "co-trang"
             },
             {
-              "id": "620a2279e0fc277084dfd3e1",
               "name": "Võ Thuật",
               "slug": "vo-thuat"
             },
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -4630,23 +4381,20 @@
           "slug": "thien-khanh-ung-liep",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/th/thien-khanh-ung-liep.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/th/thien-khanh-ung-liep.webp",
-          "year": 2018,
+          "year": "2018",
           "type": "series",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -4669,23 +4417,20 @@
           "slug": "duong-thi-tam-bach-an",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/du/duong-thi-tam-bach-an.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/du/duong-thi-tam-bach-an.webp",
-          "year": 2014,
+          "year": "2014",
           "type": "series",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -4708,33 +4453,28 @@
           "slug": "sieu-trom-2017",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/si/sieu-trom-2017.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/si/sieu-trom-2017.webp",
-          "year": 2017,
+          "year": "2017",
           "type": "series",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             },
             {
-              "id": "620a2249e0fc277084dfd2e5",
               "name": "Hình Sự",
               "slug": "hinh-su"
             },
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             }
           ],
           "country": [
             {
-              "id": "620a2300e0fc277084dfd6d2",
               "name": "Hàn Quốc",
               "slug": "han-quoc"
             }
@@ -4757,23 +4497,20 @@
           "slug": "chang-quan-gia",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ch/chang-quan-gia.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/chang-quan-gia.webp",
-          "year": 2018,
+          "year": "2018",
           "type": "series",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "620a2300e0fc277084dfd6d2",
               "name": "Hàn Quốc",
               "slug": "han-quoc"
             }
@@ -4796,23 +4533,20 @@
           "slug": "khoi-dau",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/kh/khoi-dau.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/kh/khoi-dau.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "series",
           "genre": [
             {
-              "id": "620a2282e0fc277084dfd435",
               "name": "Viễn Tưởng",
               "slug": "vien-tuong"
             },
             {
-              "id": "620f84d291fa4af90ab6b3f4",
               "name": "Bí ẩn",
               "slug": "bi-an"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -4835,23 +4569,20 @@
           "slug": "vi-giac-tinh-yeu",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/vi/vi-giac-tinh-yeu.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/vi/vi-giac-tinh-yeu.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "series",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -4934,18 +4665,16 @@
           "slug": "lua-chon-hoac-chet",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/lu/lua-chon-hoac-chet.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/lu/lua-chon-hoac-chet.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "single",
           "genre": [
             {
-              "id": "620a22ace0fc277084dfd531",
               "name": "Kinh Dị",
               "slug": "kinh-di"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -4968,18 +4697,16 @@
           "slug": "the-taming-of-the-shrewd",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/th/the-taming-of-the-shrewd.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/th/the-taming-of-the-shrewd.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "single",
           "genre": [
             {
-              "id": "620a221de0fc277084dfd1c1",
               "name": "Hài Hước",
               "slug": "hai-huoc"
             }
           ],
           "country": [
             {
-              "id": "621262d11f1609c9d934677f",
               "name": "Ba lan",
               "slug": "ba-lan"
             }
@@ -5002,18 +4729,16 @@
           "slug": "tuong-quan-tai-thuong-nguoi-tinh-vuot-thoi-gian",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/tu/tuong-quan-tai-thuong-nguoi-tinh-vuot-thoi-gian.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/tu/tuong-quan-tai-thuong-nguoi-tinh-vuot-thoi-gian.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "single",
           "genre": [
             {
-              "id": "620a222fe0fc277084dfd23d",
               "name": "Cổ Trang",
               "slug": "co-trang"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -5036,23 +4761,20 @@
           "slug": "orient",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/or/orient.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/or/orient.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "hoathinh",
           "genre": [
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             },
             {
-              "id": "620f84d291fa4af90ab6b3f4",
               "name": "Bí ẩn",
               "slug": "bi-an"
             }
           ],
           "country": [
             {
-              "id": "620a2307e0fc277084dfd726",
               "name": "Nhật Bản",
               "slug": "nhat-ban"
             }
@@ -5075,18 +4797,16 @@
           "slug": "nguoi-cua-chua",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ng/nguoi-cua-chua.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ng/nguoi-cua-chua.webp",
-          "year": 2021,
+          "year": "2021",
           "type": "single",
           "genre": [
             {
-              "id": "620f3d2b91fa4af90ab697fe",
               "name": "Chính kịch",
               "slug": "chinh-kich"
             }
           ],
           "country": [
             {
-              "id": "621f64afa666e8a57f65c512",
               "name": "Châu Phi",
               "slug": "chau-phi"
             }
@@ -5109,23 +4829,20 @@
           "slug": "cau-lac-bo-ryman",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ca/cau-lac-bo-ryman.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ca/cau-lac-bo-ryman.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "hoathinh",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a225fe0fc277084dfd38d",
               "name": "Thể Thao",
               "slug": "the-thao"
             }
           ],
           "country": [
             {
-              "id": "620a2307e0fc277084dfd726",
               "name": "Nhật Bản",
               "slug": "nhat-ban"
             }
@@ -5148,23 +4865,20 @@
           "slug": "yeu-han-tinh-thu",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ye/yeu-han-tinh-thu.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ye/yeu-han-tinh-thu.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "hoathinh",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             }
           ],
           "country": [
             {
-              "id": "620a2307e0fc277084dfd726",
               "name": "Nhật Bản",
               "slug": "nhat-ban"
             }
@@ -5187,23 +4901,20 @@
           "slug": "sabikui-bisco",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/sa/sabikui-bisco.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/sa/sabikui-bisco.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "hoathinh",
           "genre": [
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             },
             {
-              "id": "620f84d291fa4af90ab6b3f4",
               "name": "Bí ẩn",
               "slug": "bi-an"
             }
           ],
           "country": [
             {
-              "id": "620a2307e0fc277084dfd726",
               "name": "Nhật Bản",
               "slug": "nhat-ban"
             }
@@ -5226,18 +4937,16 @@
           "slug": "su-that-cua-vu-be-boi",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/su/su-that-cua-vu-be-boi.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/su/su-that-cua-vu-be-boi.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "series",
           "genre": [
             {
-              "id": "620f3d2b91fa4af90ab697fe",
               "name": "Chính kịch",
               "slug": "chinh-kich"
             }
           ],
           "country": [
             {
-              "id": "620a2370e0fc277084dfd91e",
               "name": "Anh",
               "slug": "anh"
             }
@@ -5260,23 +4969,20 @@
           "slug": "o-day-cam-yeu-duong",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/o_/o-day-cam-yeu-duong.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/o_/o-day-cam-yeu-duong.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "series",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -5299,23 +5005,20 @@
           "slug": "tan-diet-2-ngay-tan-the",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ta/tan-diet-2-ngay-tan-the.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ta/tan-diet-2-ngay-tan-the.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "single",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a22ace0fc277084dfd531",
               "name": "Kinh Dị",
               "slug": "kinh-di"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -5338,28 +5041,24 @@
           "slug": "yakamoz-s-245",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ya/yakamoz-s-245.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ya/yakamoz-s-245.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "series",
           "genre": [
             {
-              "id": "620a2282e0fc277084dfd435",
               "name": "Viễn Tưởng",
               "slug": "vien-tuong"
             },
             {
-              "id": "620a229be0fc277084dfd4dd",
               "name": "Khoa Học",
               "slug": "khoa-hoc"
             },
             {
-              "id": "620f3d2b91fa4af90ab697fe",
               "name": "Chính kịch",
               "slug": "chinh-kich"
             }
           ],
           "country": [
             {
-              "id": "620f7fa791fa4af90ab6ad1f",
               "name": "Thổ Nhĩ Kỳ",
               "slug": "tho-nhi-ky"
             }
@@ -5382,18 +5081,16 @@
           "slug": "huyet-chien-thanh-so-lac",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/hu/huyet-chien-thanh-so-lac.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/hu/huyet-chien-thanh-so-lac.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "single",
           "genre": [
             {
-              "id": "620a222fe0fc277084dfd23d",
               "name": "Cổ Trang",
               "slug": "co-trang"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -5416,23 +5113,20 @@
           "slug": "mai",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ma/mai.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ma/mai.webp",
-          "year": 2019,
+          "year": "2019",
           "type": "series",
           "genre": [
             {
-              "id": "620f3d2b91fa4af90ab697fe",
               "name": "Chính kịch",
               "slug": "chinh-kich"
             },
             {
-              "id": "620f84d291fa4af90ab6b3f4",
               "name": "Bí ẩn",
               "slug": "bi-an"
             }
           ],
           "country": [
             {
-              "id": "620a2355e0fc277084dfd8ca",
               "name": "Ấn Độ",
               "slug": "an-do"
             }
@@ -5455,28 +5149,24 @@
           "slug": "saani-kaayidham",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/sa/saani-kaayidham.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/sa/saani-kaayidham.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "single",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a2249e0fc277084dfd2e5",
               "name": "Hình Sự",
               "slug": "hinh-su"
             },
             {
-              "id": "620f3d2b91fa4af90ab697fe",
               "name": "Chính kịch",
               "slug": "chinh-kich"
             }
           ],
           "country": [
             {
-              "id": "620a2355e0fc277084dfd8ca",
               "name": "Ấn Độ",
               "slug": "an-do"
             }
@@ -5499,18 +5189,16 @@
           "slug": "nhung-chang-trai-o-loc-phong-quan",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-chang-trai-o-loc-phong-quan.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-chang-trai-o-loc-phong-quan.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "series",
           "genre": [
             {
-              "id": "620f3d2b91fa4af90ab697fe",
               "name": "Chính kịch",
               "slug": "chinh-kich"
             }
           ],
           "country": [
             {
-              "id": "620a2307e0fc277084dfd726",
               "name": "Nhật Bản",
               "slug": "nhat-ban"
             }
@@ -5593,18 +5281,16 @@
           "slug": "tuong-quan-tai-thuong-nguoi-tinh-vuot-thoi-gian",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/tu/tuong-quan-tai-thuong-nguoi-tinh-vuot-thoi-gian.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/tu/tuong-quan-tai-thuong-nguoi-tinh-vuot-thoi-gian.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "single",
           "genre": [
             {
-              "id": "620a222fe0fc277084dfd23d",
               "name": "Cổ Trang",
               "slug": "co-trang"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -5627,23 +5313,20 @@
           "slug": "o-day-cam-yeu-duong",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/o_/o-day-cam-yeu-duong.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/o_/o-day-cam-yeu-duong.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "series",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -5666,18 +5349,16 @@
           "slug": "huyet-chien-thanh-so-lac",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/hu/huyet-chien-thanh-so-lac.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/hu/huyet-chien-thanh-so-lac.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "single",
           "genre": [
             {
-              "id": "620a222fe0fc277084dfd23d",
               "name": "Cổ Trang",
               "slug": "co-trang"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -5700,18 +5381,16 @@
           "slug": "dieu-nang-muon-tq",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/di/dieu-nang-muon-tq.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/di/dieu-nang-muon-tq.webp",
-          "year": 2011,
+          "year": "2011",
           "type": "single",
           "genre": [
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -5734,28 +5413,24 @@
           "slug": "12-con-giap",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/12/12-con-giap.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/12/12-con-giap.webp",
-          "year": 2012,
+          "year": "2012",
           "type": "single",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             },
             {
-              "id": "620a2347e0fc277084dfd876",
               "name": "Hồng Kông",
               "slug": "hong-kong"
             }
@@ -5778,38 +5453,32 @@
           "slug": "truyen-thuyet-thuc-son-van-kiem-quy-tong",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/tr/truyen-thuyet-thuc-son-van-kiem-quy-tong.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/tr/truyen-thuyet-thuc-son-van-kiem-quy-tong.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "single",
           "genre": [
             {
-              "id": "620a222fe0fc277084dfd23d",
               "name": "Cổ Trang",
               "slug": "co-trang"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             },
             {
-              "id": "620a2279e0fc277084dfd3e1",
               "name": "Võ Thuật",
               "slug": "vo-thuat"
             },
             {
-              "id": "620a2282e0fc277084dfd435",
               "name": "Viễn Tưởng",
               "slug": "vien-tuong"
             },
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -5832,18 +5501,16 @@
           "slug": "su-thuc-tinh-cua-vu-khi-than-but-cuu-long",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/su/su-thuc-tinh-cua-vu-khi-than-but-cuu-long.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/su/su-thuc-tinh-cua-vu-khi-than-but-cuu-long.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "single",
           "genre": [
             {
-              "id": "620f84d291fa4af90ab6b3f4",
               "name": "Bí ẩn",
               "slug": "bi-an"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -5866,18 +5533,16 @@
           "slug": "run-ray-di-a-bo-2",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ru/run-ray-di-a-bo-2.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ru/run-ray-di-a-bo-2.webp",
-          "year": 2018,
+          "year": "2018",
           "type": "series",
           "genre": [
             {
-              "id": "620a222fe0fc277084dfd23d",
               "name": "Cổ Trang",
               "slug": "co-trang"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -5900,23 +5565,20 @@
           "slug": "nien-dai-cam-hong",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ni/nien-dai-cam-hong.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ni/nien-dai-cam-hong.webp",
-          "year": 2018,
+          "year": "2018",
           "type": "series",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -5939,23 +5601,20 @@
           "slug": "lang-can-kiep",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/la/lang-can-kiep.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/la/lang-can-kiep.webp",
-          "year": 2018,
+          "year": "2018",
           "type": "series",
           "genre": [
             {
-              "id": "620a222fe0fc277084dfd23d",
               "name": "Cổ Trang",
               "slug": "co-trang"
             },
             {
-              "id": "620a2279e0fc277084dfd3e1",
               "name": "Võ Thuật",
               "slug": "vo-thuat"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -5978,33 +5637,28 @@
           "slug": "trong-minh-ve-dai-minh-co-mat",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/tr/trong-minh-ve-dai-minh-co-mat.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/tr/trong-minh-ve-dai-minh-co-mat.webp",
-          "year": 2018,
+          "year": "2018",
           "type": "series",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a222fe0fc277084dfd23d",
               "name": "Cổ Trang",
               "slug": "co-trang"
             },
             {
-              "id": "620a2279e0fc277084dfd3e1",
               "name": "Võ Thuật",
               "slug": "vo-thuat"
             },
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -6027,23 +5681,20 @@
           "slug": "thien-khanh-ung-liep",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/th/thien-khanh-ung-liep.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/th/thien-khanh-ung-liep.webp",
-          "year": 2018,
+          "year": "2018",
           "type": "series",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -6066,23 +5717,20 @@
           "slug": "duong-thi-tam-bach-an",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/du/duong-thi-tam-bach-an.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/du/duong-thi-tam-bach-an.webp",
-          "year": 2014,
+          "year": "2014",
           "type": "series",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -6105,33 +5753,28 @@
           "slug": "nguy-su-than",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ng/nguy-su-than.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ng/nguy-su-than.webp",
-          "year": 2019,
+          "year": "2019",
           "type": "series",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             },
             {
-              "id": "620a2282e0fc277084dfd435",
               "name": "Viễn Tưởng",
               "slug": "vien-tuong"
             },
             {
-              "id": "620a229be0fc277084dfd4dd",
               "name": "Khoa Học",
               "slug": "khoa-hoc"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -6154,23 +5797,20 @@
           "slug": "co-le-la-yeu",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/co/co-le-la-yeu.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/co/co-le-la-yeu.webp",
-          "year": 2018,
+          "year": "2018",
           "type": "series",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -6193,23 +5833,20 @@
           "slug": "vong-lap",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/vo/vong-lap.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/vo/vong-lap.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "single",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -6292,23 +5929,20 @@
           "slug": "vay-den",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/va/vay-den.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/va/vay-den.webp",
-          "year": 2011,
+          "year": "2011",
           "type": "single",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "620a2300e0fc277084dfd6d2",
               "name": "Hàn Quốc",
               "slug": "han-quoc"
             }
@@ -6331,28 +5965,24 @@
           "slug": "3-cau-chuyen-kinh-di",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/3_/3-cau-chuyen-kinh-di.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/3_/3-cau-chuyen-kinh-di.webp",
-          "year": 2004,
+          "year": "2004",
           "type": "single",
           "genre": [
             {
-              "id": "620a22ace0fc277084dfd531",
               "name": "Kinh Dị",
               "slug": "kinh-di"
             }
           ],
           "country": [
             {
-              "id": "620a2300e0fc277084dfd6d2",
               "name": "Hàn Quốc",
               "slug": "han-quoc"
             },
             {
-              "id": "620a2307e0fc277084dfd726",
               "name": "Nhật Bản",
               "slug": "nhat-ban"
             },
             {
-              "id": "620a2347e0fc277084dfd876",
               "name": "Hồng Kông",
               "slug": "hong-kong"
             }
@@ -6375,23 +6005,20 @@
           "slug": "cuoc-song-tren-sao-hoa",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/cu/cuoc-song-tren-sao-hoa.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/cu/cuoc-song-tren-sao-hoa.webp",
-          "year": 2018,
+          "year": "2018",
           "type": "series",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "620a2300e0fc277084dfd6d2",
               "name": "Hàn Quốc",
               "slug": "han-quoc"
             }
@@ -6414,23 +6041,20 @@
           "slug": "tinh-hong",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ti/tinh-hong.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ti/tinh-hong.webp",
-          "year": 2014,
+          "year": "2014",
           "type": "series",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "620a2300e0fc277084dfd6d2",
               "name": "Hàn Quốc",
               "slug": "han-quoc"
             }
@@ -6453,23 +6077,20 @@
           "slug": "hanh-phuc-troi-ban",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ha/hanh-phuc-troi-ban.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ha/hanh-phuc-troi-ban.webp",
-          "year": 2016,
+          "year": "2016",
           "type": "series",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "620a2300e0fc277084dfd6d2",
               "name": "Hàn Quốc",
               "slug": "han-quoc"
             }
@@ -6492,23 +6113,20 @@
           "slug": "ba-chang-ngo-ngao",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ba/ba-chang-ngo-ngao.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ba/ba-chang-ngo-ngao.webp",
-          "year": 2018,
+          "year": "2018",
           "type": "series",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "620a2300e0fc277084dfd6d2",
               "name": "Hàn Quốc",
               "slug": "han-quoc"
             }
@@ -6531,23 +6149,20 @@
           "slug": "sieu-dau-bep",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/si/sieu-dau-bep.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/si/sieu-dau-bep.webp",
-          "year": 2016,
+          "year": "2016",
           "type": "series",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "620a2300e0fc277084dfd6d2",
               "name": "Hàn Quốc",
               "slug": "han-quoc"
             }
@@ -6570,23 +6185,20 @@
           "slug": "phat-dien-vi-tinh",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ph/phat-dien-vi-tinh.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ph/phat-dien-vi-tinh.webp",
-          "year": 2018,
+          "year": "2018",
           "type": "series",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "620a2300e0fc277084dfd6d2",
               "name": "Hàn Quốc",
               "slug": "han-quoc"
             }
@@ -6609,33 +6221,28 @@
           "slug": "sieu-trom-2017",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/si/sieu-trom-2017.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/si/sieu-trom-2017.webp",
-          "year": 2017,
+          "year": "2017",
           "type": "series",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             },
             {
-              "id": "620a2249e0fc277084dfd2e5",
               "name": "Hình Sự",
               "slug": "hinh-su"
             },
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             }
           ],
           "country": [
             {
-              "id": "620a2300e0fc277084dfd6d2",
               "name": "Hàn Quốc",
               "slug": "han-quoc"
             }
@@ -6658,23 +6265,20 @@
           "slug": "chang-quan-gia",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ch/chang-quan-gia.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/chang-quan-gia.webp",
-          "year": 2018,
+          "year": "2018",
           "type": "series",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "620a2300e0fc277084dfd6d2",
               "name": "Hàn Quốc",
               "slug": "han-quoc"
             }
@@ -6697,43 +6301,36 @@
           "slug": "luoi-dien",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/lu/luoi-dien.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/lu/luoi-dien.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "series",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             },
             {
-              "id": "620a2249e0fc277084dfd2e5",
               "name": "Hình Sự",
               "slug": "hinh-su"
             },
             {
-              "id": "620a2282e0fc277084dfd435",
               "name": "Viễn Tưởng",
               "slug": "vien-tuong"
             },
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             },
             {
-              "id": "620a229be0fc277084dfd4dd",
               "name": "Khoa Học",
               "slug": "khoa-hoc"
             }
           ],
           "country": [
             {
-              "id": "620a2300e0fc277084dfd6d2",
               "name": "Hàn Quốc",
               "slug": "han-quoc"
             }
@@ -6756,23 +6353,20 @@
           "slug": "canh-sat-tan-binh",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ca/canh-sat-tan-binh.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ca/canh-sat-tan-binh.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "series",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "620a2300e0fc277084dfd6d2",
               "name": "Hàn Quốc",
               "slug": "han-quoc"
             }
@@ -6795,18 +6389,16 @@
           "slug": "tinh-duc-la-chuyen-nho",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ti/tinh-duc-la-chuyen-nho.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ti/tinh-duc-la-chuyen-nho.webp",
-          "year": 2002,
+          "year": "2002",
           "type": "single",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             }
           ],
           "country": [
             {
-              "id": "620a2300e0fc277084dfd6d2",
               "name": "Hàn Quốc",
               "slug": "han-quoc"
             }
@@ -6829,23 +6421,20 @@
           "slug": "nu-hoang-khieu-vu",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nu/nu-hoang-khieu-vu.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nu/nu-hoang-khieu-vu.webp",
-          "year": 2012,
+          "year": "2012",
           "type": "single",
           "genre": [
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             },
             {
-              "id": "620e4c0b6ba8271c5eef05a8",
               "name": "Gia Đình",
               "slug": "gia-dinh"
             }
           ],
           "country": [
             {
-              "id": "620a2300e0fc277084dfd6d2",
               "name": "Hàn Quốc",
               "slug": "han-quoc"
             }
@@ -6868,18 +6457,16 @@
           "slug": "nguoi-thoi-sao",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ng/nguoi-thoi-sao.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ng/nguoi-thoi-sao.webp",
-          "year": 2015,
+          "year": "2015",
           "type": "single",
           "genre": [
             {
-              "id": "620a22ace0fc277084dfd531",
               "name": "Kinh Dị",
               "slug": "kinh-di"
             }
           ],
           "country": [
             {
-              "id": "620a2300e0fc277084dfd6d2",
               "name": "Hàn Quốc",
               "slug": "han-quoc"
             }
@@ -6902,33 +6489,28 @@
           "slug": "diem-chet",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/di/diem-chet.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/di/diem-chet.webp",
-          "year": 2004,
+          "year": "2004",
           "type": "single",
           "genre": [
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             },
             {
-              "id": "620a22ace0fc277084dfd531",
               "name": "Kinh Dị",
               "slug": "kinh-di"
             },
             {
-              "id": "620e0e64d9648f114cde7728",
               "name": "Tài Liệu",
               "slug": "tai-lieu"
             },
             {
-              "id": "620f84d291fa4af90ab6b3f4",
               "name": "Bí ẩn",
               "slug": "bi-an"
             }
           ],
           "country": [
             {
-              "id": "620a2300e0fc277084dfd6d2",
               "name": "Hàn Quốc",
               "slug": "han-quoc"
             }
@@ -7011,18 +6593,16 @@
           "slug": "lua-chon-hoac-chet",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/lu/lua-chon-hoac-chet.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/lu/lua-chon-hoac-chet.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "single",
           "genre": [
             {
-              "id": "620a22ace0fc277084dfd531",
               "name": "Kinh Dị",
               "slug": "kinh-di"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -7045,23 +6625,20 @@
           "slug": "tan-diet-2-ngay-tan-the",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ta/tan-diet-2-ngay-tan-the.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ta/tan-diet-2-ngay-tan-the.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "single",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a22ace0fc277084dfd531",
               "name": "Kinh Dị",
               "slug": "kinh-di"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -7084,18 +6661,16 @@
           "slug": "bup-be-nga-phan-2",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/bu/bup-be-nga-phan-2.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/bu/bup-be-nga-phan-2.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "series",
           "genre": [
             {
-              "id": "620f3d2b91fa4af90ab697fe",
               "name": "Chính kịch",
               "slug": "chinh-kich"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -7118,33 +6693,28 @@
           "slug": "morbius",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/mo/morbius.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/mo/morbius.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "single",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a2282e0fc277084dfd435",
               "name": "Viễn Tưởng",
               "slug": "vien-tuong"
             },
             {
-              "id": "620a22ace0fc277084dfd531",
               "name": "Kinh Dị",
               "slug": "kinh-di"
             },
             {
-              "id": "620f84d291fa4af90ab6b3f4",
               "name": "Bí ẩn",
               "slug": "bi-an"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -7167,18 +6737,16 @@
           "slug": "vung-que-yen-binh",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/vu/vung-que-yen-binh.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/vu/vung-que-yen-binh.webp",
-          "year": 1992,
+          "year": "1992",
           "type": "single",
           "genre": [
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -7201,18 +6769,16 @@
           "slug": "trieu-tien-cuoc-chien-khong-hoi-ket",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/tr/trieu-tien-cuoc-chien-khong-hoi-ket.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/tr/trieu-tien-cuoc-chien-khong-hoi-ket.webp",
-          "year": 2019,
+          "year": "2019",
           "type": "single",
           "genre": [
             {
-              "id": "620e0e64d9648f114cde7728",
               "name": "Tài Liệu",
               "slug": "tai-lieu"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -7235,23 +6801,20 @@
           "slug": "thanh-pho-quy",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/th/thanh-pho-quy.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/th/thanh-pho-quy.webp",
-          "year": 2018,
+          "year": "2018",
           "type": "hoathinh",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -7274,23 +6837,20 @@
           "slug": "nguoi-khoi-lua",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ng/nguoi-khoi-lua.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ng/nguoi-khoi-lua.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "single",
           "genre": [
             {
-              "id": "620a22ace0fc277084dfd531",
               "name": "Kinh Dị",
               "slug": "kinh-di"
             },
             {
-              "id": "620f84d291fa4af90ab6b3f4",
               "name": "Bí ẩn",
               "slug": "bi-an"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -7313,28 +6873,24 @@
           "slug": "sat-nhan-bo-cap",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/sa/sat-nhan-bo-cap.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/sa/sat-nhan-bo-cap.webp",
-          "year": 1971,
+          "year": "1971",
           "type": "single",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a2249e0fc277084dfd2e5",
               "name": "Hình Sự",
               "slug": "hinh-su"
             },
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -7357,18 +6913,16 @@
           "slug": "quyen-luc-trong-bong-toi",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/qu/quyen-luc-trong-bong-toi.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/qu/quyen-luc-trong-bong-toi.webp",
-          "year": 2018,
+          "year": "2018",
           "type": "single",
           "genre": [
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -7391,28 +6945,24 @@
           "slug": "quan-he-nguy-hiem",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/qu/quan-he-nguy-hiem.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/qu/quan-he-nguy-hiem.webp",
-          "year": 1988,
+          "year": "1988",
           "type": "single",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             },
             {
-              "id": "620a2370e0fc277084dfd91e",
               "name": "Anh",
               "slug": "anh"
             }
@@ -7435,28 +6985,24 @@
           "slug": "pho-beale-len-tieng",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ph/pho-beale-len-tieng.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ph/pho-beale-len-tieng.webp",
-          "year": 2018,
+          "year": "2018",
           "type": "single",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             },
             {
-              "id": "620a2249e0fc277084dfd2e5",
               "name": "Hình Sự",
               "slug": "hinh-su"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -7479,23 +7025,20 @@
           "slug": "ong-bo-nguoi-tuyet",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/on/ong-bo-nguoi-tuyet.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/on/ong-bo-nguoi-tuyet.webp",
-          "year": 1998,
+          "year": "1998",
           "type": "single",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -7518,28 +7061,24 @@
           "slug": "moc-cau",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/mo/moc-cau.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/mo/moc-cau.webp",
-          "year": 2019,
+          "year": "2019",
           "type": "single",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             },
             {
-              "id": "620f84d291fa4af90ab6b3f4",
               "name": "Bí ẩn",
               "slug": "bi-an"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -7562,28 +7101,24 @@
           "slug": "mo-chon-toi-ac",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/mo/mo-chon-toi-ac.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/mo/mo-chon-toi-ac.webp",
-          "year": 1988,
+          "year": "1988",
           "type": "single",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a2249e0fc277084dfd2e5",
               "name": "Hình Sự",
               "slug": "hinh-su"
             },
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -7606,23 +7141,20 @@
           "slug": "lien-minh-nguoi-doi-va-ninja-rua",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/li/lien-minh-nguoi-doi-va-ninja-rua.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/li/lien-minh-nguoi-doi-va-ninja-rua.webp",
-          "year": 2019,
+          "year": "2019",
           "type": "single",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -7701,18 +7233,16 @@
           "slug": "tuong-quan-tai-thuong-nguoi-tinh-vuot-thoi-gian",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/tu/tuong-quan-tai-thuong-nguoi-tinh-vuot-thoi-gian.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/tu/tuong-quan-tai-thuong-nguoi-tinh-vuot-thoi-gian.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "single",
           "genre": [
             {
-              "id": "620a222fe0fc277084dfd23d",
               "name": "Cổ Trang",
               "slug": "co-trang"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -7735,18 +7265,16 @@
           "slug": "huyet-chien-thanh-so-lac",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/hu/huyet-chien-thanh-so-lac.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/hu/huyet-chien-thanh-so-lac.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "single",
           "genre": [
             {
-              "id": "620a222fe0fc277084dfd23d",
               "name": "Cổ Trang",
               "slug": "co-trang"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -7769,38 +7297,32 @@
           "slug": "truyen-thuyet-thuc-son-van-kiem-quy-tong",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/tr/truyen-thuyet-thuc-son-van-kiem-quy-tong.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/tr/truyen-thuyet-thuc-son-van-kiem-quy-tong.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "single",
           "genre": [
             {
-              "id": "620a222fe0fc277084dfd23d",
               "name": "Cổ Trang",
               "slug": "co-trang"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             },
             {
-              "id": "620a2279e0fc277084dfd3e1",
               "name": "Võ Thuật",
               "slug": "vo-thuat"
             },
             {
-              "id": "620a2282e0fc277084dfd435",
               "name": "Viễn Tưởng",
               "slug": "vien-tuong"
             },
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -7823,18 +7345,16 @@
           "slug": "run-ray-di-a-bo-2",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ru/run-ray-di-a-bo-2.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ru/run-ray-di-a-bo-2.webp",
-          "year": 2018,
+          "year": "2018",
           "type": "series",
           "genre": [
             {
-              "id": "620a222fe0fc277084dfd23d",
               "name": "Cổ Trang",
               "slug": "co-trang"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -7857,23 +7377,20 @@
           "slug": "lang-can-kiep",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/la/lang-can-kiep.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/la/lang-can-kiep.webp",
-          "year": 2018,
+          "year": "2018",
           "type": "series",
           "genre": [
             {
-              "id": "620a222fe0fc277084dfd23d",
               "name": "Cổ Trang",
               "slug": "co-trang"
             },
             {
-              "id": "620a2279e0fc277084dfd3e1",
               "name": "Võ Thuật",
               "slug": "vo-thuat"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -7896,33 +7413,28 @@
           "slug": "trong-minh-ve-dai-minh-co-mat",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/tr/trong-minh-ve-dai-minh-co-mat.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/tr/trong-minh-ve-dai-minh-co-mat.webp",
-          "year": 2018,
+          "year": "2018",
           "type": "series",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a222fe0fc277084dfd23d",
               "name": "Cổ Trang",
               "slug": "co-trang"
             },
             {
-              "id": "620a2279e0fc277084dfd3e1",
               "name": "Võ Thuật",
               "slug": "vo-thuat"
             },
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -7945,28 +7457,24 @@
           "slug": "gap-chang-dung-luc",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ga/gap-chang-dung-luc.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ga/gap-chang-dung-luc.webp",
-          "year": 2021,
+          "year": "2021",
           "type": "series",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a222fe0fc277084dfd23d",
               "name": "Cổ Trang",
               "slug": "co-trang"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -7989,23 +7497,20 @@
           "slug": "hoat-sac-sinh-huong",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ho/hoat-sac-sinh-huong.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ho/hoat-sac-sinh-huong.webp",
-          "year": 2015,
+          "year": "2015",
           "type": "series",
           "genre": [
             {
-              "id": "620a222fe0fc277084dfd23d",
               "name": "Cổ Trang",
               "slug": "co-trang"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -8028,23 +7533,20 @@
           "slug": "my-nhan-tam-ke",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/my/my-nhan-tam-ke.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/my/my-nhan-tam-ke.webp",
-          "year": 2010,
+          "year": "2010",
           "type": "series",
           "genre": [
             {
-              "id": "620a222fe0fc277084dfd23d",
               "name": "Cổ Trang",
               "slug": "co-trang"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -8067,18 +7569,16 @@
           "slug": "nu-thich-khach-o-long-cung-nha-giam-nu-dai-minh",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nu/nu-thich-khach-o-long-cung-nha-giam-nu-dai-minh.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nu/nu-thich-khach-o-long-cung-nha-giam-nu-dai-minh.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "single",
           "genre": [
             {
-              "id": "620a222fe0fc277084dfd23d",
               "name": "Cổ Trang",
               "slug": "co-trang"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -8101,23 +7601,20 @@
           "slug": "ngo-khong-tieu-thanh-truyen",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ng/ngo-khong-tieu-thanh-truyen.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ng/ngo-khong-tieu-thanh-truyen.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "single",
           "genre": [
             {
-              "id": "620a222fe0fc277084dfd23d",
               "name": "Cổ Trang",
               "slug": "co-trang"
             },
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -8140,28 +7637,24 @@
           "slug": "bossam-danh-cap-so-phan",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/bo/bossam-danh-cap-so-phan.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/bo/bossam-danh-cap-so-phan.webp",
-          "year": 2021,
+          "year": "2021",
           "type": "series",
           "genre": [
             {
-              "id": "620a220de0fc277084dfd16d",
               "name": "Tình Cảm",
               "slug": "tinh-cam"
             },
             {
-              "id": "620a222fe0fc277084dfd23d",
               "name": "Cổ Trang",
               "slug": "co-trang"
             },
             {
-              "id": "620a2279e0fc277084dfd3e1",
               "name": "Võ Thuật",
               "slug": "vo-thuat"
             }
           ],
           "country": [
             {
-              "id": "620a2300e0fc277084dfd6d2",
               "name": "Hàn Quốc",
               "slug": "han-quoc"
             }
@@ -8240,23 +7733,20 @@
           "slug": "yeu-han-tinh-thu",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ye/yeu-han-tinh-thu.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ye/yeu-han-tinh-thu.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "hoathinh",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             }
           ],
           "country": [
             {
-              "id": "620a2307e0fc277084dfd726",
               "name": "Nhật Bản",
               "slug": "nhat-ban"
             }
@@ -8279,23 +7769,20 @@
           "slug": "tan-diet-2-ngay-tan-the",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ta/tan-diet-2-ngay-tan-the.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ta/tan-diet-2-ngay-tan-the.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "single",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a22ace0fc277084dfd531",
               "name": "Kinh Dị",
               "slug": "kinh-di"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -8318,28 +7805,24 @@
           "slug": "saani-kaayidham",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/sa/saani-kaayidham.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/sa/saani-kaayidham.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "single",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a2249e0fc277084dfd2e5",
               "name": "Hình Sự",
               "slug": "hinh-su"
             },
             {
-              "id": "620f3d2b91fa4af90ab697fe",
               "name": "Chính kịch",
               "slug": "chinh-kich"
             }
           ],
           "country": [
             {
-              "id": "620a2355e0fc277084dfd8ca",
               "name": "Ấn Độ",
               "slug": "an-do"
             }
@@ -8362,33 +7845,28 @@
           "slug": "samurai-7",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/sa/samurai-7.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/sa/samurai-7.webp",
-          "year": 2004,
+          "year": "2004",
           "type": "hoathinh",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a2282e0fc277084dfd435",
               "name": "Viễn Tưởng",
               "slug": "vien-tuong"
             },
             {
-              "id": "620a229be0fc277084dfd4dd",
               "name": "Khoa Học",
               "slug": "khoa-hoc"
             },
             {
-              "id": "620f3d2b91fa4af90ab697fe",
               "name": "Chính kịch",
               "slug": "chinh-kich"
             }
           ],
           "country": [
             {
-              "id": "620a2307e0fc277084dfd726",
               "name": "Nhật Bản",
               "slug": "nhat-ban"
             }
@@ -8411,28 +7889,24 @@
           "slug": "rock-lee",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ro/rock-lee.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ro/rock-lee.webp",
-          "year": 2012,
+          "year": "2012",
           "type": "hoathinh",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a221de0fc277084dfd1c1",
               "name": "Hài Hước",
               "slug": "hai-huoc"
             }
           ],
           "country": [
             {
-              "id": "620a2307e0fc277084dfd726",
               "name": "Nhật Bản",
               "slug": "nhat-ban"
             },
             {
-              "id": "620a2370e0fc277084dfd91e",
               "name": "Anh",
               "slug": "anh"
             }
@@ -8455,18 +7929,16 @@
           "slug": "yasuke",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ya/yasuke.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ya/yasuke.webp",
-          "year": 2021,
+          "year": "2021",
           "type": "hoathinh",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             }
           ],
           "country": [
             {
-              "id": "620a2307e0fc277084dfd726",
               "name": "Nhật Bản",
               "slug": "nhat-ban"
             }
@@ -8489,33 +7961,28 @@
           "slug": "morbius",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/mo/morbius.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/mo/morbius.webp",
-          "year": 2022,
+          "year": "2022",
           "type": "single",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a2282e0fc277084dfd435",
               "name": "Viễn Tưởng",
               "slug": "vien-tuong"
             },
             {
-              "id": "620a22ace0fc277084dfd531",
               "name": "Kinh Dị",
               "slug": "kinh-di"
             },
             {
-              "id": "620f84d291fa4af90ab6b3f4",
               "name": "Bí ẩn",
               "slug": "bi-an"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -8538,23 +8005,20 @@
           "slug": "thanh-pho-quy",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/th/thanh-pho-quy.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/th/thanh-pho-quy.webp",
-          "year": 2018,
+          "year": "2018",
           "type": "hoathinh",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -8577,28 +8041,24 @@
           "slug": "sat-nhan-bo-cap",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/sa/sat-nhan-bo-cap.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/sa/sat-nhan-bo-cap.webp",
-          "year": 1971,
+          "year": "1971",
           "type": "single",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a2249e0fc277084dfd2e5",
               "name": "Hình Sự",
               "slug": "hinh-su"
             },
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -8621,28 +8081,24 @@
           "slug": "mo-chon-toi-ac",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/mo/mo-chon-toi-ac.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/mo/mo-chon-toi-ac.webp",
-          "year": 1988,
+          "year": "1988",
           "type": "single",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a2249e0fc277084dfd2e5",
               "name": "Hình Sự",
               "slug": "hinh-su"
             },
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -8665,23 +8121,20 @@
           "slug": "lien-minh-nguoi-doi-va-ninja-rua",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/li/lien-minh-nguoi-doi-va-ninja-rua.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/li/lien-minh-nguoi-doi-va-ninja-rua.webp",
-          "year": 2019,
+          "year": "2019",
           "type": "single",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             }
           ],
           "country": [
             {
-              "id": "620a231fe0fc277084dfd7ce",
               "name": "Âu Mỹ",
               "slug": "au-my"
             }
@@ -8704,28 +8157,24 @@
           "slug": "giai-cuu-2017",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/gi/giai-cuu-2017.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/gi/giai-cuu-2017.webp",
-          "year": 2017,
+          "year": "2017",
           "type": "single",
           "genre": [
             {
-              "id": "620a21b2e0fc277084dfd0c5",
               "name": "Hành Động",
               "slug": "hanh-dong"
             },
             {
-              "id": "620a2238e0fc277084dfd291",
               "name": "Tâm Lý",
               "slug": "tam-ly"
             },
             {
-              "id": "620a2293e0fc277084dfd489",
               "name": "Phiêu Lưu",
               "slug": "phieu-luu"
             }
           ],
           "country": [
             {
-              "id": "620a2370e0fc277084dfd91e",
               "name": "Anh",
               "slug": "anh"
             }
