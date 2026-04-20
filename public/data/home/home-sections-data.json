@@ -39,7 +39,8 @@
     "featured_count_sm": 0,
     "featured_count_xs": 0,
     "ids": [
-      "625ef342db43524328af8f5e"
+      "625ef342db43524328af8f5e",
+      "627faa929e983cdfde358464"
     ],
     "movies": [
       {
@@ -77,6 +78,38 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2022-05-15T03:00:19.000Z"
+      },
+      {
+        "id": "627faa929e983cdfde358464",
+        "title": "Khách Trọ Phòng 1006",
+        "origin_name": "Meet Me at 1006",
+        "slug": "khach-tro-phong-1006",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/kh/khach-tro-phong-1006.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/kh/khach-tro-phong-1006.webp",
+        "year": "2018",
+        "type": "series",
+        "genre": [
+          {
+            "name": "Tâm Lý",
+            "slug": "tam-ly"
+          }
+        ],
+        "country": [
+          {
+            "name": "Đài Loan",
+            "slug": "dai-loan"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Hoàn Tất (26/26)",
+        "quality": "4K",
+        "status": "completed",
+        "showtimes": "Tập mới mỗi thứ 6",
+        "is_4k": true,
+        "is_exclusive": true,
+        "chieurap": false,
+        "sub_docquyen": false,
+        "modified": "2022-05-14T14:41:45.000Z"
       }
     ]
   },
@@ -120,7 +153,8 @@
     "featured_count_sm": 0,
     "featured_count_xs": 0,
     "ids": [
-      "625ef342db43524328af8f5e"
+      "625ef342db43524328af8f5e",
+      "627faa929e983cdfde358464"
     ],
     "movies": [
       {
@@ -158,6 +192,38 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2022-05-15T03:00:19.000Z"
+      },
+      {
+        "id": "627faa929e983cdfde358464",
+        "title": "Khách Trọ Phòng 1006",
+        "origin_name": "Meet Me at 1006",
+        "slug": "khach-tro-phong-1006",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/kh/khach-tro-phong-1006.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/kh/khach-tro-phong-1006.webp",
+        "year": "2018",
+        "type": "series",
+        "genre": [
+          {
+            "name": "Tâm Lý",
+            "slug": "tam-ly"
+          }
+        ],
+        "country": [
+          {
+            "name": "Đài Loan",
+            "slug": "dai-loan"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Hoàn Tất (26/26)",
+        "quality": "4K",
+        "status": "completed",
+        "showtimes": "Tập mới mỗi thứ 6",
+        "is_4k": true,
+        "is_exclusive": true,
+        "chieurap": false,
+        "sub_docquyen": false,
+        "modified": "2022-05-14T14:41:45.000Z"
       }
     ]
   },
@@ -515,11 +581,11 @@
         ],
         "lang_key": "Vietsub",
         "episode_current": "Hoàn Tất (26/26)",
-        "quality": "HD",
+        "quality": "4K",
         "status": "completed",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
+        "showtimes": "Tập mới mỗi thứ 6",
+        "is_4k": true,
+        "is_exclusive": true,
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2022-05-14T14:41:45.000Z"
@@ -1087,13 +1153,7 @@
             "slug": "tam-ly"
           }
         ],
-        "country": [
-          {
-            "id": "620a231fe0fc277084dfd7ce",
-            "name": "",
-            "slug": ""
-          }
-        ],
+        "country": [],
         "lang_key": "Vietsub",
         "episode_current": "Full",
         "quality": "HD",
