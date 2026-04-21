@@ -3864,14 +3864,9 @@ function writeActors(movies) {
       const displayName = c && (c.name_vi || c.name || c.name_original)
         ? String(c.name_vi || c.name || c.name_original)
         : '';
-      // Canonical slug: ưu tiên tên hiển thị (VN) để URL + search đồng bộ với UI.
+      // Chỉ dùng slug theo tên hiển thị (ưu tiên tiếng Việt), không tạo alias tiếng Anh.
       const canonicalSlug = slugify(displayName, { lower: true });
-      const legacySourceName = c && (c.name_original || c.name || c.name_vi)
-        ? String(c.name_original || c.name || c.name_vi)
-        : '';
-      const legacySlug = slugify(legacySourceName, { lower: true });
-      const keys = [canonicalSlug, legacySlug].filter(Boolean);
-      if (!keys.length) continue;
+      if (!canonicalSlug) continue;
 
       const pp = c && c.profile_path != null ? String(c.profile_path).trim() : '';
       const profileAbs = c && c.profile
@@ -3885,20 +3880,18 @@ function writeActors(movies) {
       const tmdbUrl = c && c.tmdb_url ? String(c.tmdb_url) : (tid ? `https://www.themoviedb.org/person/${tid}` : null);
       const nextMeta = { tmdb_id: tid || null, profile: profileOut || null, tmdb_url: tmdbUrl || null };
 
-      for (const s of keys) {
-        if (!map[s]) map[s] = [];
-        pushUniqueMovieId(map[s], m.id);
-        // Không ghi đè tên hiển thị đã có bằng tên rỗng/ít thông tin.
-        if (!names[s] || String(names[s]).trim().length < String(displayName).trim().length) {
-          names[s] = displayName;
-        }
-        if (tid || profileOut || tmdbUrl) {
-          if (!meta[s]) meta[s] = nextMeta;
-          else {
-            if (!meta[s].profile && nextMeta.profile) meta[s].profile = nextMeta.profile;
-            if (!meta[s].tmdb_id && nextMeta.tmdb_id) meta[s].tmdb_id = nextMeta.tmdb_id;
-            if (!meta[s].tmdb_url && nextMeta.tmdb_url) meta[s].tmdb_url = nextMeta.tmdb_url;
-          }
+      const s = canonicalSlug;
+      if (!map[s]) map[s] = [];
+      pushUniqueMovieId(map[s], m.id);
+      if (!names[s] || String(names[s]).trim().length < String(displayName).trim().length) {
+        names[s] = displayName;
+      }
+      if (tid || profileOut || tmdbUrl) {
+        if (!meta[s]) meta[s] = nextMeta;
+        else {
+          if (!meta[s].profile && nextMeta.profile) meta[s].profile = nextMeta.profile;
+          if (!meta[s].tmdb_id && nextMeta.tmdb_id) meta[s].tmdb_id = nextMeta.tmdb_id;
+          if (!meta[s].tmdb_url && nextMeta.tmdb_url) meta[s].tmdb_url = nextMeta.tmdb_url;
         }
       }
     }
