@@ -1,0 +1,1 @@
+window.DAOP = window.DAOP || {};window.DAOP.searchPrefix = window.DAOP.searchPrefix || {};window.DAOP.searchPrefix["uf"] = [{"id":"66f8c46189f44234b3721f76","title":"UFO","origin_name":"UFO","slug":"ufo","thumb":"https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/uf/ufo.webp","year":2021,"episode_current":"Hoàn Tất(04/04)","_t":"ufo ufo ufo"}];

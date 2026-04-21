@@ -1,0 +1,1 @@
+window.DAOP = window.DAOP || {};window.DAOP.searchPrefix = window.DAOP.searchPrefix || {};window.DAOP.searchPrefix["ug"] = [{"id":"66e44fe2181d4db347c03121","title":"Xấu xí","origin_name":"Uglies","slug":"xau-xi","thumb":"https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/xa/xau-xi.webp","year":2024,"episode_current":"Full","_t":"xau xi uglies xau xi"}];
