@@ -1,1 +1,0 @@
-window.DAOP = window.DAOP || {};window.DAOP.slugIndex = window.DAOP.slugIndex || {};window.DAOP.slugIndex["av"] = {"avatar":{"id":"6231d18d3c735a9a446ddb40","i":1087,"title":"Avatar","origin_name":"Avatar","slug":"avatar","thumb":"https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/av/avatar.webp","year":2009,"type":"single","episode_current":"Full"}};

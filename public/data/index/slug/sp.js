@@ -1,1 +1,0 @@
-window.DAOP = window.DAOP || {};window.DAOP.slugIndex = window.DAOP.slugIndex || {};window.DAOP.slugIndex["sp"] = {"sparkle":{"id":"622757f1eb35da19972deed0","i":701,"title":"Sparkle","origin_name":"Sparkle","slug":"sparkle","thumb":"https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/sp/sparkle.webp","year":2012,"type":"single","episode_current":"Full"}};

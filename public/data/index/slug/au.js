@@ -1,1 +1,0 @@
-window.DAOP = window.DAOP || {};window.DAOP.slugIndex = window.DAOP.slugIndex || {};window.DAOP.slugIndex["au"] = {"aurora":{"id":"621a2a103fb21848d1970ce0","i":200,"title":"Aurora","origin_name":"Aurora","slug":"aurora","thumb":"https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/au/aurora.webp","year":2018,"type":"single","episode_current":"Full"}};

@@ -1,1 +1,0 @@
-window.DAOP = window.DAOP || {};window.DAOP.slugIndex = window.DAOP.slugIndex || {};window.DAOP.slugIndex["yo"] = {"yojimbo":{"id":"66df258c3ef8357d53fa87a8","i":2226,"title":"Yojimbo","origin_name":"Yojimbo","slug":"yojimbo","thumb":"https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/yo/yojimbo.webp","year":1961,"type":"single","episode_current":"Full"}};
