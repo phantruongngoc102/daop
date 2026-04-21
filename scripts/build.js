@@ -3811,6 +3811,12 @@ function buildActorSearchIndex(names = {}) {
   return index;
 }
 
+function actorShardKeyFromName(name, slug) {
+  const n = normalizeActorSearchText(name) || normalizeActorSearchText(slug);
+  const c = (n[0] || '').toLowerCase();
+  return c >= 'a' && c <= 'z' ? c : 'other';
+}
+
 function pushUniqueMovieId(list, movieId) {
   const id = String(movieId || '');
   if (!id) return;
@@ -3922,8 +3928,7 @@ function writeActors(movies) {
   // Shard theo ký tự đầu (a-z, other), mỗi shard có thêm movies: { slug: [light objects] }
   const byFirst = {};
   for (const slug of slugs) {
-    const c = (slug[0] || '').toLowerCase();
-    const key = c >= 'a' && c <= 'z' ? c : 'other';
+    const key = actorShardKeyFromName(names[slug], slug);
     if (!byFirst[key]) byFirst[key] = { map: {}, names: {}, meta: {}, movies: {} };
     byFirst[key].map[slug] = map[slug];
     byFirst[key].names[slug] = names[slug];
@@ -3965,8 +3970,7 @@ function writeActorsShardsFromData(map = {}, names = {}, movieById = null, meta 
   );
   const byFirst = {};
   for (const slug of slugs) {
-    const c = (slug[0] || '').toLowerCase();
-    const key = c >= 'a' && c <= 'z' ? c : 'other';
+    const key = actorShardKeyFromName(names[slug], slug);
     if (!byFirst[key]) byFirst[key] = { map: {}, names: {}, meta: {}, movies: {} };
     byFirst[key].map[slug] = map[slug] || [];
     byFirst[key].names[slug] = names[slug];
