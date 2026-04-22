@@ -1,4 +1,3 @@
-import { VercelRequest, VercelResponse } from '@vercel/node';
 import {
   authInfoSb,
   getDashboardStatsCountsSb,
@@ -21,6 +20,20 @@ import {
 import { authHeaders, errFromRes, getRestEnv, restFetchByScope, restJson } from './supabase-rest.js';
 import { guardAdmin, type GuardResult } from './admin-guard.js';
 
+type ApiRequest = {
+  method?: string;
+  query: Record<string, unknown>;
+  body?: any;
+  headers: Record<string, unknown>;
+};
+
+type ApiResponse = {
+  status: (code: number) => ApiResponse;
+  json: (payload: any) => ApiResponse;
+  setHeader: (name: string, value: string | string[]) => ApiResponse;
+  end: () => void;
+};
+
 type DashboardStatsCache = {
   version: string;
   stats: Record<string, number>;
@@ -33,7 +46,7 @@ let dashboardVersionCacheValue: string = '';
 
 const DASHBOARD_VERSION_CACHE_TTL_MS = 25_000;
 
-export default async function handler(req: VercelRequest, res: VercelResponse) {
+export default async function handler(req: ApiRequest, res: ApiResponse) {
   res.setHeader('Access-Control-Allow-Origin', '*');
   res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS');
   res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization');
@@ -42,15 +55,19 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     return res.status(200).end();
   }
 
-  if (!isSupabaseMoviesConfigured()) {
-    return res.status(500).json({
-      error:
-        'Chưa cấu hình Supabase cho API phim: cần cả Movies và Episodes project (SUPABASE_MOVIES_URL + SUPABASE_MOVIES_SERVICE_ROLE_KEY, SUPABASE_EPISODES_URL + SUPABASE_EPISODES_SERVICE_ROLE_KEY).',
-    });
-  }
-
   try {
     const action = String((req.query as any)?.action || (req.body as any)?.action || '').trim();
+    const actionNeedsMoviesConfig = ![
+      'readonlySections',
+      'readonlySiteConfig',
+    ].includes(action);
+
+    if (actionNeedsMoviesConfig && !isSupabaseMoviesConfigured()) {
+      return res.status(500).json({
+        error:
+          'Chưa cấu hình Supabase cho API phim: cần cả Movies và Episodes project (SUPABASE_MOVIES_URL + SUPABASE_MOVIES_SERVICE_ROLE_KEY, SUPABASE_EPISODES_URL + SUPABASE_EPISODES_SERVICE_ROLE_KEY).',
+      });
+    }
 
     const g: GuardResult = await guardAdmin(req, res);
     if (g.ok === false) return res.status(g.status).json({ error: g.error });
