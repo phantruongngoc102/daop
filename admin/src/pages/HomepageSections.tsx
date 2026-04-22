@@ -16,6 +16,8 @@ import { PlusOutlined, EditOutlined, ArrowUpOutlined, ArrowDownOutlined } from '
 import { supabase } from '../lib/supabase';
 import defaultSectionsJson from '../../../config/default-sections.json';
 import { useAdminRole } from '../context/AdminRoleContext';
+import { getApiBaseUrl } from '../lib/api';
+import { getAdminApiAuthHeaders } from '../lib/adminAuth';
 
 type SectionRow = {
   id: string;
@@ -96,13 +98,23 @@ export default function HomepageSections() {
     }
 
     // Non-admin accounts can be blocked by RLS on homepage_sections.
-    // Fallback to the built JSON so the user still sees configured sections.
+    // Fallback to server-side readonly API (service role) so sections still display.
     try {
-      const fallbackRes = await fetch('/data/config/homepage-sections.json', { cache: 'no-store' });
-      const fallbackData = fallbackRes.ok ? await fallbackRes.json() : [];
-      setData(Array.isArray(fallbackData) ? (fallbackData as SectionRow[]) : []);
-      if (r.error) {
-        message.warning('Tài khoản đang ở chế độ chỉ xem sections (dữ liệu từ file build).');
+      const base = getApiBaseUrl();
+      const fallbackRes = await fetch(`${base}/api/admin-readonly?action=sections`, {
+        headers: {
+          ...(await getAdminApiAuthHeaders()),
+        },
+      });
+      const fallbackJson = await fallbackRes.json().catch(() => ({}));
+      const fallbackData = Array.isArray((fallbackJson as any)?.data) ? (fallbackJson as any).data : [];
+      if (fallbackRes.ok && fallbackData.length >= 0) {
+        setData(fallbackData as SectionRow[]);
+        if (r.error) {
+          message.warning('Tài khoản đang ở chế độ chỉ xem sections.');
+        }
+      } else {
+        throw new Error((fallbackJson as any)?.error || `HTTP ${fallbackRes.status}`);
       }
     } catch {
       setData([]);

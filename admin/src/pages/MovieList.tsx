@@ -94,9 +94,15 @@ export default function MovieList() {
         if (ophimDomain) setOphimImgDomain(ophimDomain);
       } else {
         try {
-          const fallbackRes = await fetch('/data/config/site-settings.json', { cache: 'no-store' });
+          const base = getApiBaseUrl();
+          const fallbackRes = await fetch(`${base}/api/admin-readonly?action=site-config`, {
+            headers: {
+              ...(await getAdminApiAuthHeaders()),
+            },
+          });
+          const fallbackJson = await fallbackRes.json().catch(() => ({}));
+          const fallbackSettings = (fallbackJson as any)?.data || {};
           if (fallbackRes.ok) {
-            const fallbackSettings = await fallbackRes.json();
             if (fallbackSettings?.r2_img_domain) setR2ImgDomain(String(fallbackSettings.r2_img_domain));
             if (fallbackSettings?.ophim_img_domain) setOphimImgDomain(String(fallbackSettings.ophim_img_domain));
           }
