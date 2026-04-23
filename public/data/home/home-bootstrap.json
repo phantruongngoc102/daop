@@ -1,6 +1,6 @@
 {
   "buildVersion": {
-    "builtAt": "2026-04-23T09:11:33.679Z"
+    "builtAt": "2026-04-23T10:15:16.772Z"
   },
   "siteSettings": {
     "site_name": "GoTV",
@@ -134,12 +134,12 @@
     "upload_r2_quality": "70",
     "upload_r2_thumb_quality": "",
     "upload_r2_poster_quality": "",
+    "upload_r2_thumb_width": "238",
+    "upload_r2_thumb_height": "344",
     "ophim_start_page": "20",
     "ophim_end_page": "1",
     "ophim_auto_start_page": "20",
     "ophim_auto_end_page": "1",
-    "upload_r2_thumb_width": "238",
-    "upload_r2_thumb_height": "344",
     "theme_accent_light": "#1d4ed8",
     "theme_light_card": "#fbf6ef",
     "theme_light_muted": "#4f5b66",
@@ -157,15 +157,15 @@
     "detail_hide_header_default": "false",
     "watch_hide_header_default": "false",
     "site_url": "https://gotv.top",
-    "update_data_two_phase": "0",
-    "update_data_manual_two_phase": "1",
-    "upload_images_after_build": "1",
-    "deploy_after_r2_upload": "1",
     "upload_r2_poster_width": "486",
     "upload_r2_poster_height": "274",
     "upload_r2_limit": "0",
     "upload_r2_concurrency": "16",
-    "upload_r2_reupload_existing": "0"
+    "upload_r2_reupload_existing": "0",
+    "update_data_two_phase": "1",
+    "update_data_manual_two_phase": "1",
+    "upload_images_after_build": "1",
+    "deploy_after_r2_upload": "1"
   },
   "homepageSections": [
     {
@@ -2038,6 +2038,7 @@
       "featured_count_sm": 1,
       "featured_count_xs": 1,
       "ids": [
+        "69e9ef6af0f815b666161eb7",
         "69e9ca1216bc1b4174f6ae69",
         "69e9a52d6d4243e068f2b891",
         "69e99f352b874d6bfb6d4132",
@@ -2049,10 +2050,43 @@
         "69df39664a74b3cede0c70ce",
         "6947a82897c71dcd0d63982e",
         "69e84ade748ca16f0861152d",
-        "69e4847031aa2678f8ca4219",
-        "69d8779e6d4243e068ecd2e4"
+        "69e4847031aa2678f8ca4219"
       ],
       "movies": [
+        {
+          "id": "69e9ef6af0f815b666161eb7",
+          "title": "Vũ Điệu Tình Thù",
+          "origin_name": "The Bangkok Red Opera",
+          "slug": "vu-dieu-tinh-thu",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/vu/vu-dieu-tinh-thu.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/vu/vu-dieu-tinh-thu.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a220de0fc277084dfd16d",
+              "name": "Tình Cảm",
+              "slug": "tinh-cam"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2318e0fc277084dfd77a",
+              "name": "Thái Lan",
+              "slug": "thai-lan"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Trailer",
+          "quality": "HD",
+          "status": "trailer",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": false,
+          "modified": "2026-04-23T17:07:41.000Z"
+        },
         {
           "id": "69e9ca1216bc1b4174f6ae69",
           "title": "Hồ Sơ Tội Phạm (Phần 2)",
@@ -2060,23 +2094,20 @@
           "slug": "ho-so-toi-pham-phan-2",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ho/ho-so-toi-pham-phan-2.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ho/ho-so-toi-pham-phan-2.webp",
-          "year": 2026,
+          "year": "2026",
           "type": "series",
           "genre": [
             {
-              "id": "620a2249e0fc277084dfd2e5",
               "name": "Hình Sự",
               "slug": "hinh-su"
             },
             {
-              "id": "620f3d2b91fa4af90ab697fe",
               "name": "Chính kịch",
               "slug": "chinh-kich"
             }
           ],
           "country": [
             {
-              "id": "620a2370e0fc277084dfd91e",
               "name": "Anh",
               "slug": "anh"
             }
@@ -2479,38 +2510,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-04-22T11:24:52.000Z"
-        },
-        {
-          "id": "69d8779e6d4243e068ecd2e4",
-          "title": "Chẳng Gặp Vân Thường, Cũng Chẳng Gặp Người",
-          "origin_name": "The Moment I Met You",
-          "slug": "chang-gap-van-thuong-cung-chang-gap-nguoi",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ch/chang-gap-van-thuong-cung-chang-gap-nguoi.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/chang-gap-van-thuong-cung-chang-gap-nguoi.webp",
-          "year": "2026",
-          "type": "series",
-          "genre": [
-            {
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "name": "Trung Quốc",
-              "slug": "trung-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 32",
-          "quality": "4K",
-          "status": "ongoing",
-          "showtimes": "Thứ 2, 3, 4 mỗi ngày cập nhật 2 tập",
-          "is_4k": true,
-          "is_exclusive": true,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-04-22T11:17:47.000Z"
         }
       ]
     },
@@ -2559,18 +2558,16 @@
           "slug": "qifarah",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/qi/qifarah.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/qi/qifarah.webp",
-          "year": 2025,
+          "year": "2025",
           "type": "single",
           "genre": [
             {
-              "id": "620a22ace0fc277084dfd531",
               "name": "Kinh Dị",
               "slug": "kinh-di"
             }
           ],
           "country": [
             {
-              "id": "62159af71f1609c9d934824e",
               "name": "Malaysia",
               "slug": "malaysia"
             }
@@ -3016,6 +3013,7 @@
       "grid_columns_sm": 3,
       "grid_columns_xs": 2,
       "ids": [
+        "69e9ef6af0f815b666161eb7",
         "69e9ca1216bc1b4174f6ae69",
         "69e9a52d6d4243e068f2b891",
         "69e99f352b874d6bfb6d4132",
@@ -3026,10 +3024,43 @@
         "69e8842f6d4243e068f26e01",
         "69e8841531aa2678f8cbc3de",
         "69e883ef2b874d6bfb6cf754",
-        "69e8835231aa2678f8cbc332",
-        "69e883024e2efe72884949a5"
+        "69e8835231aa2678f8cbc332"
       ],
       "movies": [
+        {
+          "id": "69e9ef6af0f815b666161eb7",
+          "title": "Vũ Điệu Tình Thù",
+          "origin_name": "The Bangkok Red Opera",
+          "slug": "vu-dieu-tinh-thu",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/vu/vu-dieu-tinh-thu.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/vu/vu-dieu-tinh-thu.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a220de0fc277084dfd16d",
+              "name": "Tình Cảm",
+              "slug": "tinh-cam"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2318e0fc277084dfd77a",
+              "name": "Thái Lan",
+              "slug": "thai-lan"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Trailer",
+          "quality": "HD",
+          "status": "trailer",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": false,
+          "modified": "2026-04-23T17:07:41.000Z"
+        },
         {
           "id": "69e9ca1216bc1b4174f6ae69",
           "title": "Hồ Sơ Tội Phạm (Phần 2)",
@@ -3037,23 +3068,20 @@
           "slug": "ho-so-toi-pham-phan-2",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ho/ho-so-toi-pham-phan-2.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ho/ho-so-toi-pham-phan-2.webp",
-          "year": 2026,
+          "year": "2026",
           "type": "series",
           "genre": [
             {
-              "id": "620a2249e0fc277084dfd2e5",
               "name": "Hình Sự",
               "slug": "hinh-su"
             },
             {
-              "id": "620f3d2b91fa4af90ab697fe",
               "name": "Chính kịch",
               "slug": "chinh-kich"
             }
           ],
           "country": [
             {
-              "id": "620a2370e0fc277084dfd91e",
               "name": "Anh",
               "slug": "anh"
             }
@@ -3432,38 +3460,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-04-22T15:16:25.000Z"
-        },
-        {
-          "id": "69e883024e2efe72884949a5",
-          "title": "Bus: Chuyến Xe Một Chiều",
-          "origin_name": "Bus: The Last Drive",
-          "slug": "bus-chuyen-xe-mot-chieu",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/bu/bus-chuyen-xe-mot-chieu.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/bu/bus-chuyen-xe-mot-chieu.webp",
-          "year": "2026",
-          "type": "single",
-          "genre": [
-            {
-              "name": "Kinh Dị",
-              "slug": "kinh-di"
-            }
-          ],
-          "country": [
-            {
-              "name": "Việt Nam",
-              "slug": "viet-nam"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Trailer",
-          "quality": "HD",
-          "status": "trailer",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-04-22T15:12:53.000Z"
         }
       ]
     },
@@ -3529,23 +3525,20 @@
           "slug": "ho-so-toi-pham-phan-2",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ho/ho-so-toi-pham-phan-2.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ho/ho-so-toi-pham-phan-2.webp",
-          "year": 2026,
+          "year": "2026",
           "type": "series",
           "genre": [
             {
-              "id": "620a2249e0fc277084dfd2e5",
               "name": "Hình Sự",
               "slug": "hinh-su"
             },
             {
-              "id": "620f3d2b91fa4af90ab697fe",
               "name": "Chính kịch",
               "slug": "chinh-kich"
             }
           ],
           "country": [
             {
-              "id": "620a2370e0fc277084dfd91e",
               "name": "Anh",
               "slug": "anh"
             }
@@ -4039,6 +4032,7 @@
       "featured_count_sm": 0,
       "featured_count_xs": 0,
       "ids": [
+        "69e9ef6af0f815b666161eb7",
         "69e9cc5a91cc1b96d58a70d0",
         "69e99f352b874d6bfb6d4132",
         "69e8a475db41bcecb8e33fb6",
@@ -4049,10 +4043,43 @@
         "69e8871a16bc1b4174f65900",
         "69e8862ca54286c41ba88b3a",
         "69e8859dcec790794bf85435",
-        "69e8856b006591e108187dad",
-        "69e885472b874d6bfb6cf892"
+        "69e8856b006591e108187dad"
       ],
       "movies": [
+        {
+          "id": "69e9ef6af0f815b666161eb7",
+          "title": "Vũ Điệu Tình Thù",
+          "origin_name": "The Bangkok Red Opera",
+          "slug": "vu-dieu-tinh-thu",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/vu/vu-dieu-tinh-thu.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/vu/vu-dieu-tinh-thu.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a220de0fc277084dfd16d",
+              "name": "Tình Cảm",
+              "slug": "tinh-cam"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2318e0fc277084dfd77a",
+              "name": "Thái Lan",
+              "slug": "thai-lan"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Trailer",
+          "quality": "HD",
+          "status": "trailer",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": false,
+          "modified": "2026-04-23T17:07:41.000Z"
+        },
         {
           "id": "69e9cc5a91cc1b96d58a70d0",
           "title": "Qifarah",
@@ -4060,18 +4087,16 @@
           "slug": "qifarah",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/qi/qifarah.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/qi/qifarah.webp",
-          "year": 2025,
+          "year": "2025",
           "type": "single",
           "genre": [
             {
-              "id": "620a22ace0fc277084dfd531",
               "name": "Kinh Dị",
               "slug": "kinh-di"
             }
           ],
           "country": [
             {
-              "id": "62159af71f1609c9d934824e",
               "name": "Malaysia",
               "slug": "malaysia"
             }
@@ -4454,38 +4479,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-04-22T15:23:10.000Z"
-        },
-        {
-          "id": "69e885472b874d6bfb6cf892",
-          "title": "Giáo Sư Gabriel: Phần 2",
-          "origin_name": "Gabriel's Inferno: Part II",
-          "slug": "giao-su-gabriel-phan-2",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/gi/giao-su-gabriel-phan-2.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/gi/giao-su-gabriel-phan-2.webp",
-          "year": "2020",
-          "type": "single",
-          "genre": [
-            {
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "name": "Âu Mỹ",
-              "slug": "au-my"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Trailer",
-          "quality": "HD",
-          "status": "trailer",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-04-22T15:22:34.000Z"
         }
       ]
     },
@@ -7455,6 +7448,7 @@
       "featured_count_sm": 0,
       "featured_count_xs": 0,
       "ids": [
+        "69e9ef6af0f815b666161eb7",
         "69e9ca1216bc1b4174f6ae69",
         "69e9cc5a91cc1b96d58a70d0",
         "69e99eaab692c7b208d4c318",
@@ -7469,10 +7463,43 @@
         "69e8859dcec790794bf85435",
         "69e8856b006591e108187dad",
         "69e885472b874d6bfb6cf892",
-        "69e884ff4e2efe7288494b34",
-        "69e88483cec790794bf85337"
+        "69e884ff4e2efe7288494b34"
       ],
       "movies": [
+        {
+          "id": "69e9ef6af0f815b666161eb7",
+          "title": "Vũ Điệu Tình Thù",
+          "origin_name": "The Bangkok Red Opera",
+          "slug": "vu-dieu-tinh-thu",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/vu/vu-dieu-tinh-thu.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/vu/vu-dieu-tinh-thu.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a220de0fc277084dfd16d",
+              "name": "Tình Cảm",
+              "slug": "tinh-cam"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2318e0fc277084dfd77a",
+              "name": "Thái Lan",
+              "slug": "thai-lan"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Trailer",
+          "quality": "HD",
+          "status": "trailer",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": false,
+          "modified": "2026-04-23T17:07:41.000Z"
+        },
         {
           "id": "69e9ca1216bc1b4174f6ae69",
           "title": "Hồ Sơ Tội Phạm (Phần 2)",
@@ -7480,23 +7507,20 @@
           "slug": "ho-so-toi-pham-phan-2",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ho/ho-so-toi-pham-phan-2.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ho/ho-so-toi-pham-phan-2.webp",
-          "year": 2026,
+          "year": "2026",
           "type": "series",
           "genre": [
             {
-              "id": "620a2249e0fc277084dfd2e5",
               "name": "Hình Sự",
               "slug": "hinh-su"
             },
             {
-              "id": "620f3d2b91fa4af90ab697fe",
               "name": "Chính kịch",
               "slug": "chinh-kich"
             }
           ],
           "country": [
             {
-              "id": "620a2370e0fc277084dfd91e",
               "name": "Anh",
               "slug": "anh"
             }
@@ -7519,18 +7543,16 @@
           "slug": "qifarah",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/qi/qifarah.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/qi/qifarah.webp",
-          "year": 2025,
+          "year": "2025",
           "type": "single",
           "genre": [
             {
-              "id": "620a22ace0fc277084dfd531",
               "name": "Kinh Dị",
               "slug": "kinh-di"
             }
           ],
           "country": [
             {
-              "id": "62159af71f1609c9d934824e",
               "name": "Malaysia",
               "slug": "malaysia"
             }
@@ -8017,38 +8039,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-04-22T15:21:23.000Z"
-        },
-        {
-          "id": "69e88483cec790794bf85337",
-          "title": "Giáo Sư Gabriel",
-          "origin_name": "Gabriel's Inferno",
-          "slug": "giao-su-gabriel",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/gi/giao-su-gabriel.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/gi/giao-su-gabriel.webp",
-          "year": "2020",
-          "type": "single",
-          "genre": [
-            {
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "name": "Âu Mỹ",
-              "slug": "au-my"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Trailer",
-          "quality": "HD",
-          "status": "trailer",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-04-22T15:19:17.000Z"
         }
       ]
     },
@@ -11079,6 +11069,19 @@
   ],
   "sliderAuto": [
     {
+      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/vu/vu-dieu-tinh-thu.webp",
+      "link_url": "/phim/vu-dieu-tinh-thu.html",
+      "title": "Vũ Điệu Tình Thù",
+      "year": "2026",
+      "country": "Thái Lan",
+      "episode_current": "Trailer",
+      "genres": [
+        "Tình Cảm"
+      ],
+      "sort_order": 0,
+      "enabled": true
+    },
+    {
       "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ho/ho-so-toi-pham-phan-2.webp",
       "link_url": "/phim/ho-so-toi-pham-phan-2.html",
       "title": "Hồ Sơ Tội Phạm (Phần 2)",
@@ -11089,7 +11092,7 @@
         "Hình Sự",
         "Chính kịch"
       ],
-      "sort_order": 0,
+      "sort_order": 1,
       "enabled": true
     },
     {
@@ -11102,7 +11105,7 @@
       "genres": [
         "Kinh Dị"
       ],
-      "sort_order": 1,
+      "sort_order": 2,
       "enabled": true
     },
     {
@@ -11116,7 +11119,7 @@
         "Kinh Dị",
         "Chính kịch"
       ],
-      "sort_order": 2,
+      "sort_order": 3,
       "enabled": true
     },
     {
@@ -11129,7 +11132,7 @@
       "genres": [
         "Chính kịch"
       ],
-      "sort_order": 3,
+      "sort_order": 4,
       "enabled": true
     },
     {
@@ -11142,7 +11145,7 @@
       "genres": [
         "Chính kịch"
       ],
-      "sort_order": 4,
+      "sort_order": 5,
       "enabled": true
     },
     {
@@ -11156,7 +11159,7 @@
         "Hài Hước",
         "Chính kịch"
       ],
-      "sort_order": 5,
+      "sort_order": 6,
       "enabled": true
     },
     {
@@ -11169,7 +11172,7 @@
       "genres": [
         "Chính kịch"
       ],
-      "sort_order": 6,
+      "sort_order": 7,
       "enabled": true
     },
     {
@@ -11185,7 +11188,7 @@
         "Khoa Học",
         "Kinh Dị"
       ],
-      "sort_order": 7,
+      "sort_order": 8,
       "enabled": true
     },
     {
@@ -11200,7 +11203,7 @@
         "Hài Hước",
         "Phiêu Lưu"
       ],
-      "sort_order": 8,
+      "sort_order": 9,
       "enabled": true
     },
     {
@@ -11213,7 +11216,7 @@
       "genres": [
         "Short Drama"
       ],
-      "sort_order": 9,
+      "sort_order": 10,
       "enabled": true
     },
     {
@@ -11225,20 +11228,6 @@
       "episode_current": "Trailer",
       "genres": [
         "Chính kịch"
-      ],
-      "sort_order": 10,
-      "enabled": true
-    },
-    {
-      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/gi/gioi-han-doc.webp",
-      "link_url": "/phim/gioi-han-doc.html",
-      "title": "Giới hạn dọc",
-      "year": "2000",
-      "country": "Âu Mỹ",
-      "episode_current": "Full",
-      "genres": [
-        "Hành Động",
-        "Phiêu Lưu"
       ],
       "sort_order": 11,
       "enabled": true
