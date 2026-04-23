@@ -1,6 +1,6 @@
 {
   "buildVersion": {
-    "builtAt": "2026-04-23T06:25:12.351Z"
+    "builtAt": "2026-04-23T09:09:30.690Z"
   },
   "siteSettings": {
     "site_name": "GoTV",
@@ -910,7 +910,7 @@
             }
           ],
           "lang_key": "Vietsub",
-          "episode_current": "Tập 19",
+          "episode_current": "Tập 20",
           "quality": "4K",
           "status": "ongoing",
           "showtimes": "Thứ 2, 3, 4 mỗi ngày cập nhật 2 tập",
@@ -942,7 +942,7 @@
             }
           ],
           "lang_key": "Vietsub",
-          "episode_current": "Tập 20",
+          "episode_current": "Tập 22",
           "quality": "4K",
           "status": "ongoing",
           "showtimes": "Thứ 2, 3, 4 mỗi ngày cập nhật 2 tập",
@@ -1474,7 +1474,7 @@
             }
           ],
           "lang_key": "Vietsub",
-          "episode_current": "Tập 19",
+          "episode_current": "Tập 20",
           "quality": "4K",
           "status": "ongoing",
           "showtimes": "Thứ 2, 3, 4 mỗi ngày cập nhật 2 tập",
@@ -1506,7 +1506,7 @@
             }
           ],
           "lang_key": "Vietsub",
-          "episode_current": "Tập 20",
+          "episode_current": "Tập 22",
           "quality": "4K",
           "status": "ongoing",
           "showtimes": "Thứ 2, 3, 4 mỗi ngày cập nhật 2 tập",
@@ -2038,6 +2038,7 @@
       "featured_count_sm": 1,
       "featured_count_xs": 1,
       "ids": [
+        "69e9ca1216bc1b4174f6ae69",
         "69e9a52d6d4243e068f2b891",
         "69e99f352b874d6bfb6d4132",
         "69e8a475db41bcecb8e33fb6",
@@ -2049,20 +2050,24 @@
         "6947a82897c71dcd0d63982e",
         "69e84ade748ca16f0861152d",
         "69e4847031aa2678f8ca4219",
-        "69d8779e6d4243e068ecd2e4",
-        "69e05ef4748ca16f085dcbcc"
+        "69d8779e6d4243e068ecd2e4"
       ],
       "movies": [
         {
-          "id": "69e9a52d6d4243e068f2b891",
-          "title": "Hôm Nay Cũng Đang Giải Cứu Thế Giới",
-          "origin_name": "Another Day Saving the World",
-          "slug": "hom-nay-cung-dang-giai-cuu-the-gioi",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ho/hom-nay-cung-dang-giai-cuu-the-gioi.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ho/hom-nay-cung-dang-giai-cuu-the-gioi.webp",
+          "id": "69e9ca1216bc1b4174f6ae69",
+          "title": "Hồ Sơ Tội Phạm (Phần 2)",
+          "origin_name": "Criminal Record (Season 2)",
+          "slug": "ho-so-toi-pham-phan-2",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ho/ho-so-toi-pham-phan-2.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ho/ho-so-toi-pham-phan-2.webp",
           "year": 2026,
           "type": "series",
           "genre": [
+            {
+              "id": "620a2249e0fc277084dfd2e5",
+              "name": "Hình Sự",
+              "slug": "hinh-su"
+            },
             {
               "id": "620f3d2b91fa4af90ab697fe",
               "name": "Chính kịch",
@@ -2071,7 +2076,39 @@
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
+              "id": "620a2370e0fc277084dfd91e",
+              "name": "Anh",
+              "slug": "anh"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 1",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": false,
+          "modified": "2026-04-23T14:58:39.000Z"
+        },
+        {
+          "id": "69e9a52d6d4243e068f2b891",
+          "title": "Hôm Nay Cũng Đang Giải Cứu Thế Giới",
+          "origin_name": "Another Day Saving the World",
+          "slug": "hom-nay-cung-dang-giai-cuu-the-gioi",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ho/hom-nay-cung-dang-giai-cuu-the-gioi.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ho/hom-nay-cung-dang-giai-cuu-the-gioi.webp",
+          "year": "2026",
+          "type": "series",
+          "genre": [
+            {
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -2094,24 +2131,22 @@
           "slug": "ngoai-dao",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ng/ngoai-dao.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ng/ngoai-dao.webp",
-          "year": 2026,
+          "year": "2026",
           "type": "series",
           "genre": [
             {
-              "id": "620f3d2b91fa4af90ab697fe",
               "name": "Chính kịch",
               "slug": "chinh-kich"
             }
           ],
           "country": [
             {
-              "id": "620a2370e0fc277084dfd91e",
               "name": "Anh",
               "slug": "anh"
             }
           ],
           "lang_key": "Vietsub",
-          "episode_current": "Trailer",
+          "episode_current": "Hoàn tất (6/6)",
           "quality": "HD",
           "status": "trailer",
           "showtimes": "",
@@ -2295,7 +2330,7 @@
             }
           ],
           "lang_key": "Vietsub",
-          "episode_current": "Tập 19",
+          "episode_current": "Tập 20",
           "quality": "4K",
           "status": "ongoing",
           "showtimes": "Thứ 2, 3, 4 mỗi ngày cập nhật 2 tập",
@@ -2327,7 +2362,7 @@
             }
           ],
           "lang_key": "Vietsub",
-          "episode_current": "Tập 20",
+          "episode_current": "Tập 22",
           "quality": "4K",
           "status": "ongoing",
           "showtimes": "Thứ 2, 3, 4 mỗi ngày cập nhật 2 tập",
@@ -2476,38 +2511,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-04-22T11:17:47.000Z"
-        },
-        {
-          "id": "69e05ef4748ca16f085dcbcc",
-          "title": "Cứ Thế Mà Gặp Em",
-          "origin_name": "Just to Meet You",
-          "slug": "cu-the-ma-gap-em",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/cu/cu-the-ma-gap-em.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/cu/cu-the-ma-gap-em.webp",
-          "year": "2026",
-          "type": "series",
-          "genre": [
-            {
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "name": "Trung Quốc",
-              "slug": "trung-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 17",
-          "quality": "4K",
-          "status": "ongoing",
-          "showtimes": "Thứ 2, 3, 4 mỗi ngày cập nhật 2 tập",
-          "is_4k": true,
-          "is_exclusive": true,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-04-22T11:17:36.000Z"
         }
       ]
     },
@@ -2535,6 +2538,7 @@
       "grid_columns_sm": 3,
       "grid_columns_xs": 2,
       "ids": [
+        "69e9cc5a91cc1b96d58a70d0",
         "69e99eaab692c7b208d4c318",
         "69e8945d16bc1b4174f65f26",
         "69e893324a74b3cede102f4d",
@@ -2545,17 +2549,16 @@
         "69e8856b006591e108187dad",
         "69e885472b874d6bfb6cf892",
         "69e884ff4e2efe7288494b34",
-        "69e88483cec790794bf85337",
-        "69e8845131aa2678f8cbc416"
+        "69e88483cec790794bf85337"
       ],
       "movies": [
         {
-          "id": "69e99eaab692c7b208d4c318",
-          "title": "Kẻ Cứu Rỗi",
-          "origin_name": "The Favor",
-          "slug": "ke-cuu-roi",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ke/ke-cuu-roi.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ke/ke-cuu-roi.webp",
+          "id": "69e9cc5a91cc1b96d58a70d0",
+          "title": "Qifarah",
+          "origin_name": "Qifarah",
+          "slug": "qifarah",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/qi/qifarah.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/qi/qifarah.webp",
           "year": 2025,
           "type": "single",
           "genre": [
@@ -2563,16 +2566,47 @@
               "id": "620a22ace0fc277084dfd531",
               "name": "Kinh Dị",
               "slug": "kinh-di"
+            }
+          ],
+          "country": [
+            {
+              "id": "62159af71f1609c9d934824e",
+              "name": "Malaysia",
+              "slug": "malaysia"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Trailer",
+          "quality": "HD",
+          "status": "trailer",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": false,
+          "modified": "2026-04-23T14:38:02.000Z"
+        },
+        {
+          "id": "69e99eaab692c7b208d4c318",
+          "title": "Kẻ Cứu Rỗi",
+          "origin_name": "The Favor",
+          "slug": "ke-cuu-roi",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ke/ke-cuu-roi.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ke/ke-cuu-roi.webp",
+          "year": "2025",
+          "type": "single",
+          "genre": [
+            {
+              "name": "Kinh Dị",
+              "slug": "kinh-di"
             },
             {
-              "id": "620f3d2b91fa4af90ab697fe",
               "name": "Chính kịch",
               "slug": "chinh-kich"
             }
           ],
           "country": [
             {
-              "id": "620a2300e0fc277084dfd6d2",
               "name": "Hàn Quốc",
               "slug": "han-quoc"
             }
@@ -2955,38 +2989,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-04-22T15:19:17.000Z"
-        },
-        {
-          "id": "69e8845131aa2678f8cbc416",
-          "title": "Thẩm Mỹ Viện Âm Phủ",
-          "origin_name": "Thẩm Mỹ Viện Âm Phủ",
-          "slug": "tham-my-vien-am-phu",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/th/tham-my-vien-am-phu.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/th/tham-my-vien-am-phu.webp",
-          "year": "2026",
-          "type": "single",
-          "genre": [
-            {
-              "name": "Tình Cảm",
-              "slug": "tinh-cam"
-            }
-          ],
-          "country": [
-            {
-              "name": "Việt Nam",
-              "slug": "viet-nam"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Trailer",
-          "quality": "HD",
-          "status": "trailer",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-04-22T15:18:27.000Z"
         }
       ]
     },
@@ -3014,6 +3016,7 @@
       "grid_columns_sm": 3,
       "grid_columns_xs": 2,
       "ids": [
+        "69e9ca1216bc1b4174f6ae69",
         "69e9a52d6d4243e068f2b891",
         "69e99f352b874d6bfb6d4132",
         "69e8a475db41bcecb8e33fb6",
@@ -3024,20 +3027,24 @@
         "69e8841531aa2678f8cbc3de",
         "69e883ef2b874d6bfb6cf754",
         "69e8835231aa2678f8cbc332",
-        "69e883024e2efe72884949a5",
-        "69e882e7b692c7b208d47b41"
+        "69e883024e2efe72884949a5"
       ],
       "movies": [
         {
-          "id": "69e9a52d6d4243e068f2b891",
-          "title": "Hôm Nay Cũng Đang Giải Cứu Thế Giới",
-          "origin_name": "Another Day Saving the World",
-          "slug": "hom-nay-cung-dang-giai-cuu-the-gioi",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ho/hom-nay-cung-dang-giai-cuu-the-gioi.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ho/hom-nay-cung-dang-giai-cuu-the-gioi.webp",
+          "id": "69e9ca1216bc1b4174f6ae69",
+          "title": "Hồ Sơ Tội Phạm (Phần 2)",
+          "origin_name": "Criminal Record (Season 2)",
+          "slug": "ho-so-toi-pham-phan-2",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ho/ho-so-toi-pham-phan-2.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ho/ho-so-toi-pham-phan-2.webp",
           "year": 2026,
           "type": "series",
           "genre": [
+            {
+              "id": "620a2249e0fc277084dfd2e5",
+              "name": "Hình Sự",
+              "slug": "hinh-su"
+            },
             {
               "id": "620f3d2b91fa4af90ab697fe",
               "name": "Chính kịch",
@@ -3046,7 +3053,39 @@
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
+              "id": "620a2370e0fc277084dfd91e",
+              "name": "Anh",
+              "slug": "anh"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 1",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": false,
+          "modified": "2026-04-23T14:58:39.000Z"
+        },
+        {
+          "id": "69e9a52d6d4243e068f2b891",
+          "title": "Hôm Nay Cũng Đang Giải Cứu Thế Giới",
+          "origin_name": "Another Day Saving the World",
+          "slug": "hom-nay-cung-dang-giai-cuu-the-gioi",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ho/hom-nay-cung-dang-giai-cuu-the-gioi.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ho/hom-nay-cung-dang-giai-cuu-the-gioi.webp",
+          "year": "2026",
+          "type": "series",
+          "genre": [
+            {
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -3069,24 +3108,22 @@
           "slug": "ngoai-dao",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ng/ngoai-dao.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ng/ngoai-dao.webp",
-          "year": 2026,
+          "year": "2026",
           "type": "series",
           "genre": [
             {
-              "id": "620f3d2b91fa4af90ab697fe",
               "name": "Chính kịch",
               "slug": "chinh-kich"
             }
           ],
           "country": [
             {
-              "id": "620a2370e0fc277084dfd91e",
               "name": "Anh",
               "slug": "anh"
             }
           ],
           "lang_key": "Vietsub",
-          "episode_current": "Trailer",
+          "episode_current": "Hoàn tất (6/6)",
           "quality": "HD",
           "status": "trailer",
           "showtimes": "",
@@ -3427,38 +3464,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-04-22T15:12:53.000Z"
-        },
-        {
-          "id": "69e882e7b692c7b208d47b41",
-          "title": "Heo Năm Móng",
-          "origin_name": "Hell Trotter",
-          "slug": "heo-nam-mong",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/he/heo-nam-mong.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/he/heo-nam-mong.webp",
-          "year": "2026",
-          "type": "single",
-          "genre": [
-            {
-              "name": "Kinh Dị",
-              "slug": "kinh-di"
-            }
-          ],
-          "country": [
-            {
-              "name": "Việt Nam",
-              "slug": "viet-nam"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Trailer",
-          "quality": "HD",
-          "status": "trailer",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-04-22T15:12:26.000Z"
         }
       ]
     },
@@ -3502,6 +3507,7 @@
       "featured_count_sm": 1,
       "featured_count_xs": 1,
       "ids": [
+        "69e9ca1216bc1b4174f6ae69",
         "695f5290f063d23bbbc21c06",
         "69c39efcf65d22d617b84ba1",
         "69c64c2a4da3bf6eb345b636",
@@ -3513,10 +3519,48 @@
         "69e4847031aa2678f8ca4219",
         "69d8779e6d4243e068ecd2e4",
         "69e05ef4748ca16f085dcbcc",
-        "69e32daa91cc1b96d587e559",
-        "69e84a9d006591e10818674d"
+        "69e32daa91cc1b96d587e559"
       ],
       "movies": [
+        {
+          "id": "69e9ca1216bc1b4174f6ae69",
+          "title": "Hồ Sơ Tội Phạm (Phần 2)",
+          "origin_name": "Criminal Record (Season 2)",
+          "slug": "ho-so-toi-pham-phan-2",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ho/ho-so-toi-pham-phan-2.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ho/ho-so-toi-pham-phan-2.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a2249e0fc277084dfd2e5",
+              "name": "Hình Sự",
+              "slug": "hinh-su"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2370e0fc277084dfd91e",
+              "name": "Anh",
+              "slug": "anh"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 1",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": false,
+          "modified": "2026-04-23T14:58:39.000Z"
+        },
         {
           "id": "695f5290f063d23bbbc21c06",
           "title": "The Boys (Phần 5)",
@@ -3707,7 +3751,7 @@
             }
           ],
           "lang_key": "Vietsub",
-          "episode_current": "Tập 19",
+          "episode_current": "Tập 20",
           "quality": "4K",
           "status": "ongoing",
           "showtimes": "Thứ 2, 3, 4 mỗi ngày cập nhật 2 tập",
@@ -3739,7 +3783,7 @@
             }
           ],
           "lang_key": "Vietsub",
-          "episode_current": "Tập 20",
+          "episode_current": "Tập 22",
           "quality": "4K",
           "status": "ongoing",
           "showtimes": "Thứ 2, 3, 4 mỗi ngày cập nhật 2 tập",
@@ -3952,38 +3996,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-04-22T11:17:22.000Z"
-        },
-        {
-          "id": "69e84a9d006591e10818674d",
-          "title": "Có Một Lá Thư Gửi Từ Thành Phố Cảng",
-          "origin_name": "Echoes of Gang City",
-          "slug": "co-mot-la-thu-gui-tu-thanh-pho-cang",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/co/co-mot-la-thu-gui-tu-thanh-pho-cang.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/co/co-mot-la-thu-gui-tu-thanh-pho-cang.webp",
-          "year": "2026",
-          "type": "series",
-          "genre": [
-            {
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "name": "Trung Quốc",
-              "slug": "trung-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 8",
-          "quality": "4K",
-          "status": "ongoing",
-          "showtimes": "Thứ 2, 3, 4 mỗi ngày cập nhật 2 tập",
-          "is_4k": true,
-          "is_exclusive": true,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-04-22T11:16:57.000Z"
         }
       ]
     },
@@ -4027,6 +4039,7 @@
       "featured_count_sm": 0,
       "featured_count_xs": 0,
       "ids": [
+        "69e9cc5a91cc1b96d58a70d0",
         "69e99f352b874d6bfb6d4132",
         "69e8a475db41bcecb8e33fb6",
         "69e8945d16bc1b4174f65f26",
@@ -4037,10 +4050,43 @@
         "69e8862ca54286c41ba88b3a",
         "69e8859dcec790794bf85435",
         "69e8856b006591e108187dad",
-        "69e885472b874d6bfb6cf892",
-        "69e884ff4e2efe7288494b34"
+        "69e885472b874d6bfb6cf892"
       ],
       "movies": [
+        {
+          "id": "69e9cc5a91cc1b96d58a70d0",
+          "title": "Qifarah",
+          "origin_name": "Qifarah",
+          "slug": "qifarah",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/qi/qifarah.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/qi/qifarah.webp",
+          "year": 2025,
+          "type": "single",
+          "genre": [
+            {
+              "id": "620a22ace0fc277084dfd531",
+              "name": "Kinh Dị",
+              "slug": "kinh-di"
+            }
+          ],
+          "country": [
+            {
+              "id": "62159af71f1609c9d934824e",
+              "name": "Malaysia",
+              "slug": "malaysia"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Trailer",
+          "quality": "HD",
+          "status": "trailer",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": false,
+          "modified": "2026-04-23T14:38:02.000Z"
+        },
         {
           "id": "69e99f352b874d6bfb6d4132",
           "title": "Ngoại đạo",
@@ -4048,24 +4094,22 @@
           "slug": "ngoai-dao",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ng/ngoai-dao.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ng/ngoai-dao.webp",
-          "year": 2026,
+          "year": "2026",
           "type": "series",
           "genre": [
             {
-              "id": "620f3d2b91fa4af90ab697fe",
               "name": "Chính kịch",
               "slug": "chinh-kich"
             }
           ],
           "country": [
             {
-              "id": "620a2370e0fc277084dfd91e",
               "name": "Anh",
               "slug": "anh"
             }
           ],
           "lang_key": "Vietsub",
-          "episode_current": "Trailer",
+          "episode_current": "Hoàn tất (6/6)",
           "quality": "HD",
           "status": "trailer",
           "showtimes": "",
@@ -4442,42 +4486,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-04-22T15:22:34.000Z"
-        },
-        {
-          "id": "69e884ff4e2efe7288494b34",
-          "title": "Lucy Shimmers và Hoàng tử Hòa bình",
-          "origin_name": "Lucy Shimmers and the Prince of Peace",
-          "slug": "lucy-shimmers-va-hoang-tu-hoa-binh",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/lu/lucy-shimmers-va-hoang-tu-hoa-binh.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/lu/lucy-shimmers-va-hoang-tu-hoa-binh.webp",
-          "year": "2020",
-          "type": "single",
-          "genre": [
-            {
-              "name": "Gia Đình",
-              "slug": "gia-dinh"
-            },
-            {
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "name": "Âu Mỹ",
-              "slug": "au-my"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Trailer",
-          "quality": "HD",
-          "status": "trailer",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-04-22T15:21:23.000Z"
         }
       ]
     },
@@ -6979,7 +6987,7 @@
             }
           ],
           "lang_key": "Vietsub + Thuyết Minh",
-          "episode_current": "Tập 263",
+          "episode_current": "Tập 264",
           "quality": "HD",
           "status": "ongoing",
           "showtimes": "",
@@ -7447,6 +7455,8 @@
       "featured_count_sm": 0,
       "featured_count_xs": 0,
       "ids": [
+        "69e9ca1216bc1b4174f6ae69",
+        "69e9cc5a91cc1b96d58a70d0",
         "69e99eaab692c7b208d4c318",
         "69e9a52d6d4243e068f2b891",
         "69e99f352b874d6bfb6d4132",
@@ -7460,25 +7470,23 @@
         "69e8856b006591e108187dad",
         "69e885472b874d6bfb6cf892",
         "69e884ff4e2efe7288494b34",
-        "69e88483cec790794bf85337",
-        "69e8845131aa2678f8cbc416",
-        "69e8842f6d4243e068f26e01"
+        "69e88483cec790794bf85337"
       ],
       "movies": [
         {
-          "id": "69e99eaab692c7b208d4c318",
-          "title": "Kẻ Cứu Rỗi",
-          "origin_name": "The Favor",
-          "slug": "ke-cuu-roi",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ke/ke-cuu-roi.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ke/ke-cuu-roi.webp",
-          "year": 2025,
-          "type": "single",
+          "id": "69e9ca1216bc1b4174f6ae69",
+          "title": "Hồ Sơ Tội Phạm (Phần 2)",
+          "origin_name": "Criminal Record (Season 2)",
+          "slug": "ho-so-toi-pham-phan-2",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ho/ho-so-toi-pham-phan-2.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ho/ho-so-toi-pham-phan-2.webp",
+          "year": 2026,
+          "type": "series",
           "genre": [
             {
-              "id": "620a22ace0fc277084dfd531",
-              "name": "Kinh Dị",
-              "slug": "kinh-di"
+              "id": "620a2249e0fc277084dfd2e5",
+              "name": "Hình Sự",
+              "slug": "hinh-su"
             },
             {
               "id": "620f3d2b91fa4af90ab697fe",
@@ -7488,7 +7496,77 @@
           ],
           "country": [
             {
-              "id": "620a2300e0fc277084dfd6d2",
+              "id": "620a2370e0fc277084dfd91e",
+              "name": "Anh",
+              "slug": "anh"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 1",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": false,
+          "modified": "2026-04-23T14:58:39.000Z"
+        },
+        {
+          "id": "69e9cc5a91cc1b96d58a70d0",
+          "title": "Qifarah",
+          "origin_name": "Qifarah",
+          "slug": "qifarah",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/qi/qifarah.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/qi/qifarah.webp",
+          "year": 2025,
+          "type": "single",
+          "genre": [
+            {
+              "id": "620a22ace0fc277084dfd531",
+              "name": "Kinh Dị",
+              "slug": "kinh-di"
+            }
+          ],
+          "country": [
+            {
+              "id": "62159af71f1609c9d934824e",
+              "name": "Malaysia",
+              "slug": "malaysia"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Trailer",
+          "quality": "HD",
+          "status": "trailer",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": false,
+          "modified": "2026-04-23T14:38:02.000Z"
+        },
+        {
+          "id": "69e99eaab692c7b208d4c318",
+          "title": "Kẻ Cứu Rỗi",
+          "origin_name": "The Favor",
+          "slug": "ke-cuu-roi",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ke/ke-cuu-roi.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ke/ke-cuu-roi.webp",
+          "year": "2025",
+          "type": "single",
+          "genre": [
+            {
+              "name": "Kinh Dị",
+              "slug": "kinh-di"
+            },
+            {
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
               "name": "Hàn Quốc",
               "slug": "han-quoc"
             }
@@ -7511,18 +7589,16 @@
           "slug": "hom-nay-cung-dang-giai-cuu-the-gioi",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ho/hom-nay-cung-dang-giai-cuu-the-gioi.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ho/hom-nay-cung-dang-giai-cuu-the-gioi.webp",
-          "year": 2026,
+          "year": "2026",
           "type": "series",
           "genre": [
             {
-              "id": "620f3d2b91fa4af90ab697fe",
               "name": "Chính kịch",
               "slug": "chinh-kich"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -7545,24 +7621,22 @@
           "slug": "ngoai-dao",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ng/ngoai-dao.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ng/ngoai-dao.webp",
-          "year": 2026,
+          "year": "2026",
           "type": "series",
           "genre": [
             {
-              "id": "620f3d2b91fa4af90ab697fe",
               "name": "Chính kịch",
               "slug": "chinh-kich"
             }
           ],
           "country": [
             {
-              "id": "620a2370e0fc277084dfd91e",
               "name": "Anh",
               "slug": "anh"
             }
           ],
           "lang_key": "Vietsub",
-          "episode_current": "Trailer",
+          "episode_current": "Hoàn tất (6/6)",
           "quality": "HD",
           "status": "trailer",
           "showtimes": "",
@@ -7975,70 +8049,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-04-22T15:19:17.000Z"
-        },
-        {
-          "id": "69e8845131aa2678f8cbc416",
-          "title": "Thẩm Mỹ Viện Âm Phủ",
-          "origin_name": "Thẩm Mỹ Viện Âm Phủ",
-          "slug": "tham-my-vien-am-phu",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/th/tham-my-vien-am-phu.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/th/tham-my-vien-am-phu.webp",
-          "year": "2026",
-          "type": "single",
-          "genre": [
-            {
-              "name": "Tình Cảm",
-              "slug": "tinh-cam"
-            }
-          ],
-          "country": [
-            {
-              "name": "Việt Nam",
-              "slug": "viet-nam"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Trailer",
-          "quality": "HD",
-          "status": "trailer",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-04-22T15:18:27.000Z"
-        },
-        {
-          "id": "69e8842f6d4243e068f26e01",
-          "title": "Một Thời Ta Đã Yêu",
-          "origin_name": "Một Thời Ta Đã Yêu",
-          "slug": "mot-thoi-ta-da-yeu",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/mo/mot-thoi-ta-da-yeu.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/mo/mot-thoi-ta-da-yeu.webp",
-          "year": "2026",
-          "type": "single",
-          "genre": [
-            {
-              "name": "Tình Cảm",
-              "slug": "tinh-cam"
-            }
-          ],
-          "country": [
-            {
-              "name": "Việt Nam",
-              "slug": "viet-nam"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Trailer",
-          "quality": "HD",
-          "status": "trailer",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-04-22T15:17:56.000Z"
         }
       ]
     },
@@ -8107,18 +8117,16 @@
           "slug": "hom-nay-cung-dang-giai-cuu-the-gioi",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ho/hom-nay-cung-dang-giai-cuu-the-gioi.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ho/hom-nay-cung-dang-giai-cuu-the-gioi.webp",
-          "year": 2026,
+          "year": "2026",
           "type": "series",
           "genre": [
             {
-              "id": "620f3d2b91fa4af90ab697fe",
               "name": "Chính kịch",
               "slug": "chinh-kich"
             }
           ],
           "country": [
             {
-              "id": "62093063196e9f4ab6b448b8",
               "name": "Trung Quốc",
               "slug": "trung-quoc"
             }
@@ -8272,7 +8280,7 @@
             }
           ],
           "lang_key": "Vietsub",
-          "episode_current": "Tập 19",
+          "episode_current": "Tập 20",
           "quality": "4K",
           "status": "ongoing",
           "showtimes": "Thứ 2, 3, 4 mỗi ngày cập nhật 2 tập",
@@ -8304,7 +8312,7 @@
             }
           ],
           "lang_key": "Vietsub",
-          "episode_current": "Tập 20",
+          "episode_current": "Tập 22",
           "quality": "4K",
           "status": "ongoing",
           "showtimes": "Thứ 2, 3, 4 mỗi ngày cập nhật 2 tập",
@@ -8729,23 +8737,20 @@
           "slug": "ke-cuu-roi",
           "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ke/ke-cuu-roi.webp",
           "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ke/ke-cuu-roi.webp",
-          "year": 2025,
+          "year": "2025",
           "type": "single",
           "genre": [
             {
-              "id": "620a22ace0fc277084dfd531",
               "name": "Kinh Dị",
               "slug": "kinh-di"
             },
             {
-              "id": "620f3d2b91fa4af90ab697fe",
               "name": "Chính kịch",
               "slug": "chinh-kich"
             }
           ],
           "country": [
             {
-              "id": "620a2300e0fc277084dfd6d2",
               "name": "Hàn Quốc",
               "slug": "han-quoc"
             }
@@ -9931,7 +9936,7 @@
             }
           ],
           "lang_key": "Vietsub",
-          "episode_current": "Tập 5",
+          "episode_current": "Hoàn Tất (6/6)",
           "quality": "HD",
           "status": "ongoing",
           "showtimes": "",
@@ -10107,7 +10112,7 @@
             }
           ],
           "lang_key": "Vietsub + Thuyết Minh",
-          "episode_current": "Tập 263",
+          "episode_current": "Tập 264",
           "quality": "HD",
           "status": "ongoing",
           "showtimes": "",
@@ -10835,7 +10840,7 @@
             }
           ],
           "lang_key": "Vietsub",
-          "episode_current": "Tập 20",
+          "episode_current": "Tập 22",
           "quality": "4K",
           "status": "ongoing",
           "showtimes": "Thứ 2, 3, 4 mỗi ngày cập nhật 2 tập",
@@ -11059,7 +11064,7 @@
             }
           ],
           "lang_key": "Vietsub",
-          "episode_current": "Tập 5",
+          "episode_current": "Hoàn Tất (6/6)",
           "quality": "HD",
           "status": "ongoing",
           "showtimes": "",
@@ -11074,6 +11079,33 @@
   ],
   "sliderAuto": [
     {
+      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ho/ho-so-toi-pham-phan-2.webp",
+      "link_url": "/phim/ho-so-toi-pham-phan-2.html",
+      "title": "Hồ Sơ Tội Phạm (Phần 2)",
+      "year": "2026",
+      "country": "Anh",
+      "episode_current": "Tập 1",
+      "genres": [
+        "Hình Sự",
+        "Chính kịch"
+      ],
+      "sort_order": 0,
+      "enabled": true
+    },
+    {
+      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/qi/qifarah.webp",
+      "link_url": "/phim/qifarah.html",
+      "title": "Qifarah",
+      "year": "2025",
+      "country": "Malaysia",
+      "episode_current": "Trailer",
+      "genres": [
+        "Kinh Dị"
+      ],
+      "sort_order": 1,
+      "enabled": true
+    },
+    {
       "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ke/ke-cuu-roi.webp",
       "link_url": "/phim/ke-cuu-roi.html",
       "title": "Kẻ Cứu Rỗi",
@@ -11084,7 +11116,7 @@
         "Kinh Dị",
         "Chính kịch"
       ],
-      "sort_order": 0,
+      "sort_order": 2,
       "enabled": true
     },
     {
@@ -11097,7 +11129,7 @@
       "genres": [
         "Chính kịch"
       ],
-      "sort_order": 1,
+      "sort_order": 3,
       "enabled": true
     },
     {
@@ -11106,11 +11138,11 @@
       "title": "Ngoại đạo",
       "year": "2026",
       "country": "Anh",
-      "episode_current": "Trailer",
+      "episode_current": "Hoàn tất (6/6)",
       "genres": [
         "Chính kịch"
       ],
-      "sort_order": 2,
+      "sort_order": 4,
       "enabled": true
     },
     {
@@ -11124,7 +11156,7 @@
         "Hài Hước",
         "Chính kịch"
       ],
-      "sort_order": 3,
+      "sort_order": 5,
       "enabled": true
     },
     {
@@ -11137,7 +11169,7 @@
       "genres": [
         "Chính kịch"
       ],
-      "sort_order": 4,
+      "sort_order": 6,
       "enabled": true
     },
     {
@@ -11153,7 +11185,7 @@
         "Khoa Học",
         "Kinh Dị"
       ],
-      "sort_order": 5,
+      "sort_order": 7,
       "enabled": true
     },
     {
@@ -11168,7 +11200,7 @@
         "Hài Hước",
         "Phiêu Lưu"
       ],
-      "sort_order": 6,
+      "sort_order": 8,
       "enabled": true
     },
     {
@@ -11181,7 +11213,7 @@
       "genres": [
         "Short Drama"
       ],
-      "sort_order": 7,
+      "sort_order": 9,
       "enabled": true
     },
     {
@@ -11194,7 +11226,7 @@
       "genres": [
         "Chính kịch"
       ],
-      "sort_order": 8,
+      "sort_order": 10,
       "enabled": true
     },
     {
@@ -11207,32 +11239,6 @@
       "genres": [
         "Hành Động",
         "Phiêu Lưu"
-      ],
-      "sort_order": 9,
-      "enabled": true
-    },
-    {
-      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ma/mang-tam-hon-bo-phim.webp",
-      "link_url": "/phim/mang-tam-hon-bo-phim.html",
-      "title": "Mang Tâm Hồn: Bộ Phim",
-      "year": "2019",
-      "country": "Hàn Quốc",
-      "episode_current": "Trailer",
-      "genres": [
-        "Tài Liệu"
-      ],
-      "sort_order": 10,
-      "enabled": true
-    },
-    {
-      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/gi/giao-su-gabriel-phan-3.webp",
-      "link_url": "/phim/giao-su-gabriel-phan-3.html",
-      "title": "Giáo Sư Gabriel: Phần 3",
-      "year": "2020",
-      "country": "Âu Mỹ",
-      "episode_current": "Trailer",
-      "genres": [
-        "Chính kịch"
       ],
       "sort_order": 11,
       "enabled": true
