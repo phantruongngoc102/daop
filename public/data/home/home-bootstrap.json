@@ -1,6 +1,6 @@
 {
   "buildVersion": {
-    "builtAt": "2026-04-24T15:10:29.665Z"
+    "builtAt": "2026-04-24T17:52:18.386Z"
   },
   "siteSettings": {
     "site_name": "GoTV",
@@ -134,12 +134,12 @@
     "upload_r2_quality": "70",
     "upload_r2_thumb_quality": "",
     "upload_r2_poster_quality": "",
-    "upload_r2_thumb_width": "238",
-    "upload_r2_thumb_height": "344",
     "ophim_start_page": "20",
     "ophim_end_page": "1",
     "ophim_auto_start_page": "20",
     "ophim_auto_end_page": "1",
+    "upload_r2_thumb_width": "238",
+    "upload_r2_thumb_height": "344",
     "theme_accent_light": "#1d4ed8",
     "theme_light_card": "#fbf6ef",
     "theme_light_muted": "#4f5b66",
@@ -162,8 +162,8 @@
     "upload_r2_limit": "0",
     "upload_r2_concurrency": "16",
     "upload_r2_reupload_existing": "0",
-    "update_data_two_phase": "1",
-    "update_data_manual_two_phase": "1",
+    "update_data_two_phase": "0",
+    "update_data_manual_two_phase": "0",
     "upload_images_after_build": "1",
     "deploy_after_r2_upload": "1"
   },
@@ -1214,7 +1214,7 @@
             }
           ],
           "lang_key": "Vietsub + Thuyết Minh",
-          "episode_current": "Tập 22",
+          "episode_current": "Tập 24",
           "quality": "4K",
           "status": "ongoing",
           "showtimes": "Thứ 2, 3, 4 mỗi ngày cập nhật 2 tập",
@@ -1778,7 +1778,7 @@
             }
           ],
           "lang_key": "Vietsub + Thuyết Minh",
-          "episode_current": "Tập 22",
+          "episode_current": "Tập 24",
           "quality": "4K",
           "status": "ongoing",
           "showtimes": "Thứ 2, 3, 4 mỗi ngày cập nhật 2 tập",
@@ -2038,6 +2038,7 @@
       "featured_count_sm": 1,
       "featured_count_xs": 1,
       "ids": [
+        "69eb8a10da7d894068609364",
         "69eb252515072466acef7d80",
         "69eb27e24a74b3cede10ef6e",
         "69eaf1a993c48ff6bfed7459",
@@ -2049,10 +2050,43 @@
         "69e9ef6af0f815b666161eb7",
         "69e9ca1216bc1b4174f6ae69",
         "69e9a52d6d4243e068f2b891",
-        "69e99f352b874d6bfb6d4132",
-        "69e8a475db41bcecb8e33fb6"
+        "69e99f352b874d6bfb6d4132"
       ],
       "movies": [
+        {
+          "id": "69eb8a10da7d894068609364",
+          "title": "Hạ Mạt Sơ Kiến",
+          "origin_name": "Last Summer",
+          "slug": "ha-mat-so-kien",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ha/ha-mat-so-kien.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ha/ha-mat-so-kien.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "62093063196e9f4ab6b448b8",
+              "name": "Trung Quốc",
+              "slug": "trung-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 6",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-04-24T22:19:52.000Z"
+        },
         {
           "id": "69eb252515072466acef7d80",
           "title": "Giấy Ngắn Tình Dài",
@@ -2111,7 +2145,7 @@
             }
           ],
           "lang_key": "Vietsub",
-          "episode_current": "Trailer",
+          "episode_current": "Hoàn tất (8/8)",
           "quality": "HD",
           "status": "trailer",
           "showtimes": "",
@@ -2448,42 +2482,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-04-23T11:26:16.000Z"
-        },
-        {
-          "id": "69e8a475db41bcecb8e33fb6",
-          "title": "Hôm Nay Lại Bán Hết",
-          "origin_name": "Sold Out on You",
-          "slug": "hom-nay-lai-ban-het",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ho/hom-nay-lai-ban-het.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ho/hom-nay-lai-ban-het.webp",
-          "year": "2026",
-          "type": "series",
-          "genre": [
-            {
-              "name": "Hài Hước",
-              "slug": "hai-huoc"
-            },
-            {
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "name": "Hàn Quốc",
-              "slug": "han-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 2",
-          "quality": "HD",
-          "status": "trailer",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-04-22T17:35:33.000Z"
         }
       ]
     },
@@ -2991,6 +2989,7 @@
       "grid_columns_sm": 3,
       "grid_columns_xs": 2,
       "ids": [
+        "69eb8a10da7d894068609364",
         "69eb28eef0f815b666168323",
         "69eb252515072466acef7d80",
         "69eb286cf616ee3807dbee5c",
@@ -3001,10 +3000,43 @@
         "69eaf164b692c7b208d5325b",
         "69eaf0e791cc1b96d58aceb1",
         "69eaf07be53e6a47ad5ee0fd",
-        "69eae81d482e09b42826f8a5",
-        "69eae7a46d4243e068f32044"
+        "69eae81d482e09b42826f8a5"
       ],
       "movies": [
+        {
+          "id": "69eb8a10da7d894068609364",
+          "title": "Hạ Mạt Sơ Kiến",
+          "origin_name": "Last Summer",
+          "slug": "ha-mat-so-kien",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ha/ha-mat-so-kien.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ha/ha-mat-so-kien.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "62093063196e9f4ab6b448b8",
+              "name": "Trung Quốc",
+              "slug": "trung-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 6",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-04-24T22:19:52.000Z"
+        },
         {
           "id": "69eb28eef0f815b666168323",
           "title": "Cậu bé mất tích: Chuyện năm 85",
@@ -3147,7 +3179,7 @@
             }
           ],
           "lang_key": "Vietsub",
-          "episode_current": "Trailer",
+          "episode_current": "Hoàn tất (8/8)",
           "quality": "HD",
           "status": "trailer",
           "showtimes": "",
@@ -3384,38 +3416,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-04-24T11:16:47.000Z"
-        },
-        {
-          "id": "69eae7a46d4243e068f32044",
-          "title": "DREAM STAGE",
-          "origin_name": "DREAM STAGE",
-          "slug": "dream-stage",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/dr/dream-stage.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/dr/dream-stage.webp",
-          "year": "2026",
-          "type": "series",
-          "genre": [
-            {
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "name": "Nhật Bản",
-              "slug": "nhat-ban"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 4",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-04-24T11:16:37.000Z"
         }
       ]
     },
@@ -3459,6 +3459,8 @@
       "featured_count_sm": 1,
       "featured_count_xs": 1,
       "ids": [
+        "69eb8aff482e09b42827280a",
+        "69eb8a10da7d894068609364",
         "69eae81d482e09b42826f8a5",
         "69eae7a46d4243e068f32044",
         "69e9ca1216bc1b4174f6ae69",
@@ -3469,11 +3471,77 @@
         "69db44ff6d4243e068ed8c79",
         "69df39664a74b3cede0c70ce",
         "6947a82897c71dcd0d63982e",
-        "69e84ade748ca16f0861152d",
-        "69e4847031aa2678f8ca4219",
-        "69d8779e6d4243e068ecd2e4"
+        "69e84ade748ca16f0861152d"
       ],
       "movies": [
+        {
+          "id": "69eb8aff482e09b42827280a",
+          "title": "Chăm Sóc Tủ Lạnh Của Tôi Nhé (Phần 2)",
+          "origin_name": "Chef & My Fridge (Season 2)",
+          "slug": "cham-soc-tu-lanh-cua-toi-nhe-phan-2",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ch/cham-soc-tu-lanh-cua-toi-nhe-phan-2.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/cham-soc-tu-lanh-cua-toi-nhe-phan-2.webp",
+          "year": 2024,
+          "type": "tvshows",
+          "genre": [
+            {
+              "id": "620a221de0fc277084dfd1c1",
+              "name": "Hài Hước",
+              "slug": "hai-huoc"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 63",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-04-24T22:23:51.000Z"
+        },
+        {
+          "id": "69eb8a10da7d894068609364",
+          "title": "Hạ Mạt Sơ Kiến",
+          "origin_name": "Last Summer",
+          "slug": "ha-mat-so-kien",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ha/ha-mat-so-kien.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ha/ha-mat-so-kien.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "62093063196e9f4ab6b448b8",
+              "name": "Trung Quốc",
+              "slug": "trung-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 6",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-04-24T22:19:52.000Z"
+        },
         {
           "id": "69eae81d482e09b42826f8a5",
           "title": "Reborn",
@@ -3881,70 +3949,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-04-22T11:25:10.000Z"
-        },
-        {
-          "id": "69e4847031aa2678f8ca4219",
-          "title": "Tẫn Hoa Duyên",
-          "origin_name": "Embers of Love",
-          "slug": "tan-hoa-duyen",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ta/tan-hoa-duyen.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ta/tan-hoa-duyen.webp",
-          "year": "2026",
-          "type": "series",
-          "genre": [
-            {
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "name": "Trung Quốc",
-              "slug": "trung-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Hoàn tất (24/24)",
-          "quality": "4K",
-          "status": "ongoing",
-          "showtimes": "Thứ 2, 3, 4 mỗi ngày cập nhật 2 tập",
-          "is_4k": true,
-          "is_exclusive": true,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-04-22T11:24:52.000Z"
-        },
-        {
-          "id": "69d8779e6d4243e068ecd2e4",
-          "title": "Chẳng Gặp Vân Thường, Cũng Chẳng Gặp Người",
-          "origin_name": "The Moment I Met You",
-          "slug": "chang-gap-van-thuong-cung-chang-gap-nguoi",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ch/chang-gap-van-thuong-cung-chang-gap-nguoi.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/chang-gap-van-thuong-cung-chang-gap-nguoi.webp",
-          "year": "2026",
-          "type": "series",
-          "genre": [
-            {
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "name": "Trung Quốc",
-              "slug": "trung-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 34",
-          "quality": "4K",
-          "status": "ongoing",
-          "showtimes": "Thứ 2, 3, 4 mỗi ngày cập nhật 2 tập",
-          "is_4k": true,
-          "is_exclusive": true,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-04-22T11:17:47.000Z"
         }
       ]
     },
@@ -4060,7 +4064,7 @@
             }
           ],
           "lang_key": "Vietsub",
-          "episode_current": "Trailer",
+          "episode_current": "Hoàn tất (8/8)",
           "quality": "HD",
           "status": "trailer",
           "showtimes": "",
@@ -4921,6 +4925,7 @@
       "sort_order": 8,
       "is_active": true,
       "ids": [
+        "69eb8aff482e09b42827280a",
         "69dca0746d4243e068edf2d5",
         "699c7307f063d23bbbcb694f",
         "62e210c5425c8969e5d579b6",
@@ -4935,10 +4940,43 @@
         "68f5d823a93d00297db5e344",
         "62dde4252d8263cfd1089580",
         "6564859b03f63c57cbb336d8",
-        "64797b99bde31827f6808961",
-        "6926730a2fa99641d98de259"
+        "64797b99bde31827f6808961"
       ],
       "movies": [
+        {
+          "id": "69eb8aff482e09b42827280a",
+          "title": "Chăm Sóc Tủ Lạnh Của Tôi Nhé (Phần 2)",
+          "origin_name": "Chef & My Fridge (Season 2)",
+          "slug": "cham-soc-tu-lanh-cua-toi-nhe-phan-2",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ch/cham-soc-tu-lanh-cua-toi-nhe-phan-2.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/cham-soc-tu-lanh-cua-toi-nhe-phan-2.webp",
+          "year": 2024,
+          "type": "tvshows",
+          "genre": [
+            {
+              "id": "620a221de0fc277084dfd1c1",
+              "name": "Hài Hước",
+              "slug": "hai-huoc"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 63",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-04-24T22:23:51.000Z"
+        },
         {
           "id": "69dca0746d4243e068edf2d5",
           "title": "Running Man Thái Lan",
@@ -5434,38 +5472,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2025-12-14T16:19:32.000Z"
-        },
-        {
-          "id": "6926730a2fa99641d98de259",
-          "title": "Vỏ Bọc",
-          "origin_name": "The Sparrow's Gambit",
-          "slug": "vo-boc",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/vo/vo-boc.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/vo/vo-boc.webp",
-          "year": "2025",
-          "type": "tvshows",
-          "genre": [
-            {
-              "name": "Tình Cảm",
-              "slug": "tinh-cam"
-            }
-          ],
-          "country": [
-            {
-              "name": "Trung Quốc",
-              "slug": "trung-quoc"
-            }
-          ],
-          "lang_key": "Vietsub + Thuyết Minh",
-          "episode_current": "Hoàn tất (24/24)",
-          "quality": "HD",
-          "status": "completed",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2025-12-06T18:21:07.000Z"
         }
       ]
     },
@@ -6818,7 +6824,7 @@
             }
           ],
           "lang_key": "Vietsub + Thuyết Minh",
-          "episode_current": "Tập 22",
+          "episode_current": "Tập 24",
           "quality": "4K",
           "status": "ongoing",
           "showtimes": "Thứ 2, 3, 4 mỗi ngày cập nhật 2 tập",
@@ -7394,6 +7400,8 @@
       "featured_count_sm": 0,
       "featured_count_xs": 0,
       "ids": [
+        "69eb8aff482e09b42827280a",
+        "69eb8a10da7d894068609364",
         "69eb28eef0f815b666168323",
         "69eb252515072466acef7d80",
         "69eb286cf616ee3807dbee5c",
@@ -7407,11 +7415,77 @@
         "69eaf164b692c7b208d5325b",
         "69eaf0e791cc1b96d58aceb1",
         "69eaf07be53e6a47ad5ee0fd",
-        "69eae5de2b874d6bfb6dab6c",
-        "69eae81d482e09b42826f8a5",
-        "69eae7a46d4243e068f32044"
+        "69eae5de2b874d6bfb6dab6c"
       ],
       "movies": [
+        {
+          "id": "69eb8aff482e09b42827280a",
+          "title": "Chăm Sóc Tủ Lạnh Của Tôi Nhé (Phần 2)",
+          "origin_name": "Chef & My Fridge (Season 2)",
+          "slug": "cham-soc-tu-lanh-cua-toi-nhe-phan-2",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ch/cham-soc-tu-lanh-cua-toi-nhe-phan-2.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/cham-soc-tu-lanh-cua-toi-nhe-phan-2.webp",
+          "year": 2024,
+          "type": "tvshows",
+          "genre": [
+            {
+              "id": "620a221de0fc277084dfd1c1",
+              "name": "Hài Hước",
+              "slug": "hai-huoc"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 63",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-04-24T22:23:51.000Z"
+        },
+        {
+          "id": "69eb8a10da7d894068609364",
+          "title": "Hạ Mạt Sơ Kiến",
+          "origin_name": "Last Summer",
+          "slug": "ha-mat-so-kien",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ha/ha-mat-so-kien.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ha/ha-mat-so-kien.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "62093063196e9f4ab6b448b8",
+              "name": "Trung Quốc",
+              "slug": "trung-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 6",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-04-24T22:19:52.000Z"
+        },
         {
           "id": "69eb28eef0f815b666168323",
           "title": "Cậu bé mất tích: Chuyện năm 85",
@@ -7554,7 +7628,7 @@
             }
           ],
           "lang_key": "Vietsub",
-          "episode_current": "Trailer",
+          "episode_current": "Hoàn tất (8/8)",
           "quality": "HD",
           "status": "trailer",
           "showtimes": "",
@@ -7903,70 +7977,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-04-24T11:23:47.000Z"
-        },
-        {
-          "id": "69eae81d482e09b42826f8a5",
-          "title": "Reborn",
-          "origin_name": "Reborn",
-          "slug": "reborn",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/re/reborn.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/re/reborn.webp",
-          "year": "2026",
-          "type": "series",
-          "genre": [
-            {
-              "name": "Bí ẩn",
-              "slug": "bi-an"
-            }
-          ],
-          "country": [
-            {
-              "name": "Nhật Bản",
-              "slug": "nhat-ban"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 1",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-04-24T11:16:47.000Z"
-        },
-        {
-          "id": "69eae7a46d4243e068f32044",
-          "title": "DREAM STAGE",
-          "origin_name": "DREAM STAGE",
-          "slug": "dream-stage",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/dr/dream-stage.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/dr/dream-stage.webp",
-          "year": "2026",
-          "type": "series",
-          "genre": [
-            {
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "name": "Nhật Bản",
-              "slug": "nhat-ban"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 4",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-04-24T11:16:37.000Z"
         }
       ]
     },
@@ -8010,6 +8020,7 @@
       "featured_count_sm": 0,
       "featured_count_xs": 0,
       "ids": [
+        "69eb8a10da7d894068609364",
         "69eb252515072466acef7d80",
         "69e9a52d6d4243e068f2b891",
         "69e888e4377c8aaad544daf3",
@@ -8024,10 +8035,43 @@
         "69e84a9d006591e10818674d",
         "69ddbf5f748ca16f085d0742",
         "69e211ba748ca16f085e500b",
-        "69d5d574748ca16f085b0087",
-        "68e4bc4d69d7b4696cc59469"
+        "69d5d574748ca16f085b0087"
       ],
       "movies": [
+        {
+          "id": "69eb8a10da7d894068609364",
+          "title": "Hạ Mạt Sơ Kiến",
+          "origin_name": "Last Summer",
+          "slug": "ha-mat-so-kien",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ha/ha-mat-so-kien.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ha/ha-mat-so-kien.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "62093063196e9f4ab6b448b8",
+              "name": "Trung Quốc",
+              "slug": "trung-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 6",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-04-24T22:19:52.000Z"
+        },
         {
           "id": "69eb252515072466acef7d80",
           "title": "Giấy Ngắn Tình Dài",
@@ -8458,7 +8502,7 @@
             }
           ],
           "lang_key": "Vietsub + Thuyết Minh",
-          "episode_current": "Tập 22",
+          "episode_current": "Tập 24",
           "quality": "4K",
           "status": "ongoing",
           "showtimes": "Thứ 2, 3, 4 mỗi ngày cập nhật 2 tập",
@@ -8531,50 +8575,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-04-21T17:10:32.000Z"
-        },
-        {
-          "id": "68e4bc4d69d7b4696cc59469",
-          "title": "Võ Thần Chúa Tể",
-          "origin_name": "Martial Master",
-          "slug": "vo-than-chua-te",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/vo/vo-than-chua-te.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/vo/vo-than-chua-te.webp",
-          "year": "2020",
-          "type": "hoathinh",
-          "genre": [
-            {
-              "name": "Hành Động",
-              "slug": "hanh-dong"
-            },
-            {
-              "name": "Viễn Tưởng",
-              "slug": "vien-tuong"
-            },
-            {
-              "name": "Phiêu Lưu",
-              "slug": "phieu-luu"
-            },
-            {
-              "name": "Khoa Học",
-              "slug": "khoa-hoc"
-            }
-          ],
-          "country": [
-            {
-              "name": "Trung Quốc",
-              "slug": "trung-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 639",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-04-21T14:13:41.000Z"
         }
       ]
     },
@@ -8618,6 +8618,7 @@
       "featured_count_sm": 0,
       "featured_count_xs": 0,
       "ids": [
+        "69eb8aff482e09b42827280a",
         "69eb27e24a74b3cede10ef6e",
         "69e99eaab692c7b208d4c318",
         "69e8a475db41bcecb8e33fb6",
@@ -8632,10 +8633,43 @@
         "69a402dada6ce23e8ea149e2",
         "69b7bc804da3bf6eb3425225",
         "69e3a4edf616ee3807d9403c",
-        "69d8f14d7e5a0662d4dd2f64",
-        "69abb1c2f063d23bbbd03d3e"
+        "69d8f14d7e5a0662d4dd2f64"
       ],
       "movies": [
+        {
+          "id": "69eb8aff482e09b42827280a",
+          "title": "Chăm Sóc Tủ Lạnh Của Tôi Nhé (Phần 2)",
+          "origin_name": "Chef & My Fridge (Season 2)",
+          "slug": "cham-soc-tu-lanh-cua-toi-nhe-phan-2",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ch/cham-soc-tu-lanh-cua-toi-nhe-phan-2.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/cham-soc-tu-lanh-cua-toi-nhe-phan-2.webp",
+          "year": 2024,
+          "type": "tvshows",
+          "genre": [
+            {
+              "id": "620a221de0fc277084dfd1c1",
+              "name": "Hài Hước",
+              "slug": "hai-huoc"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 63",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-04-24T22:23:51.000Z"
+        },
         {
           "id": "69eb27e24a74b3cede10ef6e",
           "title": "Điều Ước Đoạt Mạng",
@@ -8662,7 +8696,7 @@
             }
           ],
           "lang_key": "Vietsub",
-          "episode_current": "Trailer",
+          "episode_current": "Hoàn tất (8/8)",
           "quality": "HD",
           "status": "trailer",
           "showtimes": "",
@@ -9162,7 +9196,7 @@
             }
           ],
           "lang_key": "Vietsub",
-          "episode_current": "Tập 4",
+          "episode_current": "Tập 5",
           "quality": "HD",
           "status": "ongoing",
           "showtimes": "",
@@ -9171,50 +9205,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-04-18T23:08:02.000Z"
-        },
-        {
-          "id": "69abb1c2f063d23bbbd03d3e",
-          "title": "Luật Sư Bóng Ma",
-          "origin_name": "Phantom Lawyer",
-          "slug": "luat-su-bong-ma",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/lu/luat-su-bong-ma.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/lu/luat-su-bong-ma.webp",
-          "year": "2026",
-          "type": "series",
-          "genre": [
-            {
-              "name": "Viễn Tưởng",
-              "slug": "vien-tuong"
-            },
-            {
-              "name": "Khoa Học",
-              "slug": "khoa-hoc"
-            },
-            {
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            },
-            {
-              "name": "Bí ẩn",
-              "slug": "bi-an"
-            }
-          ],
-          "country": [
-            {
-              "name": "Hàn Quốc",
-              "slug": "han-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 12",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-04-18T22:05:18.000Z"
         }
       ]
     },
@@ -10965,6 +10955,32 @@
   ],
   "sliderAuto": [
     {
+      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/cham-soc-tu-lanh-cua-toi-nhe-phan-2.webp",
+      "link_url": "/phim/cham-soc-tu-lanh-cua-toi-nhe-phan-2.html",
+      "title": "Chăm Sóc Tủ Lạnh Của Tôi Nhé (Phần 2)",
+      "year": "2024",
+      "country": "Hàn Quốc",
+      "episode_current": "Tập 63",
+      "genres": [
+        "Hài Hước"
+      ],
+      "sort_order": 0,
+      "enabled": true
+    },
+    {
+      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ha/ha-mat-so-kien.webp",
+      "link_url": "/phim/ha-mat-so-kien.html",
+      "title": "Hạ Mạt Sơ Kiến",
+      "year": "2026",
+      "country": "Trung Quốc",
+      "episode_current": "Tập 6",
+      "genres": [
+        "Chính kịch"
+      ],
+      "sort_order": 1,
+      "enabled": true
+    },
+    {
       "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ca/cau-be-mat-tich-chuyen-nam-85.webp",
       "link_url": "/phim/cau-be-mat-tich-chuyen-nam-85.html",
       "title": "Cậu bé mất tích: Chuyện năm 85",
@@ -10978,7 +10994,7 @@
         "Khoa Học",
         "Bí ẩn"
       ],
-      "sort_order": 0,
+      "sort_order": 2,
       "enabled": true
     },
     {
@@ -10991,7 +11007,7 @@
       "genres": [
         "Chính kịch"
       ],
-      "sort_order": 1,
+      "sort_order": 3,
       "enabled": true
     },
     {
@@ -11004,7 +11020,7 @@
       "genres": [
         "Hành Động"
       ],
-      "sort_order": 2,
+      "sort_order": 4,
       "enabled": true
     },
     {
@@ -11013,12 +11029,12 @@
       "title": "Điều Ước Đoạt Mạng",
       "year": "2026",
       "country": "Hàn Quốc",
-      "episode_current": "Trailer",
+      "episode_current": "Hoàn tất (8/8)",
       "genres": [
         "Chính kịch",
         "Bí ẩn"
       ],
-      "sort_order": 3,
+      "sort_order": 5,
       "enabled": true
     },
     {
@@ -11032,7 +11048,7 @@
         "Hài Hước",
         "Kinh Dị"
       ],
-      "sort_order": 4,
+      "sort_order": 6,
       "enabled": true
     },
     {
@@ -11045,7 +11061,7 @@
       "genres": [
         "Tài Liệu"
       ],
-      "sort_order": 5,
+      "sort_order": 7,
       "enabled": true
     },
     {
@@ -11058,7 +11074,7 @@
       "genres": [
         "Bí ẩn"
       ],
-      "sort_order": 6,
+      "sort_order": 8,
       "enabled": true
     },
     {
@@ -11073,7 +11089,7 @@
         "Viễn Tưởng",
         "Khoa Học"
       ],
-      "sort_order": 7,
+      "sort_order": 9,
       "enabled": true
     },
     {
@@ -11086,7 +11102,7 @@
       "genres": [
         "Chính kịch"
       ],
-      "sort_order": 8,
+      "sort_order": 10,
       "enabled": true
     },
     {
@@ -11098,33 +11114,6 @@
       "episode_current": "Hoàn tất (7/7)",
       "genres": [
         "Chính kịch"
-      ],
-      "sort_order": 9,
-      "enabled": true
-    },
-    {
-      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ru/running-point-phan-2.webp",
-      "link_url": "/phim/running-point-phan-2.html",
-      "title": "Running Point (Phần 2)",
-      "year": "2026",
-      "country": "Âu Mỹ",
-      "episode_current": "Hoàn tất (10/10)",
-      "genres": [
-        "Hài Hước"
-      ],
-      "sort_order": 10,
-      "enabled": true
-    },
-    {
-      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/tr/truot.webp",
-      "link_url": "/phim/truot.html",
-      "title": "Trượt",
-      "year": "2026",
-      "country": "Pháp",
-      "episode_current": "Hoàn tất (8/8)",
-      "genres": [
-        "Hài Hước",
-        "Hình Sự"
       ],
       "sort_order": 11,
       "enabled": true
