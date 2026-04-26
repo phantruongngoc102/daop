@@ -1406,8 +1406,8 @@ async function fetchOPhimMovies(prevMoviesById, prevIndex, cleanOldData = false,
   const forceFullRange = !!(opts && opts.forceFullRange);
   const list = [];
   const isPageRange = !forceFullRange && ((OPHIM_START_PAGE > 1) || (OPHIM_END_PAGE > 0));
-  const effectiveMaxPages = isPageRange ? 0 : OPHIM_MAX_PAGES;
-  const effectiveMaxMovies = isPageRange ? 0 : OPHIM_MAX_MOVIES;
+  const effectiveMaxPages = forceFullRange ? 0 : (isPageRange ? 0 : OPHIM_MAX_PAGES);
+  const effectiveMaxMovies = forceFullRange ? 0 : (isPageRange ? 0 : OPHIM_MAX_MOVIES);
   const isPartialRange =
     isPageRange ||
     (effectiveMaxPages > 0) ||
@@ -1490,7 +1490,7 @@ async function fetchOPhimMovies(prevMoviesById, prevIndex, cleanOldData = false,
       break;
     }
     if (step === 1) {
-      if (OPHIM_END_PAGE > 0 && page > OPHIM_END_PAGE) {
+      if (!forceFullRange && OPHIM_END_PAGE > 0 && page > OPHIM_END_PAGE) {
         console.log('   OPhim: đạt giới hạn khoảng trang đến:', OPHIM_END_PAGE);
         break;
       }
