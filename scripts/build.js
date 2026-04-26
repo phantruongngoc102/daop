@@ -47,6 +47,7 @@ const ROOT = path.join(__dirname, '..');
 const PUBLIC_DATA = path.join(ROOT, 'public', 'data');
 const TMDB_PERSISTENCE_DIR = path.join(PUBLIC_DATA, 'tmdb');
 const ACTORS_DATA_DIR = path.join(PUBLIC_DATA, 'actors');
+const LIBRARY_SNAPSHOT_PATH = path.join(PUBLIC_DATA, 'library-snapshot.json');
 const BATCH_SIZE = 120;
 const BATCH_MAX_BYTES_DEFAULT = 300_000;
 
@@ -1237,9 +1238,47 @@ async function loadPreviousBuiltMoviesById() {
         byId.set(idStr, m);
       } catch {}
     }
+    if (byId.size > 0) {
+      console.log('   previous library source: pubjs-output + movies-manifest | count:', byId.size);
+      return byId;
+    }
+    // Fallback cho runner không có pubjs-output:
+    // đọc snapshot thư viện đã ghi ở lần build trước trong public/data.
+    if (await fs.pathExists(LIBRARY_SNAPSHOT_PATH)) {
+      try {
+        const raw = JSON.parse(await fs.readFile(LIBRARY_SNAPSHOT_PATH, 'utf8'));
+        const list = Array.isArray(raw?.movies) ? raw.movies : [];
+        for (const m of list) {
+          const idStr = m && m.id != null ? String(m.id) : '';
+          if (!idStr) continue;
+          byId.set(idStr, m);
+        }
+        if (byId.size > 0) {
+          console.log('   previous library source: library-snapshot | count:', byId.size);
+          return byId;
+        }
+      } catch {
+        // ignore snapshot parse errors
+      }
+    }
+    console.log('   previous library source: none (empty)');
     return byId;
   } catch {
     return new Map();
+  }
+}
+
+function writeLibrarySnapshot(movies) {
+  try {
+    const list = Array.isArray(movies) ? movies : [];
+    const payload = {
+      updatedAt: new Date().toISOString(),
+      count: list.length,
+      movies: list,
+    };
+    fs.writeFileSync(LIBRARY_SNAPSHOT_PATH, JSON.stringify(payload), 'utf8');
+  } catch (e) {
+    console.warn('   writeLibrarySnapshot failed (continue):', e && e.message ? e.message : e);
   }
 }
 
@@ -4671,6 +4710,7 @@ async function main() {
         'filters.js',
         'filters.json',
         'repo_image_upload_state.json',
+        'library-snapshot.json',
         'last_modified.json',
         'last_build.json',
         'build_version.json',
@@ -5018,37 +5058,25 @@ async function main() {
   let fetchedCustom = await timeBuildPhase('2. Custom (Supabase / Excel)', () => fetchCustomMovies(customSinceTime));
   console.log('   Custom count (fetched):', fetchedCustom.length);
 
-  // Safety fallback:
+  // Safety guard (không fallback full Supabase):
   // - Chạy OPhim theo range (vd 20->1)
   // - Không clean old data
   // - Runner hiện tại không có thư viện build trước (prevMoviesById rỗng)
   // - Queue/custom fetch rỗng
   // => Nếu tiếp tục build sẽ chỉ còn phim trong range OPhim vừa fetch.
-  // Khi gặp case này, ép fallback sang full custom từ Supabase (bỏ queue) để giữ đầy đủ thư viện.
+  // Theo yêu cầu: không lấy full từ Supabase khi không có custom NEW.
+  // Vì vậy dừng build sớm để tránh ghi đè dữ liệu cũ.
   if (
     !cleanOldData &&
     isPartialOphimRange &&
     (!prevMoviesById || prevMoviesById.size === 0) &&
     (!fetchedCustom || fetchedCustom.length === 0)
   ) {
-    console.warn(
-      '   [Safety] Partial OPhim range + no previous library + empty custom fetch. ' +
-      'Fallback to full Supabase custom (disable queue) to avoid data loss.'
+    throw new Error(
+      'Safety guard: queue custom rỗng và không có thư viện cũ trên runner trong khi đang chạy OPhim theo range. ' +
+      'Build bị dừng để tránh mất dữ liệu cũ. ' +
+      'Hãy restore public/data từ lần build trước (artifact/cache) hoặc chạy full OPhim (không giới hạn range) một lần.'
     );
-    fetchedCustom = await timeBuildPhase('2c. Safety fallback (full custom from Supabase)', () =>
-      fetchCustomMovies(null, { disableQueue: true })
-    );
-    console.log('   Custom count (fallback full):', fetchedCustom.length);
-
-    // Guard cứng: nếu fallback full vẫn rỗng thì dừng build để tránh ghi đè thư viện thành dữ liệu thiếu.
-    if (!fetchedCustom || fetchedCustom.length === 0) {
-      throw new Error(
-        'Safety guard: fallback full Supabase vẫn không có dữ liệu custom. ' +
-        'Dừng build để tránh làm mất phim cũ trên web. ' +
-        'Kiểm tra SUPABASE_MOVIES_URL/SUPABASE_MOVIES_SERVICE_ROLE_KEY, quyền truy cập bảng movies/movie_episodes, ' +
-        'hoặc chạy lại khi queue có dữ liệu.'
-      );
-    }
   }
 
   // GỘP THƯ VIỆN: Nếu không phải clean build, gộp phim mới fetch với phim cũ đã có trong manifest
@@ -5159,6 +5187,9 @@ async function main() {
 
   const allMovies = timeBuildPhaseSync('4. merge movies (ophim + custom)', () => mergeMovies(ophim, custom));
   console.log('4. Total movies:', allMovies.length);
+  // Lưu snapshot đầy đủ để lần build sau có thể giữ dữ liệu cũ
+  // ngay cả khi runner thiếu pubjs-output và custom queue rỗng.
+  writeLibrarySnapshot(allMovies);
 
   console.log('4b. Fetching OPhim genres & countries...');
   const { genreNames, countryNames } = await timeBuildPhase('4b. OPhim genres + countries', () =>
