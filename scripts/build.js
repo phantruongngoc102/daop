@@ -1402,9 +1402,10 @@ async function saveOphimIndex(index) {
   } catch {}
 }
 
-async function fetchOPhimMovies(prevMoviesById, prevIndex, cleanOldData = false) {
+async function fetchOPhimMovies(prevMoviesById, prevIndex, cleanOldData = false, opts = {}) {
+  const forceFullRange = !!(opts && opts.forceFullRange);
   const list = [];
-  const isPageRange = (OPHIM_START_PAGE > 1) || (OPHIM_END_PAGE > 0);
+  const isPageRange = !forceFullRange && ((OPHIM_START_PAGE > 1) || (OPHIM_END_PAGE > 0));
   const effectiveMaxPages = isPageRange ? 0 : OPHIM_MAX_PAGES;
   const effectiveMaxMovies = isPageRange ? 0 : OPHIM_MAX_MOVIES;
   const isPartialRange =
@@ -1457,9 +1458,9 @@ async function fetchOPhimMovies(prevMoviesById, prevIndex, cleanOldData = false)
     }
     return count;
   }
-  let page = OPHIM_START_PAGE > 0 ? OPHIM_START_PAGE : 1;
+  let page = forceFullRange ? 1 : (OPHIM_START_PAGE > 0 ? OPHIM_START_PAGE : 1);
   let fetchedPages = 0;
-  const hasEnd = OPHIM_END_PAGE > 0;
+  const hasEnd = !forceFullRange && OPHIM_END_PAGE > 0;
   const targetEnd = hasEnd ? OPHIM_END_PAGE : Infinity;
   const step = hasEnd && page >= targetEnd ? -1 : 1;
   console.log(
@@ -1469,9 +1470,10 @@ async function fetchOPhimMovies(prevMoviesById, prevIndex, cleanOldData = false)
     'max_pages=', effectiveMaxPages,
     'max_movies=', effectiveMaxMovies,
     'direction=', (step === -1 ? 'backward' : 'forward'),
+    'force_full_range=', forceFullRange ? 1 : 0,
     'clean_old_data=', cleanOldData ? 1 : 0
   );
-  if (OPHIM_END_PAGE === 1 && OPHIM_END_PAGE_RAW != null && String(OPHIM_END_PAGE_RAW).trim() === '1') {
+  if (!forceFullRange && OPHIM_END_PAGE === 1 && OPHIM_END_PAGE_RAW != null && String(OPHIM_END_PAGE_RAW).trim() === '1') {
     console.warn(
       '   WARNING: OPHIM_END_PAGE=1 đang giới hạn fetch chỉ đến trang 1. ' +
       'Chỉ nên dùng khi bạn chủ đích fetch trang 1 (hoặc range về 1). ' +
@@ -5030,7 +5032,7 @@ async function main() {
   }
 
   console.log('1. Fetching OPhim...');
-  const fetchedOphim = await timeBuildPhase('1. OPhim (fetch list + detail)', () =>
+  let fetchedOphim = await timeBuildPhase('1. OPhim (fetch list + detail)', () =>
     fetchOPhimMovies(prevMoviesById, prevOphimIndex, cleanOldData)
   );
   console.log('   OPhim count:', fetchedOphim.length);
@@ -5072,11 +5074,14 @@ async function main() {
     (!prevMoviesById || prevMoviesById.size === 0) &&
     (!fetchedCustom || fetchedCustom.length === 0)
   ) {
-    throw new Error(
-      'Safety guard: queue custom rỗng và không có thư viện cũ trên runner trong khi đang chạy OPhim theo range. ' +
-      'Build bị dừng để tránh mất dữ liệu cũ. ' +
-      'Hãy restore public/data từ lần build trước (artifact/cache) hoặc chạy full OPhim (không giới hạn range) một lần.'
+    console.warn(
+      '   [Safety] queue custom rỗng + không có thư viện cũ trên runner + OPhim chạy theo range. ' +
+      'Tự fallback sang full OPhim cho lần build này (không gọi full Supabase).'
     );
+    fetchedOphim = await timeBuildPhase('2c. Safety fallback (full OPhim)', () =>
+      fetchOPhimMovies(prevMoviesById, prevOphimIndex, cleanOldData, { forceFullRange: true })
+    );
+    console.log('   OPhim count (fallback full):', fetchedOphim.length);
   }
 
   // GỘP THƯ VIỆN: Nếu không phải clean build, gộp phim mới fetch với phim cũ đã có trong manifest
