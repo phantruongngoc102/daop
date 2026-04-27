@@ -124,6 +124,7 @@ jobs:
 
       - name: Deploy CORE to Cloudflare Pages
         if: ${{ env.DEPLOY_AFTER_IMAGE_UPLOAD != '1' || env.UPLOAD_IMAGES != 'true' }}
+        continue-on-error: true
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
@@ -195,12 +196,40 @@ jobs:
           bash scripts/git-commit-staged-push-retry.sh "chore: tmdb build (tmdb only)"
 
       - name: Deploy TMDB to Cloudflare Pages
+        continue-on-error: true
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           wranglerVersion: '3.101.0'
           command: pages deploy public --project-name=${{ vars.CLOUDFLARE_PAGES_PROJECT_NAME || 'daop' }} --commit-dirty=true
+
+      - name: Prune deploy-only large files before diagnose
+        if: ${{ always() }}
+        run: |
+          rm -f public/data/library-snapshot.json public/data/library-snapshot.json.gz || true
+
+      - name: Diagnose file count before deploy log dump
+        if: ${{ always() }}
+        run: |
+          echo "Total files under public/:"
+          find public -type f | wc -l || true
+          echo ""
+          echo "Largest files in public/:"
+          find public -type f -printf "%s %p\n" 2>/dev/null | sort -nr | head -n 40 || true
+
+      - name: Dump Wrangler logs (if any)
+        if: ${{ always() }}
+        run: |
+          echo "Wrangler logs (if present):"
+          ls -la "$HOME/.config/.wrangler/logs" 2>/dev/null || true
+          echo "---- tail logs ----"
+          for f in "$HOME/.config/.wrangler/logs"/wrangler-*.log; do
+            [ -f "$f" ] || continue
+            echo "::group::$f"
+            tail -n 200 "$f" || true
+            echo "::endgroup::"
+          done
 
       - name: Export movies (pubjs manifest) → Supabase (Movies project + Episodes project)
         if: ${{ always() && !cancelled() }}
