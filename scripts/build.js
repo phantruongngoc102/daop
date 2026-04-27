@@ -47,7 +47,7 @@ const ROOT = path.join(__dirname, '..');
 const PUBLIC_DATA = path.join(ROOT, 'public', 'data');
 const TMDB_PERSISTENCE_DIR = path.join(PUBLIC_DATA, 'tmdb');
 const ACTORS_DATA_DIR = path.join(PUBLIC_DATA, 'actors');
-const LIBRARY_SNAPSHOT_PATH = path.join(PUBLIC_DATA, 'library-snapshot.json.gz');
+const LIBRARY_SNAPSHOT_PATH = path.join(ROOT, 'build-cache', 'library-snapshot.json.gz');
 let PREV_LIBRARY_SOURCE = 'none';
 let PREV_LIBRARY_SNAPSHOT_FULL = false;
 const BATCH_SIZE = 120;
@@ -1289,6 +1289,7 @@ function writeLibrarySnapshot(movies, opts = {}) {
     };
     const raw = Buffer.from(JSON.stringify(payload), 'utf8');
     const gz = gzipSync(raw, { level: 6 });
+    fs.ensureDirSync(path.dirname(LIBRARY_SNAPSHOT_PATH));
     fs.writeFileSync(LIBRARY_SNAPSHOT_PATH, gz);
   } catch (e) {
     console.warn('   writeLibrarySnapshot failed (continue):', e && e.message ? e.message : e);
@@ -4736,6 +4737,7 @@ async function main() {
       for (const f of filesToRemove) {
         await fs.remove(path.join(PUBLIC_DATA, f));
       }
+      await fs.remove(LIBRARY_SNAPSHOT_PATH).catch(() => {});
       await fs.remove(ACTORS_DATA_DIR).catch(() => {});
       // legacy: actors từng nằm ngay public/data/
       try {
