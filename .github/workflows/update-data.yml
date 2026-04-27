@@ -182,6 +182,8 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
+          # Safety: remove legacy uncompressed snapshot if present (can exceed GitHub 100MB limit)
+          rm -f public/data/library-snapshot.json || true
           npm run check-public
           git add public/data $GIT_ADD_PUBLIC_IMAGES public/the-loai public/quoc-gia public/nam-phat-hanh public/sitemap.xml public/_redirects public/_routes.json
           # HTML (chu-de/, index.html, …) có ?v= sau injectFiltersJsCacheBustIntoHtml — phải commit cùng filters.js
@@ -224,6 +226,8 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
+          # Safety: remove legacy uncompressed snapshot if present (can exceed GitHub 100MB limit)
+          rm -f public/data/library-snapshot.json || true
           npm run check-public
           git add public/data $GIT_ADD_PUBLIC_IMAGES public/the-loai public/quoc-gia public/nam-phat-hanh public/sitemap.xml public/_redirects public/_routes.json
           find public -type f -name '*.html' -print0 | xargs -0 -r git add --
@@ -320,6 +324,8 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
+          # Safety: remove legacy uncompressed snapshot if present (can exceed GitHub 100MB limit)
+          rm -f public/data/library-snapshot.json || true
           npm run check-public
           git add public/data $GIT_ADD_PUBLIC_IMAGES public/the-loai public/quoc-gia public/nam-phat-hanh public/sitemap.xml public/_redirects public/_routes.json
           find public -type f -name '*.html' -print0 | xargs -0 -r git add --

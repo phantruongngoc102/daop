@@ -47,7 +47,7 @@ const ROOT = path.join(__dirname, '..');
 const PUBLIC_DATA = path.join(ROOT, 'public', 'data');
 const TMDB_PERSISTENCE_DIR = path.join(PUBLIC_DATA, 'tmdb');
 const ACTORS_DATA_DIR = path.join(PUBLIC_DATA, 'actors');
-const LIBRARY_SNAPSHOT_PATH = path.join(PUBLIC_DATA, 'library-snapshot.json');
+const LIBRARY_SNAPSHOT_PATH = path.join(PUBLIC_DATA, 'library-snapshot.json.gz');
 let PREV_LIBRARY_SOURCE = 'none';
 let PREV_LIBRARY_SNAPSHOT_FULL = false;
 const BATCH_SIZE = 120;
@@ -1252,7 +1252,8 @@ async function loadPreviousBuiltMoviesById() {
     // đọc snapshot thư viện đã ghi ở lần build trước trong public/data.
     if (await fs.pathExists(LIBRARY_SNAPSHOT_PATH)) {
       try {
-        const raw = JSON.parse(await fs.readFile(LIBRARY_SNAPSHOT_PATH, 'utf8'));
+        const zipped = await fs.readFile(LIBRARY_SNAPSHOT_PATH);
+        const raw = JSON.parse(gunzipSync(zipped).toString('utf8'));
         const list = Array.isArray(raw?.movies) ? raw.movies : [];
         PREV_LIBRARY_SNAPSHOT_FULL = !!raw?.is_full_library;
         for (const m of list) {
@@ -1286,7 +1287,9 @@ function writeLibrarySnapshot(movies, opts = {}) {
       is_full_library: !!opts?.isFullLibrary,
       movies: list,
     };
-    fs.writeFileSync(LIBRARY_SNAPSHOT_PATH, JSON.stringify(payload), 'utf8');
+    const raw = Buffer.from(JSON.stringify(payload), 'utf8');
+    const gz = gzipSync(raw, { level: 6 });
+    fs.writeFileSync(LIBRARY_SNAPSHOT_PATH, gz);
   } catch (e) {
     console.warn('   writeLibrarySnapshot failed (continue):', e && e.message ? e.message : e);
   }
@@ -4723,6 +4726,7 @@ async function main() {
         'filters.json',
         'repo_image_upload_state.json',
         'library-snapshot.json',
+        'library-snapshot.json.gz',
         'last_modified.json',
         'last_build.json',
         'build_version.json',
