@@ -1,6 +1,6 @@
 {
   "buildVersion": {
-    "builtAt": "2026-05-05T16:33:55.472Z"
+    "builtAt": "2026-05-05T20:45:51.121Z"
   },
   "siteSettings": {
     "site_name": "GoTV",
@@ -955,9 +955,11 @@
       "featured_count_sm": 1,
       "featured_count_xs": 1,
       "ids": [
+        "69bc1529ccc6cea268841d51",
+        "69f9f093b692c7b208da50df",
+        "69f09c434a74b3cede1263a3",
         "69e5dda82b874d6bfb6c1986",
         "69ddbf5f748ca16f085d0742",
-        "69f9f093b692c7b208da50df",
         "69f973ea748ca16f0866dddb",
         "69f973c091cc1b96d58fc2e9",
         "69f86f7f15072466acf3cfc2",
@@ -965,11 +967,136 @@
         "69e211ba748ca16f085e500b",
         "69f99266b692c7b208da30eb",
         "69afbabc124287e0825f6b36",
-        "69f963cb91cc1b96d58fbb89",
-        "69f9622693c48ff6bff25e1a",
-        "69f960b815072466acf45a80"
+        "69f963cb91cc1b96d58fbb89"
       ],
       "movies": [
+        {
+          "id": "69bc1529ccc6cea268841d51",
+          "title": "Công Thức Tình Yêu",
+          "origin_name": "Recipe For Love",
+          "slug": "cong-thuc-tinh-yeu",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/co/cong-thuc-tinh-yeu.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/co/cong-thuc-tinh-yeu.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a221de0fc277084dfd1c1",
+              "name": "Hài Hước",
+              "slug": "hai-huoc"
+            },
+            {
+              "id": "620e4c0b6ba8271c5eef05a8",
+              "name": "Gia Đình",
+              "slug": "gia-dinh"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 26",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-05-06T00:13:59.000Z"
+        },
+        {
+          "id": "69f9f093b692c7b208da50df",
+          "title": "Những Ngày Hạnh Phúc Của Chúng Ta",
+          "origin_name": "Our Happy Days",
+          "slug": "nhung-ngay-hanh-phuc-cua-chung-ta",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-ngay-hanh-phuc-cua-chung-ta.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-ngay-hanh-phuc-cua-chung-ta.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620e4c0b6ba8271c5eef05a8",
+              "name": "Gia Đình",
+              "slug": "gia-dinh"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 19",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-05-06T00:13:27.000Z"
+        },
+        {
+          "id": "69f09c434a74b3cede1263a3",
+          "title": "CIA (Phần 1)",
+          "origin_name": "CIA",
+          "slug": "cia-phan-1",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ci/cia-phan-1.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ci/cia-phan-1.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a21b2e0fc277084dfd0c5",
+              "name": "Hành Động",
+              "slug": "hanh-dong"
+            },
+            {
+              "id": "620a2249e0fc277084dfd2e5",
+              "name": "Hình Sự",
+              "slug": "hinh-su"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 4",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-05-05T23:48:08.000Z"
+        },
         {
           "id": "69e5dda82b874d6bfb6c1986",
           "title": "Bù Nhìn Bóng Đêm",
@@ -1052,45 +1179,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-05-05T20:42:23.000Z"
-        },
-        {
-          "id": "69f9f093b692c7b208da50df",
-          "title": "Những Ngày Hạnh Phúc Của Chúng Ta",
-          "origin_name": "Our Happy Days",
-          "slug": "nhung-ngay-hanh-phuc-cua-chung-ta",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-ngay-hanh-phuc-cua-chung-ta.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-ngay-hanh-phuc-cua-chung-ta.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620e4c0b6ba8271c5eef05a8",
-              "name": "Gia Đình",
-              "slug": "gia-dinh"
-            },
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2300e0fc277084dfd6d2",
-              "name": "Hàn Quốc",
-              "slug": "han-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 13",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": true,
-          "modified": "2026-05-05T20:29:26.000Z"
         },
         {
           "id": "69f973ea748ca16f0866dddb",
@@ -1388,89 +1476,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-05-05T13:02:25.000Z"
-        },
-        {
-          "id": "69f9622693c48ff6bff25e1a",
-          "title": "Yêu Được Chưa",
-          "origin_name": "Let's Begin Again",
-          "slug": "yeu-duoc-chua",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ye/yeu-duoc-chua.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ye/yeu-duoc-chua.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2318e0fc277084dfd77a",
-              "name": "Thái Lan",
-              "slug": "thai-lan"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 4",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-05-05T13:02:01.000Z"
-        },
-        {
-          "id": "69f960b815072466acf45a80",
-          "title": "Vinh Quang",
-          "origin_name": "Glory",
-          "slug": "vinh-quang-2026",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/vi/vinh-quang-2026.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/vi/vinh-quang-2026.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620a21b2e0fc277084dfd0c5",
-              "name": "Hành Động",
-              "slug": "hanh-dong"
-            },
-            {
-              "id": "620a2293e0fc277084dfd489",
-              "name": "Phiêu Lưu",
-              "slug": "phieu-luu"
-            },
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            },
-            {
-              "id": "620f84d291fa4af90ab6b3f4",
-              "name": "Bí ẩn",
-              "slug": "bi-an"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2355e0fc277084dfd8ca",
-              "name": "Ấn Độ",
-              "slug": "an-do"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Hoàn tất (7/7)",
-          "quality": "HD",
-          "status": "completed",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-05-05T13:01:29.000Z"
         }
       ]
     },
@@ -2011,6 +2016,9 @@
       "grid_columns_sm": 3,
       "grid_columns_xs": 2,
       "ids": [
+        "69bc1529ccc6cea268841d51",
+        "69f9f093b692c7b208da50df",
+        "69f09c434a74b3cede1263a3",
         "69d5dfb315072466ace88b55",
         "69e5dda82b874d6bfb6c1986",
         "69f9646ae53e6a47ad63d170",
@@ -2019,12 +2027,136 @@
         "69df6411377c8aaad5412ad8",
         "69f212dddb41bcecb8e5f5de",
         "69f9f73a006591e1081e5a12",
-        "69ddbf5f748ca16f085d0742",
-        "69f9f093b692c7b208da50df",
-        "69f970ce4a74b3cede15d0c1",
-        "69f9713091cc1b96d58fc171"
+        "69ddbf5f748ca16f085d0742"
       ],
       "movies": [
+        {
+          "id": "69bc1529ccc6cea268841d51",
+          "title": "Công Thức Tình Yêu",
+          "origin_name": "Recipe For Love",
+          "slug": "cong-thuc-tinh-yeu",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/co/cong-thuc-tinh-yeu.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/co/cong-thuc-tinh-yeu.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a221de0fc277084dfd1c1",
+              "name": "Hài Hước",
+              "slug": "hai-huoc"
+            },
+            {
+              "id": "620e4c0b6ba8271c5eef05a8",
+              "name": "Gia Đình",
+              "slug": "gia-dinh"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 26",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-05-06T00:13:59.000Z"
+        },
+        {
+          "id": "69f9f093b692c7b208da50df",
+          "title": "Những Ngày Hạnh Phúc Của Chúng Ta",
+          "origin_name": "Our Happy Days",
+          "slug": "nhung-ngay-hanh-phuc-cua-chung-ta",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-ngay-hanh-phuc-cua-chung-ta.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-ngay-hanh-phuc-cua-chung-ta.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620e4c0b6ba8271c5eef05a8",
+              "name": "Gia Đình",
+              "slug": "gia-dinh"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 19",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-05-06T00:13:27.000Z"
+        },
+        {
+          "id": "69f09c434a74b3cede1263a3",
+          "title": "CIA (Phần 1)",
+          "origin_name": "CIA",
+          "slug": "cia-phan-1",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ci/cia-phan-1.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ci/cia-phan-1.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a21b2e0fc277084dfd0c5",
+              "name": "Hành Động",
+              "slug": "hanh-dong"
+            },
+            {
+              "id": "620a2249e0fc277084dfd2e5",
+              "name": "Hình Sự",
+              "slug": "hinh-su"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 4",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-05-05T23:48:08.000Z"
+        },
         {
           "id": "69d5dfb315072466ace88b55",
           "title": "Mai Mối Cho Độc Sư",
@@ -2365,113 +2497,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-05-05T20:42:23.000Z"
-        },
-        {
-          "id": "69f9f093b692c7b208da50df",
-          "title": "Những Ngày Hạnh Phúc Của Chúng Ta",
-          "origin_name": "Our Happy Days",
-          "slug": "nhung-ngay-hanh-phuc-cua-chung-ta",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-ngay-hanh-phuc-cua-chung-ta.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-ngay-hanh-phuc-cua-chung-ta.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620e4c0b6ba8271c5eef05a8",
-              "name": "Gia Đình",
-              "slug": "gia-dinh"
-            },
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2300e0fc277084dfd6d2",
-              "name": "Hàn Quốc",
-              "slug": "han-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 13",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": true,
-          "modified": "2026-05-05T20:29:26.000Z"
-        },
-        {
-          "id": "69f970ce4a74b3cede15d0c1",
-          "title": "Lainey Wilson: Linh hồn nhạc đồng quê",
-          "origin_name": "Lainey Wilson: Keepin' Country Cool",
-          "slug": "lainey-wilson-linh-hon-nhac-dong-que",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/la/lainey-wilson-linh-hon-nhac-dong-que.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/la/lainey-wilson-linh-hon-nhac-dong-que.webp",
-          "year": 2026,
-          "type": "single",
-          "genre": [
-            {
-              "id": "620e0e64d9648f114cde7728",
-              "name": "Tài Liệu",
-              "slug": "tai-lieu"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a231fe0fc277084dfd7ce",
-              "name": "Âu Mỹ",
-              "slug": "au-my"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Full",
-          "quality": "HD",
-          "status": "completed",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-05-05T19:37:38.000Z"
-        },
-        {
-          "id": "69f9713091cc1b96d58fc171",
-          "title": "Bí mật giới thể thao: Phát súng ở Hawthorne Hill",
-          "origin_name": "Untold: The Shooting at Hawthorne Hill",
-          "slug": "bi-mat-gioi-the-thao-phat-sung-o-hawthorne-hill",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/bi/bi-mat-gioi-the-thao-phat-sung-o-hawthorne-hill.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/bi/bi-mat-gioi-the-thao-phat-sung-o-hawthorne-hill.webp",
-          "year": 2026,
-          "type": "single",
-          "genre": [
-            {
-              "id": "620e0e64d9648f114cde7728",
-              "name": "Tài Liệu",
-              "slug": "tai-lieu"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a231fe0fc277084dfd7ce",
-              "name": "Âu Mỹ",
-              "slug": "au-my"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Full",
-          "quality": "HD",
-          "status": "completed",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-05-05T19:36:25.000Z"
         }
       ]
     },
@@ -2515,6 +2540,9 @@
       "featured_count_sm": 1,
       "featured_count_xs": 1,
       "ids": [
+        "69bc1529ccc6cea268841d51",
+        "69f9f093b692c7b208da50df",
+        "69f09c434a74b3cede1263a3",
         "69d5dfb315072466ace88b55",
         "69e5dda82b874d6bfb6c1986",
         "69f9646ae53e6a47ad63d170",
@@ -2524,12 +2552,136 @@
         "69f9f73a006591e1081e5a12",
         "69eb8aff482e09b42827280a",
         "69ddbf5f748ca16f085d0742",
-        "69f9f093b692c7b208da50df",
-        "69f86f7f15072466acf3cfc2",
-        "692eb4b61cd57516cf6313d9",
-        "69da021916bc1b4174f11ca4"
+        "69f86f7f15072466acf3cfc2"
       ],
       "movies": [
+        {
+          "id": "69bc1529ccc6cea268841d51",
+          "title": "Công Thức Tình Yêu",
+          "origin_name": "Recipe For Love",
+          "slug": "cong-thuc-tinh-yeu",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/co/cong-thuc-tinh-yeu.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/co/cong-thuc-tinh-yeu.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a221de0fc277084dfd1c1",
+              "name": "Hài Hước",
+              "slug": "hai-huoc"
+            },
+            {
+              "id": "620e4c0b6ba8271c5eef05a8",
+              "name": "Gia Đình",
+              "slug": "gia-dinh"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 26",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-05-06T00:13:59.000Z"
+        },
+        {
+          "id": "69f9f093b692c7b208da50df",
+          "title": "Những Ngày Hạnh Phúc Của Chúng Ta",
+          "origin_name": "Our Happy Days",
+          "slug": "nhung-ngay-hanh-phuc-cua-chung-ta",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-ngay-hanh-phuc-cua-chung-ta.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-ngay-hanh-phuc-cua-chung-ta.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620e4c0b6ba8271c5eef05a8",
+              "name": "Gia Đình",
+              "slug": "gia-dinh"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 19",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-05-06T00:13:27.000Z"
+        },
+        {
+          "id": "69f09c434a74b3cede1263a3",
+          "title": "CIA (Phần 1)",
+          "origin_name": "CIA",
+          "slug": "cia-phan-1",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ci/cia-phan-1.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ci/cia-phan-1.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a21b2e0fc277084dfd0c5",
+              "name": "Hành Động",
+              "slug": "hanh-dong"
+            },
+            {
+              "id": "620a2249e0fc277084dfd2e5",
+              "name": "Hình Sự",
+              "slug": "hinh-su"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 4",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-05-05T23:48:08.000Z"
+        },
         {
           "id": "69d5dfb315072466ace88b55",
           "title": "Mai Mối Cho Độc Sư",
@@ -2867,45 +3019,6 @@
           "modified": "2026-05-05T20:42:23.000Z"
         },
         {
-          "id": "69f9f093b692c7b208da50df",
-          "title": "Những Ngày Hạnh Phúc Của Chúng Ta",
-          "origin_name": "Our Happy Days",
-          "slug": "nhung-ngay-hanh-phuc-cua-chung-ta",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-ngay-hanh-phuc-cua-chung-ta.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-ngay-hanh-phuc-cua-chung-ta.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620e4c0b6ba8271c5eef05a8",
-              "name": "Gia Đình",
-              "slug": "gia-dinh"
-            },
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2300e0fc277084dfd6d2",
-              "name": "Hàn Quốc",
-              "slug": "han-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 13",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": true,
-          "modified": "2026-05-05T20:29:26.000Z"
-        },
-        {
           "id": "69f86f7f15072466acf3cfc2",
           "title": "Tội Phạm IQ Thấp",
           "origin_name": "Born with Luck",
@@ -2948,84 +3061,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-05-05T18:29:48.000Z"
-        },
-        {
-          "id": "692eb4b61cd57516cf6313d9",
-          "title": "Giai Ngẫu Thiên Thành",
-          "origin_name": "Fate Chooses You",
-          "slug": "giai-ngau-thien-thanh",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/gi/giai-ngau-thien-thanh.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/gi/giai-ngau-thien-thanh.webp",
-          "year": 2025,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620a2282e0fc277084dfd435",
-              "name": "Viễn Tưởng",
-              "slug": "vien-tuong"
-            },
-            {
-              "id": "620a229be0fc277084dfd4dd",
-              "name": "Khoa Học",
-              "slug": "khoa-hoc"
-            },
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "62093063196e9f4ab6b448b8",
-              "name": "Trung Quốc",
-              "slug": "trung-quoc"
-            }
-          ],
-          "lang_key": "Vietsub + Thuyết Minh",
-          "episode_current": "Tập 26",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-05-05T17:53:46.000Z"
-        },
-        {
-          "id": "69da021916bc1b4174f11ca4",
-          "title": "LIAR GAME",
-          "origin_name": "LIAR GAME",
-          "slug": "liar-game",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/li/liar-game.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/li/liar-game.webp",
-          "year": 2026,
-          "type": "hoathinh",
-          "genre": [
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2307e0fc277084dfd726",
-              "name": "Nhật Bản",
-              "slug": "nhat-ban"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 5",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-05-05T14:52:06.000Z"
         }
       ]
     },
@@ -6726,6 +6761,9 @@
       "featured_count_sm": 0,
       "featured_count_xs": 0,
       "ids": [
+        "69bc1529ccc6cea268841d51",
+        "69f9f093b692c7b208da50df",
+        "69f09c434a74b3cede1263a3",
         "69d5dfb315072466ace88b55",
         "69e5dda82b874d6bfb6c1986",
         "69f9646ae53e6a47ad63d170",
@@ -6736,14 +6774,138 @@
         "69f9f73a006591e1081e5a12",
         "69eb8aff482e09b42827280a",
         "69ddbf5f748ca16f085d0742",
-        "69f9f093b692c7b208da50df",
         "69f973ea748ca16f0866dddb",
         "69f973c091cc1b96d58fc2e9",
-        "69f970ce4a74b3cede15d0c1",
-        "69f971947e5a0662d4e850c7",
-        "69f972c42b874d6bfb729eb4"
+        "69f970ce4a74b3cede15d0c1"
       ],
       "movies": [
+        {
+          "id": "69bc1529ccc6cea268841d51",
+          "title": "Công Thức Tình Yêu",
+          "origin_name": "Recipe For Love",
+          "slug": "cong-thuc-tinh-yeu",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/co/cong-thuc-tinh-yeu.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/co/cong-thuc-tinh-yeu.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a221de0fc277084dfd1c1",
+              "name": "Hài Hước",
+              "slug": "hai-huoc"
+            },
+            {
+              "id": "620e4c0b6ba8271c5eef05a8",
+              "name": "Gia Đình",
+              "slug": "gia-dinh"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 26",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-05-06T00:13:59.000Z"
+        },
+        {
+          "id": "69f9f093b692c7b208da50df",
+          "title": "Những Ngày Hạnh Phúc Của Chúng Ta",
+          "origin_name": "Our Happy Days",
+          "slug": "nhung-ngay-hanh-phuc-cua-chung-ta",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-ngay-hanh-phuc-cua-chung-ta.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-ngay-hanh-phuc-cua-chung-ta.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620e4c0b6ba8271c5eef05a8",
+              "name": "Gia Đình",
+              "slug": "gia-dinh"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 19",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-05-06T00:13:27.000Z"
+        },
+        {
+          "id": "69f09c434a74b3cede1263a3",
+          "title": "CIA (Phần 1)",
+          "origin_name": "CIA",
+          "slug": "cia-phan-1",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ci/cia-phan-1.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ci/cia-phan-1.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a21b2e0fc277084dfd0c5",
+              "name": "Hành Động",
+              "slug": "hanh-dong"
+            },
+            {
+              "id": "620a2249e0fc277084dfd2e5",
+              "name": "Hình Sự",
+              "slug": "hinh-su"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 4",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-05-05T23:48:08.000Z"
+        },
         {
           "id": "69d5dfb315072466ace88b55",
           "title": "Mai Mối Cho Độc Sư",
@@ -7120,45 +7282,6 @@
           "modified": "2026-05-05T20:42:23.000Z"
         },
         {
-          "id": "69f9f093b692c7b208da50df",
-          "title": "Những Ngày Hạnh Phúc Của Chúng Ta",
-          "origin_name": "Our Happy Days",
-          "slug": "nhung-ngay-hanh-phuc-cua-chung-ta",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-ngay-hanh-phuc-cua-chung-ta.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-ngay-hanh-phuc-cua-chung-ta.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620e4c0b6ba8271c5eef05a8",
-              "name": "Gia Đình",
-              "slug": "gia-dinh"
-            },
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2300e0fc277084dfd6d2",
-              "name": "Hàn Quốc",
-              "slug": "han-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 13",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": true,
-          "modified": "2026-05-05T20:29:26.000Z"
-        },
-        {
           "id": "69f973ea748ca16f0866dddb",
           "title": "Làm cha mẹ (Phần 3)",
           "origin_name": "Parenthood (Season 3)",
@@ -7259,94 +7382,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-05-05T19:37:38.000Z"
-        },
-        {
-          "id": "69f971947e5a0662d4e850c7",
-          "title": "Con đường đúng đắn",
-          "origin_name": "Buen Camino",
-          "slug": "con-duong-dung-dan",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/co/con-duong-dung-dan.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/co/con-duong-dung-dan.webp",
-          "year": 2025,
-          "type": "single",
-          "genre": [
-            {
-              "id": "620a221de0fc277084dfd1c1",
-              "name": "Hài Hước",
-              "slug": "hai-huoc"
-            },
-            {
-              "id": "620a2293e0fc277084dfd489",
-              "name": "Phiêu Lưu",
-              "slug": "phieu-luu"
-            },
-            {
-              "id": "620e4c0b6ba8271c5eef05a8",
-              "name": "Gia Đình",
-              "slug": "gia-dinh"
-            }
-          ],
-          "country": [
-            {
-              "id": "621674a770b58bba6858b852",
-              "name": "Ý",
-              "slug": "y"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Full",
-          "quality": "HD",
-          "status": "completed",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-05-05T19:37:10.000Z"
-        },
-        {
-          "id": "69f972c42b874d6bfb729eb4",
-          "title": "Chúc thư",
-          "origin_name": "Testament",
-          "slug": "chuc-thu",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ch/chuc-thu.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/chuc-thu.webp",
-          "year": 1983,
-          "type": "single",
-          "genre": [
-            {
-              "id": "620a2282e0fc277084dfd435",
-              "name": "Viễn Tưởng",
-              "slug": "vien-tuong"
-            },
-            {
-              "id": "620a229be0fc277084dfd4dd",
-              "name": "Khoa Học",
-              "slug": "khoa-hoc"
-            },
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a231fe0fc277084dfd7ce",
-              "name": "Âu Mỹ",
-              "slug": "au-my"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Full",
-          "quality": "HD",
-          "status": "completed",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-05-05T19:36:52.000Z"
         }
       ]
     },
@@ -8089,15 +8124,15 @@
       "featured_count_sm": 0,
       "featured_count_xs": 0,
       "ids": [
+        "69bc1529ccc6cea268841d51",
+        "69f9f093b692c7b208da50df",
         "69e5dda82b874d6bfb6c1986",
         "69f212dddb41bcecb8e5f5de",
         "69f9f73a006591e1081e5a12",
         "69eb8aff482e09b42827280a",
-        "69f9f093b692c7b208da50df",
         "69bd063ef063d23bbbd48d45",
         "69f849fcb692c7b208d97eff",
         "69e3a4edf616ee3807d9403c",
-        "69bc1529ccc6cea268841d51",
         "69f487916d4243e068f61e30",
         "69ecebe9748ca16f08627461",
         "69e3398b31aa2678f8c99a1b",
@@ -8107,6 +8142,89 @@
         "69e1c6346d4243e068ef6f34"
       ],
       "movies": [
+        {
+          "id": "69bc1529ccc6cea268841d51",
+          "title": "Công Thức Tình Yêu",
+          "origin_name": "Recipe For Love",
+          "slug": "cong-thuc-tinh-yeu",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/co/cong-thuc-tinh-yeu.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/co/cong-thuc-tinh-yeu.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a221de0fc277084dfd1c1",
+              "name": "Hài Hước",
+              "slug": "hai-huoc"
+            },
+            {
+              "id": "620e4c0b6ba8271c5eef05a8",
+              "name": "Gia Đình",
+              "slug": "gia-dinh"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 26",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-05-06T00:13:59.000Z"
+        },
+        {
+          "id": "69f9f093b692c7b208da50df",
+          "title": "Những Ngày Hạnh Phúc Của Chúng Ta",
+          "origin_name": "Our Happy Days",
+          "slug": "nhung-ngay-hanh-phuc-cua-chung-ta",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-ngay-hanh-phuc-cua-chung-ta.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-ngay-hanh-phuc-cua-chung-ta.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620e4c0b6ba8271c5eef05a8",
+              "name": "Gia Đình",
+              "slug": "gia-dinh"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 19",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-05-06T00:13:27.000Z"
+        },
         {
           "id": "69e5dda82b874d6bfb6c1986",
           "title": "Bù Nhìn Bóng Đêm",
@@ -8254,45 +8372,6 @@
           "modified": "2026-05-05T20:55:13.000Z"
         },
         {
-          "id": "69f9f093b692c7b208da50df",
-          "title": "Những Ngày Hạnh Phúc Của Chúng Ta",
-          "origin_name": "Our Happy Days",
-          "slug": "nhung-ngay-hanh-phuc-cua-chung-ta",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-ngay-hanh-phuc-cua-chung-ta.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-ngay-hanh-phuc-cua-chung-ta.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620e4c0b6ba8271c5eef05a8",
-              "name": "Gia Đình",
-              "slug": "gia-dinh"
-            },
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2300e0fc277084dfd6d2",
-              "name": "Hàn Quốc",
-              "slug": "han-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 13",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": true,
-          "modified": "2026-05-05T20:29:26.000Z"
-        },
-        {
           "id": "69bd063ef063d23bbbd48d45",
           "title": "Các Tế Bào Của Yumi (Phần 3)",
           "origin_name": "Yumi's Cells (Season 3)",
@@ -8398,50 +8477,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-05-04T11:28:06.000Z"
-        },
-        {
-          "id": "69bc1529ccc6cea268841d51",
-          "title": "Công Thức Tình Yêu",
-          "origin_name": "Recipe For Love",
-          "slug": "cong-thuc-tinh-yeu",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/co/cong-thuc-tinh-yeu.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/co/cong-thuc-tinh-yeu.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620a221de0fc277084dfd1c1",
-              "name": "Hài Hước",
-              "slug": "hai-huoc"
-            },
-            {
-              "id": "620e4c0b6ba8271c5eef05a8",
-              "name": "Gia Đình",
-              "slug": "gia-dinh"
-            },
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2300e0fc277084dfd6d2",
-              "name": "Hàn Quốc",
-              "slug": "han-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 24",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": true,
-          "modified": "2026-05-04T00:59:33.000Z"
         },
         {
           "id": "69f487916d4243e068f61e30",
@@ -8773,6 +8808,7 @@
       "featured_count_sm": 0,
       "featured_count_xs": 0,
       "ids": [
+        "69f09c434a74b3cede1263a3",
         "69e06575377c8aaad54172f8",
         "69f973ea748ca16f0866dddb",
         "69f973c091cc1b96d58fc2e9",
@@ -8787,10 +8823,53 @@
         "68f9f11ea2d805aecaf99b2e",
         "69f95c4db692c7b208da16cd",
         "69da18d7db41bcecb8de0412",
-        "69f89f8c2b874d6bfb7235dc",
-        "69f89f36006591e1081dbe53"
+        "69f89f8c2b874d6bfb7235dc"
       ],
       "movies": [
+        {
+          "id": "69f09c434a74b3cede1263a3",
+          "title": "CIA (Phần 1)",
+          "origin_name": "CIA",
+          "slug": "cia-phan-1",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ci/cia-phan-1.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ci/cia-phan-1.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a21b2e0fc277084dfd0c5",
+              "name": "Hành Động",
+              "slug": "hanh-dong"
+            },
+            {
+              "id": "620a2249e0fc277084dfd2e5",
+              "name": "Hình Sự",
+              "slug": "hinh-su"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 4",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-05-05T23:48:08.000Z"
+        },
         {
           "id": "69e06575377c8aaad54172f8",
           "title": "Cú Sốc",
@@ -9380,40 +9459,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-05-04T20:58:57.000Z"
-        },
-        {
-          "id": "69f89f36006591e1081dbe53",
-          "title": "Tiếng Chuông Tình Yêu",
-          "origin_name": "Jingle All the Way to Love",
-          "slug": "tieng-chuong-tinh-yeu",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ti/tieng-chuong-tinh-yeu.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ti/tieng-chuong-tinh-yeu.webp",
-          "year": 2024,
-          "type": "single",
-          "genre": [
-            {
-              "id": "620a220de0fc277084dfd16d",
-              "name": "Tình Cảm",
-              "slug": "tinh-cam"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a231fe0fc277084dfd7ce",
-              "name": "Âu Mỹ",
-              "slug": "au-my"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Full",
-          "quality": "HD",
-          "status": "completed",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-05-04T20:48:45.000Z"
         }
       ]
     },
@@ -10041,6 +10086,7 @@
       "featured_count_sm": 0,
       "featured_count_xs": 0,
       "ids": [
+        "69f09c434a74b3cede1263a3",
         "69d5dfb315072466ace88b55",
         "69f851c516bc1b4174fb5c67",
         "69f960b815072466acf45a80",
@@ -10051,10 +10097,53 @@
         "68e4bc4d69d7b4696cc59469",
         "68e4ba284f7493692abb949c",
         "69042d90b234f5d94935f1ca",
-        "69da18d7db41bcecb8de0412",
-        "69f8560b93c48ff6bff1cbd7"
+        "69da18d7db41bcecb8de0412"
       ],
       "movies": [
+        {
+          "id": "69f09c434a74b3cede1263a3",
+          "title": "CIA (Phần 1)",
+          "origin_name": "CIA",
+          "slug": "cia-phan-1",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ci/cia-phan-1.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ci/cia-phan-1.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a21b2e0fc277084dfd0c5",
+              "name": "Hành Động",
+              "slug": "hanh-dong"
+            },
+            {
+              "id": "620a2249e0fc277084dfd2e5",
+              "name": "Hình Sự",
+              "slug": "hinh-su"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 4",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-05-05T23:48:08.000Z"
+        },
         {
           "id": "69d5dfb315072466ace88b55",
           "title": "Mai Mối Cho Độc Sư",
@@ -10573,55 +10662,55 @@
           "chieurap": false,
           "sub_docquyen": true,
           "modified": "2026-05-04T21:42:42.000Z"
-        },
-        {
-          "id": "69f8560b93c48ff6bff1cbd7",
-          "title": "Tù Nhân",
-          "origin_name": "Prisoner",
-          "slug": "tu-nhan-2026",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/tu/tu-nhan-2026.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/tu/tu-nhan-2026.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620a21b2e0fc277084dfd0c5",
-              "name": "Hành Động",
-              "slug": "hanh-dong"
-            },
-            {
-              "id": "620a2249e0fc277084dfd2e5",
-              "name": "Hình Sự",
-              "slug": "hinh-su"
-            },
-            {
-              "id": "620a2293e0fc277084dfd489",
-              "name": "Phiêu Lưu",
-              "slug": "phieu-luu"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2370e0fc277084dfd91e",
-              "name": "Anh",
-              "slug": "anh"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Hoàn tất (6/6)",
-          "quality": "HD",
-          "status": "completed",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-05-04T17:01:10.000Z"
         }
       ]
     }
   ],
   "sliderAuto": [
+    {
+      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/co/cong-thuc-tinh-yeu.webp",
+      "link_url": "/phim/cong-thuc-tinh-yeu.html",
+      "title": "Công Thức Tình Yêu",
+      "year": "2026",
+      "country": "Hàn Quốc",
+      "episode_current": "Tập 26",
+      "genres": [
+        "Hài Hước",
+        "Gia Đình",
+        "Chính kịch"
+      ],
+      "sort_order": 0,
+      "enabled": true
+    },
+    {
+      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-ngay-hanh-phuc-cua-chung-ta.webp",
+      "link_url": "/phim/nhung-ngay-hanh-phuc-cua-chung-ta.html",
+      "title": "Những Ngày Hạnh Phúc Của Chúng Ta",
+      "year": "2026",
+      "country": "Hàn Quốc",
+      "episode_current": "Tập 19",
+      "genres": [
+        "Gia Đình",
+        "Chính kịch"
+      ],
+      "sort_order": 1,
+      "enabled": true
+    },
+    {
+      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ci/cia-phan-1.webp",
+      "link_url": "/phim/cia-phan-1.html",
+      "title": "CIA (Phần 1)",
+      "year": "2026",
+      "country": "Âu Mỹ",
+      "episode_current": "Tập 4",
+      "genres": [
+        "Hành Động",
+        "Hình Sự",
+        "Chính kịch"
+      ],
+      "sort_order": 2,
+      "enabled": true
+    },
     {
       "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ma/mai-moi-cho-doc-su.webp",
       "link_url": "/phim/mai-moi-cho-doc-su.html",
@@ -10634,7 +10723,7 @@
         "Hài Hước",
         "Phiêu Lưu"
       ],
-      "sort_order": 0,
+      "sort_order": 3,
       "enabled": true
     },
     {
@@ -10649,7 +10738,7 @@
         "Chính kịch",
         "Bí ẩn"
       ],
-      "sort_order": 1,
+      "sort_order": 4,
       "enabled": true
     },
     {
@@ -10662,7 +10751,7 @@
       "genres": [
         "Tình Cảm"
       ],
-      "sort_order": 2,
+      "sort_order": 5,
       "enabled": true
     },
     {
@@ -10676,7 +10765,7 @@
         "Viễn Tưởng",
         "Khoa Học"
       ],
-      "sort_order": 3,
+      "sort_order": 6,
       "enabled": true
     },
     {
@@ -10690,7 +10779,7 @@
         "Hài Hước",
         "Chính kịch"
       ],
-      "sort_order": 4,
+      "sort_order": 7,
       "enabled": true
     },
     {
@@ -10703,7 +10792,7 @@
       "genres": [
         "Hài Hước"
       ],
-      "sort_order": 5,
+      "sort_order": 8,
       "enabled": true
     },
     {
@@ -10716,7 +10805,7 @@
       "genres": [
         "Tình Cảm"
       ],
-      "sort_order": 6,
+      "sort_order": 9,
       "enabled": true
     },
     {
@@ -10729,7 +10818,7 @@
       "genres": [
         "Tình Cảm"
       ],
-      "sort_order": 7,
+      "sort_order": 10,
       "enabled": true
     },
     {
@@ -10741,47 +10830,6 @@
       "episode_current": "Tập 65",
       "genres": [
         "Hài Hước"
-      ],
-      "sort_order": 8,
-      "enabled": true
-    },
-    {
-      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ma/mat-ngu-ky.webp",
-      "link_url": "/phim/mat-ngu-ky.html",
-      "title": "Mật Ngữ Kỷ",
-      "year": "2026",
-      "country": "Trung Quốc",
-      "episode_current": "Tập 38",
-      "genres": [
-        "Gia Đình",
-        "Chính kịch"
-      ],
-      "sort_order": 9,
-      "enabled": true
-    },
-    {
-      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-ngay-hanh-phuc-cua-chung-ta.webp",
-      "link_url": "/phim/nhung-ngay-hanh-phuc-cua-chung-ta.html",
-      "title": "Những Ngày Hạnh Phúc Của Chúng Ta",
-      "year": "2026",
-      "country": "Hàn Quốc",
-      "episode_current": "Tập 13",
-      "genres": [
-        "Gia Đình",
-        "Chính kịch"
-      ],
-      "sort_order": 10,
-      "enabled": true
-    },
-    {
-      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/la/lam-cha-me-phan-3.webp",
-      "link_url": "/phim/lam-cha-me-phan-3.html",
-      "title": "Làm cha mẹ (Phần 3)",
-      "year": "2011",
-      "country": "Âu Mỹ",
-      "episode_current": "Hoàn tất (18/18)",
-      "genres": [
-        "Chính kịch"
       ],
       "sort_order": 11,
       "enabled": true
