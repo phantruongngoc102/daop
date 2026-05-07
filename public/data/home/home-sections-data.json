@@ -123,6 +123,8 @@
     "featured_count_sm": 1,
     "featured_count_xs": 1,
     "ids": [
+      "6947a82897c71dcd0d63982e",
+      "69fc509893c48ff6bff34ebd",
       "69e9ef6af0f815b666161eb7",
       "69e8a475db41bcecb8e33fb6",
       "68dcc5953e261817af05a0df",
@@ -133,11 +135,102 @@
       "69fc061531aa2678f8d23e59",
       "69fc05f241d6bb2c315d5c2d",
       "69be8cc5b06c99c722ff4329",
-      "692eb4b61cd57516cf6313d9",
-      "69f86f7f15072466acf3cfc2",
-      "69fc4654b692c7b208db0525"
+      "692eb4b61cd57516cf6313d9"
     ],
     "movies": [
+      {
+        "id": "6947a82897c71dcd0d63982e",
+        "title": "Người Đàn Ông Đầu Tiên",
+        "origin_name": "First Man",
+        "slug": "nguoi-dan-ong-dau-tien",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ng/nguoi-dan-ong-dau-tien.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ng/nguoi-dan-ong-dau-tien.webp",
+        "year": 2025,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a2249e0fc277084dfd2e5",
+            "name": "Hình Sự",
+            "slug": "hinh-su"
+          },
+          {
+            "id": "620e4c0b6ba8271c5eef05a8",
+            "name": "Gia Đình",
+            "slug": "gia-dinh"
+          },
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a2300e0fc277084dfd6d2",
+            "name": "Hàn Quốc",
+            "slug": "han-quoc"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 96",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-05-08T00:46:46.000Z"
+      },
+      {
+        "id": "69fc509893c48ff6bff34ebd",
+        "title": "Citadel (Phần 2)",
+        "origin_name": "Citadel (Season 2)",
+        "slug": "citadel-phan-2",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ci/citadel-phan-2.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ci/citadel-phan-2.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a21b2e0fc277084dfd0c5",
+            "name": "Hành Động",
+            "slug": "hanh-dong"
+          },
+          {
+            "id": "620a2249e0fc277084dfd2e5",
+            "name": "Hình Sự",
+            "slug": "hinh-su"
+          },
+          {
+            "id": "620a2293e0fc277084dfd489",
+            "name": "Phiêu Lưu",
+            "slug": "phieu-luu"
+          },
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a231fe0fc277084dfd7ce",
+            "name": "Âu Mỹ",
+            "slug": "au-my"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 1",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-05-08T00:36:23.000Z"
+      },
       {
         "id": "69e9ef6af0f815b666161eb7",
         "title": "Vũ Điệu Tình Thù",
@@ -546,99 +639,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-05-07T18:30:32.000Z"
-      },
-      {
-        "id": "69f86f7f15072466acf3cfc2",
-        "title": "Tội Phạm IQ Thấp",
-        "origin_name": "Born with Luck",
-        "slug": "toi-pham-iq-thap",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/to/toi-pham-iq-thap.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/to/toi-pham-iq-thap.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620a2249e0fc277084dfd2e5",
-            "name": "Hình Sự",
-            "slug": "hinh-su"
-          },
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          },
-          {
-            "id": "620f84d291fa4af90ab6b3f4",
-            "name": "Bí ẩn",
-            "slug": "bi-an"
-          }
-        ],
-        "country": [
-          {
-            "id": "62093063196e9f4ab6b448b8",
-            "name": "Trung Quốc",
-            "slug": "trung-quoc"
-          }
-        ],
-        "lang_key": "Vietsub + Thuyết Minh",
-        "episode_current": "Tập 11",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-07T18:30:04.000Z"
-      },
-      {
-        "id": "69fc4654b692c7b208db0525",
-        "title": "Legends",
-        "origin_name": "Legends",
-        "slug": "legends",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/le/legends.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/le/legends.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620a21b2e0fc277084dfd0c5",
-            "name": "Hành Động",
-            "slug": "hanh-dong"
-          },
-          {
-            "id": "620a2249e0fc277084dfd2e5",
-            "name": "Hình Sự",
-            "slug": "hinh-su"
-          },
-          {
-            "id": "620a2293e0fc277084dfd489",
-            "name": "Phiêu Lưu",
-            "slug": "phieu-luu"
-          },
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a2370e0fc277084dfd91e",
-            "name": "Anh",
-            "slug": "anh"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Hoàn tất (6/6)",
-        "quality": "HD",
-        "status": "completed",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-07T16:34:45.000Z"
       }
     ]
   },
@@ -1184,6 +1184,7 @@
     "grid_columns_sm": 3,
     "grid_columns_xs": 2,
     "ids": [
+      "69fc509893c48ff6bff34ebd",
       "69e9ef6af0f815b666161eb7",
       "69e8a475db41bcecb8e33fb6",
       "69fabdb041d6bb2c315cfb32",
@@ -1194,10 +1195,58 @@
       "69fc5bfa93c48ff6bff35321",
       "69fc5b91a54286c41baf1dd3",
       "69fc45f2482e09b4282cced0",
-      "69f99266b692c7b208da30eb",
-      "69fc5acb41d6bb2c315d7474"
+      "69f99266b692c7b208da30eb"
     ],
     "movies": [
+      {
+        "id": "69fc509893c48ff6bff34ebd",
+        "title": "Citadel (Phần 2)",
+        "origin_name": "Citadel (Season 2)",
+        "slug": "citadel-phan-2",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ci/citadel-phan-2.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ci/citadel-phan-2.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a21b2e0fc277084dfd0c5",
+            "name": "Hành Động",
+            "slug": "hanh-dong"
+          },
+          {
+            "id": "620a2249e0fc277084dfd2e5",
+            "name": "Hình Sự",
+            "slug": "hinh-su"
+          },
+          {
+            "id": "620a2293e0fc277084dfd489",
+            "name": "Phiêu Lưu",
+            "slug": "phieu-luu"
+          },
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a231fe0fc277084dfd7ce",
+            "name": "Âu Mỹ",
+            "slug": "au-my"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 1",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-05-08T00:36:23.000Z"
+      },
       {
         "id": "69e9ef6af0f815b666161eb7",
         "title": "Vũ Điệu Tình Thù",
@@ -1641,55 +1690,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-05-07T16:26:44.000Z"
-      },
-      {
-        "id": "69fc5acb41d6bb2c315d7474",
-        "title": "Cá Con Cau Có",
-        "origin_name": "The Pout-Pout Fish",
-        "slug": "ca-con-cau-co",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ca/ca-con-cau-co.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ca/ca-con-cau-co.webp",
-        "year": 2026,
-        "type": "hoathinh",
-        "genre": [
-          {
-            "id": "620a221de0fc277084dfd1c1",
-            "name": "Hài Hước",
-            "slug": "hai-huoc"
-          },
-          {
-            "id": "620a2293e0fc277084dfd489",
-            "name": "Phiêu Lưu",
-            "slug": "phieu-luu"
-          },
-          {
-            "id": "620e4c0b6ba8271c5eef05a8",
-            "name": "Gia Đình",
-            "slug": "gia-dinh"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a231fe0fc277084dfd7ce",
-            "name": "Âu Mỹ",
-            "slug": "au-my"
-          },
-          {
-            "id": "62135c8f1f1609c9d9346bb1",
-            "name": "Úc",
-            "slug": "uc"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Trailer",
-        "quality": "HD",
-        "status": "trailer",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-07T16:26:38.000Z"
       }
     ]
   },
@@ -1733,6 +1733,8 @@
     "featured_count_sm": 1,
     "featured_count_xs": 1,
     "ids": [
+      "6947a82897c71dcd0d63982e",
+      "69fc509893c48ff6bff34ebd",
       "69e9ef6af0f815b666161eb7",
       "69e8a475db41bcecb8e33fb6",
       "68dcc5953e261817af05a0df",
@@ -1740,14 +1742,105 @@
       "692eb4b61cd57516cf6313d9",
       "69f86f7f15072466acf3cfc2",
       "69f99266b692c7b208da30eb",
-      "69fc509893c48ff6bff34ebd",
       "69fc1424cec790794bfed07d",
       "69f09c434a74b3cede1263a3",
-      "6947a82897c71dcd0d63982e",
       "69f18f8316bc1b4174f8e13b",
       "69f6caf9e53e6a47ad62ae1c"
     ],
     "movies": [
+      {
+        "id": "6947a82897c71dcd0d63982e",
+        "title": "Người Đàn Ông Đầu Tiên",
+        "origin_name": "First Man",
+        "slug": "nguoi-dan-ong-dau-tien",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ng/nguoi-dan-ong-dau-tien.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ng/nguoi-dan-ong-dau-tien.webp",
+        "year": 2025,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a2249e0fc277084dfd2e5",
+            "name": "Hình Sự",
+            "slug": "hinh-su"
+          },
+          {
+            "id": "620e4c0b6ba8271c5eef05a8",
+            "name": "Gia Đình",
+            "slug": "gia-dinh"
+          },
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a2300e0fc277084dfd6d2",
+            "name": "Hàn Quốc",
+            "slug": "han-quoc"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 96",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-05-08T00:46:46.000Z"
+      },
+      {
+        "id": "69fc509893c48ff6bff34ebd",
+        "title": "Citadel (Phần 2)",
+        "origin_name": "Citadel (Season 2)",
+        "slug": "citadel-phan-2",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ci/citadel-phan-2.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ci/citadel-phan-2.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a21b2e0fc277084dfd0c5",
+            "name": "Hành Động",
+            "slug": "hanh-dong"
+          },
+          {
+            "id": "620a2249e0fc277084dfd2e5",
+            "name": "Hình Sự",
+            "slug": "hinh-su"
+          },
+          {
+            "id": "620a2293e0fc277084dfd489",
+            "name": "Phiêu Lưu",
+            "slug": "phieu-luu"
+          },
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a231fe0fc277084dfd7ce",
+            "name": "Âu Mỹ",
+            "slug": "au-my"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 1",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-05-08T00:36:23.000Z"
+      },
       {
         "id": "69e9ef6af0f815b666161eb7",
         "title": "Vũ Điệu Tình Thù",
@@ -2012,55 +2105,6 @@
         "modified": "2026-05-07T16:26:44.000Z"
       },
       {
-        "id": "69fc509893c48ff6bff34ebd",
-        "title": "Citadel (Phần 2)",
-        "origin_name": "Citadel (Season 2)",
-        "slug": "citadel-phan-2",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ci/citadel-phan-2.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ci/citadel-phan-2.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620a21b2e0fc277084dfd0c5",
-            "name": "Hành Động",
-            "slug": "hanh-dong"
-          },
-          {
-            "id": "620a2249e0fc277084dfd2e5",
-            "name": "Hình Sự",
-            "slug": "hinh-su"
-          },
-          {
-            "id": "620a2293e0fc277084dfd489",
-            "name": "Phiêu Lưu",
-            "slug": "phieu-luu"
-          },
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a231fe0fc277084dfd7ce",
-            "name": "Âu Mỹ",
-            "slug": "au-my"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 0",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": true,
-        "modified": "2026-05-07T15:44:15.000Z"
-      },
-      {
         "id": "69fc1424cec790794bfed07d",
         "title": "Lần Nữa Đến Bên Em",
         "origin_name": "Love Beyond Dreams",
@@ -2137,50 +2181,6 @@
         "chieurap": false,
         "sub_docquyen": true,
         "modified": "2026-05-07T13:46:44.000Z"
-      },
-      {
-        "id": "6947a82897c71dcd0d63982e",
-        "title": "Người Đàn Ông Đầu Tiên",
-        "origin_name": "First Man",
-        "slug": "nguoi-dan-ong-dau-tien",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ng/nguoi-dan-ong-dau-tien.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ng/nguoi-dan-ong-dau-tien.webp",
-        "year": 2025,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620a2249e0fc277084dfd2e5",
-            "name": "Hình Sự",
-            "slug": "hinh-su"
-          },
-          {
-            "id": "620e4c0b6ba8271c5eef05a8",
-            "name": "Gia Đình",
-            "slug": "gia-dinh"
-          },
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a2300e0fc277084dfd6d2",
-            "name": "Hàn Quốc",
-            "slug": "han-quoc"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 91",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": true,
-        "modified": "2026-05-07T13:13:15.000Z"
       },
       {
         "id": "69f18f8316bc1b4174f8e13b",
@@ -6034,6 +6034,8 @@
     "featured_count_sm": 0,
     "featured_count_xs": 0,
     "ids": [
+      "6947a82897c71dcd0d63982e",
+      "69fc509893c48ff6bff34ebd",
       "69e9ef6af0f815b666161eb7",
       "69e8a475db41bcecb8e33fb6",
       "68dcc5953e261817af05a0df",
@@ -6047,11 +6049,102 @@
       "692eb4b61cd57516cf6313d9",
       "69f86f7f15072466acf3cfc2",
       "69fc4654b692c7b208db0525",
-      "69fc5bfa93c48ff6bff35321",
-      "69fc5b91a54286c41baf1dd3",
-      "69fc45f2482e09b4282cced0"
+      "69fc5bfa93c48ff6bff35321"
     ],
     "movies": [
+      {
+        "id": "6947a82897c71dcd0d63982e",
+        "title": "Người Đàn Ông Đầu Tiên",
+        "origin_name": "First Man",
+        "slug": "nguoi-dan-ong-dau-tien",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ng/nguoi-dan-ong-dau-tien.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ng/nguoi-dan-ong-dau-tien.webp",
+        "year": 2025,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a2249e0fc277084dfd2e5",
+            "name": "Hình Sự",
+            "slug": "hinh-su"
+          },
+          {
+            "id": "620e4c0b6ba8271c5eef05a8",
+            "name": "Gia Đình",
+            "slug": "gia-dinh"
+          },
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a2300e0fc277084dfd6d2",
+            "name": "Hàn Quốc",
+            "slug": "han-quoc"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 96",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-05-08T00:46:46.000Z"
+      },
+      {
+        "id": "69fc509893c48ff6bff34ebd",
+        "title": "Citadel (Phần 2)",
+        "origin_name": "Citadel (Season 2)",
+        "slug": "citadel-phan-2",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ci/citadel-phan-2.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ci/citadel-phan-2.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a21b2e0fc277084dfd0c5",
+            "name": "Hành Động",
+            "slug": "hanh-dong"
+          },
+          {
+            "id": "620a2249e0fc277084dfd2e5",
+            "name": "Hình Sự",
+            "slug": "hinh-su"
+          },
+          {
+            "id": "620a2293e0fc277084dfd489",
+            "name": "Phiêu Lưu",
+            "slug": "phieu-luu"
+          },
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a231fe0fc277084dfd7ce",
+            "name": "Âu Mỹ",
+            "slug": "au-my"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 1",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-05-08T00:36:23.000Z"
+      },
       {
         "id": "69e9ef6af0f815b666161eb7",
         "title": "Vũ Điệu Tình Thù",
@@ -6597,84 +6690,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-05-07T16:31:41.000Z"
-      },
-      {
-        "id": "69fc5b91a54286c41baf1dd3",
-        "title": "Bàn tay bẩn",
-        "origin_name": "Dirty Hands",
-        "slug": "ban-tay-ban",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ba/ban-tay-ban.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ba/ban-tay-ban.webp",
-        "year": 2026,
-        "type": "single",
-        "genre": [
-          {
-            "id": "620a21b2e0fc277084dfd0c5",
-            "name": "Hành Động",
-            "slug": "hanh-dong"
-          },
-          {
-            "id": "620a2249e0fc277084dfd2e5",
-            "name": "Hình Sự",
-            "slug": "hinh-su"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a231fe0fc277084dfd7ce",
-            "name": "Âu Mỹ",
-            "slug": "au-my"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Trailer",
-        "quality": "HD",
-        "status": "trailer",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-07T16:29:55.000Z"
-      },
-      {
-        "id": "69fc45f2482e09b4282cced0",
-        "title": "Sát Thủ Yêu Dấu",
-        "origin_name": "My Dearest Assassin",
-        "slug": "sat-thu-yeu-dau",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/sa/sat-thu-yeu-dau.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/sa/sat-thu-yeu-dau.webp",
-        "year": 2026,
-        "type": "single",
-        "genre": [
-          {
-            "id": "620a21b2e0fc277084dfd0c5",
-            "name": "Hành Động",
-            "slug": "hanh-dong"
-          },
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a2318e0fc277084dfd77a",
-            "name": "Thái Lan",
-            "slug": "thai-lan"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Full",
-        "quality": "HD",
-        "status": "completed",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-07T16:26:59.000Z"
       }
     ]
   },
@@ -7437,9 +7452,9 @@
     "featured_count_sm": 0,
     "featured_count_xs": 0,
     "ids": [
+      "6947a82897c71dcd0d63982e",
       "69e8a475db41bcecb8e33fb6",
       "69d7241141d6bb2c3150f2cf",
-      "6947a82897c71dcd0d63982e",
       "69dfcfeb41d6bb2c315360fb",
       "69f1f2ed4e2efe72884c0047",
       "69bc1529ccc6cea268841d51",
@@ -7455,6 +7470,50 @@
       "69ecebe9748ca16f08627461"
     ],
     "movies": [
+      {
+        "id": "6947a82897c71dcd0d63982e",
+        "title": "Người Đàn Ông Đầu Tiên",
+        "origin_name": "First Man",
+        "slug": "nguoi-dan-ong-dau-tien",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ng/nguoi-dan-ong-dau-tien.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ng/nguoi-dan-ong-dau-tien.webp",
+        "year": 2025,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a2249e0fc277084dfd2e5",
+            "name": "Hình Sự",
+            "slug": "hinh-su"
+          },
+          {
+            "id": "620e4c0b6ba8271c5eef05a8",
+            "name": "Gia Đình",
+            "slug": "gia-dinh"
+          },
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a2300e0fc277084dfd6d2",
+            "name": "Hàn Quốc",
+            "slug": "han-quoc"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 96",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-05-08T00:46:46.000Z"
+      },
       {
         "id": "69e8a475db41bcecb8e33fb6",
         "title": "Hôm Nay Lại Bán Hết",
@@ -7527,50 +7586,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-05-07T20:49:53.000Z"
-      },
-      {
-        "id": "6947a82897c71dcd0d63982e",
-        "title": "Người Đàn Ông Đầu Tiên",
-        "origin_name": "First Man",
-        "slug": "nguoi-dan-ong-dau-tien",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ng/nguoi-dan-ong-dau-tien.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ng/nguoi-dan-ong-dau-tien.webp",
-        "year": 2025,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620a2249e0fc277084dfd2e5",
-            "name": "Hình Sự",
-            "slug": "hinh-su"
-          },
-          {
-            "id": "620e4c0b6ba8271c5eef05a8",
-            "name": "Gia Đình",
-            "slug": "gia-dinh"
-          },
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a2300e0fc277084dfd6d2",
-            "name": "Hàn Quốc",
-            "slug": "han-quoc"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 91",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": true,
-        "modified": "2026-05-07T13:13:15.000Z"
       },
       {
         "id": "69dfcfeb41d6bb2c315360fb",
@@ -8096,6 +8111,7 @@
     "featured_count_sm": 0,
     "featured_count_xs": 0,
     "ids": [
+      "69fc509893c48ff6bff34ebd",
       "69fc06456d4243e068f8e142",
       "69fc062b7e5a0662d4e921e5",
       "69fc061531aa2678f8d23e59",
@@ -8105,7 +8121,6 @@
       "69fc5acb41d6bb2c315d7474",
       "69faa347f0f815b6661bca19",
       "69fc57c16d4243e068f8f89d",
-      "69fc509893c48ff6bff34ebd",
       "644b74923826f66b2549ad84",
       "69fc1424cec790794bfed07d",
       "69f09c434a74b3cede1263a3",
@@ -8114,6 +8129,55 @@
       "69fc0689006591e1081efb4f"
     ],
     "movies": [
+      {
+        "id": "69fc509893c48ff6bff34ebd",
+        "title": "Citadel (Phần 2)",
+        "origin_name": "Citadel (Season 2)",
+        "slug": "citadel-phan-2",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ci/citadel-phan-2.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ci/citadel-phan-2.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a21b2e0fc277084dfd0c5",
+            "name": "Hành Động",
+            "slug": "hanh-dong"
+          },
+          {
+            "id": "620a2249e0fc277084dfd2e5",
+            "name": "Hình Sự",
+            "slug": "hinh-su"
+          },
+          {
+            "id": "620a2293e0fc277084dfd489",
+            "name": "Phiêu Lưu",
+            "slug": "phieu-luu"
+          },
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a231fe0fc277084dfd7ce",
+            "name": "Âu Mỹ",
+            "slug": "au-my"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 1",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-05-08T00:36:23.000Z"
+      },
       {
         "id": "69fc06456d4243e068f8e142",
         "title": "30 Rock (Phần 4)",
@@ -8474,55 +8538,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-05-07T16:13:41.000Z"
-      },
-      {
-        "id": "69fc509893c48ff6bff34ebd",
-        "title": "Citadel (Phần 2)",
-        "origin_name": "Citadel (Season 2)",
-        "slug": "citadel-phan-2",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ci/citadel-phan-2.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ci/citadel-phan-2.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620a21b2e0fc277084dfd0c5",
-            "name": "Hành Động",
-            "slug": "hanh-dong"
-          },
-          {
-            "id": "620a2249e0fc277084dfd2e5",
-            "name": "Hình Sự",
-            "slug": "hinh-su"
-          },
-          {
-            "id": "620a2293e0fc277084dfd489",
-            "name": "Phiêu Lưu",
-            "slug": "phieu-luu"
-          },
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a231fe0fc277084dfd7ce",
-            "name": "Âu Mỹ",
-            "slug": "au-my"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 0",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": true,
-        "modified": "2026-05-07T15:44:15.000Z"
       },
       {
         "id": "644b74923826f66b2549ad84",
@@ -9389,6 +9404,7 @@
     "featured_count_sm": 0,
     "featured_count_xs": 0,
     "ids": [
+      "69fc509893c48ff6bff34ebd",
       "69be8cc5b06c99c722ff4329",
       "69fc4654b692c7b208db0525",
       "69fc5bfa93c48ff6bff35321",
@@ -9397,12 +9413,60 @@
       "69faa347f0f815b6661bca19",
       "69fc57c16d4243e068f8f89d",
       "69faa4e72b874d6bfb7306bd",
-      "69fc509893c48ff6bff34ebd",
       "644b74923826f66b2549ad84",
       "69f09c434a74b3cede1263a3",
       "69cdf6070a0114095c86cb06"
     ],
     "movies": [
+      {
+        "id": "69fc509893c48ff6bff34ebd",
+        "title": "Citadel (Phần 2)",
+        "origin_name": "Citadel (Season 2)",
+        "slug": "citadel-phan-2",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ci/citadel-phan-2.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ci/citadel-phan-2.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a21b2e0fc277084dfd0c5",
+            "name": "Hành Động",
+            "slug": "hanh-dong"
+          },
+          {
+            "id": "620a2249e0fc277084dfd2e5",
+            "name": "Hình Sự",
+            "slug": "hinh-su"
+          },
+          {
+            "id": "620a2293e0fc277084dfd489",
+            "name": "Phiêu Lưu",
+            "slug": "phieu-luu"
+          },
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a231fe0fc277084dfd7ce",
+            "name": "Âu Mỹ",
+            "slug": "au-my"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 1",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-05-08T00:36:23.000Z"
+      },
       {
         "id": "69be8cc5b06c99c722ff4329",
         "title": "Tết Thiếu Nhi của Sơ Tam",
@@ -9759,55 +9823,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-05-07T16:10:59.000Z"
-      },
-      {
-        "id": "69fc509893c48ff6bff34ebd",
-        "title": "Citadel (Phần 2)",
-        "origin_name": "Citadel (Season 2)",
-        "slug": "citadel-phan-2",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ci/citadel-phan-2.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ci/citadel-phan-2.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620a21b2e0fc277084dfd0c5",
-            "name": "Hành Động",
-            "slug": "hanh-dong"
-          },
-          {
-            "id": "620a2249e0fc277084dfd2e5",
-            "name": "Hình Sự",
-            "slug": "hinh-su"
-          },
-          {
-            "id": "620a2293e0fc277084dfd489",
-            "name": "Phiêu Lưu",
-            "slug": "phieu-luu"
-          },
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a231fe0fc277084dfd7ce",
-            "name": "Âu Mỹ",
-            "slug": "au-my"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 0",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": true,
-        "modified": "2026-05-07T15:44:15.000Z"
       },
       {
         "id": "644b74923826f66b2549ad84",
