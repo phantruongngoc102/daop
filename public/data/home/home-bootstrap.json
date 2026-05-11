@@ -1,6 +1,6 @@
 {
   "buildVersion": {
-    "builtAt": "2026-05-11T14:15:32.224Z"
+    "builtAt": "2026-05-11T18:04:45.092Z"
   },
   "siteSettings": {
     "site_name": "GoTV",
@@ -955,6 +955,8 @@
       "featured_count_sm": 1,
       "featured_count_xs": 1,
       "ids": [
+        "69e5dda82b874d6bfb6c1986",
+        "69afbabc124287e0825f6b36",
         "6a01a393f0f815b6661d5a32",
         "6a01a33cf0f815b6661d5a09",
         "69fabdb041d6bb2c315cfb32",
@@ -965,11 +967,87 @@
         "6a0180e44a74b3cede17c3aa",
         "68d273e85c81ed0050c53bce",
         "69cde89b32adc86a1e8601a7",
-        "69b65d5fccc6cea268829e59",
-        "69f18f8316bc1b4174f8e13b",
-        "69f99266b692c7b208da30eb"
+        "69b65d5fccc6cea268829e59"
       ],
       "movies": [
+        {
+          "id": "69e5dda82b874d6bfb6c1986",
+          "title": "Bù Nhìn Bóng Đêm",
+          "origin_name": "The Scarecrow",
+          "slug": "bu-nhin-bong-dem",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/bu/bu-nhin-bong-dem.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/bu/bu-nhin-bong-dem.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a2249e0fc277084dfd2e5",
+              "name": "Hình Sự",
+              "slug": "hinh-su"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            },
+            {
+              "id": "620f84d291fa4af90ab6b3f4",
+              "name": "Bí ẩn",
+              "slug": "bi-an"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 7",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": false,
+          "modified": "2026-05-11T22:22:31.000Z"
+        },
+        {
+          "id": "69afbabc124287e0825f6b36",
+          "title": "Girl Rules",
+          "origin_name": "Girl Rules",
+          "slug": "girl-rules",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/gi/girl-rules.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/gi/girl-rules.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2318e0fc277084dfd77a",
+              "name": "Thái Lan",
+              "slug": "thai-lan"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 9",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": false,
+          "modified": "2026-05-11T22:22:02.000Z"
+        },
         {
           "id": "6a01a393f0f815b6661d5a32",
           "title": "Mọi người đều rất ổn (Phần 2)",
@@ -1393,74 +1471,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-05-11T11:27:21.000Z"
-        },
-        {
-          "id": "69f18f8316bc1b4174f8e13b",
-          "title": "Rể Hiền (Phần 2)",
-          "origin_name": "Royal Upstart (Season 2)",
-          "slug": "re-hien-phan-2",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/re/re-hien-phan-2.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/re/re-hien-phan-2.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "62093063196e9f4ab6b448b8",
-              "name": "Trung Quốc",
-              "slug": "trung-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 24",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-05-11T11:21:24.000Z"
-        },
-        {
-          "id": "69f99266b692c7b208da30eb",
-          "title": "Hành Trình Quay Về Bên Nhau",
-          "origin_name": "A Journey Back to Us",
-          "slug": "hanh-trinh-quay-ve-ben-nhau",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ha/hanh-trinh-quay-ve-ben-nhau.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ha/hanh-trinh-quay-ve-ben-nhau.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "62093063196e9f4ab6b448b8",
-              "name": "Trung Quốc",
-              "slug": "trung-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 6",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-05-11T11:21:11.000Z"
         }
       ]
     },
@@ -2011,6 +2021,8 @@
       "grid_columns_sm": 3,
       "grid_columns_xs": 2,
       "ids": [
+        "69e5dda82b874d6bfb6c1986",
+        "69afbabc124287e0825f6b36",
         "6a01a393f0f815b6661d5a32",
         "69fabdb041d6bb2c315cfb32",
         "69ecebe9748ca16f08627461",
@@ -2020,11 +2032,87 @@
         "6a01a4e8b3a3583bbbb9dc69",
         "6a01a4c691cc1b96d591bbb8",
         "6a01a444f616ee3807e2cbfd",
-        "6a01a41441d6bb2c315e85a4",
-        "69aa268c400bf394bd8ea526",
-        "6a018a3c15072466acf657a0"
+        "6a01a41441d6bb2c315e85a4"
       ],
       "movies": [
+        {
+          "id": "69e5dda82b874d6bfb6c1986",
+          "title": "Bù Nhìn Bóng Đêm",
+          "origin_name": "The Scarecrow",
+          "slug": "bu-nhin-bong-dem",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/bu/bu-nhin-bong-dem.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/bu/bu-nhin-bong-dem.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a2249e0fc277084dfd2e5",
+              "name": "Hình Sự",
+              "slug": "hinh-su"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            },
+            {
+              "id": "620f84d291fa4af90ab6b3f4",
+              "name": "Bí ẩn",
+              "slug": "bi-an"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 7",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": false,
+          "modified": "2026-05-11T22:22:31.000Z"
+        },
+        {
+          "id": "69afbabc124287e0825f6b36",
+          "title": "Girl Rules",
+          "origin_name": "Girl Rules",
+          "slug": "girl-rules",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/gi/girl-rules.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/gi/girl-rules.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2318e0fc277084dfd77a",
+              "name": "Thái Lan",
+              "slug": "thai-lan"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 9",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": false,
+          "modified": "2026-05-11T22:22:02.000Z"
+        },
         {
           "id": "6a01a393f0f815b6661d5a32",
           "title": "Mọi người đều rất ổn (Phần 2)",
@@ -2419,74 +2507,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-05-11T16:40:39.000Z"
-        },
-        {
-          "id": "69aa268c400bf394bd8ea526",
-          "title": "Lực Lượng Marshals",
-          "origin_name": "Marshals",
-          "slug": "marshals",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ma/marshals.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ma/marshals.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a231fe0fc277084dfd7ce",
-              "name": "Âu Mỹ",
-              "slug": "au-my"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 11",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": true,
-          "modified": "2026-05-11T15:26:32.000Z"
-        },
-        {
-          "id": "6a018a3c15072466acf657a0",
-          "title": "Othello",
-          "origin_name": "Othello",
-          "slug": "othello",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ot/othello.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ot/othello.webp",
-          "year": 2026,
-          "type": "single",
-          "genre": [
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2370e0fc277084dfd91e",
-              "name": "Anh",
-              "slug": "anh"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Trailer",
-          "quality": "HD",
-          "status": "trailer",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-05-11T14:50:23.000Z"
         }
       ]
     },
@@ -2530,6 +2550,8 @@
       "featured_count_sm": 1,
       "featured_count_xs": 1,
       "ids": [
+        "69e5dda82b874d6bfb6c1986",
+        "69afbabc124287e0825f6b36",
         "69ecebe9748ca16f08627461",
         "69f86f7f15072466acf3cfc2",
         "69f487916d4243e068f61e30",
@@ -2540,11 +2562,87 @@
         "69f99266b692c7b208da30eb",
         "69e4a9db6d4243e068f1056b",
         "69df1bc8006591e10814bd8c",
-        "69f6caf9e53e6a47ad62ae1c",
-        "69d9fe91db41bcecb8ddf777",
-        "69b8cad6b06c99c722fdbb43"
+        "69f6caf9e53e6a47ad62ae1c"
       ],
       "movies": [
+        {
+          "id": "69e5dda82b874d6bfb6c1986",
+          "title": "Bù Nhìn Bóng Đêm",
+          "origin_name": "The Scarecrow",
+          "slug": "bu-nhin-bong-dem",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/bu/bu-nhin-bong-dem.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/bu/bu-nhin-bong-dem.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a2249e0fc277084dfd2e5",
+              "name": "Hình Sự",
+              "slug": "hinh-su"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            },
+            {
+              "id": "620f84d291fa4af90ab6b3f4",
+              "name": "Bí ẩn",
+              "slug": "bi-an"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 7",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": false,
+          "modified": "2026-05-11T22:22:31.000Z"
+        },
+        {
+          "id": "69afbabc124287e0825f6b36",
+          "title": "Girl Rules",
+          "origin_name": "Girl Rules",
+          "slug": "girl-rules",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/gi/girl-rules.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/gi/girl-rules.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2318e0fc277084dfd77a",
+              "name": "Thái Lan",
+              "slug": "thai-lan"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 9",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": false,
+          "modified": "2026-05-11T22:22:02.000Z"
+        },
         {
           "id": "69ecebe9748ca16f08627461",
           "title": "Thanh Tra Bí Mật",
@@ -2958,94 +3056,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-05-11T11:20:33.000Z"
-        },
-        {
-          "id": "69d9fe91db41bcecb8ddf777",
-          "title": "Giọt Rượu Thần Thánh",
-          "origin_name": "The Drops of God",
-          "slug": "giot-ruou-than-thanh-anime",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/gi/giot-ruou-than-thanh-anime.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/gi/giot-ruou-than-thanh-anime.webp",
-          "year": 2026,
-          "type": "hoathinh",
-          "genre": [
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2307e0fc277084dfd726",
-              "name": "Nhật Bản",
-              "slug": "nhat-ban"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 5",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-05-11T10:53:28.000Z"
-        },
-        {
-          "id": "69b8cad6b06c99c722fdbb43",
-          "title": "Cự Kê Chiến Ký",
-          "origin_name": "Rooster Fighter",
-          "slug": "cu-ke-chien-ky",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/cu/cu-ke-chien-ky.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/cu/cu-ke-chien-ky.webp",
-          "year": 2026,
-          "type": "hoathinh",
-          "genre": [
-            {
-              "id": "620a21b2e0fc277084dfd0c5",
-              "name": "Hành Động",
-              "slug": "hanh-dong"
-            },
-            {
-              "id": "620a2282e0fc277084dfd435",
-              "name": "Viễn Tưởng",
-              "slug": "vien-tuong"
-            },
-            {
-              "id": "620a2293e0fc277084dfd489",
-              "name": "Phiêu Lưu",
-              "slug": "phieu-luu"
-            },
-            {
-              "id": "620a229be0fc277084dfd4dd",
-              "name": "Khoa Học",
-              "slug": "khoa-hoc"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2307e0fc277084dfd726",
-              "name": "Nhật Bản",
-              "slug": "nhat-ban"
-            },
-            {
-              "id": "620a231fe0fc277084dfd7ce",
-              "name": "Âu Mỹ",
-              "slug": "au-my"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 9",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-05-11T10:52:54.000Z"
         }
       ]
     },
@@ -6761,6 +6771,8 @@
       "featured_count_sm": 0,
       "featured_count_xs": 0,
       "ids": [
+        "69e5dda82b874d6bfb6c1986",
+        "69afbabc124287e0825f6b36",
         "6a01a393f0f815b6661d5a32",
         "6a01a33cf0f815b6661d5a09",
         "69fabdb041d6bb2c315cfb32",
@@ -6774,11 +6786,87 @@
         "6a01a60015072466acf65e47",
         "6a01a5da91cc1b96d591bc55",
         "6a01a542da7d8940686757cb",
-        "6a01a50041d6bb2c315e8633",
-        "6a01a4e8b3a3583bbbb9dc69",
-        "6a01a4c691cc1b96d591bbb8"
+        "6a01a50041d6bb2c315e8633"
       ],
       "movies": [
+        {
+          "id": "69e5dda82b874d6bfb6c1986",
+          "title": "Bù Nhìn Bóng Đêm",
+          "origin_name": "The Scarecrow",
+          "slug": "bu-nhin-bong-dem",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/bu/bu-nhin-bong-dem.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/bu/bu-nhin-bong-dem.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a2249e0fc277084dfd2e5",
+              "name": "Hình Sự",
+              "slug": "hinh-su"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            },
+            {
+              "id": "620f84d291fa4af90ab6b3f4",
+              "name": "Bí ẩn",
+              "slug": "bi-an"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 7",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": false,
+          "modified": "2026-05-11T22:22:31.000Z"
+        },
+        {
+          "id": "69afbabc124287e0825f6b36",
+          "title": "Girl Rules",
+          "origin_name": "Girl Rules",
+          "slug": "girl-rules",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/gi/girl-rules.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/gi/girl-rules.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2318e0fc277084dfd77a",
+              "name": "Thái Lan",
+              "slug": "thai-lan"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 9",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": false,
+          "modified": "2026-05-11T22:22:02.000Z"
+        },
         {
           "id": "6a01a393f0f815b6661d5a32",
           "title": "Mọi người đều rất ổn (Phần 2)",
@@ -7299,84 +7387,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-05-11T16:44:35.000Z"
-        },
-        {
-          "id": "6a01a4e8b3a3583bbbb9dc69",
-          "title": "Khách",
-          "origin_name": "Passenger",
-          "slug": "khach",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/kh/khach.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/kh/khach.webp",
-          "year": 2026,
-          "type": "single",
-          "genre": [
-            {
-              "id": "620a22ace0fc277084dfd531",
-              "name": "Kinh Dị",
-              "slug": "kinh-di"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a231fe0fc277084dfd7ce",
-              "name": "Âu Mỹ",
-              "slug": "au-my"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Trailer",
-          "quality": "HD",
-          "status": "trailer",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-05-11T16:44:11.000Z"
-        },
-        {
-          "id": "6a01a4c691cc1b96d591bbb8",
-          "title": "Hào Quang Trở Lại",
-          "origin_name": "Mother Mary",
-          "slug": "hao-quang-tro-lai",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ha/hao-quang-tro-lai.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ha/hao-quang-tro-lai.webp",
-          "year": 2026,
-          "type": "single",
-          "genre": [
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a231fe0fc277084dfd7ce",
-              "name": "Âu Mỹ",
-              "slug": "au-my"
-            },
-            {
-              "id": "620e0e8fd9648f114cde77f7",
-              "name": "Đức",
-              "slug": "duc"
-            },
-            {
-              "id": "63295529b4be4e0b655ed084",
-              "name": "Phần Lan",
-              "slug": "phan-lan"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Trailer",
-          "quality": "HD",
-          "status": "trailer",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-05-11T16:43:39.000Z"
         }
       ]
     },
@@ -8084,6 +8094,7 @@
       "featured_count_sm": 0,
       "featured_count_xs": 0,
       "ids": [
+        "69e5dda82b874d6bfb6c1986",
         "69ecebe9748ca16f08627461",
         "69f487916d4243e068f61e30",
         "69e3a4edf616ee3807d9403c",
@@ -8098,10 +8109,53 @@
         "69e8a475db41bcecb8e33fb6",
         "69d7241141d6bb2c3150f2cf",
         "69dfcfeb41d6bb2c315360fb",
-        "69bc1529ccc6cea268841d51",
-        "69f9f093b692c7b208da50df"
+        "69bc1529ccc6cea268841d51"
       ],
       "movies": [
+        {
+          "id": "69e5dda82b874d6bfb6c1986",
+          "title": "Bù Nhìn Bóng Đêm",
+          "origin_name": "The Scarecrow",
+          "slug": "bu-nhin-bong-dem",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/bu/bu-nhin-bong-dem.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/bu/bu-nhin-bong-dem.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a2249e0fc277084dfd2e5",
+              "name": "Hình Sự",
+              "slug": "hinh-su"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            },
+            {
+              "id": "620f84d291fa4af90ab6b3f4",
+              "name": "Bí ẩn",
+              "slug": "bi-an"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 7",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": false,
+          "modified": "2026-05-11T22:22:31.000Z"
+        },
         {
           "id": "69ecebe9748ca16f08627461",
           "title": "Thanh Tra Bí Mật",
@@ -8681,45 +8735,6 @@
           "chieurap": false,
           "sub_docquyen": true,
           "modified": "2026-05-06T00:13:59.000Z"
-        },
-        {
-          "id": "69f9f093b692c7b208da50df",
-          "title": "Những Ngày Hạnh Phúc Của Chúng Ta",
-          "origin_name": "Our Happy Days",
-          "slug": "nhung-ngay-hanh-phuc-cua-chung-ta",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-ngay-hanh-phuc-cua-chung-ta.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-ngay-hanh-phuc-cua-chung-ta.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620e4c0b6ba8271c5eef05a8",
-              "name": "Gia Đình",
-              "slug": "gia-dinh"
-            },
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2300e0fc277084dfd6d2",
-              "name": "Hàn Quốc",
-              "slug": "han-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 19",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": true,
-          "modified": "2026-05-06T00:13:27.000Z"
         }
       ]
     },
@@ -10613,6 +10628,34 @@
   ],
   "sliderAuto": [
     {
+      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/bu/bu-nhin-bong-dem.webp",
+      "link_url": "/phim/bu-nhin-bong-dem.html",
+      "title": "Bù Nhìn Bóng Đêm",
+      "year": "2026",
+      "country": "Hàn Quốc",
+      "episode_current": "Tập 7",
+      "genres": [
+        "Hình Sự",
+        "Chính kịch",
+        "Bí ẩn"
+      ],
+      "sort_order": 0,
+      "enabled": true
+    },
+    {
+      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/gi/girl-rules.webp",
+      "link_url": "/phim/girl-rules.html",
+      "title": "Girl Rules",
+      "year": "2026",
+      "country": "Thái Lan",
+      "episode_current": "Tập 9",
+      "genres": [
+        "Chính kịch"
+      ],
+      "sort_order": 1,
+      "enabled": true
+    },
+    {
       "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ev/everyone-is-doing-great-phan-2.webp",
       "link_url": "/phim/everyone-is-doing-great-phan-2.html",
       "title": "Mọi người đều rất ổn (Phần 2)",
@@ -10622,7 +10665,7 @@
       "genres": [
         "Hài Hước"
       ],
-      "sort_order": 0,
+      "sort_order": 2,
       "enabled": true
     },
     {
@@ -10635,7 +10678,7 @@
       "genres": [
         "Hài Hước"
       ],
-      "sort_order": 1,
+      "sort_order": 3,
       "enabled": true
     },
     {
@@ -10648,7 +10691,7 @@
       "genres": [
         "Chính kịch"
       ],
-      "sort_order": 2,
+      "sort_order": 4,
       "enabled": true
     },
     {
@@ -10662,7 +10705,7 @@
         "Hài Hước",
         "Chính kịch"
       ],
-      "sort_order": 3,
+      "sort_order": 5,
       "enabled": true
     },
     {
@@ -10677,7 +10720,7 @@
         "Chính kịch",
         "Bí ẩn"
       ],
-      "sort_order": 4,
+      "sort_order": 6,
       "enabled": true
     },
     {
@@ -10690,7 +10733,7 @@
       "genres": [
         "Tình Cảm"
       ],
-      "sort_order": 5,
+      "sort_order": 7,
       "enabled": true
     },
     {
@@ -10705,7 +10748,7 @@
         "Khoa Học",
         "Chính kịch"
       ],
-      "sort_order": 6,
+      "sort_order": 8,
       "enabled": true
     },
     {
@@ -10718,7 +10761,7 @@
       "genres": [
         "Tình Cảm"
       ],
-      "sort_order": 7,
+      "sort_order": 9,
       "enabled": true
     },
     {
@@ -10732,7 +10775,7 @@
         "Hài Hước",
         "Chính kịch"
       ],
-      "sort_order": 8,
+      "sort_order": 10,
       "enabled": true
     },
     {
@@ -10745,32 +10788,6 @@
       "genres": [
         "Hài Hước",
         "Chính kịch"
-      ],
-      "sort_order": 9,
-      "enabled": true
-    },
-    {
-      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/bu/bup-be-ky-uc-hoi-uc-khong-quen.webp",
-      "link_url": "/phim/bup-be-ky-uc-hoi-uc-khong-quen.html",
-      "title": "Búp Bê Ký Ức: Hồi Ức Không Quên",
-      "year": "2020",
-      "country": "Nhật Bản",
-      "episode_current": "Trailer",
-      "genres": [
-        "Chính kịch"
-      ],
-      "sort_order": 10,
-      "enabled": true
-    },
-    {
-      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ma/mau-xanh-ao-giac.webp",
-      "link_url": "/phim/mau-xanh-ao-giac.html",
-      "title": "Màu Xanh Ảo Giác",
-      "year": "1998",
-      "country": "Nhật Bản",
-      "episode_current": "Trailer",
-      "genres": [
-        "Tình Cảm"
       ],
       "sort_order": 11,
       "enabled": true
