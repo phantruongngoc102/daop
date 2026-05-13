@@ -123,6 +123,8 @@
     "featured_count_sm": 1,
     "featured_count_xs": 1,
     "ids": [
+      "6a044696db41bcecb8eb5c0f",
+      "6a04456f748ca16f08695c89",
       "695f5290f063d23bbbc21c06",
       "69fc509893c48ff6bff34ebd",
       "69fabe477e5a0662d4e8c1da",
@@ -133,11 +135,77 @@
       "69e84ade748ca16f0861152d",
       "6a03f0fa6d4243e068fa78a7",
       "6a02d864006591e108205d8a",
-      "69eae81d482e09b42826f8a5",
-      "69cbf7b5458948c679b00b72",
-      "69f09c434a74b3cede1263a3"
+      "69eae81d482e09b42826f8a5"
     ],
     "movies": [
+      {
+        "id": "6a044696db41bcecb8eb5c0f",
+        "title": "Giữa cha và con trai",
+        "origin_name": "Between Father and Son",
+        "slug": "giua-cha-va-con-trai",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/gi/giua-cha-va-con-trai.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/gi/giua-cha-va-con-trai.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "6212611d1f1609c9d93466cc",
+            "name": "Mexico",
+            "slug": "mexico"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Trailer",
+        "quality": "HD",
+        "status": "trailer",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": false,
+        "modified": "2026-05-13T16:38:50.000Z"
+      },
+      {
+        "id": "6a04456f748ca16f08695c89",
+        "title": "Gà trống (Phần 2)",
+        "origin_name": "Roosters (Season 2)",
+        "slug": "ga-trong-phan-2",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ga/ga-trong-phan-2.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ga/ga-trong-phan-2.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a221de0fc277084dfd1c1",
+            "name": "Hài Hước",
+            "slug": "hai-huoc"
+          }
+        ],
+        "country": [
+          {
+            "id": "6211e48c1f1609c9d9343bd0",
+            "name": "Hà Lan",
+            "slug": "ha-lan"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Trailer",
+        "quality": "HD",
+        "status": "trailer",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": false,
+        "modified": "2026-05-13T16:33:42.000Z"
+      },
       {
         "id": "695f5290f063d23bbbc21c06",
         "title": "The Boys (Phần 5)",
@@ -561,84 +629,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-05-12T22:56:46.000Z"
-      },
-      {
-        "id": "69cbf7b5458948c679b00b72",
-        "title": "Tình Yêu Phản Bội",
-        "origin_name": "Wrong Side of the Rainbow",
-        "slug": "tinh-yeu-phan-boi",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ti/tinh-yeu-phan-boi.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ti/tinh-yeu-phan-boi.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a2318e0fc277084dfd77a",
-            "name": "Thái Lan",
-            "slug": "thai-lan"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 13",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-12T22:56:01.000Z"
-      },
-      {
-        "id": "69f09c434a74b3cede1263a3",
-        "title": "CIA (Phần 1)",
-        "origin_name": "CIA",
-        "slug": "cia-phan-1",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ci/cia-phan-1.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ci/cia-phan-1.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620a21b2e0fc277084dfd0c5",
-            "name": "Hành Động",
-            "slug": "hanh-dong"
-          },
-          {
-            "id": "620a2249e0fc277084dfd2e5",
-            "name": "Hình Sự",
-            "slug": "hinh-su"
-          },
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a231fe0fc277084dfd7ce",
-            "name": "Âu Mỹ",
-            "slug": "au-my"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 7",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": true,
-        "modified": "2026-05-12T22:19:40.000Z"
       }
     ]
   },
@@ -666,6 +656,7 @@
     "grid_columns_sm": 3,
     "grid_columns_xs": 2,
     "ids": [
+      "6a0446e941d6bb2c315f0b4b",
       "6a04451dcec790794b007d08",
       "6a0444c693c48ff6bff4e88b",
       "6a043900e53e6a47ad665507",
@@ -676,10 +667,43 @@
       "6a02e56de53e6a47ad661287",
       "6884e37e3d36a5f676769659",
       "6a013b277e5a0662d4ea2cc0",
-      "6a013bd9482e09b4282dcb54",
-      "6a018b974a74b3cede17c7dc"
+      "6a013bd9482e09b4282dcb54"
     ],
     "movies": [
+      {
+        "id": "6a0446e941d6bb2c315f0b4b",
+        "title": "Xe buýt: Vụ nổi loạn của bóng đá Pháp",
+        "origin_name": "The Bus: A French Football Mutiny",
+        "slug": "xe-buyt-vu-noi-loan-cua-bong-da-phap",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/xe/xe-buyt-vu-noi-loan-cua-bong-da-phap.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/xe/xe-buyt-vu-noi-loan-cua-bong-da-phap.webp",
+        "year": 2026,
+        "type": "single",
+        "genre": [
+          {
+            "id": "620e0e64d9648f114cde7728",
+            "name": "Tài Liệu",
+            "slug": "tai-lieu"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a231fe0fc277084dfd7ce",
+            "name": "Âu Mỹ",
+            "slug": "au-my"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Trailer",
+        "quality": "HD",
+        "status": "trailer",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": false,
+        "modified": "2026-05-13T16:39:55.000Z"
+      },
       {
         "id": "6a04451dcec790794b007d08",
         "title": "Bí mật giới thể thao Anh quốc: Jamie Vardy",
@@ -717,7 +741,7 @@
         "is_exclusive": false,
         "chieurap": false,
         "sub_docquyen": false,
-        "modified": "2026-05-13T16:32:13.000Z"
+        "modified": "2026-05-13T16:32:38.000Z"
       },
       {
         "id": "6a0444c693c48ff6bff4e88b",
@@ -1078,45 +1102,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-05-12T10:16:01.000Z"
-      },
-      {
-        "id": "6a018b974a74b3cede17c7dc",
-        "title": "Thiên đường trong bóng tối",
-        "origin_name": "Heaven in the Dark",
-        "slug": "thien-duong-trong-bong-toi",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/th/thien-duong-trong-bong-toi.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/th/thien-duong-trong-bong-toi.webp",
-        "year": 2016,
-        "type": "single",
-        "genre": [
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "62093063196e9f4ab6b448b8",
-            "name": "Trung Quốc",
-            "slug": "trung-quoc"
-          },
-          {
-            "id": "620a2347e0fc277084dfd876",
-            "name": "Hồng Kông",
-            "slug": "hong-kong"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Full",
-        "quality": "HD",
-        "status": "completed",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-12T10:15:36.000Z"
       }
     ]
   },
@@ -1144,6 +1129,9 @@
     "grid_columns_sm": 3,
     "grid_columns_xs": 2,
     "ids": [
+      "6a0446e941d6bb2c315f0b4b",
+      "6a044696db41bcecb8eb5c0f",
+      "6a04456f748ca16f08695c89",
       "6a04451dcec790794b007d08",
       "6a0444c693c48ff6bff4e88b",
       "6a043900e53e6a47ad665507",
@@ -1152,12 +1140,111 @@
       "6a02e4fc15072466acf69b10",
       "69fc509893c48ff6bff34ebd",
       "69fabe477e5a0662d4e8c1da",
-      "69f18f8316bc1b4174f8e13b",
-      "69f6caf9e53e6a47ad62ae1c",
-      "69f99266b692c7b208da30eb",
-      "6a03f735b3a3583bbbba4b5d"
+      "69f18f8316bc1b4174f8e13b"
     ],
     "movies": [
+      {
+        "id": "6a0446e941d6bb2c315f0b4b",
+        "title": "Xe buýt: Vụ nổi loạn của bóng đá Pháp",
+        "origin_name": "The Bus: A French Football Mutiny",
+        "slug": "xe-buyt-vu-noi-loan-cua-bong-da-phap",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/xe/xe-buyt-vu-noi-loan-cua-bong-da-phap.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/xe/xe-buyt-vu-noi-loan-cua-bong-da-phap.webp",
+        "year": 2026,
+        "type": "single",
+        "genre": [
+          {
+            "id": "620e0e64d9648f114cde7728",
+            "name": "Tài Liệu",
+            "slug": "tai-lieu"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a231fe0fc277084dfd7ce",
+            "name": "Âu Mỹ",
+            "slug": "au-my"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Trailer",
+        "quality": "HD",
+        "status": "trailer",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": false,
+        "modified": "2026-05-13T16:39:55.000Z"
+      },
+      {
+        "id": "6a044696db41bcecb8eb5c0f",
+        "title": "Giữa cha và con trai",
+        "origin_name": "Between Father and Son",
+        "slug": "giua-cha-va-con-trai",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/gi/giua-cha-va-con-trai.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/gi/giua-cha-va-con-trai.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "6212611d1f1609c9d93466cc",
+            "name": "Mexico",
+            "slug": "mexico"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Trailer",
+        "quality": "HD",
+        "status": "trailer",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": false,
+        "modified": "2026-05-13T16:38:50.000Z"
+      },
+      {
+        "id": "6a04456f748ca16f08695c89",
+        "title": "Gà trống (Phần 2)",
+        "origin_name": "Roosters (Season 2)",
+        "slug": "ga-trong-phan-2",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ga/ga-trong-phan-2.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ga/ga-trong-phan-2.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a221de0fc277084dfd1c1",
+            "name": "Hài Hước",
+            "slug": "hai-huoc"
+          }
+        ],
+        "country": [
+          {
+            "id": "6211e48c1f1609c9d9343bd0",
+            "name": "Hà Lan",
+            "slug": "ha-lan"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Trailer",
+        "quality": "HD",
+        "status": "trailer",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": false,
+        "modified": "2026-05-13T16:33:42.000Z"
+      },
       {
         "id": "6a04451dcec790794b007d08",
         "title": "Bí mật giới thể thao Anh quốc: Jamie Vardy",
@@ -1195,7 +1282,7 @@
         "is_exclusive": false,
         "chieurap": false,
         "sub_docquyen": false,
-        "modified": "2026-05-13T16:32:13.000Z"
+        "modified": "2026-05-13T16:32:38.000Z"
       },
       {
         "id": "6a0444c693c48ff6bff4e88b",
@@ -1498,108 +1585,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-05-13T11:13:20.000Z"
-      },
-      {
-        "id": "69f6caf9e53e6a47ad62ae1c",
-        "title": "Lương Trần Mỹ Cẩm",
-        "origin_name": "A Splendid Match",
-        "slug": "luong-tran-my-cam",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/lu/luong-tran-my-cam.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/lu/luong-tran-my-cam.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "62093063196e9f4ab6b448b8",
-            "name": "Trung Quốc",
-            "slug": "trung-quoc"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 21",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-13T11:12:37.000Z"
-      },
-      {
-        "id": "69f99266b692c7b208da30eb",
-        "title": "Hành Trình Quay Về Bên Nhau",
-        "origin_name": "A Journey Back to Us",
-        "slug": "hanh-trinh-quay-ve-ben-nhau",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ha/hanh-trinh-quay-ve-ben-nhau.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ha/hanh-trinh-quay-ve-ben-nhau.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "62093063196e9f4ab6b448b8",
-            "name": "Trung Quốc",
-            "slug": "trung-quoc"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Hoàn tất (8/8)",
-        "quality": "HD",
-        "status": "completed",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-13T11:12:09.000Z"
-      },
-      {
-        "id": "6a03f735b3a3583bbbba4b5d",
-        "title": "Bổn Huyền Nha Là Phúc Tinh",
-        "origin_name": "本玄鸦是福星",
-        "slug": "bon-huyen-nha-la-phuc-tinh",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/bo/bon-huyen-nha-la-phuc-tinh.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/bo/bon-huyen-nha-la-phuc-tinh.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "62093063196e9f4ab6b448b8",
-            "name": "Trung Quốc",
-            "slug": "trung-quoc"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Trailer",
-        "quality": "HD",
-        "status": "trailer",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-13T10:59:49.000Z"
       }
     ]
   },
@@ -2272,6 +2257,9 @@
     "featured_count_sm": 0,
     "featured_count_xs": 0,
     "ids": [
+      "6a0446e941d6bb2c315f0b4b",
+      "6a044696db41bcecb8eb5c0f",
+      "6a04456f748ca16f08695c89",
       "6a04451dcec790794b007d08",
       "6a0444c693c48ff6bff4e88b",
       "6a043900e53e6a47ad665507",
@@ -2280,12 +2268,111 @@
       "6a03f0fa6d4243e068fa78a7",
       "6a0341a9da7d89406867aaae",
       "6a01a68c93c48ff6bff46528",
-      "6a01a66016bc1b4174fdf682",
-      "6a01a62941d6bb2c315e86d2",
-      "6a01a60015072466acf65e47",
-      "6a01a5da91cc1b96d591bc55"
+      "6a01a66016bc1b4174fdf682"
     ],
     "movies": [
+      {
+        "id": "6a0446e941d6bb2c315f0b4b",
+        "title": "Xe buýt: Vụ nổi loạn của bóng đá Pháp",
+        "origin_name": "The Bus: A French Football Mutiny",
+        "slug": "xe-buyt-vu-noi-loan-cua-bong-da-phap",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/xe/xe-buyt-vu-noi-loan-cua-bong-da-phap.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/xe/xe-buyt-vu-noi-loan-cua-bong-da-phap.webp",
+        "year": 2026,
+        "type": "single",
+        "genre": [
+          {
+            "id": "620e0e64d9648f114cde7728",
+            "name": "Tài Liệu",
+            "slug": "tai-lieu"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a231fe0fc277084dfd7ce",
+            "name": "Âu Mỹ",
+            "slug": "au-my"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Trailer",
+        "quality": "HD",
+        "status": "trailer",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": false,
+        "modified": "2026-05-13T16:39:55.000Z"
+      },
+      {
+        "id": "6a044696db41bcecb8eb5c0f",
+        "title": "Giữa cha và con trai",
+        "origin_name": "Between Father and Son",
+        "slug": "giua-cha-va-con-trai",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/gi/giua-cha-va-con-trai.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/gi/giua-cha-va-con-trai.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "6212611d1f1609c9d93466cc",
+            "name": "Mexico",
+            "slug": "mexico"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Trailer",
+        "quality": "HD",
+        "status": "trailer",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": false,
+        "modified": "2026-05-13T16:38:50.000Z"
+      },
+      {
+        "id": "6a04456f748ca16f08695c89",
+        "title": "Gà trống (Phần 2)",
+        "origin_name": "Roosters (Season 2)",
+        "slug": "ga-trong-phan-2",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ga/ga-trong-phan-2.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ga/ga-trong-phan-2.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a221de0fc277084dfd1c1",
+            "name": "Hài Hước",
+            "slug": "hai-huoc"
+          }
+        ],
+        "country": [
+          {
+            "id": "6211e48c1f1609c9d9343bd0",
+            "name": "Hà Lan",
+            "slug": "ha-lan"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Trailer",
+        "quality": "HD",
+        "status": "trailer",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": false,
+        "modified": "2026-05-13T16:33:42.000Z"
+      },
       {
         "id": "6a04451dcec790794b007d08",
         "title": "Bí mật giới thể thao Anh quốc: Jamie Vardy",
@@ -2323,7 +2410,7 @@
         "is_exclusive": false,
         "chieurap": false,
         "sub_docquyen": false,
-        "modified": "2026-05-13T16:32:13.000Z"
+        "modified": "2026-05-13T16:32:38.000Z"
       },
       {
         "id": "6a0444c693c48ff6bff4e88b",
@@ -2606,113 +2693,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-05-11T16:50:34.000Z"
-      },
-      {
-        "id": "6a01a62941d6bb2c315e86d2",
-        "title": "Chúng tôi yêu thương nhau rất nhiều.",
-        "origin_name": "We All Loved Each Other So Much",
-        "slug": "chung-toi-yeu-thuong-nhau-rat-nhieu",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ch/chung-toi-yeu-thuong-nhau-rat-nhieu.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/chung-toi-yeu-thuong-nhau-rat-nhieu.webp",
-        "year": 1974,
-        "type": "single",
-        "genre": [
-          {
-            "id": "620a221de0fc277084dfd1c1",
-            "name": "Hài Hước",
-            "slug": "hai-huoc"
-          },
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "621674a770b58bba6858b852",
-            "name": "Ý",
-            "slug": "y"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Trailer",
-        "quality": "HD",
-        "status": "trailer",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-11T16:50:00.000Z"
-      },
-      {
-        "id": "6a01a60015072466acf65e47",
-        "title": "Búp Bê Ký Ức: Hồi Ức Không Quên",
-        "origin_name": "Violet Evergarden: The Movie",
-        "slug": "bup-be-ky-uc-hoi-uc-khong-quen",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/bu/bup-be-ky-uc-hoi-uc-khong-quen.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/bu/bup-be-ky-uc-hoi-uc-khong-quen.webp",
-        "year": 2020,
-        "type": "hoathinh",
-        "genre": [
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a2307e0fc277084dfd726",
-            "name": "Nhật Bản",
-            "slug": "nhat-ban"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Trailer",
-        "quality": "HD",
-        "status": "trailer",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-11T16:48:51.000Z"
-      },
-      {
-        "id": "6a01a5da91cc1b96d591bc55",
-        "title": "Màu Xanh Ảo Giác",
-        "origin_name": "Perfect Blue",
-        "slug": "mau-xanh-ao-giac",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ma/mau-xanh-ao-giac.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ma/mau-xanh-ao-giac.webp",
-        "year": 1998,
-        "type": "hoathinh",
-        "genre": [
-          {
-            "id": "620a220de0fc277084dfd16d",
-            "name": "Tình Cảm",
-            "slug": "tinh-cam"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a2307e0fc277084dfd726",
-            "name": "Nhật Bản",
-            "slug": "nhat-ban"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Trailer",
-        "quality": "HD",
-        "status": "trailer",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-11T16:48:13.000Z"
       }
     ]
   },
@@ -5939,6 +5919,9 @@
     "featured_count_sm": 0,
     "featured_count_xs": 0,
     "ids": [
+      "6a0446e941d6bb2c315f0b4b",
+      "6a044696db41bcecb8eb5c0f",
+      "6a04456f748ca16f08695c89",
       "6a04451dcec790794b007d08",
       "6a0444c693c48ff6bff4e88b",
       "6a043900e53e6a47ad665507",
@@ -5951,12 +5934,111 @@
       "69fc509893c48ff6bff34ebd",
       "69fabe477e5a0662d4e8c1da",
       "69f18f8316bc1b4174f8e13b",
-      "69f6caf9e53e6a47ad62ae1c",
-      "69f99266b692c7b208da30eb",
-      "6a03f735b3a3583bbbba4b5d",
-      "699fce70f65d22d617aeecbd"
+      "69f6caf9e53e6a47ad62ae1c"
     ],
     "movies": [
+      {
+        "id": "6a0446e941d6bb2c315f0b4b",
+        "title": "Xe buýt: Vụ nổi loạn của bóng đá Pháp",
+        "origin_name": "The Bus: A French Football Mutiny",
+        "slug": "xe-buyt-vu-noi-loan-cua-bong-da-phap",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/xe/xe-buyt-vu-noi-loan-cua-bong-da-phap.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/xe/xe-buyt-vu-noi-loan-cua-bong-da-phap.webp",
+        "year": 2026,
+        "type": "single",
+        "genre": [
+          {
+            "id": "620e0e64d9648f114cde7728",
+            "name": "Tài Liệu",
+            "slug": "tai-lieu"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a231fe0fc277084dfd7ce",
+            "name": "Âu Mỹ",
+            "slug": "au-my"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Trailer",
+        "quality": "HD",
+        "status": "trailer",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": false,
+        "modified": "2026-05-13T16:39:55.000Z"
+      },
+      {
+        "id": "6a044696db41bcecb8eb5c0f",
+        "title": "Giữa cha và con trai",
+        "origin_name": "Between Father and Son",
+        "slug": "giua-cha-va-con-trai",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/gi/giua-cha-va-con-trai.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/gi/giua-cha-va-con-trai.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "6212611d1f1609c9d93466cc",
+            "name": "Mexico",
+            "slug": "mexico"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Trailer",
+        "quality": "HD",
+        "status": "trailer",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": false,
+        "modified": "2026-05-13T16:38:50.000Z"
+      },
+      {
+        "id": "6a04456f748ca16f08695c89",
+        "title": "Gà trống (Phần 2)",
+        "origin_name": "Roosters (Season 2)",
+        "slug": "ga-trong-phan-2",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ga/ga-trong-phan-2.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ga/ga-trong-phan-2.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a221de0fc277084dfd1c1",
+            "name": "Hài Hước",
+            "slug": "hai-huoc"
+          }
+        ],
+        "country": [
+          {
+            "id": "6211e48c1f1609c9d9343bd0",
+            "name": "Hà Lan",
+            "slug": "ha-lan"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Trailer",
+        "quality": "HD",
+        "status": "trailer",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": false,
+        "modified": "2026-05-13T16:33:42.000Z"
+      },
       {
         "id": "6a04451dcec790794b007d08",
         "title": "Bí mật giới thể thao Anh quốc: Jamie Vardy",
@@ -5994,7 +6076,7 @@
         "is_exclusive": false,
         "chieurap": false,
         "sub_docquyen": false,
-        "modified": "2026-05-13T16:32:13.000Z"
+        "modified": "2026-05-13T16:32:38.000Z"
       },
       {
         "id": "6a0444c693c48ff6bff4e88b",
@@ -6438,128 +6520,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-05-13T11:12:37.000Z"
-      },
-      {
-        "id": "69f99266b692c7b208da30eb",
-        "title": "Hành Trình Quay Về Bên Nhau",
-        "origin_name": "A Journey Back to Us",
-        "slug": "hanh-trinh-quay-ve-ben-nhau",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ha/hanh-trinh-quay-ve-ben-nhau.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ha/hanh-trinh-quay-ve-ben-nhau.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "62093063196e9f4ab6b448b8",
-            "name": "Trung Quốc",
-            "slug": "trung-quoc"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Hoàn tất (8/8)",
-        "quality": "HD",
-        "status": "completed",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-13T11:12:09.000Z"
-      },
-      {
-        "id": "6a03f735b3a3583bbbba4b5d",
-        "title": "Bổn Huyền Nha Là Phúc Tinh",
-        "origin_name": "本玄鸦是福星",
-        "slug": "bon-huyen-nha-la-phuc-tinh",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/bo/bon-huyen-nha-la-phuc-tinh.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/bo/bon-huyen-nha-la-phuc-tinh.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "62093063196e9f4ab6b448b8",
-            "name": "Trung Quốc",
-            "slug": "trung-quoc"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Trailer",
-        "quality": "HD",
-        "status": "trailer",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-13T10:59:49.000Z"
-      },
-      {
-        "id": "699fce70f65d22d617aeecbd",
-        "title": "Tu La Võ Thần (Phần 2)",
-        "origin_name": "Martial God Asura (Season 2)",
-        "slug": "tu-la-vo-than-phan-2",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/tu/tu-la-vo-than-phan-2.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/tu/tu-la-vo-than-phan-2.webp",
-        "year": 2026,
-        "type": "hoathinh",
-        "genre": [
-          {
-            "id": "620a21b2e0fc277084dfd0c5",
-            "name": "Hành Động",
-            "slug": "hanh-dong"
-          },
-          {
-            "id": "620a2282e0fc277084dfd435",
-            "name": "Viễn Tưởng",
-            "slug": "vien-tuong"
-          },
-          {
-            "id": "620a2293e0fc277084dfd489",
-            "name": "Phiêu Lưu",
-            "slug": "phieu-luu"
-          },
-          {
-            "id": "620a229be0fc277084dfd4dd",
-            "name": "Khoa Học",
-            "slug": "khoa-hoc"
-          },
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "62093063196e9f4ab6b448b8",
-            "name": "Trung Quốc",
-            "slug": "trung-quoc"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 14",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-13T10:48:36.000Z"
       }
     ]
   },
@@ -7996,6 +7956,7 @@
     "featured_count_sm": 0,
     "featured_count_xs": 0,
     "ids": [
+      "6a0446e941d6bb2c315f0b4b",
       "6a04451dcec790794b007d08",
       "6a0444c693c48ff6bff4e88b",
       "6a043900e53e6a47ad665507",
@@ -8010,10 +7971,43 @@
       "6a01a66016bc1b4174fdf682",
       "6a01a542da7d8940686757cb",
       "6a01a4e8b3a3583bbbb9dc69",
-      "6a01a4c691cc1b96d591bbb8",
-      "6a01a444f616ee3807e2cbfd"
+      "6a01a4c691cc1b96d591bbb8"
     ],
     "movies": [
+      {
+        "id": "6a0446e941d6bb2c315f0b4b",
+        "title": "Xe buýt: Vụ nổi loạn của bóng đá Pháp",
+        "origin_name": "The Bus: A French Football Mutiny",
+        "slug": "xe-buyt-vu-noi-loan-cua-bong-da-phap",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/xe/xe-buyt-vu-noi-loan-cua-bong-da-phap.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/xe/xe-buyt-vu-noi-loan-cua-bong-da-phap.webp",
+        "year": 2026,
+        "type": "single",
+        "genre": [
+          {
+            "id": "620e0e64d9648f114cde7728",
+            "name": "Tài Liệu",
+            "slug": "tai-lieu"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a231fe0fc277084dfd7ce",
+            "name": "Âu Mỹ",
+            "slug": "au-my"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Trailer",
+        "quality": "HD",
+        "status": "trailer",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": false,
+        "modified": "2026-05-13T16:39:55.000Z"
+      },
       {
         "id": "6a04451dcec790794b007d08",
         "title": "Bí mật giới thể thao Anh quốc: Jamie Vardy",
@@ -8051,7 +8045,7 @@
         "is_exclusive": false,
         "chieurap": false,
         "sub_docquyen": false,
-        "modified": "2026-05-13T16:32:13.000Z"
+        "modified": "2026-05-13T16:32:38.000Z"
       },
       {
         "id": "6a0444c693c48ff6bff4e88b",
@@ -8613,55 +8607,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-05-11T16:43:39.000Z"
-      },
-      {
-        "id": "6a01a444f616ee3807e2cbfd",
-        "title": "Chiến tranh giữa các vì sao: Người Mandalorian và Grogu",
-        "origin_name": "Star Wars: The Mandalorian and Grogu",
-        "slug": "chien-tranh-giua-cac-vi-sao-nguoi-mandalorian-va-grogu",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ch/chien-tranh-giua-cac-vi-sao-nguoi-mandalorian-va-grogu.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/chien-tranh-giua-cac-vi-sao-nguoi-mandalorian-va-grogu.webp",
-        "year": 2026,
-        "type": "single",
-        "genre": [
-          {
-            "id": "620a21b2e0fc277084dfd0c5",
-            "name": "Hành Động",
-            "slug": "hanh-dong"
-          },
-          {
-            "id": "620a2282e0fc277084dfd435",
-            "name": "Viễn Tưởng",
-            "slug": "vien-tuong"
-          },
-          {
-            "id": "620a2293e0fc277084dfd489",
-            "name": "Phiêu Lưu",
-            "slug": "phieu-luu"
-          },
-          {
-            "id": "620a229be0fc277084dfd4dd",
-            "name": "Khoa Học",
-            "slug": "khoa-hoc"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a231fe0fc277084dfd7ce",
-            "name": "Âu Mỹ",
-            "slug": "au-my"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Trailer",
-        "quality": "HD",
-        "status": "trailer",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-11T16:42:05.000Z"
       }
     ]
   },
