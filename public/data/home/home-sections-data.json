@@ -123,6 +123,7 @@
     "featured_count_sm": 1,
     "featured_count_xs": 1,
     "ids": [
+      "6a09d42ae14b2140fc6adcbd",
       "6a097fac4e6584edee40c330",
       "6a097fbd4be02ecfaff49969",
       "6a097ff912f0391f00d01b65",
@@ -134,10 +135,43 @@
       "69f09c434a74b3cede1263a3",
       "69eedaa9377c8aaad5469e53",
       "69e3a4edf616ee3807d9403c",
-      "6a09564412f0391f00d0118f",
-      "6a095539416b9186f00d48e2"
+      "6a09564412f0391f00d0118f"
     ],
     "movies": [
+      {
+        "id": "6a09d42ae14b2140fc6adcbd",
+        "title": "Gia Nghiệp",
+        "origin_name": "The Heir",
+        "slug": "gia-nghiep",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/gi/gia-nghiep.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/gi/gia-nghiep.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "62093063196e9f4ab6b448b8",
+            "name": "Trung Quốc",
+            "slug": "trung-quoc"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Trailer",
+        "quality": "HD",
+        "status": "trailer",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": false,
+        "modified": "2026-05-17T21:43:54.000Z"
+      },
       {
         "id": "6a097fac4e6584edee40c330",
         "title": "Bầu Trời Sụp Đổ (Phần 1)",
@@ -695,40 +729,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-05-17T12:56:51.000Z"
-      },
-      {
-        "id": "6a095539416b9186f00d48e2",
-        "title": "Nhất Kiến Nam Kiều",
-        "origin_name": "The First Sight of Nanyang Overseas Chinese",
-        "slug": "nhat-kien-nam-kieu",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhat-kien-nam-kieu.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhat-kien-nam-kieu.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "62093063196e9f4ab6b448b8",
-            "name": "Trung Quốc",
-            "slug": "trung-quoc"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Hoàn tất (25/25)",
-        "quality": "HD",
-        "status": "completed",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-17T12:51:56.000Z"
       }
     ]
   },
@@ -1249,6 +1249,7 @@
     "grid_columns_sm": 3,
     "grid_columns_xs": 2,
     "ids": [
+      "6a09d42ae14b2140fc6adcbd",
       "6a02dd63b692c7b208dc5976",
       "6a095954c52ec62c8b147084",
       "69d5e020e53e6a47ad57f86c",
@@ -1259,10 +1260,43 @@
       "69da6f99f616ee3807d610b1",
       "6a09564412f0391f00d0118f",
       "6a095539416b9186f00d48e2",
-      "6a0149ab15072466acf64360",
-      "69ecebe9748ca16f08627461"
+      "6a0149ab15072466acf64360"
     ],
     "movies": [
+      {
+        "id": "6a09d42ae14b2140fc6adcbd",
+        "title": "Gia Nghiệp",
+        "origin_name": "The Heir",
+        "slug": "gia-nghiep",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/gi/gia-nghiep.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/gi/gia-nghiep.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "62093063196e9f4ab6b448b8",
+            "name": "Trung Quốc",
+            "slug": "trung-quoc"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Trailer",
+        "quality": "HD",
+        "status": "trailer",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": false,
+        "modified": "2026-05-17T21:43:54.000Z"
+      },
       {
         "id": "6a02dd63b692c7b208dc5976",
         "title": "Trốn Không Thoát Tội",
@@ -1671,45 +1705,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-05-17T12:51:10.000Z"
-      },
-      {
-        "id": "69ecebe9748ca16f08627461",
-        "title": "Thanh Tra Bí Mật",
-        "origin_name": "Filing for Love",
-        "slug": "thanh-tra-bi-mat",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/th/thanh-tra-bi-mat.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/th/thanh-tra-bi-mat.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620a221de0fc277084dfd1c1",
-            "name": "Hài Hước",
-            "slug": "hai-huoc"
-          },
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a2300e0fc277084dfd6d2",
-            "name": "Hàn Quốc",
-            "slug": "han-quoc"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 7",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": true,
-        "modified": "2026-05-17T12:48:46.000Z"
       }
     ]
   },
@@ -2292,6 +2287,7 @@
     "featured_count_sm": 0,
     "featured_count_xs": 0,
     "ids": [
+      "6a09d42ae14b2140fc6adcbd",
       "6a097fac4e6584edee40c330",
       "6a097fbd4be02ecfaff49969",
       "6a097ff912f0391f00d01b65",
@@ -2302,10 +2298,43 @@
       "6a05ca307e5a0662d4eb16b9",
       "6a05c9f341d6bb2c315f5138",
       "6a05c9cf482e09b4282eb484",
-      "6a05c99db3a3583bbbbaa6f1",
-      "6a05c97d31aa2678f8d434b7"
+      "6a05c99db3a3583bbbbaa6f1"
     ],
     "movies": [
+      {
+        "id": "6a09d42ae14b2140fc6adcbd",
+        "title": "Gia Nghiệp",
+        "origin_name": "The Heir",
+        "slug": "gia-nghiep",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/gi/gia-nghiep.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/gi/gia-nghiep.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "62093063196e9f4ab6b448b8",
+            "name": "Trung Quốc",
+            "slug": "trung-quoc"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Trailer",
+        "quality": "HD",
+        "status": "trailer",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": false,
+        "modified": "2026-05-17T21:43:54.000Z"
+      },
       {
         "id": "6a097fac4e6584edee40c330",
         "title": "Bầu Trời Sụp Đổ (Phần 1)",
@@ -2829,40 +2858,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-05-14T20:09:55.000Z"
-      },
-      {
-        "id": "6a05c97d31aa2678f8d434b7",
-        "title": "Michael Jackson: Đi tìm xứ sở Neverland",
-        "origin_name": "Michael Jackson: Searching for Neverland",
-        "slug": "michael-jackson-di-tim-xu-so-neverland",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/mi/michael-jackson-di-tim-xu-so-neverland.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/mi/michael-jackson-di-tim-xu-so-neverland.webp",
-        "year": 2017,
-        "type": "single",
-        "genre": [
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a231fe0fc277084dfd7ce",
-            "name": "Âu Mỹ",
-            "slug": "au-my"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Trailer",
-        "quality": "HD",
-        "status": "trailer",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-14T20:09:21.000Z"
       }
     ]
   },
@@ -6099,6 +6094,7 @@
     "featured_count_sm": 0,
     "featured_count_xs": 0,
     "ids": [
+      "6a09d42ae14b2140fc6adcbd",
       "6a097fac4e6584edee40c330",
       "6a097fbd4be02ecfaff49969",
       "6a097ff912f0391f00d01b65",
@@ -6113,10 +6109,43 @@
       "69f09c434a74b3cede1263a3",
       "69eedaa9377c8aaad5469e53",
       "69e3a4edf616ee3807d9403c",
-      "69da6f99f616ee3807d610b1",
-      "6a09564412f0391f00d0118f"
+      "69da6f99f616ee3807d610b1"
     ],
     "movies": [
+      {
+        "id": "6a09d42ae14b2140fc6adcbd",
+        "title": "Gia Nghiệp",
+        "origin_name": "The Heir",
+        "slug": "gia-nghiep",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/gi/gia-nghiep.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/gi/gia-nghiep.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "62093063196e9f4ab6b448b8",
+            "name": "Trung Quốc",
+            "slug": "trung-quoc"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Trailer",
+        "quality": "HD",
+        "status": "trailer",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": false,
+        "modified": "2026-05-17T21:43:54.000Z"
+      },
       {
         "id": "6a097fac4e6584edee40c330",
         "title": "Bầu Trời Sụp Đổ (Phần 1)",
@@ -6786,40 +6815,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-05-17T12:57:51.000Z"
-      },
-      {
-        "id": "6a09564412f0391f00d0118f",
-        "title": "Chiếc Kèn Harmonica Sắc Bén",
-        "origin_name": "Sharp Harmonica",
-        "slug": "chiec-ken-harmonica-sac-ben",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ch/chiec-ken-harmonica-sac-ben.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/chiec-ken-harmonica-sac-ben.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "62093063196e9f4ab6b448b8",
-            "name": "Trung Quốc",
-            "slug": "trung-quoc"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Hoàn tất (16/16)",
-        "quality": "HD",
-        "status": "completed",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-17T12:56:51.000Z"
       }
     ]
   },
@@ -6863,6 +6858,7 @@
     "featured_count_sm": 0,
     "featured_count_xs": 0,
     "ids": [
+      "6a09d42ae14b2140fc6adcbd",
       "6a02dd63b692c7b208dc5976",
       "6a09564412f0391f00d0118f",
       "6a095539416b9186f00d48e2",
@@ -6877,10 +6873,43 @@
       "6975c133400bf394bd82ba12",
       "6a0341a9da7d89406867aaae",
       "62d841c00376e41264b61afa",
-      "695a2015f65d22d617a3e52a",
-      "69800ed8da6ce23e8e97b912"
+      "695a2015f65d22d617a3e52a"
     ],
     "movies": [
+      {
+        "id": "6a09d42ae14b2140fc6adcbd",
+        "title": "Gia Nghiệp",
+        "origin_name": "The Heir",
+        "slug": "gia-nghiep",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/gi/gia-nghiep.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/gi/gia-nghiep.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "62093063196e9f4ab6b448b8",
+            "name": "Trung Quốc",
+            "slug": "trung-quoc"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Trailer",
+        "quality": "HD",
+        "status": "trailer",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": false,
+        "modified": "2026-05-17T21:43:54.000Z"
+      },
       {
         "id": "6a02dd63b692c7b208dc5976",
         "title": "Trốn Không Thoát Tội",
@@ -7450,60 +7479,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-05-16T20:55:52.000Z"
-      },
-      {
-        "id": "69800ed8da6ce23e8e97b912",
-        "title": "Trạch Thiên Ký",
-        "origin_name": "Fighter of the Destiny 3D",
-        "slug": "trach-thien-ky-2026",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/tr/trach-thien-ky-2026.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/tr/trach-thien-ky-2026.webp",
-        "year": 2026,
-        "type": "hoathinh",
-        "genre": [
-          {
-            "id": "620a21b2e0fc277084dfd0c5",
-            "name": "Hành Động",
-            "slug": "hanh-dong"
-          },
-          {
-            "id": "620a2282e0fc277084dfd435",
-            "name": "Viễn Tưởng",
-            "slug": "vien-tuong"
-          },
-          {
-            "id": "620a2293e0fc277084dfd489",
-            "name": "Phiêu Lưu",
-            "slug": "phieu-luu"
-          },
-          {
-            "id": "620a229be0fc277084dfd4dd",
-            "name": "Khoa Học",
-            "slug": "khoa-hoc"
-          },
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "62093063196e9f4ab6b448b8",
-            "name": "Trung Quốc",
-            "slug": "trung-quoc"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 18",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-16T20:55:34.000Z"
       }
     ]
   },
