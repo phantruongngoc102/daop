@@ -123,6 +123,8 @@
     "featured_count_sm": 1,
     "featured_count_xs": 1,
     "ids": [
+      "69f60e1391cc1b96d58e5b60",
+      "69dfcfeb41d6bb2c315360fb",
       "69fc509893c48ff6bff34ebd",
       "6a0341a9da7d89406867aaae",
       "69e9ef6af0f815b666161eb7",
@@ -133,11 +135,77 @@
       "6a0b20bac52ec62c8b14b334",
       "6a0d7c07142ea533b01ec79d",
       "6a0d7bb1e14b2140fc6b629b",
-      "6a0d7e666997f14383cbc83d",
-      "6a0d3dfae12218d7285610ec",
-      "6a0d7db9142ea533b01ec83b"
+      "6a0d7e666997f14383cbc83d"
     ],
     "movies": [
+      {
+        "id": "69f60e1391cc1b96d58e5b60",
+        "title": "Những Bông Hoa Ác",
+        "origin_name": "The Flowers of Evil",
+        "slug": "nhung-bong-hoa-ac",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-bong-hoa-ac.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-bong-hoa-ac.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a2307e0fc277084dfd726",
+            "name": "Nhật Bản",
+            "slug": "nhat-ban"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 6",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-05-21T01:53:32.000Z"
+      },
+      {
+        "id": "69dfcfeb41d6bb2c315360fb",
+        "title": "Nhịp Đập Trái Tim (Phần 5)",
+        "origin_name": "Heart Signal (Season 5)",
+        "slug": "nhip-dap-trai-tim-phan-5",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhip-dap-trai-tim-phan-5.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhip-dap-trai-tim-phan-5.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a220de0fc277084dfd16d",
+            "name": "Tình Cảm",
+            "slug": "tinh-cam"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a2300e0fc277084dfd6d2",
+            "name": "Hàn Quốc",
+            "slug": "han-quoc"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 6",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-05-21T01:52:42.000Z"
+      },
       {
         "id": "69fc509893c48ff6bff34ebd",
         "title": "Citadel (Phần 2)",
@@ -541,74 +609,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-05-20T18:38:37.000Z"
-      },
-      {
-        "id": "6a0d3dfae12218d7285610ec",
-        "title": "Thế Hệ Điểm 10",
-        "origin_name": "Generasi: Perfect 10",
-        "slug": "the-he-diem-10",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/th/the-he-diem-10.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/th/the-he-diem-10.webp",
-        "year": 2025,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "62159af71f1609c9d934824e",
-            "name": "Malaysia",
-            "slug": "malaysia"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Hoàn tất (8/8)",
-        "quality": "HD",
-        "status": "completed",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-20T16:58:13.000Z"
-      },
-      {
-        "id": "6a0d7db9142ea533b01ec83b",
-        "title": "Kill It: Slay Tới Bến",
-        "origin_name": "Kill It: Style Creator War",
-        "slug": "kill-it-slay-toi-ben",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ki/kill-it-slay-toi-ben.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ki/kill-it-slay-toi-ben.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620a220de0fc277084dfd16d",
-            "name": "Tình Cảm",
-            "slug": "tinh-cam"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a2300e0fc277084dfd6d2",
-            "name": "Hàn Quốc",
-            "slug": "han-quoc"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Trailer",
-        "quality": "HD",
-        "status": "trailer",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-20T16:24:15.000Z"
       }
     ]
   },
@@ -1124,6 +1124,8 @@
     "grid_columns_sm": 3,
     "grid_columns_xs": 2,
     "ids": [
+      "69f60e1391cc1b96d58e5b60",
+      "69dfcfeb41d6bb2c315360fb",
       "69fc509893c48ff6bff34ebd",
       "69cde57fb06c99c722027faa",
       "6a0dc66f173846d6442bd39e",
@@ -1133,11 +1135,77 @@
       "69e8a475db41bcecb8e33fb6",
       "69cde6c8400bf394bd970fda",
       "6a09d42ae14b2140fc6adcbd",
-      "6a0b20bac52ec62c8b14b334",
-      "6a0d7c07142ea533b01ec79d",
-      "6a0d7bb1e14b2140fc6b629b"
+      "6a0b20bac52ec62c8b14b334"
     ],
     "movies": [
+      {
+        "id": "69f60e1391cc1b96d58e5b60",
+        "title": "Những Bông Hoa Ác",
+        "origin_name": "The Flowers of Evil",
+        "slug": "nhung-bong-hoa-ac",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-bong-hoa-ac.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-bong-hoa-ac.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a2307e0fc277084dfd726",
+            "name": "Nhật Bản",
+            "slug": "nhat-ban"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 6",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-05-21T01:53:32.000Z"
+      },
+      {
+        "id": "69dfcfeb41d6bb2c315360fb",
+        "title": "Nhịp Đập Trái Tim (Phần 5)",
+        "origin_name": "Heart Signal (Season 5)",
+        "slug": "nhip-dap-trai-tim-phan-5",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhip-dap-trai-tim-phan-5.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhip-dap-trai-tim-phan-5.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a220de0fc277084dfd16d",
+            "name": "Tình Cảm",
+            "slug": "tinh-cam"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a2300e0fc277084dfd6d2",
+            "name": "Hàn Quốc",
+            "slug": "han-quoc"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 6",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-05-21T01:52:42.000Z"
+      },
       {
         "id": "69fc509893c48ff6bff34ebd",
         "title": "Citadel (Phần 2)",
@@ -1542,74 +1610,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-05-20T18:48:52.000Z"
-      },
-      {
-        "id": "6a0d7c07142ea533b01ec79d",
-        "title": "Kylie",
-        "origin_name": "Kylie",
-        "slug": "kylie",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ky/kylie.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ky/kylie.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620e0e64d9648f114cde7728",
-            "name": "Tài Liệu",
-            "slug": "tai-lieu"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a231fe0fc277084dfd7ce",
-            "name": "Âu Mỹ",
-            "slug": "au-my"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Hoàn tất (3/3)",
-        "quality": "HD",
-        "status": "completed",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-20T18:40:58.000Z"
-      },
-      {
-        "id": "6a0d7bb1e14b2140fc6b629b",
-        "title": "Caro tuyệt phẩm",
-        "origin_name": "Carizzma",
-        "slug": "carizzma",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ca/carizzma.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ca/carizzma.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620a221de0fc277084dfd1c1",
-            "name": "Hài Hước",
-            "slug": "hai-huoc"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a231fe0fc277084dfd7ce",
-            "name": "Âu Mỹ",
-            "slug": "au-my"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Hoàn tất (10/10)",
-        "quality": "HD",
-        "status": "completed",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-20T18:40:37.000Z"
       }
     ]
   },
@@ -1653,6 +1653,8 @@
     "featured_count_sm": 1,
     "featured_count_xs": 1,
     "ids": [
+      "69f60e1391cc1b96d58e5b60",
+      "69dfcfeb41d6bb2c315360fb",
       "69fc509893c48ff6bff34ebd",
       "69cde57fb06c99c722027faa",
       "6a0341a9da7d89406867aaae",
@@ -1663,11 +1665,77 @@
       "69e8a475db41bcecb8e33fb6",
       "69cde6c8400bf394bd970fda",
       "6a09d42ae14b2140fc6adcbd",
-      "6a0b20bac52ec62c8b14b334",
-      "6a02d864006591e108205d8a",
-      "69f9646ae53e6a47ad63d170"
+      "6a0b20bac52ec62c8b14b334"
     ],
     "movies": [
+      {
+        "id": "69f60e1391cc1b96d58e5b60",
+        "title": "Những Bông Hoa Ác",
+        "origin_name": "The Flowers of Evil",
+        "slug": "nhung-bong-hoa-ac",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-bong-hoa-ac.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-bong-hoa-ac.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a2307e0fc277084dfd726",
+            "name": "Nhật Bản",
+            "slug": "nhat-ban"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 6",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-05-21T01:53:32.000Z"
+      },
+      {
+        "id": "69dfcfeb41d6bb2c315360fb",
+        "title": "Nhịp Đập Trái Tim (Phần 5)",
+        "origin_name": "Heart Signal (Season 5)",
+        "slug": "nhip-dap-trai-tim-phan-5",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhip-dap-trai-tim-phan-5.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhip-dap-trai-tim-phan-5.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a220de0fc277084dfd16d",
+            "name": "Tình Cảm",
+            "slug": "tinh-cam"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a2300e0fc277084dfd6d2",
+            "name": "Hàn Quốc",
+            "slug": "han-quoc"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 6",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-05-21T01:52:42.000Z"
+      },
       {
         "id": "69fc509893c48ff6bff34ebd",
         "title": "Citadel (Phần 2)",
@@ -2121,89 +2189,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-05-20T18:48:52.000Z"
-      },
-      {
-        "id": "6a02d864006591e108205d8a",
-        "title": "Huyền Thoại Lính Bếp",
-        "origin_name": "The Legend of Kitchen Soldier",
-        "slug": "huyen-thoai-linh-bep",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/hu/huyen-thoai-linh-bep.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/hu/huyen-thoai-linh-bep.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620a221de0fc277084dfd1c1",
-            "name": "Hài Hước",
-            "slug": "hai-huoc"
-          },
-          {
-            "id": "620a2282e0fc277084dfd435",
-            "name": "Viễn Tưởng",
-            "slug": "vien-tuong"
-          },
-          {
-            "id": "620a229be0fc277084dfd4dd",
-            "name": "Khoa Học",
-            "slug": "khoa-hoc"
-          },
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a2300e0fc277084dfd6d2",
-            "name": "Hàn Quốc",
-            "slug": "han-quoc"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 4",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": true,
-        "modified": "2026-05-20T16:01:41.000Z"
-      },
-      {
-        "id": "69f9646ae53e6a47ad63d170",
-        "title": "Nhịp Điệu Thù Hận",
-        "origin_name": "The Rhythm of Revenge",
-        "slug": "nhip-dieu-thu-han",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhip-dieu-thu-han.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhip-dieu-thu-han.webp",
-        "year": 2026,
-        "type": "tvshows",
-        "genre": [
-          {
-            "id": "620a220de0fc277084dfd16d",
-            "name": "Tình Cảm",
-            "slug": "tinh-cam"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a2318e0fc277084dfd77a",
-            "name": "Thái Lan",
-            "slug": "thai-lan"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 12",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-20T15:03:55.000Z"
       }
     ]
   },
@@ -5954,6 +5939,8 @@
     "featured_count_sm": 0,
     "featured_count_xs": 0,
     "ids": [
+      "69f60e1391cc1b96d58e5b60",
+      "69dfcfeb41d6bb2c315360fb",
       "69fc509893c48ff6bff34ebd",
       "69cde57fb06c99c722027faa",
       "6a0dc66f173846d6442bd39e",
@@ -5967,11 +5954,77 @@
       "6a09d42ae14b2140fc6adcbd",
       "6a0b20bac52ec62c8b14b334",
       "6a0d7c07142ea533b01ec79d",
-      "6a0d7bb1e14b2140fc6b629b",
-      "6a0d7cb04be02ecfaff52a37",
-      "6a0d7e666997f14383cbc83d"
+      "6a0d7bb1e14b2140fc6b629b"
     ],
     "movies": [
+      {
+        "id": "69f60e1391cc1b96d58e5b60",
+        "title": "Những Bông Hoa Ác",
+        "origin_name": "The Flowers of Evil",
+        "slug": "nhung-bong-hoa-ac",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-bong-hoa-ac.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-bong-hoa-ac.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a2307e0fc277084dfd726",
+            "name": "Nhật Bản",
+            "slug": "nhat-ban"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 6",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-05-21T01:53:32.000Z"
+      },
+      {
+        "id": "69dfcfeb41d6bb2c315360fb",
+        "title": "Nhịp Đập Trái Tim (Phần 5)",
+        "origin_name": "Heart Signal (Season 5)",
+        "slug": "nhip-dap-trai-tim-phan-5",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhip-dap-trai-tim-phan-5.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhip-dap-trai-tim-phan-5.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a220de0fc277084dfd16d",
+            "name": "Tình Cảm",
+            "slug": "tinh-cam"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a2300e0fc277084dfd6d2",
+            "name": "Hàn Quốc",
+            "slug": "han-quoc"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 6",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-05-21T01:52:42.000Z"
+      },
       {
         "id": "69fc509893c48ff6bff34ebd",
         "title": "Citadel (Phần 2)",
@@ -6532,74 +6585,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-05-20T18:40:37.000Z"
-      },
-      {
-        "id": "6a0d7cb04be02ecfaff52a37",
-        "title": "Bí mật giới thể thao Anh quốc: Phép màu Istanbul của Liverpool",
-        "origin_name": "Untold UK: Liverpool's Miracle of Istanbul",
-        "slug": "bi-mat-gioi-the-thao-anh-quoc-phep-mau-istanbul-cua-liverpool",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/bi/bi-mat-gioi-the-thao-anh-quoc-phep-mau-istanbul-cua-liverpool.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/bi/bi-mat-gioi-the-thao-anh-quoc-phep-mau-istanbul-cua-liverpool.webp",
-        "year": 2026,
-        "type": "single",
-        "genre": [
-          {
-            "id": "620e0e64d9648f114cde7728",
-            "name": "Tài Liệu",
-            "slug": "tai-lieu"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a231fe0fc277084dfd7ce",
-            "name": "Âu Mỹ",
-            "slug": "au-my"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Full",
-        "quality": "HD",
-        "status": "completed",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-20T18:38:53.000Z"
-      },
-      {
-        "id": "6a0d7e666997f14383cbc83d",
-        "title": "Hoắc Phu Nhân Ra Tay",
-        "origin_name": "Hoắc Phu Nhân Ra Tay",
-        "slug": "hoac-phu-nhan-ra-tay-short-drama",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ho/hoac-phu-nhan-ra-tay-short-drama.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ho/hoac-phu-nhan-ra-tay-short-drama.webp",
-        "year": 2025,
-        "type": "series",
-        "genre": [
-          {
-            "id": "68f786a9f998955ed60add6c",
-            "name": "Short Drama",
-            "slug": "short-drama"
-          }
-        ],
-        "country": [
-          {
-            "id": "62093063196e9f4ab6b448b8",
-            "name": "Trung Quốc",
-            "slug": "trung-quoc"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Hoàn tất (10/10)",
-        "quality": "HD",
-        "status": "completed",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-20T18:38:37.000Z"
       }
     ]
   },
@@ -7282,6 +7267,7 @@
     "featured_count_sm": 0,
     "featured_count_xs": 0,
     "ids": [
+      "69dfcfeb41d6bb2c315360fb",
       "69e8a475db41bcecb8e33fb6",
       "6a0d7db9142ea533b01ec83b",
       "6a02d864006591e108205d8a",
@@ -7296,10 +7282,43 @@
       "6a06d46af616ee3807e3b727",
       "69f9f73a006591e1081e5a12",
       "69eb8aff482e09b42827280a",
-      "69f212dddb41bcecb8e5f5de",
-      "69dfcfeb41d6bb2c315360fb"
+      "69f212dddb41bcecb8e5f5de"
     ],
     "movies": [
+      {
+        "id": "69dfcfeb41d6bb2c315360fb",
+        "title": "Nhịp Đập Trái Tim (Phần 5)",
+        "origin_name": "Heart Signal (Season 5)",
+        "slug": "nhip-dap-trai-tim-phan-5",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhip-dap-trai-tim-phan-5.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhip-dap-trai-tim-phan-5.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a220de0fc277084dfd16d",
+            "name": "Tình Cảm",
+            "slug": "tinh-cam"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a2300e0fc277084dfd6d2",
+            "name": "Hàn Quốc",
+            "slug": "han-quoc"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 6",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-05-21T01:52:42.000Z"
+      },
       {
         "id": "69e8a475db41bcecb8e33fb6",
         "title": "Hôm Nay Lại Bán Hết",
@@ -7909,40 +7928,6 @@
         "chieurap": false,
         "sub_docquyen": true,
         "modified": "2026-05-15T15:54:39.000Z"
-      },
-      {
-        "id": "69dfcfeb41d6bb2c315360fb",
-        "title": "Nhịp Đập Trái Tim (Phần 5)",
-        "origin_name": "Heart Signal (Season 5)",
-        "slug": "nhip-dap-trai-tim-phan-5",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhip-dap-trai-tim-phan-5.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhip-dap-trai-tim-phan-5.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620a220de0fc277084dfd16d",
-            "name": "Tình Cảm",
-            "slug": "tinh-cam"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a2300e0fc277084dfd6d2",
-            "name": "Hàn Quốc",
-            "slug": "han-quoc"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 5",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": true,
-        "modified": "2026-05-14T20:41:26.000Z"
       }
     ]
   },
