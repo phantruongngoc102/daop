@@ -123,6 +123,9 @@
     "featured_count_sm": 1,
     "featured_count_xs": 1,
     "ids": [
+      "6a09d42ae14b2140fc6adcbd",
+      "6a0b20bac52ec62c8b14b334",
+      "69e4a9db6d4243e068f1056b",
       "6a0e842d6092900b4116351f",
       "6a0fd82316a695c8bbfe78db",
       "6a02dd63b692c7b208dc5976",
@@ -132,12 +135,116 @@
       "69e1c6346d4243e068ef6f34",
       "6a09501fa6726df8fd334f65",
       "6a08559615072466acf78481",
-      "6a0fce831fea2c5da7a5e5da",
-      "69843f824ea2111da8b72fb3",
-      "6a0ee345416b9186f00e22b1",
-      "6a0ee214a6726df8fd342b5a"
+      "6a0fce831fea2c5da7a5e5da"
     ],
     "movies": [
+      {
+        "id": "6a09d42ae14b2140fc6adcbd",
+        "title": "Gia Nghiệp",
+        "origin_name": "The Heir",
+        "slug": "gia-nghiep",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/gi/gia-nghiep.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/gi/gia-nghiep.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "62093063196e9f4ab6b448b8",
+            "name": "Trung Quốc",
+            "slug": "trung-quoc"
+          }
+        ],
+        "lang_key": "Vietsub + Thuyết Minh",
+        "episode_current": "Tập 14",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": false,
+        "modified": "2026-05-22T19:32:07.000Z"
+      },
+      {
+        "id": "6a0b20bac52ec62c8b14b334",
+        "title": "Hổ Giấu Vằn",
+        "origin_name": "Wicked Temptation",
+        "slug": "ho-giau-van",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ho/ho-giau-van.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ho/ho-giau-van.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a2318e0fc277084dfd77a",
+            "name": "Thái Lan",
+            "slug": "thai-lan"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 5",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": false,
+        "modified": "2026-05-22T19:31:38.000Z"
+      },
+      {
+        "id": "69e4a9db6d4243e068f1056b",
+        "title": "Anh Em Nhà Tagusari",
+        "origin_name": "TAGUSARI bros.",
+        "slug": "tagusari-bros",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ta/tagusari-bros.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ta/tagusari-bros.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a2249e0fc277084dfd2e5",
+            "name": "Hình Sự",
+            "slug": "hinh-su"
+          },
+          {
+            "id": "620f84d291fa4af90ab6b3f4",
+            "name": "Bí ẩn",
+            "slug": "bi-an"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a2307e0fc277084dfd726",
+            "name": "Nhật Bản",
+            "slug": "nhat-ban"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 5",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": false,
+        "modified": "2026-05-22T18:49:50.000Z"
+      },
       {
         "id": "6a0e842d6092900b4116351f",
         "title": "Vấn Yêu",
@@ -497,123 +604,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-05-22T11:01:11.000Z"
-      },
-      {
-        "id": "69843f824ea2111da8b72fb3",
-        "title": "Món Quà Của Kluay",
-        "origin_name": "The Gift",
-        "slug": "mon-qua-cua-kluay",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/mo/mon-qua-cua-kluay.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/mo/mon-qua-cua-kluay.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          },
-          {
-            "id": "620f84d291fa4af90ab6b3f4",
-            "name": "Bí ẩn",
-            "slug": "bi-an"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a2318e0fc277084dfd77a",
-            "name": "Thái Lan",
-            "slug": "thai-lan"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 32",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-22T10:20:25.000Z"
-      },
-      {
-        "id": "6a0ee345416b9186f00e22b1",
-        "title": "James.",
-        "origin_name": "James.",
-        "slug": "james",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ja/james.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ja/james.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620e0e64d9648f114cde7728",
-            "name": "Tài Liệu",
-            "slug": "tai-lieu"
-          }
-        ],
-        "country": [
-          {
-            "id": "625ff28adb43524328afc13f",
-            "name": "Colombia",
-            "slug": "colombia"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Hoàn tất (3/3)",
-        "quality": "HD",
-        "status": "completed",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-22T10:14:55.000Z"
-      },
-      {
-        "id": "6a0ee214a6726df8fd342b5a",
-        "title": "Phiến Quân Tóc Xám",
-        "origin_name": "The Boroughs",
-        "slug": "phien-quan-toc-xam",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ph/phien-quan-toc-xam.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ph/phien-quan-toc-xam.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620a2282e0fc277084dfd435",
-            "name": "Viễn Tưởng",
-            "slug": "vien-tuong"
-          },
-          {
-            "id": "620a229be0fc277084dfd4dd",
-            "name": "Khoa Học",
-            "slug": "khoa-hoc"
-          },
-          {
-            "id": "620f84d291fa4af90ab6b3f4",
-            "name": "Bí ẩn",
-            "slug": "bi-an"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a231fe0fc277084dfd7ce",
-            "name": "Âu Mỹ",
-            "slug": "au-my"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Hoàn tất (8/8)",
-        "quality": "HD",
-        "status": "completed",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-22T10:13:50.000Z"
       }
     ]
   },
@@ -641,9 +631,9 @@
     "grid_columns_sm": 3,
     "grid_columns_xs": 2,
     "ids": [
+      "6a0ff16c4e6584edee41c613",
       "6a1008482c0a4eaf2653c133",
       "6a0fea7216a695c8bbfe7eab",
-      "6a0ff16c4e6584edee41c613",
       "6a0f2de12c8b2895cfa4f699",
       "6a0e7173947ce584f1c016f1",
       "6a0e7258e10cfe56c49881ee",
@@ -655,6 +645,45 @@
       "6a0bc798f7f43ec64ef41a5e"
     ],
     "movies": [
+      {
+        "id": "6a0ff16c4e6584edee41c613",
+        "title": "Bưu thiếp từ bờ vực",
+        "origin_name": "Postcards from the Edge",
+        "slug": "buu-thiep-tu-bo-vuc",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/bu/buu-thiep-tu-bo-vuc.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/bu/buu-thiep-tu-bo-vuc.webp",
+        "year": 1990,
+        "type": "single",
+        "genre": [
+          {
+            "id": "620a221de0fc277084dfd1c1",
+            "name": "Hài Hước",
+            "slug": "hai-huoc"
+          },
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a231fe0fc277084dfd7ce",
+            "name": "Âu Mỹ",
+            "slug": "au-my"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Full",
+        "quality": "HD",
+        "status": "completed",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": false,
+        "modified": "2026-05-22T16:42:35.000Z"
+      },
       {
         "id": "6a1008482c0a4eaf2653c133",
         "title": "Xin Nhường Phái Đẹp",
@@ -722,45 +751,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-05-22T13:15:40.000Z"
-      },
-      {
-        "id": "6a0ff16c4e6584edee41c613",
-        "title": "Bưu thiếp từ bờ vực",
-        "origin_name": "Postcards from the Edge",
-        "slug": "buu-thiep-tu-bo-vuc",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/bu/buu-thiep-tu-bo-vuc.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/bu/buu-thiep-tu-bo-vuc.webp",
-        "year": 1990,
-        "type": "single",
-        "genre": [
-          {
-            "id": "620a221de0fc277084dfd1c1",
-            "name": "Hài Hước",
-            "slug": "hai-huoc"
-          },
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a231fe0fc277084dfd7ce",
-            "name": "Âu Mỹ",
-            "slug": "au-my"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Trailer",
-        "quality": "HD",
-        "status": "trailer",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-22T13:02:26.000Z"
       },
       {
         "id": "6a0f2de12c8b2895cfa4f699",
@@ -1139,6 +1129,9 @@
     "grid_columns_sm": 3,
     "grid_columns_xs": 2,
     "ids": [
+      "6a09d42ae14b2140fc6adcbd",
+      "6a0b20bac52ec62c8b14b334",
+      "69e4a9db6d4243e068f1056b",
       "6a1008482c0a4eaf2653c133",
       "6a1007e51fea2c5da7a5f53f",
       "6a0e842d6092900b4116351f",
@@ -1147,12 +1140,116 @@
       "6a055b84f616ee3807e37ea9",
       "6a0bec2b4be02ecfaff4eb88",
       "69e1c6346d4243e068ef6f34",
-      "6966143754ca9185bba99c3f",
-      "6a09501fa6726df8fd334f65",
-      "6a08559615072466acf78481",
-      "6a0fce831fea2c5da7a5e5da"
+      "6966143754ca9185bba99c3f"
     ],
     "movies": [
+      {
+        "id": "6a09d42ae14b2140fc6adcbd",
+        "title": "Gia Nghiệp",
+        "origin_name": "The Heir",
+        "slug": "gia-nghiep",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/gi/gia-nghiep.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/gi/gia-nghiep.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "62093063196e9f4ab6b448b8",
+            "name": "Trung Quốc",
+            "slug": "trung-quoc"
+          }
+        ],
+        "lang_key": "Vietsub + Thuyết Minh",
+        "episode_current": "Tập 14",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": false,
+        "modified": "2026-05-22T19:32:07.000Z"
+      },
+      {
+        "id": "6a0b20bac52ec62c8b14b334",
+        "title": "Hổ Giấu Vằn",
+        "origin_name": "Wicked Temptation",
+        "slug": "ho-giau-van",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ho/ho-giau-van.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ho/ho-giau-van.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a2318e0fc277084dfd77a",
+            "name": "Thái Lan",
+            "slug": "thai-lan"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 5",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": false,
+        "modified": "2026-05-22T19:31:38.000Z"
+      },
+      {
+        "id": "69e4a9db6d4243e068f1056b",
+        "title": "Anh Em Nhà Tagusari",
+        "origin_name": "TAGUSARI bros.",
+        "slug": "tagusari-bros",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ta/tagusari-bros.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ta/tagusari-bros.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a2249e0fc277084dfd2e5",
+            "name": "Hình Sự",
+            "slug": "hinh-su"
+          },
+          {
+            "id": "620f84d291fa4af90ab6b3f4",
+            "name": "Bí ẩn",
+            "slug": "bi-an"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a2307e0fc277084dfd726",
+            "name": "Nhật Bản",
+            "slug": "nhat-ban"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 5",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": false,
+        "modified": "2026-05-22T18:49:50.000Z"
+      },
       {
         "id": "6a1008482c0a4eaf2653c133",
         "title": "Xin Nhường Phái Đẹp",
@@ -1498,108 +1595,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-05-22T11:36:10.000Z"
-      },
-      {
-        "id": "6a09501fa6726df8fd334f65",
-        "title": "Gả Vào Nhà Quyền Quý",
-        "origin_name": "Daughter of Fortune",
-        "slug": "ga-vao-nha-quyen-quy",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ga/ga-vao-nha-quyen-quy.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ga/ga-vao-nha-quyen-quy.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "62093063196e9f4ab6b448b8",
-            "name": "Trung Quốc",
-            "slug": "trung-quoc"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 14",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-22T11:08:32.000Z"
-      },
-      {
-        "id": "6a08559615072466acf78481",
-        "title": "Người Giữ Đèn Ở Chùa Ký Cốt",
-        "origin_name": "LightKeeper of Jigu Temple",
-        "slug": "nguoi-giu-den-o-chua-ky-cot",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ng/nguoi-giu-den-o-chua-ky-cot.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ng/nguoi-giu-den-o-chua-ky-cot.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "62093063196e9f4ab6b448b8",
-            "name": "Trung Quốc",
-            "slug": "trung-quoc"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 16",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-22T11:07:38.000Z"
-      },
-      {
-        "id": "6a0fce831fea2c5da7a5e5da",
-        "title": "Dance of the Lion",
-        "origin_name": "Dance of the Lion",
-        "slug": "dance-of-the-lion",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/da/dance-of-the-lion.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/da/dance-of-the-lion.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a2318e0fc277084dfd77a",
-            "name": "Thái Lan",
-            "slug": "thai-lan"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 1",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-22T11:01:11.000Z"
       }
     ]
   },
@@ -1643,6 +1638,9 @@
     "featured_count_sm": 1,
     "featured_count_xs": 1,
     "ids": [
+      "6a09d42ae14b2140fc6adcbd",
+      "6a0b20bac52ec62c8b14b334",
+      "69e4a9db6d4243e068f1056b",
       "6a0e842d6092900b4116351f",
       "6a0fd82316a695c8bbfe78db",
       "6a02dd63b692c7b208dc5976",
@@ -1652,12 +1650,116 @@
       "6a08559615072466acf78481",
       "6a0fce831fea2c5da7a5e5da",
       "69cfc54f54ca9185bbbf9f80",
-      "6902db510ffdad56a3512b84",
-      "69da038fda7d8940685a73d3",
-      "69843f824ea2111da8b72fb3",
-      "69dfcfeb41d6bb2c315360fb"
+      "6902db510ffdad56a3512b84"
     ],
     "movies": [
+      {
+        "id": "6a09d42ae14b2140fc6adcbd",
+        "title": "Gia Nghiệp",
+        "origin_name": "The Heir",
+        "slug": "gia-nghiep",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/gi/gia-nghiep.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/gi/gia-nghiep.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "62093063196e9f4ab6b448b8",
+            "name": "Trung Quốc",
+            "slug": "trung-quoc"
+          }
+        ],
+        "lang_key": "Vietsub + Thuyết Minh",
+        "episode_current": "Tập 14",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": false,
+        "modified": "2026-05-22T19:32:07.000Z"
+      },
+      {
+        "id": "6a0b20bac52ec62c8b14b334",
+        "title": "Hổ Giấu Vằn",
+        "origin_name": "Wicked Temptation",
+        "slug": "ho-giau-van",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ho/ho-giau-van.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ho/ho-giau-van.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a2318e0fc277084dfd77a",
+            "name": "Thái Lan",
+            "slug": "thai-lan"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 5",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": false,
+        "modified": "2026-05-22T19:31:38.000Z"
+      },
+      {
+        "id": "69e4a9db6d4243e068f1056b",
+        "title": "Anh Em Nhà Tagusari",
+        "origin_name": "TAGUSARI bros.",
+        "slug": "tagusari-bros",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ta/tagusari-bros.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ta/tagusari-bros.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a2249e0fc277084dfd2e5",
+            "name": "Hình Sự",
+            "slug": "hinh-su"
+          },
+          {
+            "id": "620f84d291fa4af90ab6b3f4",
+            "name": "Bí ẩn",
+            "slug": "bi-an"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a2307e0fc277084dfd726",
+            "name": "Nhật Bản",
+            "slug": "nhat-ban"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 5",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": false,
+        "modified": "2026-05-22T18:49:50.000Z"
+      },
       {
         "id": "6a0e842d6092900b4116351f",
         "title": "Vấn Yêu",
@@ -2032,113 +2134,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-05-22T10:26:00.000Z"
-      },
-      {
-        "id": "69da038fda7d8940685a73d3",
-        "title": "Lại Bị Giết Nữa À, Thưa Thám Tử?",
-        "origin_name": "Killed Again, Mr. Detective.",
-        "slug": "lai-co-an-mang-nua-roi-thua-tham-tu",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/la/lai-co-an-mang-nua-roi-thua-tham-tu.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/la/lai-co-an-mang-nua-roi-thua-tham-tu.webp",
-        "year": 2026,
-        "type": "hoathinh",
-        "genre": [
-          {
-            "id": "620f84d291fa4af90ab6b3f4",
-            "name": "Bí ẩn",
-            "slug": "bi-an"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a2307e0fc277084dfd726",
-            "name": "Nhật Bản",
-            "slug": "nhat-ban"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 8",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-22T10:23:23.000Z"
-      },
-      {
-        "id": "69843f824ea2111da8b72fb3",
-        "title": "Món Quà Của Kluay",
-        "origin_name": "The Gift",
-        "slug": "mon-qua-cua-kluay",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/mo/mon-qua-cua-kluay.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/mo/mon-qua-cua-kluay.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          },
-          {
-            "id": "620f84d291fa4af90ab6b3f4",
-            "name": "Bí ẩn",
-            "slug": "bi-an"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a2318e0fc277084dfd77a",
-            "name": "Thái Lan",
-            "slug": "thai-lan"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 32",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-22T10:20:25.000Z"
-      },
-      {
-        "id": "69dfcfeb41d6bb2c315360fb",
-        "title": "Nhịp Đập Trái Tim (Phần 5)",
-        "origin_name": "Heart Signal (Season 5)",
-        "slug": "nhip-dap-trai-tim-phan-5",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhip-dap-trai-tim-phan-5.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhip-dap-trai-tim-phan-5.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620a220de0fc277084dfd16d",
-            "name": "Tình Cảm",
-            "slug": "tinh-cam"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a2300e0fc277084dfd6d2",
-            "name": "Hàn Quốc",
-            "slug": "han-quoc"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 6",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": true,
-        "modified": "2026-05-22T01:25:23.000Z"
       }
     ]
   },
@@ -2182,7 +2177,6 @@
     "featured_count_sm": 0,
     "featured_count_xs": 0,
     "ids": [
-      "6a0ff16c4e6584edee41c613",
       "6a0f2d92f7f43ec64ef4acc8",
       "6a0d7db9142ea533b01ec83b",
       "6a0d7b34a432d616e85a3a49",
@@ -2193,48 +2187,10 @@
       "6a0a7eebe10cfe56c497e9cd",
       "6a05ca4de53e6a47ad669f9a",
       "6a05ca307e5a0662d4eb16b9",
-      "6a05c9f341d6bb2c315f5138"
+      "6a05c9f341d6bb2c315f5138",
+      "6a05c9cf482e09b4282eb484"
     ],
     "movies": [
-      {
-        "id": "6a0ff16c4e6584edee41c613",
-        "title": "Bưu thiếp từ bờ vực",
-        "origin_name": "Postcards from the Edge",
-        "slug": "buu-thiep-tu-bo-vuc",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/bu/buu-thiep-tu-bo-vuc.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/bu/buu-thiep-tu-bo-vuc.webp",
-        "year": 1990,
-        "type": "single",
-        "genre": [
-          {
-            "id": "620a221de0fc277084dfd1c1",
-            "name": "Hài Hước",
-            "slug": "hai-huoc"
-          },
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a231fe0fc277084dfd7ce",
-            "name": "Âu Mỹ",
-            "slug": "au-my"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Trailer",
-        "quality": "HD",
-        "status": "trailer",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-22T13:02:26.000Z"
-      },
       {
         "id": "6a0f2d92f7f43ec64ef4acc8",
         "title": "Điệp Viên Số 0",
@@ -2658,6 +2614,40 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-05-14T20:11:18.000Z"
+      },
+      {
+        "id": "6a05c9cf482e09b4282eb484",
+        "title": "Không có nơi nào để ở một mình",
+        "origin_name": "No Place to Be Single",
+        "slug": "khong-co-noi-nao-de-o-mot-minh",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/kh/khong-co-noi-nao-de-o-mot-minh.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/kh/khong-co-noi-nao-de-o-mot-minh.webp",
+        "year": 2026,
+        "type": "single",
+        "genre": [
+          {
+            "id": "620a221de0fc277084dfd1c1",
+            "name": "Hài Hước",
+            "slug": "hai-huoc"
+          }
+        ],
+        "country": [
+          {
+            "id": "621674a770b58bba6858b852",
+            "name": "Ý",
+            "slug": "y"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Trailer",
+        "quality": "HD",
+        "status": "trailer",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": false,
+        "modified": "2026-05-14T20:10:41.000Z"
       }
     ]
   },
@@ -5267,7 +5257,7 @@
           }
         ],
         "lang_key": "Vietsub + Thuyết Minh",
-        "episode_current": "Tập 12",
+        "episode_current": "Tập 14",
         "quality": "HD",
         "status": "ongoing",
         "showtimes": "",
@@ -5275,7 +5265,7 @@
         "is_exclusive": false,
         "chieurap": false,
         "sub_docquyen": false,
-        "modified": "2026-05-21T20:15:04.000Z"
+        "modified": "2026-05-22T19:32:07.000Z"
       },
       {
         "id": "625c61c8941a26e421dc5d16",
@@ -5904,6 +5894,10 @@
     "featured_count_sm": 0,
     "featured_count_xs": 0,
     "ids": [
+      "6a09d42ae14b2140fc6adcbd",
+      "6a0b20bac52ec62c8b14b334",
+      "69e4a9db6d4243e068f1056b",
+      "6a0ff16c4e6584edee41c613",
       "6a1008482c0a4eaf2653c133",
       "6a1007e51fea2c5da7a5f53f",
       "6a0e842d6092900b4116351f",
@@ -5911,17 +5905,159 @@
       "6a02dd63b692c7b208dc5976",
       "6a055b84f616ee3807e37ea9",
       "6a0fea7216a695c8bbfe7eab",
-      "6a0ff16c4e6584edee41c613",
       "6a0fe5e72c0a4eaf2653b8a1",
       "6a0bec2b4be02ecfaff4eb88",
       "69e1c6346d4243e068ef6f34",
       "6966143754ca9185bba99c3f",
-      "6a0f2de12c8b2895cfa4f699",
-      "6a09501fa6726df8fd334f65",
-      "6a08559615072466acf78481",
-      "6a0fce831fea2c5da7a5e5da"
+      "6a0f2de12c8b2895cfa4f699"
     ],
     "movies": [
+      {
+        "id": "6a09d42ae14b2140fc6adcbd",
+        "title": "Gia Nghiệp",
+        "origin_name": "The Heir",
+        "slug": "gia-nghiep",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/gi/gia-nghiep.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/gi/gia-nghiep.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "62093063196e9f4ab6b448b8",
+            "name": "Trung Quốc",
+            "slug": "trung-quoc"
+          }
+        ],
+        "lang_key": "Vietsub + Thuyết Minh",
+        "episode_current": "Tập 14",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": false,
+        "modified": "2026-05-22T19:32:07.000Z"
+      },
+      {
+        "id": "6a0b20bac52ec62c8b14b334",
+        "title": "Hổ Giấu Vằn",
+        "origin_name": "Wicked Temptation",
+        "slug": "ho-giau-van",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ho/ho-giau-van.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ho/ho-giau-van.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a2318e0fc277084dfd77a",
+            "name": "Thái Lan",
+            "slug": "thai-lan"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 5",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": false,
+        "modified": "2026-05-22T19:31:38.000Z"
+      },
+      {
+        "id": "69e4a9db6d4243e068f1056b",
+        "title": "Anh Em Nhà Tagusari",
+        "origin_name": "TAGUSARI bros.",
+        "slug": "tagusari-bros",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ta/tagusari-bros.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ta/tagusari-bros.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a2249e0fc277084dfd2e5",
+            "name": "Hình Sự",
+            "slug": "hinh-su"
+          },
+          {
+            "id": "620f84d291fa4af90ab6b3f4",
+            "name": "Bí ẩn",
+            "slug": "bi-an"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a2307e0fc277084dfd726",
+            "name": "Nhật Bản",
+            "slug": "nhat-ban"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 5",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": false,
+        "modified": "2026-05-22T18:49:50.000Z"
+      },
+      {
+        "id": "6a0ff16c4e6584edee41c613",
+        "title": "Bưu thiếp từ bờ vực",
+        "origin_name": "Postcards from the Edge",
+        "slug": "buu-thiep-tu-bo-vuc",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/bu/buu-thiep-tu-bo-vuc.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/bu/buu-thiep-tu-bo-vuc.webp",
+        "year": 1990,
+        "type": "single",
+        "genre": [
+          {
+            "id": "620a221de0fc277084dfd1c1",
+            "name": "Hài Hước",
+            "slug": "hai-huoc"
+          },
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a231fe0fc277084dfd7ce",
+            "name": "Âu Mỹ",
+            "slug": "au-my"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Full",
+        "quality": "HD",
+        "status": "completed",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": false,
+        "modified": "2026-05-22T16:42:35.000Z"
+      },
       {
         "id": "6a1008482c0a4eaf2653c133",
         "title": "Xin Nhường Phái Đẹp",
@@ -6186,45 +6322,6 @@
         "modified": "2026-05-22T13:15:40.000Z"
       },
       {
-        "id": "6a0ff16c4e6584edee41c613",
-        "title": "Bưu thiếp từ bờ vực",
-        "origin_name": "Postcards from the Edge",
-        "slug": "buu-thiep-tu-bo-vuc",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/bu/buu-thiep-tu-bo-vuc.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/bu/buu-thiep-tu-bo-vuc.webp",
-        "year": 1990,
-        "type": "single",
-        "genre": [
-          {
-            "id": "620a221de0fc277084dfd1c1",
-            "name": "Hài Hước",
-            "slug": "hai-huoc"
-          },
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a231fe0fc277084dfd7ce",
-            "name": "Âu Mỹ",
-            "slug": "au-my"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Trailer",
-        "quality": "HD",
-        "status": "trailer",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-22T13:02:26.000Z"
-      },
-      {
         "id": "6a0fe5e72c0a4eaf2653b8a1",
         "title": "Nhất Thế Tình Thù",
         "origin_name": "Nhất Thế Tình Thù",
@@ -6408,108 +6505,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-05-22T11:27:13.000Z"
-      },
-      {
-        "id": "6a09501fa6726df8fd334f65",
-        "title": "Gả Vào Nhà Quyền Quý",
-        "origin_name": "Daughter of Fortune",
-        "slug": "ga-vao-nha-quyen-quy",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ga/ga-vao-nha-quyen-quy.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ga/ga-vao-nha-quyen-quy.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "62093063196e9f4ab6b448b8",
-            "name": "Trung Quốc",
-            "slug": "trung-quoc"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 14",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-22T11:08:32.000Z"
-      },
-      {
-        "id": "6a08559615072466acf78481",
-        "title": "Người Giữ Đèn Ở Chùa Ký Cốt",
-        "origin_name": "LightKeeper of Jigu Temple",
-        "slug": "nguoi-giu-den-o-chua-ky-cot",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ng/nguoi-giu-den-o-chua-ky-cot.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ng/nguoi-giu-den-o-chua-ky-cot.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "62093063196e9f4ab6b448b8",
-            "name": "Trung Quốc",
-            "slug": "trung-quoc"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 16",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-22T11:07:38.000Z"
-      },
-      {
-        "id": "6a0fce831fea2c5da7a5e5da",
-        "title": "Dance of the Lion",
-        "origin_name": "Dance of the Lion",
-        "slug": "dance-of-the-lion",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/da/dance-of-the-lion.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/da/dance-of-the-lion.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a2318e0fc277084dfd77a",
-            "name": "Thái Lan",
-            "slug": "thai-lan"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 1",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-22T11:01:11.000Z"
       }
     ]
   },
@@ -6553,6 +6548,7 @@
     "featured_count_sm": 0,
     "featured_count_xs": 0,
     "ids": [
+      "6a09d42ae14b2140fc6adcbd",
       "6a0e842d6092900b4116351f",
       "6a0fd82316a695c8bbfe78db",
       "6a02dd63b692c7b208dc5976",
@@ -6564,13 +6560,46 @@
       "6902db510ffdad56a3512b84",
       "6a0e7173947ce584f1c016f1",
       "6a0341a9da7d89406867aaae",
-      "6a09d42ae14b2140fc6adcbd",
       "6a05b50715072466acf722f9",
       "6a0e85096092900b411635b5",
       "6a0d34221fea2c5da7a57070",
       "69f6caf9e53e6a47ad62ae1c"
     ],
     "movies": [
+      {
+        "id": "6a09d42ae14b2140fc6adcbd",
+        "title": "Gia Nghiệp",
+        "origin_name": "The Heir",
+        "slug": "gia-nghiep",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/gi/gia-nghiep.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/gi/gia-nghiep.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "62093063196e9f4ab6b448b8",
+            "name": "Trung Quốc",
+            "slug": "trung-quoc"
+          }
+        ],
+        "lang_key": "Vietsub + Thuyết Minh",
+        "episode_current": "Tập 14",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": false,
+        "modified": "2026-05-22T19:32:07.000Z"
+      },
       {
         "id": "6a0e842d6092900b4116351f",
         "title": "Vấn Yêu",
@@ -6974,40 +7003,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-05-21T23:09:10.000Z"
-      },
-      {
-        "id": "6a09d42ae14b2140fc6adcbd",
-        "title": "Gia Nghiệp",
-        "origin_name": "The Heir",
-        "slug": "gia-nghiep",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/gi/gia-nghiep.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/gi/gia-nghiep.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "62093063196e9f4ab6b448b8",
-            "name": "Trung Quốc",
-            "slug": "trung-quoc"
-          }
-        ],
-        "lang_key": "Vietsub + Thuyết Minh",
-        "episode_current": "Tập 12",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-21T20:15:04.000Z"
       },
       {
         "id": "6a05b50715072466acf722f9",
@@ -7866,10 +7861,10 @@
     "featured_count_sm": 0,
     "featured_count_xs": 0,
     "ids": [
+      "6a0ff16c4e6584edee41c613",
       "6a1008482c0a4eaf2653c133",
       "6a1007e51fea2c5da7a5f53f",
       "6a055b84f616ee3807e37ea9",
-      "6a0ff16c4e6584edee41c613",
       "6a0ee214a6726df8fd342b5a",
       "6a0e7258e10cfe56c49881ee",
       "6a01a4c691cc1b96d591bbb8",
@@ -7884,6 +7879,45 @@
       "6a0d7c07142ea533b01ec79d"
     ],
     "movies": [
+      {
+        "id": "6a0ff16c4e6584edee41c613",
+        "title": "Bưu thiếp từ bờ vực",
+        "origin_name": "Postcards from the Edge",
+        "slug": "buu-thiep-tu-bo-vuc",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/bu/buu-thiep-tu-bo-vuc.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/bu/buu-thiep-tu-bo-vuc.webp",
+        "year": 1990,
+        "type": "single",
+        "genre": [
+          {
+            "id": "620a221de0fc277084dfd1c1",
+            "name": "Hài Hước",
+            "slug": "hai-huoc"
+          },
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a231fe0fc277084dfd7ce",
+            "name": "Âu Mỹ",
+            "slug": "au-my"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Full",
+        "quality": "HD",
+        "status": "completed",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": false,
+        "modified": "2026-05-22T16:42:35.000Z"
+      },
       {
         "id": "6a1008482c0a4eaf2653c133",
         "title": "Xin Nhường Phái Đẹp",
@@ -8010,45 +8044,6 @@
         "chieurap": false,
         "sub_docquyen": true,
         "modified": "2026-05-22T13:18:54.000Z"
-      },
-      {
-        "id": "6a0ff16c4e6584edee41c613",
-        "title": "Bưu thiếp từ bờ vực",
-        "origin_name": "Postcards from the Edge",
-        "slug": "buu-thiep-tu-bo-vuc",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/bu/buu-thiep-tu-bo-vuc.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/bu/buu-thiep-tu-bo-vuc.webp",
-        "year": 1990,
-        "type": "single",
-        "genre": [
-          {
-            "id": "620a221de0fc277084dfd1c1",
-            "name": "Hài Hước",
-            "slug": "hai-huoc"
-          },
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a231fe0fc277084dfd7ce",
-            "name": "Âu Mỹ",
-            "slug": "au-my"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Trailer",
-        "quality": "HD",
-        "status": "trailer",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-22T13:02:26.000Z"
       },
       {
         "id": "6a0ee214a6726df8fd342b5a",
