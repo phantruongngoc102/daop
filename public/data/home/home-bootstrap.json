@@ -1,6 +1,6 @@
 {
   "buildVersion": {
-    "builtAt": "2026-05-23T07:33:25.299Z"
+    "builtAt": "2026-05-23T12:01:40.620Z"
   },
   "siteSettings": {
     "site_name": "GoTV",
@@ -955,6 +955,10 @@
       "featured_count_sm": 1,
       "featured_count_xs": 1,
       "ids": [
+        "69e2471341d6bb2c315422e6",
+        "6a1174e612f0391f00d15b9d",
+        "6a1173d3e14b2140fc6c0f93",
+        "6a068dc8b3a3583bbbbabd15",
         "6a0d34221fea2c5da7a57070",
         "6a08559615072466acf78481",
         "6a09501fa6726df8fd334f65",
@@ -963,13 +967,175 @@
         "69d09f12f937c3b5a11d24b6",
         "69e4f979da7d8940685e7409",
         "69eedaa9377c8aaad5469e53",
-        "694b47ecb06c99c722eaa29f",
-        "6a09d42ae14b2140fc6adcbd",
-        "6a0b20bac52ec62c8b14b334",
-        "69e4a9db6d4243e068f1056b",
-        "6a0e842d6092900b4116351f"
+        "694b47ecb06c99c722eaa29f"
       ],
       "movies": [
+        {
+          "id": "69e2471341d6bb2c315422e6",
+          "title": "Giá Trị Tuyệt Đối Của Lãng Mạn",
+          "origin_name": "Absolute Value of Romance",
+          "slug": "gia-tri-tuyet-doi-cua-lang-man",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/gi/gia-tri-tuyet-doi-cua-lang-man.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/gi/gia-tri-tuyet-doi-cua-lang-man.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a221de0fc277084dfd1c1",
+              "name": "Hài Hước",
+              "slug": "hai-huoc"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            },
+            {
+              "id": "62121edd1f1609c9d9345940",
+              "name": "Nga",
+              "slug": "nga"
+            },
+            {
+              "id": "644f3b0ed95ac616c32b79ee",
+              "name": "Singapore",
+              "slug": "singapore"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Hoàn tất (14/14)",
+          "quality": "HD",
+          "status": "completed",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-05-23T17:10:42.000Z"
+        },
+        {
+          "id": "6a1174e612f0391f00d15b9d",
+          "title": "Rực Cháy Giữa Ban Trưa",
+          "origin_name": "Twin Fire Dawn",
+          "slug": "ruc-chay-giua-ban-trua",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ru/ruc-chay-giua-ban-trua.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ru/ruc-chay-giua-ban-trua.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "62093063196e9f4ab6b448b8",
+              "name": "Trung Quốc",
+              "slug": "trung-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 6",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": false,
+          "modified": "2026-05-23T16:39:15.000Z"
+        },
+        {
+          "id": "6a1173d3e14b2140fc6c0f93",
+          "title": "Đại Đường Mê Vụ",
+          "origin_name": "The Tang Mist",
+          "slug": "dai-duong-me-vu",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/da/dai-duong-me-vu.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/da/dai-duong-me-vu.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            },
+            {
+              "id": "620f84d291fa4af90ab6b3f4",
+              "name": "Bí ẩn",
+              "slug": "bi-an"
+            }
+          ],
+          "country": [
+            {
+              "id": "62093063196e9f4ab6b448b8",
+              "name": "Trung Quốc",
+              "slug": "trung-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 4",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": false,
+          "modified": "2026-05-23T16:36:37.000Z"
+        },
+        {
+          "id": "6a068dc8b3a3583bbbbabd15",
+          "title": "Thám Tử R.J. Decker",
+          "origin_name": "R.J. Decker",
+          "slug": "rj-decker",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/rj/rj-decker.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/rj/rj-decker.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a221de0fc277084dfd1c1",
+              "name": "Hài Hước",
+              "slug": "hai-huoc"
+            },
+            {
+              "id": "620a2249e0fc277084dfd2e5",
+              "name": "Hình Sự",
+              "slug": "hinh-su"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 3",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-05-23T16:36:00.000Z"
+        },
         {
           "id": "6a0d34221fea2c5da7a57070",
           "title": "Minh Châu Kỳ Đàm (Phần 3)",
@@ -1315,147 +1481,6 @@
           "chieurap": false,
           "sub_docquyen": true,
           "modified": "2026-05-22T23:55:16.000Z"
-        },
-        {
-          "id": "6a09d42ae14b2140fc6adcbd",
-          "title": "Gia Nghiệp",
-          "origin_name": "The Heir",
-          "slug": "gia-nghiep",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/gi/gia-nghiep.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/gi/gia-nghiep.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "62093063196e9f4ab6b448b8",
-              "name": "Trung Quốc",
-              "slug": "trung-quoc"
-            }
-          ],
-          "lang_key": "Vietsub + Thuyết Minh",
-          "episode_current": "Tập 14",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-05-22T19:32:07.000Z"
-        },
-        {
-          "id": "6a0b20bac52ec62c8b14b334",
-          "title": "Hổ Giấu Vằn",
-          "origin_name": "Wicked Temptation",
-          "slug": "ho-giau-van",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ho/ho-giau-van.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ho/ho-giau-van.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2318e0fc277084dfd77a",
-              "name": "Thái Lan",
-              "slug": "thai-lan"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 5",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-05-22T19:31:38.000Z"
-        },
-        {
-          "id": "69e4a9db6d4243e068f1056b",
-          "title": "Anh Em Nhà Tagusari",
-          "origin_name": "TAGUSARI bros.",
-          "slug": "tagusari-bros",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ta/tagusari-bros.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ta/tagusari-bros.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620a2249e0fc277084dfd2e5",
-              "name": "Hình Sự",
-              "slug": "hinh-su"
-            },
-            {
-              "id": "620f84d291fa4af90ab6b3f4",
-              "name": "Bí ẩn",
-              "slug": "bi-an"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2307e0fc277084dfd726",
-              "name": "Nhật Bản",
-              "slug": "nhat-ban"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 5",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-05-22T18:49:50.000Z"
-        },
-        {
-          "id": "6a0e842d6092900b4116351f",
-          "title": "Vấn Yêu",
-          "origin_name": "The Demon's Pursuit",
-          "slug": "van-yeu",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/va/van-yeu.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/va/van-yeu.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "62093063196e9f4ab6b448b8",
-              "name": "Trung Quốc",
-              "slug": "trung-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 16",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-05-22T14:51:36.000Z"
         }
       ]
     },
@@ -1966,6 +1991,10 @@
       "grid_columns_sm": 3,
       "grid_columns_xs": 2,
       "ids": [
+        "69e2471341d6bb2c315422e6",
+        "6a1174e612f0391f00d15b9d",
+        "6a1173d3e14b2140fc6c0f93",
+        "6a068dc8b3a3583bbbbabd15",
         "6a1155c2a432d616e85ae167",
         "6a0d34221fea2c5da7a57070",
         "6a08559615072466acf78481",
@@ -1973,13 +2002,175 @@
         "6a1125802c0a4eaf2653eae9",
         "6a112552e14b2140fc6c02cb",
         "6a11251f1fea2c5da7a61ea5",
-        "6a1124ef416b9186f00e828e",
-        "6a0341a9da7d89406867aaae",
-        "69c75361eea244e3e8b93ab3",
-        "69d09f12f937c3b5a11d24b6",
-        "69e4f979da7d8940685e7409"
+        "6a1124ef416b9186f00e828e"
       ],
       "movies": [
+        {
+          "id": "69e2471341d6bb2c315422e6",
+          "title": "Giá Trị Tuyệt Đối Của Lãng Mạn",
+          "origin_name": "Absolute Value of Romance",
+          "slug": "gia-tri-tuyet-doi-cua-lang-man",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/gi/gia-tri-tuyet-doi-cua-lang-man.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/gi/gia-tri-tuyet-doi-cua-lang-man.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a221de0fc277084dfd1c1",
+              "name": "Hài Hước",
+              "slug": "hai-huoc"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            },
+            {
+              "id": "62121edd1f1609c9d9345940",
+              "name": "Nga",
+              "slug": "nga"
+            },
+            {
+              "id": "644f3b0ed95ac616c32b79ee",
+              "name": "Singapore",
+              "slug": "singapore"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Hoàn tất (14/14)",
+          "quality": "HD",
+          "status": "completed",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-05-23T17:10:42.000Z"
+        },
+        {
+          "id": "6a1174e612f0391f00d15b9d",
+          "title": "Rực Cháy Giữa Ban Trưa",
+          "origin_name": "Twin Fire Dawn",
+          "slug": "ruc-chay-giua-ban-trua",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ru/ruc-chay-giua-ban-trua.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ru/ruc-chay-giua-ban-trua.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "62093063196e9f4ab6b448b8",
+              "name": "Trung Quốc",
+              "slug": "trung-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 6",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": false,
+          "modified": "2026-05-23T16:39:15.000Z"
+        },
+        {
+          "id": "6a1173d3e14b2140fc6c0f93",
+          "title": "Đại Đường Mê Vụ",
+          "origin_name": "The Tang Mist",
+          "slug": "dai-duong-me-vu",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/da/dai-duong-me-vu.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/da/dai-duong-me-vu.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            },
+            {
+              "id": "620f84d291fa4af90ab6b3f4",
+              "name": "Bí ẩn",
+              "slug": "bi-an"
+            }
+          ],
+          "country": [
+            {
+              "id": "62093063196e9f4ab6b448b8",
+              "name": "Trung Quốc",
+              "slug": "trung-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 4",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": false,
+          "modified": "2026-05-23T16:36:37.000Z"
+        },
+        {
+          "id": "6a068dc8b3a3583bbbbabd15",
+          "title": "Thám Tử R.J. Decker",
+          "origin_name": "R.J. Decker",
+          "slug": "rj-decker",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/rj/rj-decker.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/rj/rj-decker.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a221de0fc277084dfd1c1",
+              "name": "Hài Hước",
+              "slug": "hai-huoc"
+            },
+            {
+              "id": "620a2249e0fc277084dfd2e5",
+              "name": "Hình Sự",
+              "slug": "hinh-su"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 3",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-05-23T16:36:00.000Z"
+        },
         {
           "id": "6a1155c2a432d616e85ae167",
           "title": "Sự Thức Tỉnh Lặng Thầm",
@@ -2266,152 +2457,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-05-23T10:54:26.000Z"
-        },
-        {
-          "id": "6a0341a9da7d89406867aaae",
-          "title": "Vũ Lâm Linh",
-          "origin_name": "Zhan Zhao Adventures",
-          "slug": "vu-lam-linh",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/vu/vu-lam-linh.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/vu/vu-lam-linh.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "62093063196e9f4ab6b448b8",
-              "name": "Trung Quốc",
-              "slug": "trung-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 21",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-05-23T10:34:31.000Z"
-        },
-        {
-          "id": "69c75361eea244e3e8b93ab3",
-          "title": "Love Upon A Time: Duyên Kiếp Bên Người",
-          "origin_name": "Love Upon a Time",
-          "slug": "love-upon-a-time-duyen-kiep-ben-nguoi",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/lo/love-upon-a-time-duyen-kiep-ben-nguoi.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/lo/love-upon-a-time-duyen-kiep-ben-nguoi.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620a2282e0fc277084dfd435",
-              "name": "Viễn Tưởng",
-              "slug": "vien-tuong"
-            },
-            {
-              "id": "620a229be0fc277084dfd4dd",
-              "name": "Khoa Học",
-              "slug": "khoa-hoc"
-            },
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2318e0fc277084dfd77a",
-              "name": "Thái Lan",
-              "slug": "thai-lan"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 9",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-05-23T10:34:08.000Z"
-        },
-        {
-          "id": "69d09f12f937c3b5a11d24b6",
-          "title": "Người Yêu Miền Quê",
-          "origin_name": "Hometown Romance",
-          "slug": "nguoi-yeu-mien-que",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ng/nguoi-yeu-mien-que.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ng/nguoi-yeu-mien-que.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620a221de0fc277084dfd1c1",
-              "name": "Hài Hước",
-              "slug": "hai-huoc"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2318e0fc277084dfd77a",
-              "name": "Thái Lan",
-              "slug": "thai-lan"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Hoàn tất (8/8)",
-          "quality": "HD",
-          "status": "completed",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-05-23T10:32:37.000Z"
-        },
-        {
-          "id": "69e4f979da7d8940685e7409",
-          "title": "Thầy Tatsuki Quá Dễ Tính",
-          "origin_name": "Tatsuki: Too Kind for School",
-          "slug": "thay-tatsuki-qua-de-tinh",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/th/thay-tatsuki-qua-de-tinh.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/th/thay-tatsuki-qua-de-tinh.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2307e0fc277084dfd726",
-              "name": "Nhật Bản",
-              "slug": "nhat-ban"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 6",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-05-23T10:19:57.000Z"
         }
       ]
     },
@@ -2455,6 +2500,9 @@
       "featured_count_sm": 1,
       "featured_count_xs": 1,
       "ids": [
+        "6a1174e612f0391f00d15b9d",
+        "6a1173d3e14b2140fc6c0f93",
+        "6a068dc8b3a3583bbbbabd15",
         "6a0d34221fea2c5da7a57070",
         "6a08559615072466acf78481",
         "6a09501fa6726df8fd334f65",
@@ -2464,12 +2512,126 @@
         "69d5e08d93c48ff6bfe68daa",
         "69d5e11f7e5a0662d4dc7c5f",
         "69eedaa9377c8aaad5469e53",
-        "69800ed8da6ce23e8e97b912",
-        "695a2015f65d22d617a3e52a",
-        "62d841c00376e41264b61afa",
-        "65711707efed8b7739873bf4"
+        "69800ed8da6ce23e8e97b912"
       ],
       "movies": [
+        {
+          "id": "6a1174e612f0391f00d15b9d",
+          "title": "Rực Cháy Giữa Ban Trưa",
+          "origin_name": "Twin Fire Dawn",
+          "slug": "ruc-chay-giua-ban-trua",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ru/ruc-chay-giua-ban-trua.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ru/ruc-chay-giua-ban-trua.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "62093063196e9f4ab6b448b8",
+              "name": "Trung Quốc",
+              "slug": "trung-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 6",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": false,
+          "modified": "2026-05-23T16:39:15.000Z"
+        },
+        {
+          "id": "6a1173d3e14b2140fc6c0f93",
+          "title": "Đại Đường Mê Vụ",
+          "origin_name": "The Tang Mist",
+          "slug": "dai-duong-me-vu",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/da/dai-duong-me-vu.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/da/dai-duong-me-vu.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            },
+            {
+              "id": "620f84d291fa4af90ab6b3f4",
+              "name": "Bí ẩn",
+              "slug": "bi-an"
+            }
+          ],
+          "country": [
+            {
+              "id": "62093063196e9f4ab6b448b8",
+              "name": "Trung Quốc",
+              "slug": "trung-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 4",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": false,
+          "modified": "2026-05-23T16:36:37.000Z"
+        },
+        {
+          "id": "6a068dc8b3a3583bbbbabd15",
+          "title": "Thám Tử R.J. Decker",
+          "origin_name": "R.J. Decker",
+          "slug": "rj-decker",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/rj/rj-decker.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/rj/rj-decker.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a221de0fc277084dfd1c1",
+              "name": "Hài Hước",
+              "slug": "hai-huoc"
+            },
+            {
+              "id": "620a2249e0fc277084dfd2e5",
+              "name": "Hình Sự",
+              "slug": "hinh-su"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 3",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-05-23T16:36:00.000Z"
+        },
         {
           "id": "6a0d34221fea2c5da7a57070",
           "title": "Minh Châu Kỳ Đàm (Phần 3)",
@@ -2894,143 +3056,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-05-23T09:58:25.000Z"
-        },
-        {
-          "id": "695a2015f65d22d617a3e52a",
-          "title": "Người Trên Vạn Người (Phần 6)",
-          "origin_name": "Hitori No Shita - The Outcast (Season 6)",
-          "slug": "nguoi-tren-van-nguoi-phan-6",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ng/nguoi-tren-van-nguoi-phan-6.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ng/nguoi-tren-van-nguoi-phan-6.webp",
-          "year": 2026,
-          "type": "hoathinh",
-          "genre": [
-            {
-              "id": "620a21b2e0fc277084dfd0c5",
-              "name": "Hành Động",
-              "slug": "hanh-dong"
-            },
-            {
-              "id": "620a221de0fc277084dfd1c1",
-              "name": "Hài Hước",
-              "slug": "hai-huoc"
-            },
-            {
-              "id": "620a2282e0fc277084dfd435",
-              "name": "Viễn Tưởng",
-              "slug": "vien-tuong"
-            },
-            {
-              "id": "620a2293e0fc277084dfd489",
-              "name": "Phiêu Lưu",
-              "slug": "phieu-luu"
-            },
-            {
-              "id": "620a229be0fc277084dfd4dd",
-              "name": "Khoa Học",
-              "slug": "khoa-hoc"
-            }
-          ],
-          "country": [
-            {
-              "id": "62093063196e9f4ab6b448b8",
-              "name": "Trung Quốc",
-              "slug": "trung-quoc"
-            },
-            {
-              "id": "620a2307e0fc277084dfd726",
-              "name": "Nhật Bản",
-              "slug": "nhat-ban"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 22",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-05-23T09:57:05.000Z"
-        },
-        {
-          "id": "62d841c00376e41264b61afa",
-          "title": "Vô Thượng Thần Đế",
-          "origin_name": "Supreme God Emperor",
-          "slug": "vo-thuong-than-de",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/vo/vo-thuong-than-de.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/vo/vo-thuong-than-de.webp",
-          "year": 2020,
-          "type": "hoathinh",
-          "genre": [
-            {
-              "id": "620a2279e0fc277084dfd3e1",
-              "name": "Võ Thuật",
-              "slug": "vo-thuat"
-            },
-            {
-              "id": "620a2282e0fc277084dfd435",
-              "name": "Viễn Tưởng",
-              "slug": "vien-tuong"
-            },
-            {
-              "id": "620a2293e0fc277084dfd489",
-              "name": "Phiêu Lưu",
-              "slug": "phieu-luu"
-            }
-          ],
-          "country": [
-            {
-              "id": "62093063196e9f4ab6b448b8",
-              "name": "Trung Quốc",
-              "slug": "trung-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 589",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-05-23T09:56:49.000Z"
-        },
-        {
-          "id": "65711707efed8b7739873bf4",
-          "title": "Tiên Nghịch",
-          "origin_name": "Renegade Immortal",
-          "slug": "tien-nghich",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ti/tien-nghich.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ti/tien-nghich.webp",
-          "year": 2023,
-          "type": "hoathinh",
-          "genre": [
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "62093063196e9f4ab6b448b8",
-              "name": "Trung Quốc",
-              "slug": "trung-quoc"
-            }
-          ],
-          "lang_key": "Vietsub + Thuyết Minh",
-          "episode_current": "Tập 141",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-05-23T09:56:24.000Z"
         }
       ]
     },
@@ -6781,6 +6806,10 @@
       "featured_count_sm": 0,
       "featured_count_xs": 0,
       "ids": [
+        "69e2471341d6bb2c315422e6",
+        "6a1174e612f0391f00d15b9d",
+        "6a1173d3e14b2140fc6c0f93",
+        "6a068dc8b3a3583bbbbabd15",
         "6a11575516a695c8bbfeb7b3",
         "6a1156a61fea2c5da7a62798",
         "6a1155c2a432d616e85ae167",
@@ -6792,13 +6821,175 @@
         "6a11251f1fea2c5da7a61ea5",
         "6a1124ef416b9186f00e828e",
         "6a0341a9da7d89406867aaae",
-        "69c75361eea244e3e8b93ab3",
-        "69d09f12f937c3b5a11d24b6",
-        "69e4f979da7d8940685e7409",
-        "69d5e08d93c48ff6bfe68daa",
-        "69d5e11f7e5a0662d4dc7c5f"
+        "69c75361eea244e3e8b93ab3"
       ],
       "movies": [
+        {
+          "id": "69e2471341d6bb2c315422e6",
+          "title": "Giá Trị Tuyệt Đối Của Lãng Mạn",
+          "origin_name": "Absolute Value of Romance",
+          "slug": "gia-tri-tuyet-doi-cua-lang-man",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/gi/gia-tri-tuyet-doi-cua-lang-man.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/gi/gia-tri-tuyet-doi-cua-lang-man.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a221de0fc277084dfd1c1",
+              "name": "Hài Hước",
+              "slug": "hai-huoc"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            },
+            {
+              "id": "62121edd1f1609c9d9345940",
+              "name": "Nga",
+              "slug": "nga"
+            },
+            {
+              "id": "644f3b0ed95ac616c32b79ee",
+              "name": "Singapore",
+              "slug": "singapore"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Hoàn tất (14/14)",
+          "quality": "HD",
+          "status": "completed",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-05-23T17:10:42.000Z"
+        },
+        {
+          "id": "6a1174e612f0391f00d15b9d",
+          "title": "Rực Cháy Giữa Ban Trưa",
+          "origin_name": "Twin Fire Dawn",
+          "slug": "ruc-chay-giua-ban-trua",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ru/ruc-chay-giua-ban-trua.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ru/ruc-chay-giua-ban-trua.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "62093063196e9f4ab6b448b8",
+              "name": "Trung Quốc",
+              "slug": "trung-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 6",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": false,
+          "modified": "2026-05-23T16:39:15.000Z"
+        },
+        {
+          "id": "6a1173d3e14b2140fc6c0f93",
+          "title": "Đại Đường Mê Vụ",
+          "origin_name": "The Tang Mist",
+          "slug": "dai-duong-me-vu",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/da/dai-duong-me-vu.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/da/dai-duong-me-vu.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            },
+            {
+              "id": "620f84d291fa4af90ab6b3f4",
+              "name": "Bí ẩn",
+              "slug": "bi-an"
+            }
+          ],
+          "country": [
+            {
+              "id": "62093063196e9f4ab6b448b8",
+              "name": "Trung Quốc",
+              "slug": "trung-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 4",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": false,
+          "modified": "2026-05-23T16:36:37.000Z"
+        },
+        {
+          "id": "6a068dc8b3a3583bbbbabd15",
+          "title": "Thám Tử R.J. Decker",
+          "origin_name": "R.J. Decker",
+          "slug": "rj-decker",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/rj/rj-decker.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/rj/rj-decker.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a221de0fc277084dfd1c1",
+              "name": "Hài Hước",
+              "slug": "hai-huoc"
+            },
+            {
+              "id": "620a2249e0fc277084dfd2e5",
+              "name": "Hình Sự",
+              "slug": "hinh-su"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 3",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-05-23T16:36:00.000Z"
+        },
         {
           "id": "6a11575516a695c8bbfeb7b3",
           "title": "Sponsor",
@@ -7236,177 +7427,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-05-23T10:34:08.000Z"
-        },
-        {
-          "id": "69d09f12f937c3b5a11d24b6",
-          "title": "Người Yêu Miền Quê",
-          "origin_name": "Hometown Romance",
-          "slug": "nguoi-yeu-mien-que",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ng/nguoi-yeu-mien-que.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ng/nguoi-yeu-mien-que.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620a221de0fc277084dfd1c1",
-              "name": "Hài Hước",
-              "slug": "hai-huoc"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2318e0fc277084dfd77a",
-              "name": "Thái Lan",
-              "slug": "thai-lan"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Hoàn tất (8/8)",
-          "quality": "HD",
-          "status": "completed",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-05-23T10:32:37.000Z"
-        },
-        {
-          "id": "69e4f979da7d8940685e7409",
-          "title": "Thầy Tatsuki Quá Dễ Tính",
-          "origin_name": "Tatsuki: Too Kind for School",
-          "slug": "thay-tatsuki-qua-de-tinh",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/th/thay-tatsuki-qua-de-tinh.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/th/thay-tatsuki-qua-de-tinh.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2307e0fc277084dfd726",
-              "name": "Nhật Bản",
-              "slug": "nhat-ban"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 6",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-05-23T10:19:57.000Z"
-        },
-        {
-          "id": "69d5e08d93c48ff6bfe68daa",
-          "title": "Trái Đất Đóng Băng",
-          "origin_name": "SNOWBALL EARTH",
-          "slug": "trai-dat-dong-bang",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/tr/trai-dat-dong-bang.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/tr/trai-dat-dong-bang.webp",
-          "year": 2026,
-          "type": "hoathinh",
-          "genre": [
-            {
-              "id": "620a21b2e0fc277084dfd0c5",
-              "name": "Hành Động",
-              "slug": "hanh-dong"
-            },
-            {
-              "id": "620a2282e0fc277084dfd435",
-              "name": "Viễn Tưởng",
-              "slug": "vien-tuong"
-            },
-            {
-              "id": "620a2293e0fc277084dfd489",
-              "name": "Phiêu Lưu",
-              "slug": "phieu-luu"
-            },
-            {
-              "id": "620a229be0fc277084dfd4dd",
-              "name": "Khoa Học",
-              "slug": "khoa-hoc"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2307e0fc277084dfd726",
-              "name": "Nhật Bản",
-              "slug": "nhat-ban"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 8",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-05-23T10:19:43.000Z"
-        },
-        {
-          "id": "69d5e11f7e5a0662d4dc7c5f",
-          "title": "Lúc Đó Tôi Đã Chuyển Sinh Thành Slime (Phần 4)",
-          "origin_name": "That Time I Got Reincarnated as a Slime (Season 4)",
-          "slug": "luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/lu/luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/lu/luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4.webp",
-          "year": 2026,
-          "type": "hoathinh",
-          "genre": [
-            {
-              "id": "620a21b2e0fc277084dfd0c5",
-              "name": "Hành Động",
-              "slug": "hanh-dong"
-            },
-            {
-              "id": "620a221de0fc277084dfd1c1",
-              "name": "Hài Hước",
-              "slug": "hai-huoc"
-            },
-            {
-              "id": "620a2282e0fc277084dfd435",
-              "name": "Viễn Tưởng",
-              "slug": "vien-tuong"
-            },
-            {
-              "id": "620a2293e0fc277084dfd489",
-              "name": "Phiêu Lưu",
-              "slug": "phieu-luu"
-            },
-            {
-              "id": "620a229be0fc277084dfd4dd",
-              "name": "Khoa Học",
-              "slug": "khoa-hoc"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2307e0fc277084dfd726",
-              "name": "Nhật Bản",
-              "slug": "nhat-ban"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 7",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-05-23T10:19:26.000Z"
         }
       ]
     },
@@ -7450,6 +7470,8 @@
       "featured_count_sm": 0,
       "featured_count_xs": 0,
       "ids": [
+        "6a1174e612f0391f00d15b9d",
+        "6a1173d3e14b2140fc6c0f93",
         "6a1155c2a432d616e85ae167",
         "6a0d34221fea2c5da7a57070",
         "6a08559615072466acf78481",
@@ -7463,11 +7485,82 @@
         "6a0e842d6092900b4116351f",
         "6a0fd82316a695c8bbfe78db",
         "6a02dd63b692c7b208dc5976",
-        "6a0fea7216a695c8bbfe7eab",
-        "6a0fe5e72c0a4eaf2653b8a1",
-        "6a0bec2b4be02ecfaff4eb88"
+        "6a0fea7216a695c8bbfe7eab"
       ],
       "movies": [
+        {
+          "id": "6a1174e612f0391f00d15b9d",
+          "title": "Rực Cháy Giữa Ban Trưa",
+          "origin_name": "Twin Fire Dawn",
+          "slug": "ruc-chay-giua-ban-trua",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ru/ruc-chay-giua-ban-trua.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ru/ruc-chay-giua-ban-trua.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "62093063196e9f4ab6b448b8",
+              "name": "Trung Quốc",
+              "slug": "trung-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 6",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": false,
+          "modified": "2026-05-23T16:39:15.000Z"
+        },
+        {
+          "id": "6a1173d3e14b2140fc6c0f93",
+          "title": "Đại Đường Mê Vụ",
+          "origin_name": "The Tang Mist",
+          "slug": "dai-duong-me-vu",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/da/dai-duong-me-vu.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/da/dai-duong-me-vu.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            },
+            {
+              "id": "620f84d291fa4af90ab6b3f4",
+              "name": "Bí ẩn",
+              "slug": "bi-an"
+            }
+          ],
+          "country": [
+            {
+              "id": "62093063196e9f4ab6b448b8",
+              "name": "Trung Quốc",
+              "slug": "trung-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 4",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": false,
+          "modified": "2026-05-23T16:36:37.000Z"
+        },
         {
           "id": "6a1155c2a432d616e85ae167",
           "title": "Sự Thức Tỉnh Lặng Thầm",
@@ -8008,74 +8101,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-05-22T13:15:40.000Z"
-        },
-        {
-          "id": "6a0fe5e72c0a4eaf2653b8a1",
-          "title": "Nhất Thế Tình Thù",
-          "origin_name": "Nhất Thế Tình Thù",
-          "slug": "nhat-the-tinh-thu-short-drama",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhat-the-tinh-thu-short-drama.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhat-the-tinh-thu-short-drama.webp",
-          "year": 2025,
-          "type": "series",
-          "genre": [
-            {
-              "id": "68f786a9f998955ed60add6c",
-              "name": "Short Drama",
-              "slug": "short-drama"
-            }
-          ],
-          "country": [
-            {
-              "id": "62093063196e9f4ab6b448b8",
-              "name": "Trung Quốc",
-              "slug": "trung-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Hoàn tất (10/10)",
-          "quality": "HD",
-          "status": "completed",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-05-22T12:44:46.000Z"
-        },
-        {
-          "id": "6a0bec2b4be02ecfaff4eb88",
-          "title": "Trời Xanh Trên Mây",
-          "origin_name": "Sky Blue Above the Clouds",
-          "slug": "troi-xanh-tren-may",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/tr/troi-xanh-tren-may.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/tr/troi-xanh-tren-may.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "62093063196e9f4ab6b448b8",
-              "name": "Trung Quốc",
-              "slug": "trung-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 6",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-05-22T11:58:00.000Z"
         }
       ]
     },
@@ -8119,6 +8144,7 @@
       "featured_count_sm": 0,
       "featured_count_xs": 0,
       "ids": [
+        "69e2471341d6bb2c315422e6",
         "69eedaa9377c8aaad5469e53",
         "69e1c6346d4243e068ef6f34",
         "6a0f2de12c8b2895cfa4f699",
@@ -8133,10 +8159,58 @@
         "69e5dda82b874d6bfb6c1986",
         "69e3a4edf616ee3807d9403c",
         "69ecebe9748ca16f08627461",
-        "69e3398b31aa2678f8c99a1b",
-        "69d8f14d7e5a0662d4dd2f64"
+        "69e3398b31aa2678f8c99a1b"
       ],
       "movies": [
+        {
+          "id": "69e2471341d6bb2c315422e6",
+          "title": "Giá Trị Tuyệt Đối Của Lãng Mạn",
+          "origin_name": "Absolute Value of Romance",
+          "slug": "gia-tri-tuyet-doi-cua-lang-man",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/gi/gia-tri-tuyet-doi-cua-lang-man.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/gi/gia-tri-tuyet-doi-cua-lang-man.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a221de0fc277084dfd1c1",
+              "name": "Hài Hước",
+              "slug": "hai-huoc"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            },
+            {
+              "id": "62121edd1f1609c9d9345940",
+              "name": "Nga",
+              "slug": "nga"
+            },
+            {
+              "id": "644f3b0ed95ac616c32b79ee",
+              "name": "Singapore",
+              "slug": "singapore"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Hoàn tất (14/14)",
+          "quality": "HD",
+          "status": "completed",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-05-23T17:10:42.000Z"
+        },
         {
           "id": "69eedaa9377c8aaad5469e53",
           "title": "Kẻ Thù Hoàng Gia Của Tôi",
@@ -8711,45 +8785,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-05-17T12:20:04.000Z"
-        },
-        {
-          "id": "69d8f14d7e5a0662d4dd2f64",
-          "title": "Phu Nhân Đại Quân Thế Kỷ 21",
-          "origin_name": "Perfect Crown",
-          "slug": "phu-nhan-dai-quan-the-ky-21",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ph/phu-nhan-dai-quan-the-ky-21.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ph/phu-nhan-dai-quan-the-ky-21.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620a221de0fc277084dfd1c1",
-              "name": "Hài Hước",
-              "slug": "hai-huoc"
-            },
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2300e0fc277084dfd6d2",
-              "name": "Hàn Quốc",
-              "slug": "han-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Hoàn tất (12/12)",
-          "quality": "HD",
-          "status": "completed",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": true,
-          "modified": "2026-05-16T23:36:57.000Z"
         }
       ]
     },
@@ -8793,6 +8828,7 @@
       "featured_count_sm": 0,
       "featured_count_xs": 0,
       "ids": [
+        "6a068dc8b3a3583bbbbabd15",
         "6a1156a61fea2c5da7a62798",
         "694b47ecb06c99c722eaa29f",
         "6a0ff16c4e6584edee41c613",
@@ -8807,10 +8843,53 @@
         "697c2b0bb06c99c722eea8e1",
         "6a0bc798f7f43ec64ef41a5e",
         "6a0bc7f3a6726df8fd33a822",
-        "6a0dc66f173846d6442bd39e",
-        "69fc1424cec790794bfed07d"
+        "6a0dc66f173846d6442bd39e"
       ],
       "movies": [
+        {
+          "id": "6a068dc8b3a3583bbbbabd15",
+          "title": "Thám Tử R.J. Decker",
+          "origin_name": "R.J. Decker",
+          "slug": "rj-decker",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/rj/rj-decker.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/rj/rj-decker.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a221de0fc277084dfd1c1",
+              "name": "Hài Hước",
+              "slug": "hai-huoc"
+            },
+            {
+              "id": "620a2249e0fc277084dfd2e5",
+              "name": "Hình Sự",
+              "slug": "hinh-su"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 3",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-05-23T16:36:00.000Z"
+        },
         {
           "id": "6a1156a61fea2c5da7a62798",
           "title": "Dư Âm Sau Cuộc Yêu",
@@ -9430,40 +9509,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-05-20T22:06:02.000Z"
-        },
-        {
-          "id": "69fc1424cec790794bfed07d",
-          "title": "Lần Nữa Đến Bên Em",
-          "origin_name": "Love Beyond Dreams",
-          "slug": "lan-nua-den-ben-em",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/la/lan-nua-den-ben-em.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/la/lan-nua-den-ben-em.webp",
-          "year": 2024,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a231fe0fc277084dfd7ce",
-              "name": "Âu Mỹ",
-              "slug": "au-my"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 3",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-05-20T21:30:13.000Z"
         }
       ]
     },
@@ -10678,6 +10723,62 @@
   ],
   "sliderAuto": [
     {
+      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/gi/gia-tri-tuyet-doi-cua-lang-man.webp",
+      "link_url": "/phim/gia-tri-tuyet-doi-cua-lang-man.html",
+      "title": "Giá Trị Tuyệt Đối Của Lãng Mạn",
+      "year": "2026",
+      "country": "Hàn Quốc",
+      "episode_current": "Hoàn tất (14/14)",
+      "genres": [
+        "Hài Hước",
+        "Chính kịch"
+      ],
+      "sort_order": 0,
+      "enabled": true
+    },
+    {
+      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ru/ruc-chay-giua-ban-trua.webp",
+      "link_url": "/phim/ruc-chay-giua-ban-trua.html",
+      "title": "Rực Cháy Giữa Ban Trưa",
+      "year": "2026",
+      "country": "Trung Quốc",
+      "episode_current": "Tập 6",
+      "genres": [
+        "Chính kịch"
+      ],
+      "sort_order": 1,
+      "enabled": true
+    },
+    {
+      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/da/dai-duong-me-vu.webp",
+      "link_url": "/phim/dai-duong-me-vu.html",
+      "title": "Đại Đường Mê Vụ",
+      "year": "2026",
+      "country": "Trung Quốc",
+      "episode_current": "Tập 4",
+      "genres": [
+        "Chính kịch",
+        "Bí ẩn"
+      ],
+      "sort_order": 2,
+      "enabled": true
+    },
+    {
+      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/rj/rj-decker.webp",
+      "link_url": "/phim/rj-decker.html",
+      "title": "Thám Tử R.J. Decker",
+      "year": "2026",
+      "country": "Âu Mỹ",
+      "episode_current": "Tập 3",
+      "genres": [
+        "Hài Hước",
+        "Hình Sự",
+        "Chính kịch"
+      ],
+      "sort_order": 3,
+      "enabled": true
+    },
+    {
       "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/sp/sponsor.webp",
       "link_url": "/phim/sponsor.html",
       "title": "Sponsor",
@@ -10687,7 +10788,7 @@
       "genres": [
         "Chính kịch"
       ],
-      "sort_order": 0,
+      "sort_order": 4,
       "enabled": true
     },
     {
@@ -10701,7 +10802,7 @@
         "Hài Hước",
         "Chính kịch"
       ],
-      "sort_order": 1,
+      "sort_order": 5,
       "enabled": true
     },
     {
@@ -10715,7 +10816,7 @@
         "Hành Động",
         "Hình Sự"
       ],
-      "sort_order": 2,
+      "sort_order": 6,
       "enabled": true
     },
     {
@@ -10729,7 +10830,7 @@
         "Hành Động",
         "Phiêu Lưu"
       ],
-      "sort_order": 3,
+      "sort_order": 7,
       "enabled": true
     },
     {
@@ -10742,7 +10843,7 @@
       "genres": [
         "Chính kịch"
       ],
-      "sort_order": 4,
+      "sort_order": 8,
       "enabled": true
     },
     {
@@ -10755,7 +10856,7 @@
       "genres": [
         "Chính kịch"
       ],
-      "sort_order": 5,
+      "sort_order": 9,
       "enabled": true
     },
     {
@@ -10768,7 +10869,7 @@
       "genres": [
         "Tình Cảm"
       ],
-      "sort_order": 6,
+      "sort_order": 10,
       "enabled": true
     },
     {
@@ -10781,60 +10882,6 @@
       "genres": [
         "Hài Hước",
         "Gia Đình"
-      ],
-      "sort_order": 7,
-      "enabled": true
-    },
-    {
-      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/aa/aakhri-sawal.webp",
-      "link_url": "/phim/aakhri-sawal.html",
-      "title": "Aakhri Sawal",
-      "year": "2026",
-      "country": "Ấn Độ",
-      "episode_current": "Trailer",
-      "genres": [
-        "Chính kịch"
-      ],
-      "sort_order": 8,
-      "enabled": true
-    },
-    {
-      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/pa/pati-patni-aur-woh-do.webp",
-      "link_url": "/phim/pati-patni-aur-woh-do.html",
-      "title": "Pati Patni Aur Woh Do",
-      "year": "2026",
-      "country": "Ấn Độ",
-      "episode_current": "Trailer",
-      "genres": [
-        "Hài Hước"
-      ],
-      "sort_order": 9,
-      "enabled": true
-    },
-    {
-      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/vu/vu-lam-linh.webp",
-      "link_url": "/phim/vu-lam-linh.html",
-      "title": "Vũ Lâm Linh",
-      "year": "2026",
-      "country": "Trung Quốc",
-      "episode_current": "Tập 21",
-      "genres": [
-        "Chính kịch"
-      ],
-      "sort_order": 10,
-      "enabled": true
-    },
-    {
-      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/lo/love-upon-a-time-duyen-kiep-ben-nguoi.webp",
-      "link_url": "/phim/love-upon-a-time-duyen-kiep-ben-nguoi.html",
-      "title": "Love Upon A Time: Duyên Kiếp Bên Người",
-      "year": "2026",
-      "country": "Thái Lan",
-      "episode_current": "Tập 9",
-      "genres": [
-        "Viễn Tưởng",
-        "Khoa Học",
-        "Chính kịch"
       ],
       "sort_order": 11,
       "enabled": true
