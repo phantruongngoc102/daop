@@ -123,6 +123,8 @@
     "featured_count_sm": 1,
     "featured_count_xs": 1,
     "ids": [
+      "68e87457bc85dba74e70256f",
+      "6a11a5fb4e6584edee420ab8",
       "6a09d42ae14b2140fc6adcbd",
       "69f963cb91cc1b96d58fbb89",
       "69e4fb962b874d6bfb6bbee5",
@@ -133,11 +135,92 @@
       "6a1bb4d34f61d761f76e59ae",
       "6a17eb1e1fea2c5da7a767df",
       "6a168242142ea533b0206a19",
-      "6a1174e612f0391f00d15b9d",
-      "6a0d34221fea2c5da7a57070",
-      "6a1173d3e14b2140fc6c0f93"
+      "6a1174e612f0391f00d15b9d"
     ],
     "movies": [
+      {
+        "id": "68e87457bc85dba74e70256f",
+        "title": "Tâm Trí Rực Rỡ (Phần 2)",
+        "origin_name": "Brilliant Minds (Season 2)",
+        "slug": "tam-tri-ruc-ro-phan-2",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ta/tam-tri-ruc-ro-phan-2.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ta/tam-tri-ruc-ro-phan-2.webp",
+        "year": 2025,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a231fe0fc277084dfd7ce",
+            "name": "Âu Mỹ",
+            "slug": "au-my"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 15",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-05-31T23:39:01.000Z"
+      },
+      {
+        "id": "6a11a5fb4e6584edee420ab8",
+        "title": "Chuyên Gia Tuổi Trung Niên",
+        "origin_name": "Fifties Professionals",
+        "slug": "chuyen-gia-tuoi-trung-nien",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ch/chuyen-gia-tuoi-trung-nien.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/chuyen-gia-tuoi-trung-nien.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a21b2e0fc277084dfd0c5",
+            "name": "Hành Động",
+            "slug": "hanh-dong"
+          },
+          {
+            "id": "620a221de0fc277084dfd1c1",
+            "name": "Hài Hước",
+            "slug": "hai-huoc"
+          },
+          {
+            "id": "620a2293e0fc277084dfd489",
+            "name": "Phiêu Lưu",
+            "slug": "phieu-luu"
+          },
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a2300e0fc277084dfd6d2",
+            "name": "Hàn Quốc",
+            "slug": "han-quoc"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 4",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-05-31T20:59:37.000Z"
+      },
       {
         "id": "6a09d42ae14b2140fc6adcbd",
         "title": "Gia Nghiệp",
@@ -531,84 +614,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-05-31T11:09:19.000Z"
-      },
-      {
-        "id": "6a0d34221fea2c5da7a57070",
-        "title": "Minh Châu Kỳ Đàm (Phần 3)",
-        "origin_name": "The Secret of the Lost Pearl (Season 3)",
-        "slug": "minh-chau-ky-dam-phan-3",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/mi/minh-chau-ky-dam-phan-3.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/mi/minh-chau-ky-dam-phan-3.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620a21b2e0fc277084dfd0c5",
-            "name": "Hành Động",
-            "slug": "hanh-dong"
-          },
-          {
-            "id": "620a2293e0fc277084dfd489",
-            "name": "Phiêu Lưu",
-            "slug": "phieu-luu"
-          }
-        ],
-        "country": [
-          {
-            "id": "62093063196e9f4ab6b448b8",
-            "name": "Trung Quốc",
-            "slug": "trung-quoc"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 19",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-31T11:09:07.000Z"
-      },
-      {
-        "id": "6a1173d3e14b2140fc6c0f93",
-        "title": "Đại Đường Mê Vụ",
-        "origin_name": "The Tang Mist",
-        "slug": "dai-duong-me-vu",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/da/dai-duong-me-vu.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/da/dai-duong-me-vu.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          },
-          {
-            "id": "620f84d291fa4af90ab6b3f4",
-            "name": "Bí ẩn",
-            "slug": "bi-an"
-          }
-        ],
-        "country": [
-          {
-            "id": "62093063196e9f4ab6b448b8",
-            "name": "Trung Quốc",
-            "slug": "trung-quoc"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 17",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-31T11:08:53.000Z"
       }
     ]
   },
@@ -1139,6 +1144,7 @@
     "grid_columns_sm": 3,
     "grid_columns_xs": 2,
     "ids": [
+      "6a11a5fb4e6584edee420ab8",
       "6a09d42ae14b2140fc6adcbd",
       "69dbac0741d6bb2c315221e7",
       "69f963cb91cc1b96d58fbb89",
@@ -1149,10 +1155,58 @@
       "6a168242142ea533b0206a19",
       "6a1174e612f0391f00d15b9d",
       "6a0d34221fea2c5da7a57070",
-      "6a1173d3e14b2140fc6c0f93",
-      "6a1672c46092900b4117a5cd"
+      "6a1173d3e14b2140fc6c0f93"
     ],
     "movies": [
+      {
+        "id": "6a11a5fb4e6584edee420ab8",
+        "title": "Chuyên Gia Tuổi Trung Niên",
+        "origin_name": "Fifties Professionals",
+        "slug": "chuyen-gia-tuoi-trung-nien",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ch/chuyen-gia-tuoi-trung-nien.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/chuyen-gia-tuoi-trung-nien.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a21b2e0fc277084dfd0c5",
+            "name": "Hành Động",
+            "slug": "hanh-dong"
+          },
+          {
+            "id": "620a221de0fc277084dfd1c1",
+            "name": "Hài Hước",
+            "slug": "hai-huoc"
+          },
+          {
+            "id": "620a2293e0fc277084dfd489",
+            "name": "Phiêu Lưu",
+            "slug": "phieu-luu"
+          },
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a2300e0fc277084dfd6d2",
+            "name": "Hàn Quốc",
+            "slug": "han-quoc"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 4",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-05-31T20:59:37.000Z"
+      },
       {
         "id": "6a09d42ae14b2140fc6adcbd",
         "title": "Gia Nghiệp",
@@ -1571,40 +1625,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-05-31T11:08:53.000Z"
-      },
-      {
-        "id": "6a1672c46092900b4117a5cd",
-        "title": "Chào Mừng Trở Lại Kênh Của Tôi",
-        "origin_name": "Life is Elsewhere",
-        "slug": "chao-mung-tro-lai-kenh-cua-toi",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ch/chao-mung-tro-lai-kenh-cua-toi.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/chao-mung-tro-lai-kenh-cua-toi.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "62093063196e9f4ab6b448b8",
-            "name": "Trung Quốc",
-            "slug": "trung-quoc"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Hoàn tất (30/30)",
-        "quality": "HD",
-        "status": "completed",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-31T11:08:27.000Z"
       }
     ]
   },
@@ -1648,6 +1668,8 @@
     "featured_count_sm": 1,
     "featured_count_xs": 1,
     "ids": [
+      "68e87457bc85dba74e70256f",
+      "6a11a5fb4e6584edee420ab8",
       "6a09d42ae14b2140fc6adcbd",
       "69dbac0741d6bb2c315221e7",
       "69f963cb91cc1b96d58fbb89",
@@ -1658,11 +1680,92 @@
       "6a168242142ea533b0206a19",
       "6a1174e612f0391f00d15b9d",
       "6a0d34221fea2c5da7a57070",
-      "6a1173d3e14b2140fc6c0f93",
-      "6a1a6eb2947ce584f1c2530e",
-      "6a166cd26997f14383cd5f94"
+      "6a1173d3e14b2140fc6c0f93"
     ],
     "movies": [
+      {
+        "id": "68e87457bc85dba74e70256f",
+        "title": "Tâm Trí Rực Rỡ (Phần 2)",
+        "origin_name": "Brilliant Minds (Season 2)",
+        "slug": "tam-tri-ruc-ro-phan-2",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ta/tam-tri-ruc-ro-phan-2.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ta/tam-tri-ruc-ro-phan-2.webp",
+        "year": 2025,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a231fe0fc277084dfd7ce",
+            "name": "Âu Mỹ",
+            "slug": "au-my"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 15",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-05-31T23:39:01.000Z"
+      },
+      {
+        "id": "6a11a5fb4e6584edee420ab8",
+        "title": "Chuyên Gia Tuổi Trung Niên",
+        "origin_name": "Fifties Professionals",
+        "slug": "chuyen-gia-tuoi-trung-nien",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ch/chuyen-gia-tuoi-trung-nien.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/chuyen-gia-tuoi-trung-nien.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a21b2e0fc277084dfd0c5",
+            "name": "Hành Động",
+            "slug": "hanh-dong"
+          },
+          {
+            "id": "620a221de0fc277084dfd1c1",
+            "name": "Hài Hước",
+            "slug": "hai-huoc"
+          },
+          {
+            "id": "620a2293e0fc277084dfd489",
+            "name": "Phiêu Lưu",
+            "slug": "phieu-luu"
+          },
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a2300e0fc277084dfd6d2",
+            "name": "Hàn Quốc",
+            "slug": "han-quoc"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 4",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-05-31T20:59:37.000Z"
+      },
       {
         "id": "6a09d42ae14b2140fc6adcbd",
         "title": "Gia Nghiệp",
@@ -2081,74 +2184,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-05-31T11:08:53.000Z"
-      },
-      {
-        "id": "6a1a6eb2947ce584f1c2530e",
-        "title": "Qua Muôn Thành Trì Mới Gặp Đúng Người",
-        "origin_name": "100 Reasons Not to Be King",
-        "slug": "qua-muon-thanh-tri-moi-gap-dung-nguoi",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/qu/qua-muon-thanh-tri-moi-gap-dung-nguoi.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/qu/qua-muon-thanh-tri-moi-gap-dung-nguoi.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "62093063196e9f4ab6b448b8",
-            "name": "Trung Quốc",
-            "slug": "trung-quoc"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 9",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-31T11:08:05.000Z"
-      },
-      {
-        "id": "6a166cd26997f14383cd5f94",
-        "title": "Cưới Rồi Mới Động Lòng",
-        "origin_name": "Late to Love",
-        "slug": "cuoi-roi-moi-dong-long",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/cu/cuoi-roi-moi-dong-long.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/cu/cuoi-roi-moi-dong-long.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "62093063196e9f4ab6b448b8",
-            "name": "Trung Quốc",
-            "slug": "trung-quoc"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 14",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-31T10:59:49.000Z"
       }
     ]
   },
@@ -5914,6 +5949,8 @@
     "featured_count_sm": 0,
     "featured_count_xs": 0,
     "ids": [
+      "68e87457bc85dba74e70256f",
+      "6a11a5fb4e6584edee420ab8",
       "6a09d42ae14b2140fc6adcbd",
       "69dbac0741d6bb2c315221e7",
       "69f963cb91cc1b96d58fbb89",
@@ -5927,11 +5964,92 @@
       "6a168242142ea533b0206a19",
       "6a1174e612f0391f00d15b9d",
       "6a0d34221fea2c5da7a57070",
-      "6a1173d3e14b2140fc6c0f93",
-      "6a1672c46092900b4117a5cd",
-      "6a1a6eb2947ce584f1c2530e"
+      "6a1173d3e14b2140fc6c0f93"
     ],
     "movies": [
+      {
+        "id": "68e87457bc85dba74e70256f",
+        "title": "Tâm Trí Rực Rỡ (Phần 2)",
+        "origin_name": "Brilliant Minds (Season 2)",
+        "slug": "tam-tri-ruc-ro-phan-2",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ta/tam-tri-ruc-ro-phan-2.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ta/tam-tri-ruc-ro-phan-2.webp",
+        "year": 2025,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a231fe0fc277084dfd7ce",
+            "name": "Âu Mỹ",
+            "slug": "au-my"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 15",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-05-31T23:39:01.000Z"
+      },
+      {
+        "id": "6a11a5fb4e6584edee420ab8",
+        "title": "Chuyên Gia Tuổi Trung Niên",
+        "origin_name": "Fifties Professionals",
+        "slug": "chuyen-gia-tuoi-trung-nien",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ch/chuyen-gia-tuoi-trung-nien.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/chuyen-gia-tuoi-trung-nien.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a21b2e0fc277084dfd0c5",
+            "name": "Hành Động",
+            "slug": "hanh-dong"
+          },
+          {
+            "id": "620a221de0fc277084dfd1c1",
+            "name": "Hài Hước",
+            "slug": "hai-huoc"
+          },
+          {
+            "id": "620a2293e0fc277084dfd489",
+            "name": "Phiêu Lưu",
+            "slug": "phieu-luu"
+          },
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a2300e0fc277084dfd6d2",
+            "name": "Hàn Quốc",
+            "slug": "han-quoc"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 4",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-05-31T20:59:37.000Z"
+      },
       {
         "id": "6a09d42ae14b2140fc6adcbd",
         "title": "Gia Nghiệp",
@@ -6452,74 +6570,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-05-31T11:08:53.000Z"
-      },
-      {
-        "id": "6a1672c46092900b4117a5cd",
-        "title": "Chào Mừng Trở Lại Kênh Của Tôi",
-        "origin_name": "Life is Elsewhere",
-        "slug": "chao-mung-tro-lai-kenh-cua-toi",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ch/chao-mung-tro-lai-kenh-cua-toi.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/chao-mung-tro-lai-kenh-cua-toi.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "62093063196e9f4ab6b448b8",
-            "name": "Trung Quốc",
-            "slug": "trung-quoc"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Hoàn tất (30/30)",
-        "quality": "HD",
-        "status": "completed",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-31T11:08:27.000Z"
-      },
-      {
-        "id": "6a1a6eb2947ce584f1c2530e",
-        "title": "Qua Muôn Thành Trì Mới Gặp Đúng Người",
-        "origin_name": "100 Reasons Not to Be King",
-        "slug": "qua-muon-thanh-tri-moi-gap-dung-nguoi",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/qu/qua-muon-thanh-tri-moi-gap-dung-nguoi.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/qu/qua-muon-thanh-tri-moi-gap-dung-nguoi.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "62093063196e9f4ab6b448b8",
-            "name": "Trung Quốc",
-            "slug": "trung-quoc"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 9",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-31T11:08:05.000Z"
       }
     ]
   },
@@ -7182,9 +7232,9 @@
     "featured_count_sm": 0,
     "featured_count_xs": 0,
     "ids": [
+      "6a11a5fb4e6584edee420ab8",
       "6a1b1a29a432d616e85cc41d",
       "69eedaa9377c8aaad5469e53",
-      "6a11a5fb4e6584edee420ab8",
       "69e2471341d6bb2c315422e6",
       "6a190bc9a6726df8fd360d29",
       "6a190c2e2c0a4eaf26556918",
@@ -7200,6 +7250,55 @@
       "62bd3e259464119c3454b6ba"
     ],
     "movies": [
+      {
+        "id": "6a11a5fb4e6584edee420ab8",
+        "title": "Chuyên Gia Tuổi Trung Niên",
+        "origin_name": "Fifties Professionals",
+        "slug": "chuyen-gia-tuoi-trung-nien",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ch/chuyen-gia-tuoi-trung-nien.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/chuyen-gia-tuoi-trung-nien.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a21b2e0fc277084dfd0c5",
+            "name": "Hành Động",
+            "slug": "hanh-dong"
+          },
+          {
+            "id": "620a221de0fc277084dfd1c1",
+            "name": "Hài Hước",
+            "slug": "hai-huoc"
+          },
+          {
+            "id": "620a2293e0fc277084dfd489",
+            "name": "Phiêu Lưu",
+            "slug": "phieu-luu"
+          },
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a2300e0fc277084dfd6d2",
+            "name": "Hàn Quốc",
+            "slug": "han-quoc"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 4",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-05-31T20:59:37.000Z"
+      },
       {
         "id": "6a1b1a29a432d616e85cc41d",
         "title": "Chủ Tịch Tập Sự",
@@ -7292,55 +7391,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-05-30T22:10:29.000Z"
-      },
-      {
-        "id": "6a11a5fb4e6584edee420ab8",
-        "title": "Chuyên Gia Tuổi Trung Niên",
-        "origin_name": "Fifties Professionals",
-        "slug": "chuyen-gia-tuoi-trung-nien",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ch/chuyen-gia-tuoi-trung-nien.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/chuyen-gia-tuoi-trung-nien.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620a21b2e0fc277084dfd0c5",
-            "name": "Hành Động",
-            "slug": "hanh-dong"
-          },
-          {
-            "id": "620a221de0fc277084dfd1c1",
-            "name": "Hài Hước",
-            "slug": "hai-huoc"
-          },
-          {
-            "id": "620a2293e0fc277084dfd489",
-            "name": "Phiêu Lưu",
-            "slug": "phieu-luu"
-          },
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a2300e0fc277084dfd6d2",
-            "name": "Hàn Quốc",
-            "slug": "han-quoc"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 3",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": true,
-        "modified": "2026-05-30T21:58:09.000Z"
       },
       {
         "id": "69e2471341d6bb2c315422e6",
@@ -7906,6 +7956,7 @@
     "featured_count_sm": 0,
     "featured_count_xs": 0,
     "ids": [
+      "68e87457bc85dba74e70256f",
       "69e4fb962b874d6bfb6bbee5",
       "6a068dc8b3a3583bbbbabd15",
       "698205831d0b515454a65927",
@@ -7920,10 +7971,43 @@
       "69f09c434a74b3cede1263a3",
       "6a181b93a6726df8fd35e10d",
       "6a17ef931fea2c5da7a7694a",
-      "6a1671f012f0391f00d24b9f",
-      "69fc1424cec790794bfed07d"
+      "6a1671f012f0391f00d24b9f"
     ],
     "movies": [
+      {
+        "id": "68e87457bc85dba74e70256f",
+        "title": "Tâm Trí Rực Rỡ (Phần 2)",
+        "origin_name": "Brilliant Minds (Season 2)",
+        "slug": "tam-tri-ruc-ro-phan-2",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ta/tam-tri-ruc-ro-phan-2.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ta/tam-tri-ruc-ro-phan-2.webp",
+        "year": 2025,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a231fe0fc277084dfd7ce",
+            "name": "Âu Mỹ",
+            "slug": "au-my"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 15",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-05-31T23:39:01.000Z"
+      },
       {
         "id": "69e4fb962b874d6bfb6bbee5",
         "title": "Thị Trấn Ác Mộng (Phần 4)",
@@ -8578,40 +8662,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-05-28T13:49:51.000Z"
-      },
-      {
-        "id": "69fc1424cec790794bfed07d",
-        "title": "Lần Nữa Đến Bên Em",
-        "origin_name": "Love Beyond Dreams",
-        "slug": "lan-nua-den-ben-em",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/la/lan-nua-den-ben-em.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/la/lan-nua-den-ben-em.webp",
-        "year": 2024,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a231fe0fc277084dfd7ce",
-            "name": "Âu Mỹ",
-            "slug": "au-my"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 4",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-05-27T21:15:12.000Z"
       }
     ]
   },
@@ -9229,12 +9279,12 @@
     "featured_count_sm": 0,
     "featured_count_xs": 0,
     "ids": [
+      "6a11a5fb4e6584edee420ab8",
       "69dbac0741d6bb2c315221e7",
       "6a0d34221fea2c5da7a57070",
       "69d1cc78da6ce23e8eac3148",
       "69da6f99f616ee3807d610b1",
       "6a0a87064f61d761f76b4ada",
-      "6a11a5fb4e6584edee420ab8",
       "695a2015f65d22d617a3e52a",
       "69800ed8da6ce23e8e97b912",
       "69042d90b234f5d94935f1ca",
@@ -9243,6 +9293,55 @@
       "69d5e11f7e5a0662d4dc7c5f"
     ],
     "movies": [
+      {
+        "id": "6a11a5fb4e6584edee420ab8",
+        "title": "Chuyên Gia Tuổi Trung Niên",
+        "origin_name": "Fifties Professionals",
+        "slug": "chuyen-gia-tuoi-trung-nien",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ch/chuyen-gia-tuoi-trung-nien.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/chuyen-gia-tuoi-trung-nien.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a21b2e0fc277084dfd0c5",
+            "name": "Hành Động",
+            "slug": "hanh-dong"
+          },
+          {
+            "id": "620a221de0fc277084dfd1c1",
+            "name": "Hài Hước",
+            "slug": "hai-huoc"
+          },
+          {
+            "id": "620a2293e0fc277084dfd489",
+            "name": "Phiêu Lưu",
+            "slug": "phieu-luu"
+          },
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a2300e0fc277084dfd6d2",
+            "name": "Hàn Quốc",
+            "slug": "han-quoc"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 4",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-05-31T20:59:37.000Z"
+      },
       {
         "id": "69dbac0741d6bb2c315221e7",
         "title": "Wistoria: Trượng và Kiếm (Phần 2)",
@@ -9472,55 +9571,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-05-30T22:00:30.000Z"
-      },
-      {
-        "id": "6a11a5fb4e6584edee420ab8",
-        "title": "Chuyên Gia Tuổi Trung Niên",
-        "origin_name": "Fifties Professionals",
-        "slug": "chuyen-gia-tuoi-trung-nien",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ch/chuyen-gia-tuoi-trung-nien.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/chuyen-gia-tuoi-trung-nien.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620a21b2e0fc277084dfd0c5",
-            "name": "Hành Động",
-            "slug": "hanh-dong"
-          },
-          {
-            "id": "620a221de0fc277084dfd1c1",
-            "name": "Hài Hước",
-            "slug": "hai-huoc"
-          },
-          {
-            "id": "620a2293e0fc277084dfd489",
-            "name": "Phiêu Lưu",
-            "slug": "phieu-luu"
-          },
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a2300e0fc277084dfd6d2",
-            "name": "Hàn Quốc",
-            "slug": "han-quoc"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 3",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": true,
-        "modified": "2026-05-30T21:58:09.000Z"
       },
       {
         "id": "695a2015f65d22d617a3e52a",
