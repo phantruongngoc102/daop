@@ -1,6 +1,6 @@
 {
   "buildVersion": {
-    "builtAt": "2026-06-08T14:53:29.928Z"
+    "builtAt": "2026-06-08T19:27:42.542Z"
   },
   "siteSettings": {
     "site_name": "GoTV",
@@ -955,6 +955,7 @@
       "featured_count_sm": 1,
       "featured_count_xs": 1,
       "ids": [
+        "69f9f093b692c7b208da50df",
         "68dcc5953e261817af05a0df",
         "6a263e35e14b2140fc6fec49",
         "6a1eb62ec52ec62c8b184344",
@@ -966,10 +967,48 @@
         "6a168242142ea533b0206a19",
         "6a1173d3e14b2140fc6c0f93",
         "6a2114016092900b4119aab2",
-        "6a20ff822c0a4eaf2656e25a",
-        "6a224abee14b2140fc6f3760"
+        "6a20ff822c0a4eaf2656e25a"
       ],
       "movies": [
+        {
+          "id": "69f9f093b692c7b208da50df",
+          "title": "Những Ngày Hạnh Phúc Của Chúng Ta",
+          "origin_name": "Our Happy Days",
+          "slug": "nhung-ngay-hanh-phuc-cua-chung-ta",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-ngay-hanh-phuc-cua-chung-ta.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-ngay-hanh-phuc-cua-chung-ta.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620e4c0b6ba8271c5eef05a8",
+              "name": "Gia Đình",
+              "slug": "gia-dinh"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 45",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-06-09T00:33:22.000Z"
+        },
         {
           "id": "68dcc5953e261817af05a0df",
           "title": "Thành Phố Xa Xôi",
@@ -1422,40 +1461,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-06-08T11:17:40.000Z"
-        },
-        {
-          "id": "6a224abee14b2140fc6f3760",
-          "title": "Mượn Dung Nhan",
-          "origin_name": "Visage and Soul",
-          "slug": "muon-dung-nhan",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/mu/muon-dung-nhan.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/mu/muon-dung-nhan.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "62093063196e9f4ab6b448b8",
-              "name": "Trung Quốc",
-              "slug": "trung-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 12",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-06-08T11:17:23.000Z"
         }
       ]
     },
@@ -1991,6 +1996,7 @@
       "grid_columns_sm": 3,
       "grid_columns_xs": 2,
       "ids": [
+        "69f9f093b692c7b208da50df",
         "6a263e35e14b2140fc6fec49",
         "6a1eb62ec52ec62c8b184344",
         "6a0148426d4243e068f9f11b",
@@ -2001,10 +2007,48 @@
         "6a253a77a432d616e85e9f65",
         "6a168242142ea533b0206a19",
         "6a1173d3e14b2140fc6c0f93",
-        "6a2114016092900b4119aab2",
-        "6a20ff822c0a4eaf2656e25a"
+        "6a2114016092900b4119aab2"
       ],
       "movies": [
+        {
+          "id": "69f9f093b692c7b208da50df",
+          "title": "Những Ngày Hạnh Phúc Của Chúng Ta",
+          "origin_name": "Our Happy Days",
+          "slug": "nhung-ngay-hanh-phuc-cua-chung-ta",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-ngay-hanh-phuc-cua-chung-ta.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-ngay-hanh-phuc-cua-chung-ta.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620e4c0b6ba8271c5eef05a8",
+              "name": "Gia Đình",
+              "slug": "gia-dinh"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 45",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-06-09T00:33:22.000Z"
+        },
         {
           "id": "6a263e35e14b2140fc6fec49",
           "title": "Bức Tường Mê Cung",
@@ -2413,40 +2457,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-06-08T11:18:16.000Z"
-        },
-        {
-          "id": "6a20ff822c0a4eaf2656e25a",
-          "title": "Hiện Trường Vụ Án",
-          "origin_name": "Crime Scene",
-          "slug": "hien-truong-vu-an",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/hi/hien-truong-vu-an.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/hi/hien-truong-vu-an.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620a2249e0fc277084dfd2e5",
-              "name": "Hình Sự",
-              "slug": "hinh-su"
-            }
-          ],
-          "country": [
-            {
-              "id": "62093063196e9f4ab6b448b8",
-              "name": "Trung Quốc",
-              "slug": "trung-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 14",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-06-08T11:17:40.000Z"
         }
       ]
     },
@@ -2490,6 +2500,7 @@
       "featured_count_sm": 1,
       "featured_count_xs": 1,
       "ids": [
+        "69f9f093b692c7b208da50df",
         "68dcc5953e261817af05a0df",
         "6a263e35e14b2140fc6fec49",
         "6a1eb62ec52ec62c8b184344",
@@ -2501,10 +2512,48 @@
         "6a168242142ea533b0206a19",
         "6a1173d3e14b2140fc6c0f93",
         "6a2114016092900b4119aab2",
-        "6a20ff822c0a4eaf2656e25a",
-        "6a224abee14b2140fc6f3760"
+        "6a20ff822c0a4eaf2656e25a"
       ],
       "movies": [
+        {
+          "id": "69f9f093b692c7b208da50df",
+          "title": "Những Ngày Hạnh Phúc Của Chúng Ta",
+          "origin_name": "Our Happy Days",
+          "slug": "nhung-ngay-hanh-phuc-cua-chung-ta",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-ngay-hanh-phuc-cua-chung-ta.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-ngay-hanh-phuc-cua-chung-ta.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620e4c0b6ba8271c5eef05a8",
+              "name": "Gia Đình",
+              "slug": "gia-dinh"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 45",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-06-09T00:33:22.000Z"
+        },
         {
           "id": "68dcc5953e261817af05a0df",
           "title": "Thành Phố Xa Xôi",
@@ -2967,40 +3016,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-06-08T11:17:40.000Z"
-        },
-        {
-          "id": "6a224abee14b2140fc6f3760",
-          "title": "Mượn Dung Nhan",
-          "origin_name": "Visage and Soul",
-          "slug": "muon-dung-nhan",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/mu/muon-dung-nhan.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/mu/muon-dung-nhan.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "62093063196e9f4ab6b448b8",
-              "name": "Trung Quốc",
-              "slug": "trung-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 12",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-06-08T11:17:23.000Z"
         }
       ]
     },
@@ -6761,6 +6776,7 @@
       "featured_count_sm": 0,
       "featured_count_xs": 0,
       "ids": [
+        "69f9f093b692c7b208da50df",
         "68dcc5953e261817af05a0df",
         "6a263e35e14b2140fc6fec49",
         "6a1eb62ec52ec62c8b184344",
@@ -6775,10 +6791,48 @@
         "6a253a77a432d616e85e9f65",
         "6a168242142ea533b0206a19",
         "6a1173d3e14b2140fc6c0f93",
-        "6a2114016092900b4119aab2",
-        "6a20ff822c0a4eaf2656e25a"
+        "6a2114016092900b4119aab2"
       ],
       "movies": [
+        {
+          "id": "69f9f093b692c7b208da50df",
+          "title": "Những Ngày Hạnh Phúc Của Chúng Ta",
+          "origin_name": "Our Happy Days",
+          "slug": "nhung-ngay-hanh-phuc-cua-chung-ta",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-ngay-hanh-phuc-cua-chung-ta.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-ngay-hanh-phuc-cua-chung-ta.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620e4c0b6ba8271c5eef05a8",
+              "name": "Gia Đình",
+              "slug": "gia-dinh"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 45",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-06-09T00:33:22.000Z"
+        },
         {
           "id": "68dcc5953e261817af05a0df",
           "title": "Thành Phố Xa Xôi",
@@ -7363,40 +7417,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-06-08T11:18:16.000Z"
-        },
-        {
-          "id": "6a20ff822c0a4eaf2656e25a",
-          "title": "Hiện Trường Vụ Án",
-          "origin_name": "Crime Scene",
-          "slug": "hien-truong-vu-an",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/hi/hien-truong-vu-an.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/hi/hien-truong-vu-an.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620a2249e0fc277084dfd2e5",
-              "name": "Hình Sự",
-              "slug": "hinh-su"
-            }
-          ],
-          "country": [
-            {
-              "id": "62093063196e9f4ab6b448b8",
-              "name": "Trung Quốc",
-              "slug": "trung-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 14",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-06-08T11:17:40.000Z"
         }
       ]
     },
@@ -8124,12 +8144,12 @@
       "featured_count_sm": 0,
       "featured_count_xs": 0,
       "ids": [
+        "69f9f093b692c7b208da50df",
         "6a1b1a29a432d616e85cc41d",
         "6a11a5fb4e6584edee420ab8",
         "6a190bc9a6726df8fd360d29",
         "6a190c2e2c0a4eaf26556918",
         "69d0d35ff65d22d617bb4255",
-        "69f9f093b692c7b208da50df",
         "6a1e873a2c8b2895cfa7d675",
         "69eedaa9377c8aaad5469e53",
         "6a2283ae2c0a4eaf26572b57",
@@ -8142,6 +8162,45 @@
         "6a02d864006591e108205d8a"
       ],
       "movies": [
+        {
+          "id": "69f9f093b692c7b208da50df",
+          "title": "Những Ngày Hạnh Phúc Của Chúng Ta",
+          "origin_name": "Our Happy Days",
+          "slug": "nhung-ngay-hanh-phuc-cua-chung-ta",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-ngay-hanh-phuc-cua-chung-ta.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-ngay-hanh-phuc-cua-chung-ta.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620e4c0b6ba8271c5eef05a8",
+              "name": "Gia Đình",
+              "slug": "gia-dinh"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 45",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-06-09T00:33:22.000Z"
+        },
         {
           "id": "6a1b1a29a432d616e85cc41d",
           "title": "Chủ Tịch Tập Sự",
@@ -8361,45 +8420,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-06-07T14:29:30.000Z"
-        },
-        {
-          "id": "69f9f093b692c7b208da50df",
-          "title": "Những Ngày Hạnh Phúc Của Chúng Ta",
-          "origin_name": "Our Happy Days",
-          "slug": "nhung-ngay-hanh-phuc-cua-chung-ta",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-ngay-hanh-phuc-cua-chung-ta.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-ngay-hanh-phuc-cua-chung-ta.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620e4c0b6ba8271c5eef05a8",
-              "name": "Gia Đình",
-              "slug": "gia-dinh"
-            },
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2300e0fc277084dfd6d2",
-              "name": "Hàn Quốc",
-              "slug": "han-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 27",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": true,
-          "modified": "2026-06-07T11:40:18.000Z"
         },
         {
           "id": "6a1e873a2c8b2895cfa7d675",
@@ -10698,6 +10718,20 @@
   ],
   "sliderAuto": [
     {
+      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-ngay-hanh-phuc-cua-chung-ta.webp",
+      "link_url": "/phim/nhung-ngay-hanh-phuc-cua-chung-ta.html",
+      "title": "Những Ngày Hạnh Phúc Của Chúng Ta",
+      "year": "2026",
+      "country": "Hàn Quốc",
+      "episode_current": "Tập 45",
+      "genres": [
+        "Gia Đình",
+        "Chính kịch"
+      ],
+      "sort_order": 0,
+      "enabled": true
+    },
+    {
       "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/th/thanh-pho-xa-xoi.webp",
       "link_url": "/phim/thanh-pho-xa-xoi.html",
       "title": "Thành Phố Xa Xôi",
@@ -10707,7 +10741,7 @@
       "genres": [
         "Tình Cảm"
       ],
-      "sort_order": 0,
+      "sort_order": 1,
       "enabled": true
     },
     {
@@ -10720,7 +10754,7 @@
       "genres": [
         "Hình Sự"
       ],
-      "sort_order": 1,
+      "sort_order": 2,
       "enabled": true
     },
     {
@@ -10735,7 +10769,7 @@
         "Khoa Học",
         "Chính kịch"
       ],
-      "sort_order": 2,
+      "sort_order": 3,
       "enabled": true
     },
     {
@@ -10749,7 +10783,7 @@
         "Hành Động",
         "Phiêu Lưu"
       ],
-      "sort_order": 3,
+      "sort_order": 4,
       "enabled": true
     },
     {
@@ -10762,7 +10796,7 @@
       "genres": [
         "Chính kịch"
       ],
-      "sort_order": 4,
+      "sort_order": 5,
       "enabled": true
     },
     {
@@ -10775,7 +10809,7 @@
       "genres": [
         "Chính kịch"
       ],
-      "sort_order": 5,
+      "sort_order": 6,
       "enabled": true
     },
     {
@@ -10789,7 +10823,7 @@
         "Hình Sự",
         "Chính kịch"
       ],
-      "sort_order": 6,
+      "sort_order": 7,
       "enabled": true
     },
     {
@@ -10802,7 +10836,7 @@
       "genres": [
         "Chính kịch"
       ],
-      "sort_order": 7,
+      "sort_order": 8,
       "enabled": true
     },
     {
@@ -10818,7 +10852,7 @@
         "Hình Sự",
         "Bí ẩn"
       ],
-      "sort_order": 8,
+      "sort_order": 9,
       "enabled": true
     },
     {
@@ -10833,7 +10867,7 @@
         "Viễn Tưởng",
         "Phiêu Lưu"
       ],
-      "sort_order": 9,
+      "sort_order": 10,
       "enabled": true
     },
     {
@@ -10849,19 +10883,6 @@
         "Viễn Tưởng",
         "Phiêu Lưu",
         "Khoa Học"
-      ],
-      "sort_order": 10,
-      "enabled": true
-    },
-    {
-      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/us/usa-94-brazil-tro-lai-vinh-quang.webp",
-      "link_url": "/phim/usa-94-brazil-tro-lai-vinh-quang.html",
-      "title": "USA 94: Brazil trở lại vinh quang",
-      "year": "2026",
-      "country": "Brazil",
-      "episode_current": "Full",
-      "genres": [
-        "Tài Liệu"
       ],
       "sort_order": 11,
       "enabled": true
