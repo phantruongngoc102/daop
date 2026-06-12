@@ -1,6 +1,6 @@
 {
   "buildVersion": {
-    "builtAt": "2026-06-11T19:43:21.724Z"
+    "builtAt": "2026-06-12T00:16:46.650Z"
   },
   "siteSettings": {
     "site_name": "GoTV",
@@ -955,6 +955,7 @@
       "featured_count_sm": 1,
       "featured_count_xs": 1,
       "ids": [
+        "69dfcfeb41d6bb2c315360fb",
         "6a0b20bac52ec62c8b14b334",
         "6a2ae808baf8dde7e3ce581c",
         "6a2a5e19f7f43ec64ef9b85d",
@@ -966,10 +967,43 @@
         "6a27dc804f61d761f7709737",
         "6a2a5fa3de5e0f1b85d2be4e",
         "6a2a5f55947ce584f1c549f9",
-        "6a181b93a6726df8fd35e10d",
-        "6a2a5fdf6997f14383d11b95"
+        "6a181b93a6726df8fd35e10d"
       ],
       "movies": [
+        {
+          "id": "69dfcfeb41d6bb2c315360fb",
+          "title": "Nhịp Đập Trái Tim (Phần 5)",
+          "origin_name": "Heart Signal (Season 5)",
+          "slug": "nhip-dap-trai-tim-phan-5",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhip-dap-trai-tim-phan-5.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhip-dap-trai-tim-phan-5.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a220de0fc277084dfd16d",
+              "name": "Tình Cảm",
+              "slug": "tinh-cam"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 9",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-06-12T03:02:27.000Z"
+        },
         {
           "id": "6a0b20bac52ec62c8b14b334",
           "title": "Hổ Giấu Vằn",
@@ -1412,50 +1446,6 @@
           "chieurap": false,
           "sub_docquyen": true,
           "modified": "2026-06-11T15:13:18.000Z"
-        },
-        {
-          "id": "6a2a5fdf6997f14383d11b95",
-          "title": "Học Cách Chiến Đấu",
-          "origin_name": "Viral Hit",
-          "slug": "hoc-cach-chien-dau",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ho/hoc-cach-chien-dau.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ho/hoc-cach-chien-dau.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620a21b2e0fc277084dfd0c5",
-              "name": "Hành Động",
-              "slug": "hanh-dong"
-            },
-            {
-              "id": "620a2293e0fc277084dfd489",
-              "name": "Phiêu Lưu",
-              "slug": "phieu-luu"
-            },
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2307e0fc277084dfd726",
-              "name": "Nhật Bản",
-              "slug": "nhat-ban"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Hoàn tất (6/6)",
-          "quality": "HD",
-          "status": "completed",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-06-11T14:55:59.000Z"
         }
       ]
     },
@@ -1986,6 +1976,9 @@
       "grid_columns_sm": 3,
       "grid_columns_xs": 2,
       "ids": [
+        "69f9f73a006591e1081e5a12",
+        "6a134baf4be02ecfaff6225e",
+        "69dfcfeb41d6bb2c315360fb",
         "6a0b20bac52ec62c8b14b334",
         "6a2ae808baf8dde7e3ce581c",
         "6a2a5e19f7f43ec64ef9b85d",
@@ -1994,12 +1987,111 @@
         "6a263e35e14b2140fc6fec49",
         "6a2a5fa3de5e0f1b85d2be4e",
         "6a2a5f55947ce584f1c549f9",
-        "6a2a5fdf6997f14383d11b95",
-        "6a1a94a81fea2c5da7a7e833",
-        "6a27eb874f61d761f7709bce",
-        "6a2a51d8e10cfe56c49db0a3"
+        "6a2a5fdf6997f14383d11b95"
       ],
       "movies": [
+        {
+          "id": "69f9f73a006591e1081e5a12",
+          "title": "Chuyến Đi Ngẫu Hứng: Bản Giới Hạn",
+          "origin_name": "Unplanned Trip: Limited Edition",
+          "slug": "chuyen-di-ngau-hung-ban-gioi-han",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ch/chuyen-di-ngau-hung-ban-gioi-han.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/chuyen-di-ngau-hung-ban-gioi-han.webp",
+          "year": 2026,
+          "type": "tvshows",
+          "genre": [
+            {
+              "id": "620a220de0fc277084dfd16d",
+              "name": "Tình Cảm",
+              "slug": "tinh-cam"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 6",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-06-12T03:03:13.000Z"
+        },
+        {
+          "id": "6a134baf4be02ecfaff6225e",
+          "title": "Tiệm Bánh Bonjour",
+          "origin_name": "Bonjour Bakery",
+          "slug": "tiem-banh-bonjour",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ti/tiem-banh-bonjour.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ti/tiem-banh-bonjour.webp",
+          "year": 2026,
+          "type": "tvshows",
+          "genre": [
+            {
+              "id": "620a220de0fc277084dfd16d",
+              "name": "Tình Cảm",
+              "slug": "tinh-cam"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 5",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-06-12T03:02:51.000Z"
+        },
+        {
+          "id": "69dfcfeb41d6bb2c315360fb",
+          "title": "Nhịp Đập Trái Tim (Phần 5)",
+          "origin_name": "Heart Signal (Season 5)",
+          "slug": "nhip-dap-trai-tim-phan-5",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhip-dap-trai-tim-phan-5.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhip-dap-trai-tim-phan-5.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a220de0fc277084dfd16d",
+              "name": "Tình Cảm",
+              "slug": "tinh-cam"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 9",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-06-12T03:02:27.000Z"
+        },
         {
           "id": "6a0b20bac52ec62c8b14b334",
           "title": "Hổ Giấu Vằn",
@@ -2345,123 +2437,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-06-11T14:55:59.000Z"
-        },
-        {
-          "id": "6a1a94a81fea2c5da7a7e833",
-          "title": "Tiêu Dao Tứ Công Tử",
-          "origin_name": "The Reborn Young Lord",
-          "slug": "tieu-dao-tu-cong-tu",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ti/tieu-dao-tu-cong-tu.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ti/tieu-dao-tu-cong-tu.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "62093063196e9f4ab6b448b8",
-              "name": "Trung Quốc",
-              "slug": "trung-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 28",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-06-11T14:08:43.000Z"
-        },
-        {
-          "id": "6a27eb874f61d761f7709bce",
-          "title": "Phi Thăng Giữa Ban Ngày",
-          "origin_name": "Rise Again",
-          "slug": "phi-thang-giua-ban-ngay",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ph/phi-thang-giua-ban-ngay.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ph/phi-thang-giua-ban-ngay.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "62093063196e9f4ab6b448b8",
-              "name": "Trung Quốc",
-              "slug": "trung-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 10",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-06-11T14:07:59.000Z"
-        },
-        {
-          "id": "6a2a51d8e10cfe56c49db0a3",
-          "title": "Người Nhện: Khởi Đầu Mới",
-          "origin_name": "Spider-Man: Brand New Day",
-          "slug": "nguoi-nhen-khoi-dau-moi",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ng/nguoi-nhen-khoi-dau-moi.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ng/nguoi-nhen-khoi-dau-moi.webp",
-          "year": 2026,
-          "type": "single",
-          "genre": [
-            {
-              "id": "620a21b2e0fc277084dfd0c5",
-              "name": "Hành Động",
-              "slug": "hanh-dong"
-            },
-            {
-              "id": "620a2282e0fc277084dfd435",
-              "name": "Viễn Tưởng",
-              "slug": "vien-tuong"
-            },
-            {
-              "id": "620a2293e0fc277084dfd489",
-              "name": "Phiêu Lưu",
-              "slug": "phieu-luu"
-            },
-            {
-              "id": "620a229be0fc277084dfd4dd",
-              "name": "Khoa Học",
-              "slug": "khoa-hoc"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a231fe0fc277084dfd7ce",
-              "name": "Âu Mỹ",
-              "slug": "au-my"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Trailer",
-          "quality": "HD",
-          "status": "trailer",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": true,
-          "sub_docquyen": false,
-          "modified": "2026-06-11T13:12:40.000Z"
         }
       ]
     },
@@ -2505,6 +2480,9 @@
       "featured_count_sm": 1,
       "featured_count_xs": 1,
       "ids": [
+        "69f9f73a006591e1081e5a12",
+        "6a134baf4be02ecfaff6225e",
+        "69dfcfeb41d6bb2c315360fb",
         "6a0b20bac52ec62c8b14b334",
         "6a2ae808baf8dde7e3ce581c",
         "6a2a5e19f7f43ec64ef9b85d",
@@ -2514,12 +2492,111 @@
         "6a263e35e14b2140fc6fec49",
         "6a181b93a6726df8fd35e10d",
         "6a1a94a81fea2c5da7a7e833",
-        "6a27eb874f61d761f7709bce",
-        "6a28dc11c52ec62c8b1a10e2",
-        "6a20ff822c0a4eaf2656e25a",
-        "6a224abee14b2140fc6f3760"
+        "6a27eb874f61d761f7709bce"
       ],
       "movies": [
+        {
+          "id": "69f9f73a006591e1081e5a12",
+          "title": "Chuyến Đi Ngẫu Hứng: Bản Giới Hạn",
+          "origin_name": "Unplanned Trip: Limited Edition",
+          "slug": "chuyen-di-ngau-hung-ban-gioi-han",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ch/chuyen-di-ngau-hung-ban-gioi-han.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/chuyen-di-ngau-hung-ban-gioi-han.webp",
+          "year": 2026,
+          "type": "tvshows",
+          "genre": [
+            {
+              "id": "620a220de0fc277084dfd16d",
+              "name": "Tình Cảm",
+              "slug": "tinh-cam"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 6",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-06-12T03:03:13.000Z"
+        },
+        {
+          "id": "6a134baf4be02ecfaff6225e",
+          "title": "Tiệm Bánh Bonjour",
+          "origin_name": "Bonjour Bakery",
+          "slug": "tiem-banh-bonjour",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ti/tiem-banh-bonjour.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ti/tiem-banh-bonjour.webp",
+          "year": 2026,
+          "type": "tvshows",
+          "genre": [
+            {
+              "id": "620a220de0fc277084dfd16d",
+              "name": "Tình Cảm",
+              "slug": "tinh-cam"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 5",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-06-12T03:02:51.000Z"
+        },
+        {
+          "id": "69dfcfeb41d6bb2c315360fb",
+          "title": "Nhịp Đập Trái Tim (Phần 5)",
+          "origin_name": "Heart Signal (Season 5)",
+          "slug": "nhip-dap-trai-tim-phan-5",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhip-dap-trai-tim-phan-5.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhip-dap-trai-tim-phan-5.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a220de0fc277084dfd16d",
+              "name": "Tình Cảm",
+              "slug": "tinh-cam"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 9",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-06-12T03:02:27.000Z"
+        },
         {
           "id": "6a0b20bac52ec62c8b14b334",
           "title": "Hổ Giấu Vằn",
@@ -2914,108 +2991,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-06-11T14:07:59.000Z"
-        },
-        {
-          "id": "6a28dc11c52ec62c8b1a10e2",
-          "title": "Thương Nguyệt Tinh Lan",
-          "origin_name": "Starveil Moon",
-          "slug": "thuong-nguyet-tinh-lan",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/th/thuong-nguyet-tinh-lan.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/th/thuong-nguyet-tinh-lan.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "62093063196e9f4ab6b448b8",
-              "name": "Trung Quốc",
-              "slug": "trung-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 18",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-06-11T11:34:37.000Z"
-        },
-        {
-          "id": "6a20ff822c0a4eaf2656e25a",
-          "title": "Hiện Trường Vụ Án",
-          "origin_name": "Crime Scene",
-          "slug": "hien-truong-vu-an",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/hi/hien-truong-vu-an.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/hi/hien-truong-vu-an.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620a2249e0fc277084dfd2e5",
-              "name": "Hình Sự",
-              "slug": "hinh-su"
-            }
-          ],
-          "country": [
-            {
-              "id": "62093063196e9f4ab6b448b8",
-              "name": "Trung Quốc",
-              "slug": "trung-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 19",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-06-11T11:09:03.000Z"
-        },
-        {
-          "id": "6a224abee14b2140fc6f3760",
-          "title": "Mượn Dung Nhan",
-          "origin_name": "Visage and Soul",
-          "slug": "muon-dung-nhan",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/mu/muon-dung-nhan.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/mu/muon-dung-nhan.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "62093063196e9f4ab6b448b8",
-              "name": "Trung Quốc",
-              "slug": "trung-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 15",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-06-11T11:08:48.000Z"
         }
       ]
     },
@@ -4080,14 +4055,14 @@
       "sort_order": 8,
       "is_active": true,
       "ids": [
+        "69f9f73a006591e1081e5a12",
+        "6a134baf4be02ecfaff6225e",
         "69eb8aff482e09b42827280a",
         "62e210c5425c8969e5d579b6",
         "69f9646ae53e6a47ad63d170",
         "6a134b446092900b41170441",
         "69f212dddb41bcecb8e5f5de",
-        "69f9f73a006591e1081e5a12",
         "69f487916d4243e068f61e30",
-        "6a134baf4be02ecfaff6225e",
         "62bd3e259464119c3454b6ba",
         "69ef895b482e09b428283e20",
         "69dca0746d4243e068edf2d5",
@@ -4098,6 +4073,74 @@
         "69849cd2ccc6cea26874ef34"
       ],
       "movies": [
+        {
+          "id": "69f9f73a006591e1081e5a12",
+          "title": "Chuyến Đi Ngẫu Hứng: Bản Giới Hạn",
+          "origin_name": "Unplanned Trip: Limited Edition",
+          "slug": "chuyen-di-ngau-hung-ban-gioi-han",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ch/chuyen-di-ngau-hung-ban-gioi-han.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/chuyen-di-ngau-hung-ban-gioi-han.webp",
+          "year": 2026,
+          "type": "tvshows",
+          "genre": [
+            {
+              "id": "620a220de0fc277084dfd16d",
+              "name": "Tình Cảm",
+              "slug": "tinh-cam"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 6",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-06-12T03:03:13.000Z"
+        },
+        {
+          "id": "6a134baf4be02ecfaff6225e",
+          "title": "Tiệm Bánh Bonjour",
+          "origin_name": "Bonjour Bakery",
+          "slug": "tiem-banh-bonjour",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ti/tiem-banh-bonjour.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ti/tiem-banh-bonjour.webp",
+          "year": 2026,
+          "type": "tvshows",
+          "genre": [
+            {
+              "id": "620a220de0fc277084dfd16d",
+              "name": "Tình Cảm",
+              "slug": "tinh-cam"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 5",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-06-12T03:02:51.000Z"
+        },
         {
           "id": "69eb8aff482e09b42827280a",
           "title": "Chăm Sóc Tủ Lạnh Của Tôi Nhé (Phần 2)",
@@ -4269,40 +4312,6 @@
           "modified": "2026-06-05T01:37:56.000Z"
         },
         {
-          "id": "69f9f73a006591e1081e5a12",
-          "title": "Chuyến Đi Ngẫu Hứng: Bản Giới Hạn",
-          "origin_name": "Unplanned Trip: Limited Edition",
-          "slug": "chuyen-di-ngau-hung-ban-gioi-han",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ch/chuyen-di-ngau-hung-ban-gioi-han.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/chuyen-di-ngau-hung-ban-gioi-han.webp",
-          "year": 2026,
-          "type": "tvshows",
-          "genre": [
-            {
-              "id": "620a220de0fc277084dfd16d",
-              "name": "Tình Cảm",
-              "slug": "tinh-cam"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2300e0fc277084dfd6d2",
-              "name": "Hàn Quốc",
-              "slug": "han-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 5",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": true,
-          "modified": "2026-06-05T01:37:39.000Z"
-        },
-        {
           "id": "69f487916d4243e068f61e30",
           "title": "Bắt Sóng Tình Duyên",
           "origin_name": "Rak Rak - Sense of Love",
@@ -4335,40 +4344,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-06-04T11:35:20.000Z"
-        },
-        {
-          "id": "6a134baf4be02ecfaff6225e",
-          "title": "Tiệm Bánh Bonjour",
-          "origin_name": "Bonjour Bakery",
-          "slug": "tiem-banh-bonjour",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ti/tiem-banh-bonjour.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ti/tiem-banh-bonjour.webp",
-          "year": 2026,
-          "type": "tvshows",
-          "genre": [
-            {
-              "id": "620a220de0fc277084dfd16d",
-              "name": "Tình Cảm",
-              "slug": "tinh-cam"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2300e0fc277084dfd6d2",
-              "name": "Hàn Quốc",
-              "slug": "han-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 4",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": true,
-          "modified": "2026-06-01T16:15:37.000Z"
         },
         {
           "id": "62bd3e259464119c3454b6ba",
@@ -6751,6 +6726,9 @@
       "featured_count_sm": 0,
       "featured_count_xs": 0,
       "ids": [
+        "69f9f73a006591e1081e5a12",
+        "6a134baf4be02ecfaff6225e",
+        "69dfcfeb41d6bb2c315360fb",
         "6a0b20bac52ec62c8b14b334",
         "6a2ae808baf8dde7e3ce581c",
         "6a2a5e19f7f43ec64ef9b85d",
@@ -6763,12 +6741,111 @@
         "6a27dd5ae14b2140fc704101",
         "6a27dc804f61d761f7709737",
         "6a2a5fa3de5e0f1b85d2be4e",
-        "6a2a5f55947ce584f1c549f9",
-        "6a181b93a6726df8fd35e10d",
-        "6a2a5fdf6997f14383d11b95",
-        "6a1a94a81fea2c5da7a7e833"
+        "6a2a5f55947ce584f1c549f9"
       ],
       "movies": [
+        {
+          "id": "69f9f73a006591e1081e5a12",
+          "title": "Chuyến Đi Ngẫu Hứng: Bản Giới Hạn",
+          "origin_name": "Unplanned Trip: Limited Edition",
+          "slug": "chuyen-di-ngau-hung-ban-gioi-han",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ch/chuyen-di-ngau-hung-ban-gioi-han.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/chuyen-di-ngau-hung-ban-gioi-han.webp",
+          "year": 2026,
+          "type": "tvshows",
+          "genre": [
+            {
+              "id": "620a220de0fc277084dfd16d",
+              "name": "Tình Cảm",
+              "slug": "tinh-cam"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 6",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-06-12T03:03:13.000Z"
+        },
+        {
+          "id": "6a134baf4be02ecfaff6225e",
+          "title": "Tiệm Bánh Bonjour",
+          "origin_name": "Bonjour Bakery",
+          "slug": "tiem-banh-bonjour",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ti/tiem-banh-bonjour.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ti/tiem-banh-bonjour.webp",
+          "year": 2026,
+          "type": "tvshows",
+          "genre": [
+            {
+              "id": "620a220de0fc277084dfd16d",
+              "name": "Tình Cảm",
+              "slug": "tinh-cam"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 5",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-06-12T03:02:51.000Z"
+        },
+        {
+          "id": "69dfcfeb41d6bb2c315360fb",
+          "title": "Nhịp Đập Trái Tim (Phần 5)",
+          "origin_name": "Heart Signal (Season 5)",
+          "slug": "nhip-dap-trai-tim-phan-5",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhip-dap-trai-tim-phan-5.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhip-dap-trai-tim-phan-5.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a220de0fc277084dfd16d",
+              "name": "Tình Cảm",
+              "slug": "tinh-cam"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 9",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-06-12T03:02:27.000Z"
+        },
         {
           "id": "6a0b20bac52ec62c8b14b334",
           "title": "Hổ Giấu Vằn",
@@ -7260,128 +7337,6 @@
           "chieurap": false,
           "sub_docquyen": false,
           "modified": "2026-06-11T15:19:02.000Z"
-        },
-        {
-          "id": "6a181b93a6726df8fd35e10d",
-          "title": "Sherlock và Con gái",
-          "origin_name": "Sherlock & Daughter",
-          "slug": "sherlock-va-con-gai",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/sh/sherlock-va-con-gai.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/sh/sherlock-va-con-gai.webp",
-          "year": 2025,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            },
-            {
-              "id": "620f84d291fa4af90ab6b3f4",
-              "name": "Bí ẩn",
-              "slug": "bi-an"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a231fe0fc277084dfd7ce",
-              "name": "Âu Mỹ",
-              "slug": "au-my"
-            },
-            {
-              "id": "620a2370e0fc277084dfd91e",
-              "name": "Anh",
-              "slug": "anh"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 6",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": true,
-          "modified": "2026-06-11T15:13:18.000Z"
-        },
-        {
-          "id": "6a2a5fdf6997f14383d11b95",
-          "title": "Học Cách Chiến Đấu",
-          "origin_name": "Viral Hit",
-          "slug": "hoc-cach-chien-dau",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ho/hoc-cach-chien-dau.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ho/hoc-cach-chien-dau.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620a21b2e0fc277084dfd0c5",
-              "name": "Hành Động",
-              "slug": "hanh-dong"
-            },
-            {
-              "id": "620a2293e0fc277084dfd489",
-              "name": "Phiêu Lưu",
-              "slug": "phieu-luu"
-            },
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2307e0fc277084dfd726",
-              "name": "Nhật Bản",
-              "slug": "nhat-ban"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Hoàn tất (6/6)",
-          "quality": "HD",
-          "status": "completed",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-06-11T14:55:59.000Z"
-        },
-        {
-          "id": "6a1a94a81fea2c5da7a7e833",
-          "title": "Tiêu Dao Tứ Công Tử",
-          "origin_name": "The Reborn Young Lord",
-          "slug": "tieu-dao-tu-cong-tu",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ti/tieu-dao-tu-cong-tu.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ti/tieu-dao-tu-cong-tu.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "62093063196e9f4ab6b448b8",
-              "name": "Trung Quốc",
-              "slug": "trung-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 28",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-06-11T14:08:43.000Z"
         }
       ]
     },
@@ -8099,6 +8054,9 @@
       "featured_count_sm": 0,
       "featured_count_xs": 0,
       "ids": [
+        "69f9f73a006591e1081e5a12",
+        "6a134baf4be02ecfaff6225e",
+        "69dfcfeb41d6bb2c315360fb",
         "69bc1529ccc6cea268841d51",
         "6947a82897c71dcd0d63982e",
         "69eb8aff482e09b42827280a",
@@ -8111,12 +8069,111 @@
         "6a15819ce10cfe56c499c537",
         "69d0d35ff65d22d617bb4255",
         "6a27b6ec416b9186f012b301",
-        "69f9f093b692c7b208da50df",
-        "6a1b1a29a432d616e85cc41d",
-        "6a11a5fb4e6584edee420ab8",
-        "6a190bc9a6726df8fd360d29"
+        "69f9f093b692c7b208da50df"
       ],
       "movies": [
+        {
+          "id": "69f9f73a006591e1081e5a12",
+          "title": "Chuyến Đi Ngẫu Hứng: Bản Giới Hạn",
+          "origin_name": "Unplanned Trip: Limited Edition",
+          "slug": "chuyen-di-ngau-hung-ban-gioi-han",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ch/chuyen-di-ngau-hung-ban-gioi-han.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/chuyen-di-ngau-hung-ban-gioi-han.webp",
+          "year": 2026,
+          "type": "tvshows",
+          "genre": [
+            {
+              "id": "620a220de0fc277084dfd16d",
+              "name": "Tình Cảm",
+              "slug": "tinh-cam"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 6",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-06-12T03:03:13.000Z"
+        },
+        {
+          "id": "6a134baf4be02ecfaff6225e",
+          "title": "Tiệm Bánh Bonjour",
+          "origin_name": "Bonjour Bakery",
+          "slug": "tiem-banh-bonjour",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ti/tiem-banh-bonjour.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ti/tiem-banh-bonjour.webp",
+          "year": 2026,
+          "type": "tvshows",
+          "genre": [
+            {
+              "id": "620a220de0fc277084dfd16d",
+              "name": "Tình Cảm",
+              "slug": "tinh-cam"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 5",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-06-12T03:02:51.000Z"
+        },
+        {
+          "id": "69dfcfeb41d6bb2c315360fb",
+          "title": "Nhịp Đập Trái Tim (Phần 5)",
+          "origin_name": "Heart Signal (Season 5)",
+          "slug": "nhip-dap-trai-tim-phan-5",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhip-dap-trai-tim-phan-5.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhip-dap-trai-tim-phan-5.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a220de0fc277084dfd16d",
+              "name": "Tình Cảm",
+              "slug": "tinh-cam"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 9",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-06-12T03:02:27.000Z"
+        },
         {
           "id": "69bc1529ccc6cea268841d51",
           "title": "Công Thức Tình Yêu",
@@ -8613,133 +8670,6 @@
           "chieurap": false,
           "sub_docquyen": true,
           "modified": "2026-06-09T00:33:22.000Z"
-        },
-        {
-          "id": "6a1b1a29a432d616e85cc41d",
-          "title": "Chủ Tịch Tập Sự",
-          "origin_name": "Reborn Rookie",
-          "slug": "chu-tich-tap-su",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ch/chu-tich-tap-su.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/chu-tich-tap-su.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620a2282e0fc277084dfd435",
-              "name": "Viễn Tưởng",
-              "slug": "vien-tuong"
-            },
-            {
-              "id": "620a229be0fc277084dfd4dd",
-              "name": "Khoa Học",
-              "slug": "khoa-hoc"
-            },
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2300e0fc277084dfd6d2",
-              "name": "Hàn Quốc",
-              "slug": "han-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 4",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-06-07T23:26:57.000Z"
-        },
-        {
-          "id": "6a11a5fb4e6584edee420ab8",
-          "title": "Chuyên Gia Tuổi Trung Niên",
-          "origin_name": "Fifties Professionals",
-          "slug": "chuyen-gia-tuoi-trung-nien",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ch/chuyen-gia-tuoi-trung-nien.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/chuyen-gia-tuoi-trung-nien.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620a21b2e0fc277084dfd0c5",
-              "name": "Hành Động",
-              "slug": "hanh-dong"
-            },
-            {
-              "id": "620a221de0fc277084dfd1c1",
-              "name": "Hài Hước",
-              "slug": "hai-huoc"
-            },
-            {
-              "id": "620a2293e0fc277084dfd489",
-              "name": "Phiêu Lưu",
-              "slug": "phieu-luu"
-            },
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2300e0fc277084dfd6d2",
-              "name": "Hàn Quốc",
-              "slug": "han-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 6",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": true,
-          "modified": "2026-06-07T14:44:51.000Z"
-        },
-        {
-          "id": "6a190bc9a6726df8fd360d29",
-          "title": "Love Class  (Phần 3)",
-          "origin_name": "Love Class (Season 3)",
-          "slug": "love-class-phan-3",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/lo/love-class-phan-3.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/lo/love-class-phan-3.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2300e0fc277084dfd6d2",
-              "name": "Hàn Quốc",
-              "slug": "han-quoc"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 4",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": false,
-          "modified": "2026-06-07T14:42:22.000Z"
         }
       ]
     },
@@ -10608,6 +10538,45 @@
   ],
   "sliderAuto": [
     {
+      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/chuyen-di-ngau-hung-ban-gioi-han.webp",
+      "link_url": "/phim/chuyen-di-ngau-hung-ban-gioi-han.html",
+      "title": "Chuyến Đi Ngẫu Hứng: Bản Giới Hạn",
+      "year": "2026",
+      "country": "Hàn Quốc",
+      "episode_current": "Tập 6",
+      "genres": [
+        "Tình Cảm"
+      ],
+      "sort_order": 0,
+      "enabled": true
+    },
+    {
+      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ti/tiem-banh-bonjour.webp",
+      "link_url": "/phim/tiem-banh-bonjour.html",
+      "title": "Tiệm Bánh Bonjour",
+      "year": "2026",
+      "country": "Hàn Quốc",
+      "episode_current": "Tập 5",
+      "genres": [
+        "Tình Cảm"
+      ],
+      "sort_order": 1,
+      "enabled": true
+    },
+    {
+      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhip-dap-trai-tim-phan-5.webp",
+      "link_url": "/phim/nhip-dap-trai-tim-phan-5.html",
+      "title": "Nhịp Đập Trái Tim (Phần 5)",
+      "year": "2026",
+      "country": "Hàn Quốc",
+      "episode_current": "Tập 9",
+      "genres": [
+        "Tình Cảm"
+      ],
+      "sort_order": 2,
+      "enabled": true
+    },
+    {
       "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ho/ho-giau-van.webp",
       "link_url": "/phim/ho-giau-van.html",
       "title": "Hổ Giấu Vằn",
@@ -10617,7 +10586,7 @@
       "genres": [
         "Chính kịch"
       ],
-      "sort_order": 0,
+      "sort_order": 3,
       "enabled": true
     },
     {
@@ -10632,7 +10601,7 @@
         "Phiêu Lưu",
         "Bí ẩn"
       ],
-      "sort_order": 1,
+      "sort_order": 4,
       "enabled": true
     },
     {
@@ -10645,7 +10614,7 @@
       "genres": [
         "Cổ Trang"
       ],
-      "sort_order": 2,
+      "sort_order": 5,
       "enabled": true
     },
     {
@@ -10659,7 +10628,7 @@
         "Hài Hước",
         "Chính kịch"
       ],
-      "sort_order": 3,
+      "sort_order": 6,
       "enabled": true
     },
     {
@@ -10674,7 +10643,7 @@
         "Khoa Học",
         "Chính kịch"
       ],
-      "sort_order": 4,
+      "sort_order": 7,
       "enabled": true
     },
     {
@@ -10691,7 +10660,7 @@
         "Phiêu Lưu",
         "Khoa Học"
       ],
-      "sort_order": 5,
+      "sort_order": 8,
       "enabled": true
     },
     {
@@ -10704,7 +10673,7 @@
       "genres": [
         "Hình Sự"
       ],
-      "sort_order": 6,
+      "sort_order": 9,
       "enabled": true
     },
     {
@@ -10717,7 +10686,7 @@
       "genres": [
         "Chính kịch"
       ],
-      "sort_order": 7,
+      "sort_order": 10,
       "enabled": true
     },
     {
@@ -10727,45 +10696,6 @@
       "year": "1998",
       "country": "Âu Mỹ",
       "episode_current": "Hoàn tất (22/22)",
-      "genres": [
-        "Chính kịch"
-      ],
-      "sort_order": 8,
-      "enabled": true
-    },
-    {
-      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/er/er-phong-cap-cuu-phan-4.webp",
-      "link_url": "/phim/er-phong-cap-cuu-phan-4.html",
-      "title": "ER: Phòng Cấp Cứu (Phần 4)",
-      "year": "1997",
-      "country": "Âu Mỹ",
-      "episode_current": "Hoàn tất (22/22)",
-      "genres": [
-        "Chính kịch"
-      ],
-      "sort_order": 9,
-      "enabled": true
-    },
-    {
-      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/er/er-phong-cap-cuu-phan-3.webp",
-      "link_url": "/phim/er-phong-cap-cuu-phan-3.html",
-      "title": "ER: Phòng Cấp Cứu (Phần 3)",
-      "year": "1996",
-      "country": "Âu Mỹ",
-      "episode_current": "Hoàn tất (22/22)",
-      "genres": [
-        "Chính kịch"
-      ],
-      "sort_order": 10,
-      "enabled": true
-    },
-    {
-      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/mo/moc-lan-ngot-ngao-phan-5.webp",
-      "link_url": "/phim/moc-lan-ngot-ngao-phan-5.html",
-      "title": "Mộc lan ngọt ngào (Phần 5)",
-      "year": "2026",
-      "country": "Âu Mỹ",
-      "episode_current": "Hoàn tất (10/10)",
       "genres": [
         "Chính kịch"
       ],
