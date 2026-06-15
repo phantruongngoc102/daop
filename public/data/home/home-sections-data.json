@@ -123,10 +123,10 @@
     "featured_count_sm": 1,
     "featured_count_xs": 1,
     "ids": [
+      "6a2fde1cf7f43ec64efa9e11",
       "6a0fce831fea2c5da7a5e5da",
       "6a263e35e14b2140fc6fec49",
       "69f9622693c48ff6bff25e1a",
-      "6a2fde1cf7f43ec64efa9e11",
       "6a2ae808baf8dde7e3ce581c",
       "6a1eb62ec52ec62c8b184344",
       "6a27eb874f61d761f7709bce",
@@ -138,6 +138,50 @@
       "692eb0a3ca27378366af8263"
     ],
     "movies": [
+      {
+        "id": "6a2fde1cf7f43ec64efa9e11",
+        "title": "Ma Cà Rồng: Lestat de Lioncourt",
+        "origin_name": "The Vampire Lestat",
+        "slug": "ma-ca-rong-lestat-de-lioncourt",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ma/ma-ca-rong-lestat-de-lioncourt.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ma/ma-ca-rong-lestat-de-lioncourt.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a2282e0fc277084dfd435",
+            "name": "Viễn Tưởng",
+            "slug": "vien-tuong"
+          },
+          {
+            "id": "620a229be0fc277084dfd4dd",
+            "name": "Khoa Học",
+            "slug": "khoa-hoc"
+          },
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a231fe0fc277084dfd7ce",
+            "name": "Âu Mỹ",
+            "slug": "au-my"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 1",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-06-15T23:24:23.000Z"
+      },
       {
         "id": "6a0fce831fea2c5da7a5e5da",
         "title": "Dance of the Lion",
@@ -239,50 +283,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-06-15T22:35:24.000Z"
-      },
-      {
-        "id": "6a2fde1cf7f43ec64efa9e11",
-        "title": "Ma Cà Rồng: Lestat de Lioncourt",
-        "origin_name": "The Vampire Lestat",
-        "slug": "ma-ca-rong-lestat-de-lioncourt",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ma/ma-ca-rong-lestat-de-lioncourt.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ma/ma-ca-rong-lestat-de-lioncourt.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620a2282e0fc277084dfd435",
-            "name": "Viễn Tưởng",
-            "slug": "vien-tuong"
-          },
-          {
-            "id": "620a229be0fc277084dfd4dd",
-            "name": "Khoa Học",
-            "slug": "khoa-hoc"
-          },
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a231fe0fc277084dfd7ce",
-            "name": "Âu Mỹ",
-            "slug": "au-my"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 0",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": true,
-        "modified": "2026-06-15T18:12:28.000Z"
       },
       {
         "id": "6a2ae808baf8dde7e3ce581c",
@@ -1159,10 +1159,10 @@
     "grid_columns_sm": 3,
     "grid_columns_xs": 2,
     "ids": [
+      "6a2fde1cf7f43ec64efa9e11",
       "6a0fce831fea2c5da7a5e5da",
       "6a263e35e14b2140fc6fec49",
       "69f9622693c48ff6bff25e1a",
-      "6a2fde1cf7f43ec64efa9e11",
       "6a2ae808baf8dde7e3ce581c",
       "6a1eb62ec52ec62c8b184344",
       "6a27eb874f61d761f7709bce",
@@ -1173,6 +1173,50 @@
       "6a20ff822c0a4eaf2656e25a"
     ],
     "movies": [
+      {
+        "id": "6a2fde1cf7f43ec64efa9e11",
+        "title": "Ma Cà Rồng: Lestat de Lioncourt",
+        "origin_name": "The Vampire Lestat",
+        "slug": "ma-ca-rong-lestat-de-lioncourt",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ma/ma-ca-rong-lestat-de-lioncourt.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ma/ma-ca-rong-lestat-de-lioncourt.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a2282e0fc277084dfd435",
+            "name": "Viễn Tưởng",
+            "slug": "vien-tuong"
+          },
+          {
+            "id": "620a229be0fc277084dfd4dd",
+            "name": "Khoa Học",
+            "slug": "khoa-hoc"
+          },
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a231fe0fc277084dfd7ce",
+            "name": "Âu Mỹ",
+            "slug": "au-my"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 1",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-06-15T23:24:23.000Z"
+      },
       {
         "id": "6a0fce831fea2c5da7a5e5da",
         "title": "Dance of the Lion",
@@ -1274,50 +1318,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-06-15T22:35:24.000Z"
-      },
-      {
-        "id": "6a2fde1cf7f43ec64efa9e11",
-        "title": "Ma Cà Rồng: Lestat de Lioncourt",
-        "origin_name": "The Vampire Lestat",
-        "slug": "ma-ca-rong-lestat-de-lioncourt",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ma/ma-ca-rong-lestat-de-lioncourt.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ma/ma-ca-rong-lestat-de-lioncourt.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620a2282e0fc277084dfd435",
-            "name": "Viễn Tưởng",
-            "slug": "vien-tuong"
-          },
-          {
-            "id": "620a229be0fc277084dfd4dd",
-            "name": "Khoa Học",
-            "slug": "khoa-hoc"
-          },
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a231fe0fc277084dfd7ce",
-            "name": "Âu Mỹ",
-            "slug": "au-my"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 0",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": true,
-        "modified": "2026-06-15T18:12:28.000Z"
       },
       {
         "id": "6a2ae808baf8dde7e3ce581c",
@@ -1673,10 +1673,10 @@
     "featured_count_sm": 1,
     "featured_count_xs": 1,
     "ids": [
+      "6a2fde1cf7f43ec64efa9e11",
       "6a0fce831fea2c5da7a5e5da",
       "6a263e35e14b2140fc6fec49",
       "69f9622693c48ff6bff25e1a",
-      "6a2fde1cf7f43ec64efa9e11",
       "6a2ae808baf8dde7e3ce581c",
       "6a1eb62ec52ec62c8b184344",
       "6a27eb874f61d761f7709bce",
@@ -1688,6 +1688,50 @@
       "6a168242142ea533b0206a19"
     ],
     "movies": [
+      {
+        "id": "6a2fde1cf7f43ec64efa9e11",
+        "title": "Ma Cà Rồng: Lestat de Lioncourt",
+        "origin_name": "The Vampire Lestat",
+        "slug": "ma-ca-rong-lestat-de-lioncourt",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ma/ma-ca-rong-lestat-de-lioncourt.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ma/ma-ca-rong-lestat-de-lioncourt.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a2282e0fc277084dfd435",
+            "name": "Viễn Tưởng",
+            "slug": "vien-tuong"
+          },
+          {
+            "id": "620a229be0fc277084dfd4dd",
+            "name": "Khoa Học",
+            "slug": "khoa-hoc"
+          },
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a231fe0fc277084dfd7ce",
+            "name": "Âu Mỹ",
+            "slug": "au-my"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 1",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-06-15T23:24:23.000Z"
+      },
       {
         "id": "6a0fce831fea2c5da7a5e5da",
         "title": "Dance of the Lion",
@@ -1789,50 +1833,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-06-15T22:35:24.000Z"
-      },
-      {
-        "id": "6a2fde1cf7f43ec64efa9e11",
-        "title": "Ma Cà Rồng: Lestat de Lioncourt",
-        "origin_name": "The Vampire Lestat",
-        "slug": "ma-ca-rong-lestat-de-lioncourt",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ma/ma-ca-rong-lestat-de-lioncourt.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ma/ma-ca-rong-lestat-de-lioncourt.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620a2282e0fc277084dfd435",
-            "name": "Viễn Tưởng",
-            "slug": "vien-tuong"
-          },
-          {
-            "id": "620a229be0fc277084dfd4dd",
-            "name": "Khoa Học",
-            "slug": "khoa-hoc"
-          },
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a231fe0fc277084dfd7ce",
-            "name": "Âu Mỹ",
-            "slug": "au-my"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 0",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": true,
-        "modified": "2026-06-15T18:12:28.000Z"
       },
       {
         "id": "6a2ae808baf8dde7e3ce581c",
@@ -5924,10 +5924,10 @@
     "featured_count_sm": 0,
     "featured_count_xs": 0,
     "ids": [
+      "6a2fde1cf7f43ec64efa9e11",
       "6a0fce831fea2c5da7a5e5da",
       "6a263e35e14b2140fc6fec49",
       "69f9622693c48ff6bff25e1a",
-      "6a2fde1cf7f43ec64efa9e11",
       "6a2ae808baf8dde7e3ce581c",
       "6a1eb62ec52ec62c8b184344",
       "6a27eb874f61d761f7709bce",
@@ -5942,6 +5942,50 @@
       "69e4a9db6d4243e068f1056b"
     ],
     "movies": [
+      {
+        "id": "6a2fde1cf7f43ec64efa9e11",
+        "title": "Ma Cà Rồng: Lestat de Lioncourt",
+        "origin_name": "The Vampire Lestat",
+        "slug": "ma-ca-rong-lestat-de-lioncourt",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ma/ma-ca-rong-lestat-de-lioncourt.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ma/ma-ca-rong-lestat-de-lioncourt.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a2282e0fc277084dfd435",
+            "name": "Viễn Tưởng",
+            "slug": "vien-tuong"
+          },
+          {
+            "id": "620a229be0fc277084dfd4dd",
+            "name": "Khoa Học",
+            "slug": "khoa-hoc"
+          },
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a231fe0fc277084dfd7ce",
+            "name": "Âu Mỹ",
+            "slug": "au-my"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 1",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-06-15T23:24:23.000Z"
+      },
       {
         "id": "6a0fce831fea2c5da7a5e5da",
         "title": "Dance of the Lion",
@@ -6043,50 +6087,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-06-15T22:35:24.000Z"
-      },
-      {
-        "id": "6a2fde1cf7f43ec64efa9e11",
-        "title": "Ma Cà Rồng: Lestat de Lioncourt",
-        "origin_name": "The Vampire Lestat",
-        "slug": "ma-ca-rong-lestat-de-lioncourt",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ma/ma-ca-rong-lestat-de-lioncourt.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ma/ma-ca-rong-lestat-de-lioncourt.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620a2282e0fc277084dfd435",
-            "name": "Viễn Tưởng",
-            "slug": "vien-tuong"
-          },
-          {
-            "id": "620a229be0fc277084dfd4dd",
-            "name": "Khoa Học",
-            "slug": "khoa-hoc"
-          },
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a231fe0fc277084dfd7ce",
-            "name": "Âu Mỹ",
-            "slug": "au-my"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 0",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": true,
-        "modified": "2026-06-15T18:12:28.000Z"
       },
       {
         "id": "6a2ae808baf8dde7e3ce581c",
@@ -8053,7 +8053,7 @@
           }
         ],
         "lang_key": "Vietsub",
-        "episode_current": "Tập 0",
+        "episode_current": "Tập 1",
         "quality": "HD",
         "status": "ongoing",
         "showtimes": "",
@@ -8061,7 +8061,7 @@
         "is_exclusive": false,
         "chieurap": false,
         "sub_docquyen": true,
-        "modified": "2026-06-15T18:12:28.000Z"
+        "modified": "2026-06-15T23:24:23.000Z"
       },
       {
         "id": "6a2f82c9e14b2140fc718709",
