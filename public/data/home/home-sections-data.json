@@ -123,6 +123,8 @@
     "featured_count_sm": 1,
     "featured_count_xs": 1,
     "ids": [
+      "6a2fde1cf7f43ec64efa9e11",
+      "6a2f82c9e14b2140fc718709",
       "68e87457bc85dba74e70256f",
       "6a37826f4be02ecfaffce4bb",
       "69e4fb962b874d6bfb6bbee5",
@@ -133,11 +135,92 @@
       "6a0a87064f61d761f76b4ada",
       "6a38d4aaa432d616e8623bb8",
       "6a1b1a29a432d616e85cc41d",
-      "6a3ff5dee12218d7285f7fd4",
-      "6a3ff529173846d6443528f1",
-      "6a047d1b31aa2678f8d3fd05"
+      "6a3ff5dee12218d7285f7fd4"
     ],
     "movies": [
+      {
+        "id": "6a2fde1cf7f43ec64efa9e11",
+        "title": "Ma Cà Rồng: Lestat de Lioncourt",
+        "origin_name": "The Vampire Lestat (Interview with the Vampire Season 3)",
+        "slug": "ma-ca-rong-lestat-de-lioncourt",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ma/ma-ca-rong-lestat-de-lioncourt.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ma/ma-ca-rong-lestat-de-lioncourt.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a2282e0fc277084dfd435",
+            "name": "Viễn Tưởng",
+            "slug": "vien-tuong"
+          },
+          {
+            "id": "620a229be0fc277084dfd4dd",
+            "name": "Khoa Học",
+            "slug": "khoa-hoc"
+          },
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a231fe0fc277084dfd7ce",
+            "name": "Âu Mỹ",
+            "slug": "au-my"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 4",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-07-01T00:18:37.000Z"
+      },
+      {
+        "id": "6a2f82c9e14b2140fc718709",
+        "title": "Những Bản Di Chúc (Phần 1)",
+        "origin_name": "The Testaments (Season 1)",
+        "slug": "nhung-ban-di-chuc-phan-1",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-ban-di-chuc-phan-1.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-ban-di-chuc-phan-1.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          },
+          {
+            "id": "620a2238e0fc277084dfd291",
+            "name": "Tâm Lý",
+            "slug": "tam-ly"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a231fe0fc277084dfd7ce",
+            "name": "Âu Mỹ",
+            "slug": "au-my"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 7",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-06-30T21:52:47.000Z"
+      },
       {
         "id": "68e87457bc85dba74e70256f",
         "title": "Tâm Trí Rực Rỡ (Phần 2)",
@@ -581,74 +664,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-06-27T23:19:40.000Z"
-      },
-      {
-        "id": "6a3ff529173846d6443528f1",
-        "title": "Gieo Gì Gặt nấy - Nông Trại Thẳng Tiến",
-        "origin_name": "GBRB: Farm Operation - Go Go Farm",
-        "slug": "gieo-gi-gat-nay-nong-trai-thang-tien",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/gi/gieo-gi-gat-nay-nong-trai-thang-tien.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/gi/gieo-gi-gat-nay-nong-trai-thang-tien.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620a221de0fc277084dfd1c1",
-            "name": "Hài Hước",
-            "slug": "hai-huoc"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a2300e0fc277084dfd6d2",
-            "name": "Hàn Quốc",
-            "slug": "han-quoc"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 2",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-06-27T23:15:49.000Z"
-      },
-      {
-        "id": "6a047d1b31aa2678f8d3fd05",
-        "title": "Bố Vợ Tôi Là Mafia",
-        "origin_name": "bapa mentuaku mafia",
-        "slug": "bo-vo-toi-la-mafia",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/bo/bo-vo-toi-la-mafia.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/bo/bo-vo-toi-la-mafia.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620a221de0fc277084dfd1c1",
-            "name": "Hài Hước",
-            "slug": "hai-huoc"
-          }
-        ],
-        "country": [
-          {
-            "id": "62159af71f1609c9d934824e",
-            "name": "Malaysia",
-            "slug": "malaysia"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Hoàn tất (12/12)",
-        "quality": "FHD",
-        "status": "completed",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-06-27T23:13:10.000Z"
       }
     ]
   },
@@ -1249,6 +1264,8 @@
     "grid_columns_sm": 3,
     "grid_columns_xs": 2,
     "ids": [
+      "6a2fde1cf7f43ec64efa9e11",
+      "6a2f82c9e14b2140fc718709",
       "69e4fb962b874d6bfb6bbee5",
       "69cbf9dfb06c99c722022664",
       "6a1e873a2c8b2895cfa7d675",
@@ -1258,11 +1275,92 @@
       "6a0149ab15072466acf64360",
       "6a0a87064f61d761f76b4ada",
       "6a38d4aaa432d616e8623bb8",
-      "69da6f99f616ee3807d610b1",
-      "6a1b1a29a432d616e85cc41d",
-      "6a3ff5dee12218d7285f7fd4"
+      "69da6f99f616ee3807d610b1"
     ],
     "movies": [
+      {
+        "id": "6a2fde1cf7f43ec64efa9e11",
+        "title": "Ma Cà Rồng: Lestat de Lioncourt",
+        "origin_name": "The Vampire Lestat (Interview with the Vampire Season 3)",
+        "slug": "ma-ca-rong-lestat-de-lioncourt",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ma/ma-ca-rong-lestat-de-lioncourt.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ma/ma-ca-rong-lestat-de-lioncourt.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a2282e0fc277084dfd435",
+            "name": "Viễn Tưởng",
+            "slug": "vien-tuong"
+          },
+          {
+            "id": "620a229be0fc277084dfd4dd",
+            "name": "Khoa Học",
+            "slug": "khoa-hoc"
+          },
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a231fe0fc277084dfd7ce",
+            "name": "Âu Mỹ",
+            "slug": "au-my"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 4",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-07-01T00:18:37.000Z"
+      },
+      {
+        "id": "6a2f82c9e14b2140fc718709",
+        "title": "Những Bản Di Chúc (Phần 1)",
+        "origin_name": "The Testaments (Season 1)",
+        "slug": "nhung-ban-di-chuc-phan-1",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-ban-di-chuc-phan-1.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-ban-di-chuc-phan-1.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          },
+          {
+            "id": "620a2238e0fc277084dfd291",
+            "name": "Tâm Lý",
+            "slug": "tam-ly"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a231fe0fc277084dfd7ce",
+            "name": "Âu Mỹ",
+            "slug": "au-my"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 7",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-06-30T21:52:47.000Z"
+      },
       {
         "id": "69e4fb962b874d6bfb6bbee5",
         "title": "Thị Trấn Ác Mộng (Phần 4)",
@@ -1677,84 +1775,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-06-27T23:23:20.000Z"
-      },
-      {
-        "id": "6a1b1a29a432d616e85cc41d",
-        "title": "Chủ Tịch Tập Sự",
-        "origin_name": "Reborn Rookie",
-        "slug": "chu-tich-tap-su",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ch/chu-tich-tap-su.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/chu-tich-tap-su.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620a2282e0fc277084dfd435",
-            "name": "Viễn Tưởng",
-            "slug": "vien-tuong"
-          },
-          {
-            "id": "620a229be0fc277084dfd4dd",
-            "name": "Khoa Học",
-            "slug": "khoa-hoc"
-          },
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a2300e0fc277084dfd6d2",
-            "name": "Hàn Quốc",
-            "slug": "han-quoc"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 9",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-06-27T23:21:11.000Z"
-      },
-      {
-        "id": "6a3ff5dee12218d7285f7fd4",
-        "title": "Tiếng Anh Thành Tiếng Yêu",
-        "origin_name": "My Tutor, My Love",
-        "slug": "tieng-anh-thanh-tieng-yeu",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ti/tieng-anh-thanh-tieng-yeu.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ti/tieng-anh-thanh-tieng-yeu.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a2318e0fc277084dfd77a",
-            "name": "Thái Lan",
-            "slug": "thai-lan"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 1",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-06-27T23:19:40.000Z"
       }
     ]
   },
@@ -1798,6 +1818,8 @@
     "featured_count_sm": 1,
     "featured_count_xs": 1,
     "ids": [
+      "6a2fde1cf7f43ec64efa9e11",
+      "6a2f82c9e14b2140fc718709",
       "68e87457bc85dba74e70256f",
       "6a37826f4be02ecfaffce4bb",
       "6a1e873a2c8b2895cfa7d675",
@@ -1808,11 +1830,92 @@
       "6a0a87064f61d761f76b4ada",
       "6a38d4aaa432d616e8623bb8",
       "6a1b1a29a432d616e85cc41d",
-      "6a3ff5dee12218d7285f7fd4",
-      "6a3ff529173846d6443528f1",
-      "6a02de83377c8aaad54cb5d1"
+      "6a3ff5dee12218d7285f7fd4"
     ],
     "movies": [
+      {
+        "id": "6a2fde1cf7f43ec64efa9e11",
+        "title": "Ma Cà Rồng: Lestat de Lioncourt",
+        "origin_name": "The Vampire Lestat (Interview with the Vampire Season 3)",
+        "slug": "ma-ca-rong-lestat-de-lioncourt",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ma/ma-ca-rong-lestat-de-lioncourt.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ma/ma-ca-rong-lestat-de-lioncourt.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a2282e0fc277084dfd435",
+            "name": "Viễn Tưởng",
+            "slug": "vien-tuong"
+          },
+          {
+            "id": "620a229be0fc277084dfd4dd",
+            "name": "Khoa Học",
+            "slug": "khoa-hoc"
+          },
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a231fe0fc277084dfd7ce",
+            "name": "Âu Mỹ",
+            "slug": "au-my"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 4",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-07-01T00:18:37.000Z"
+      },
+      {
+        "id": "6a2f82c9e14b2140fc718709",
+        "title": "Những Bản Di Chúc (Phần 1)",
+        "origin_name": "The Testaments (Season 1)",
+        "slug": "nhung-ban-di-chuc-phan-1",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-ban-di-chuc-phan-1.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-ban-di-chuc-phan-1.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          },
+          {
+            "id": "620a2238e0fc277084dfd291",
+            "name": "Tâm Lý",
+            "slug": "tam-ly"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a231fe0fc277084dfd7ce",
+            "name": "Âu Mỹ",
+            "slug": "au-my"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 7",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-06-30T21:52:47.000Z"
+      },
       {
         "id": "68e87457bc85dba74e70256f",
         "title": "Tâm Trí Rực Rỡ (Phần 2)",
@@ -2281,84 +2384,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-06-27T23:19:40.000Z"
-      },
-      {
-        "id": "6a3ff529173846d6443528f1",
-        "title": "Gieo Gì Gặt nấy - Nông Trại Thẳng Tiến",
-        "origin_name": "GBRB: Farm Operation - Go Go Farm",
-        "slug": "gieo-gi-gat-nay-nong-trai-thang-tien",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/gi/gieo-gi-gat-nay-nong-trai-thang-tien.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/gi/gieo-gi-gat-nay-nong-trai-thang-tien.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620a221de0fc277084dfd1c1",
-            "name": "Hài Hước",
-            "slug": "hai-huoc"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a2300e0fc277084dfd6d2",
-            "name": "Hàn Quốc",
-            "slug": "han-quoc"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 2",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-06-27T23:15:49.000Z"
-      },
-      {
-        "id": "6a02de83377c8aaad54cb5d1",
-        "title": "Khúc Ca Linh Hồn Shinsengumi",
-        "origin_name": "Song of the Samurai - Chapter: Youthful Days in Edo",
-        "slug": "khuc-ca-linh-hon-shinsengumi",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/kh/khuc-ca-linh-hon-shinsengumi.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/kh/khuc-ca-linh-hon-shinsengumi.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620a21b2e0fc277084dfd0c5",
-            "name": "Hành Động",
-            "slug": "hanh-dong"
-          },
-          {
-            "id": "620a2293e0fc277084dfd489",
-            "name": "Phiêu Lưu",
-            "slug": "phieu-luu"
-          },
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a2307e0fc277084dfd726",
-            "name": "Nhật Bản",
-            "slug": "nhat-ban"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 8",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-06-27T23:06:49.000Z"
       }
     ]
   },
@@ -6139,6 +6164,8 @@
     "featured_count_sm": 0,
     "featured_count_xs": 0,
     "ids": [
+      "6a2fde1cf7f43ec64efa9e11",
+      "6a2f82c9e14b2140fc718709",
       "68e87457bc85dba74e70256f",
       "6a37826f4be02ecfaffce4bb",
       "69e4fb962b874d6bfb6bbee5",
@@ -6152,11 +6179,92 @@
       "6a408fd12c8b2895cfae1ee0",
       "6a0149ab15072466acf64360",
       "6a0a87064f61d761f76b4ada",
-      "6a38d4aaa432d616e8623bb8",
-      "69da6f99f616ee3807d610b1",
-      "6a1b1a29a432d616e85cc41d"
+      "6a38d4aaa432d616e8623bb8"
     ],
     "movies": [
+      {
+        "id": "6a2fde1cf7f43ec64efa9e11",
+        "title": "Ma Cà Rồng: Lestat de Lioncourt",
+        "origin_name": "The Vampire Lestat (Interview with the Vampire Season 3)",
+        "slug": "ma-ca-rong-lestat-de-lioncourt",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ma/ma-ca-rong-lestat-de-lioncourt.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ma/ma-ca-rong-lestat-de-lioncourt.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a2282e0fc277084dfd435",
+            "name": "Viễn Tưởng",
+            "slug": "vien-tuong"
+          },
+          {
+            "id": "620a229be0fc277084dfd4dd",
+            "name": "Khoa Học",
+            "slug": "khoa-hoc"
+          },
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a231fe0fc277084dfd7ce",
+            "name": "Âu Mỹ",
+            "slug": "au-my"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 4",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-07-01T00:18:37.000Z"
+      },
+      {
+        "id": "6a2f82c9e14b2140fc718709",
+        "title": "Những Bản Di Chúc (Phần 1)",
+        "origin_name": "The Testaments (Season 1)",
+        "slug": "nhung-ban-di-chuc-phan-1",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-ban-di-chuc-phan-1.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-ban-di-chuc-phan-1.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          },
+          {
+            "id": "620a2238e0fc277084dfd291",
+            "name": "Tâm Lý",
+            "slug": "tam-ly"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a231fe0fc277084dfd7ce",
+            "name": "Âu Mỹ",
+            "slug": "au-my"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 7",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-06-30T21:52:47.000Z"
+      },
       {
         "id": "68e87457bc85dba74e70256f",
         "title": "Tâm Trí Rực Rỡ (Phần 2)",
@@ -6752,94 +6860,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-06-27T23:24:08.000Z"
-      },
-      {
-        "id": "69da6f99f616ee3807d610b1",
-        "title": "KILL BLUE",
-        "origin_name": "KILL BLUE",
-        "slug": "kill-blue",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ki/kill-blue.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ki/kill-blue.webp",
-        "year": 2026,
-        "type": "hoathinh",
-        "genre": [
-          {
-            "id": "620a21b2e0fc277084dfd0c5",
-            "name": "Hành Động",
-            "slug": "hanh-dong"
-          },
-          {
-            "id": "620a221de0fc277084dfd1c1",
-            "name": "Hài Hước",
-            "slug": "hai-huoc"
-          },
-          {
-            "id": "620a2293e0fc277084dfd489",
-            "name": "Phiêu Lưu",
-            "slug": "phieu-luu"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a2307e0fc277084dfd726",
-            "name": "Nhật Bản",
-            "slug": "nhat-ban"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Hoàn tất (12/12)",
-        "quality": "HD",
-        "status": "completed",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-06-27T23:23:20.000Z"
-      },
-      {
-        "id": "6a1b1a29a432d616e85cc41d",
-        "title": "Chủ Tịch Tập Sự",
-        "origin_name": "Reborn Rookie",
-        "slug": "chu-tich-tap-su",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ch/chu-tich-tap-su.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ch/chu-tich-tap-su.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620a2282e0fc277084dfd435",
-            "name": "Viễn Tưởng",
-            "slug": "vien-tuong"
-          },
-          {
-            "id": "620a229be0fc277084dfd4dd",
-            "name": "Khoa Học",
-            "slug": "khoa-hoc"
-          },
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a2300e0fc277084dfd6d2",
-            "name": "Hàn Quốc",
-            "slug": "han-quoc"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 9",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-06-27T23:21:11.000Z"
       }
     ]
   },
@@ -8281,13 +8301,14 @@
     "featured_count_sm": 0,
     "featured_count_xs": 0,
     "ids": [
+      "6a2fde1cf7f43ec64efa9e11",
+      "6a2f82c9e14b2140fc718709",
       "68e87457bc85dba74e70256f",
       "6a37826f4be02ecfaffce4bb",
       "69e4fb962b874d6bfb6bbee5",
       "6a408fd12c8b2895cfae1ee0",
       "6a3218c74e6584edee4800d7",
       "6a3dfa6e1fea2c5da7ae690f",
-      "6a2f82c9e14b2140fc718709",
       "6a22435bde5e0f1b85d13c09",
       "6a190a6a4f61d761f76ddb90",
       "6a3774ffc52ec62c8b1cc5bf",
@@ -8295,10 +8316,92 @@
       "6a0b02307544913d492aafe1",
       "6a3d1958baf8dde7e3d1b0a9",
       "6a3aaacf16a695c8bb066105",
-      "6a3cccae16a695c8bb06be60",
-      "6a3ccc56c52ec62c8b1dbfd5"
+      "6a3cccae16a695c8bb06be60"
     ],
     "movies": [
+      {
+        "id": "6a2fde1cf7f43ec64efa9e11",
+        "title": "Ma Cà Rồng: Lestat de Lioncourt",
+        "origin_name": "The Vampire Lestat (Interview with the Vampire Season 3)",
+        "slug": "ma-ca-rong-lestat-de-lioncourt",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ma/ma-ca-rong-lestat-de-lioncourt.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ma/ma-ca-rong-lestat-de-lioncourt.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620a2282e0fc277084dfd435",
+            "name": "Viễn Tưởng",
+            "slug": "vien-tuong"
+          },
+          {
+            "id": "620a229be0fc277084dfd4dd",
+            "name": "Khoa Học",
+            "slug": "khoa-hoc"
+          },
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a231fe0fc277084dfd7ce",
+            "name": "Âu Mỹ",
+            "slug": "au-my"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 4",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-07-01T00:18:37.000Z"
+      },
+      {
+        "id": "6a2f82c9e14b2140fc718709",
+        "title": "Những Bản Di Chúc (Phần 1)",
+        "origin_name": "The Testaments (Season 1)",
+        "slug": "nhung-ban-di-chuc-phan-1",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-ban-di-chuc-phan-1.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-ban-di-chuc-phan-1.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          },
+          {
+            "id": "620a2238e0fc277084dfd291",
+            "name": "Tâm Lý",
+            "slug": "tam-ly"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a231fe0fc277084dfd7ce",
+            "name": "Âu Mỹ",
+            "slug": "au-my"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 7",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-06-30T21:52:47.000Z"
+      },
       {
         "id": "68e87457bc85dba74e70256f",
         "title": "Tâm Trí Rực Rỡ (Phần 2)",
@@ -8552,45 +8655,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-06-27T18:34:47.000Z"
-      },
-      {
-        "id": "6a2f82c9e14b2140fc718709",
-        "title": "Những Bản Di Chúc (Phần 1)",
-        "origin_name": "The Testaments (Season 1)",
-        "slug": "nhung-ban-di-chuc-phan-1",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-ban-di-chuc-phan-1.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-ban-di-chuc-phan-1.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          },
-          {
-            "id": "620a2238e0fc277084dfd291",
-            "name": "Tâm Lý",
-            "slug": "tam-ly"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a231fe0fc277084dfd7ce",
-            "name": "Âu Mỹ",
-            "slug": "au-my"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 6",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": true,
-        "modified": "2026-06-27T14:39:10.000Z"
       },
       {
         "id": "6a22435bde5e0f1b85d13c09",
@@ -8928,60 +8992,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-06-25T14:31:20.000Z"
-      },
-      {
-        "id": "6a3ccc56c52ec62c8b1dbfd5",
-        "title": "Trong Bàn Tay Của Dante",
-        "origin_name": "In the Hand of Dante",
-        "slug": "trong-ban-tay-cua-dante",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/tr/trong-ban-tay-cua-dante.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/tr/trong-ban-tay-cua-dante.webp",
-        "year": 2026,
-        "type": "single",
-        "genre": [
-          {
-            "id": "620a2249e0fc277084dfd2e5",
-            "name": "Hình Sự",
-            "slug": "hinh-su"
-          },
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a231fe0fc277084dfd7ce",
-            "name": "Âu Mỹ",
-            "slug": "au-my"
-          },
-          {
-            "id": "620a2370e0fc277084dfd91e",
-            "name": "Anh",
-            "slug": "anh"
-          },
-          {
-            "id": "621674a770b58bba6858b852",
-            "name": "Ý",
-            "slug": "y"
-          },
-          {
-            "id": "6401c9e1269d33eaed6b0535",
-            "name": "Chile",
-            "slug": "chile"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Full",
-        "quality": "HD",
-        "status": "completed",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-06-25T14:02:18.000Z"
       }
     ]
   },
