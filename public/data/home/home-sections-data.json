@@ -123,8 +123,9 @@
     "featured_count_sm": 1,
     "featured_count_xs": 1,
     "ids": [
-      "6a2f82c9e14b2140fc718709",
       "6a3aaacf16a695c8bb066105",
+      "6947d108da6ce23e8e932ab7",
+      "6a2f82c9e14b2140fc718709",
       "6a488f1d12f0391f00dbb5af",
       "6a4c9e21e14b2140fc779b49",
       "6a3e1ffb173846d64434c1e0",
@@ -134,49 +135,9 @@
       "6a4b319fc52ec62c8b20d888",
       "6a473e6cbaf8dde7e3d39848",
       "6a45f6e812f0391f00db11d1",
-      "6a4a2e9ede5e0f1b85d8eb9e",
-      "692f0e84dbdcc0b3a8a260e8"
+      "6a4a2e9ede5e0f1b85d8eb9e"
     ],
     "movies": [
-      {
-        "id": "6a2f82c9e14b2140fc718709",
-        "title": "Những Bản Di Chúc (Phần 1)",
-        "origin_name": "The Testaments (Season 1)",
-        "slug": "nhung-ban-di-chuc-phan-1",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-ban-di-chuc-phan-1.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-ban-di-chuc-phan-1.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          },
-          {
-            "id": "620a2238e0fc277084dfd291",
-            "name": "Tâm Lý",
-            "slug": "tam-ly"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a231fe0fc277084dfd7ce",
-            "name": "Âu Mỹ",
-            "slug": "au-my"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 9",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": true,
-        "modified": "2026-07-08T12:29:02.000Z"
-      },
       {
         "id": "6a3aaacf16a695c8bb066105",
         "title": "Góc Tối Nhân Bản",
@@ -216,7 +177,7 @@
           }
         ],
         "lang_key": "Vietsub",
-        "episode_current": "Tập 7",
+        "episode_current": "Tập 8",
         "quality": "HD",
         "status": "ongoing",
         "showtimes": "",
@@ -224,7 +185,85 @@
         "is_exclusive": false,
         "chieurap": false,
         "sub_docquyen": true,
-        "modified": "2026-07-07T19:04:46.000Z"
+        "modified": "2026-07-09T00:00:09.000Z"
+      },
+      {
+        "id": "6947d108da6ce23e8e932ab7",
+        "title": "Ranh Giới Định Mệnh",
+        "origin_name": "Bound by Fate",
+        "slug": "ranh-gioi-dinh-menh",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ra/ranh-gioi-dinh-menh.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ra/ranh-gioi-dinh-menh.webp",
+        "year": 2025,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620e4c0b6ba8271c5eef05a8",
+            "name": "Gia Đình",
+            "slug": "gia-dinh"
+          },
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620f7fa791fa4af90ab6ad1f",
+            "name": "Thổ Nhĩ Kỳ",
+            "slug": "tho-nhi-ky"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 50",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-07-08T23:40:27.000Z"
+      },
+      {
+        "id": "6a2f82c9e14b2140fc718709",
+        "title": "Những Bản Di Chúc (Phần 1)",
+        "origin_name": "The Testaments (Season 1)",
+        "slug": "nhung-ban-di-chuc-phan-1",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-ban-di-chuc-phan-1.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-ban-di-chuc-phan-1.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          },
+          {
+            "id": "620a2238e0fc277084dfd291",
+            "name": "Tâm Lý",
+            "slug": "tam-ly"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a231fe0fc277084dfd7ce",
+            "name": "Âu Mỹ",
+            "slug": "au-my"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 9",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-07-08T12:29:02.000Z"
       },
       {
         "id": "6a488f1d12f0391f00dbb5af",
@@ -580,45 +619,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-07-07T12:09:03.000Z"
-      },
-      {
-        "id": "692f0e84dbdcc0b3a8a260e8",
-        "title": "Vân Tú Hành",
-        "origin_name": "The Legend of Rosy Clouds",
-        "slug": "van-tu-hanh",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/va/van-tu-hanh.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/va/van-tu-hanh.webp",
-        "year": 2025,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620a221de0fc277084dfd1c1",
-            "name": "Hài Hước",
-            "slug": "hai-huoc"
-          },
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "62093063196e9f4ab6b448b8",
-            "name": "Trung Quốc",
-            "slug": "trung-quoc"
-          }
-        ],
-        "lang_key": "Vietsub + Thuyết Minh",
-        "episode_current": "Tập 30",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-07-06T17:17:10.000Z"
       }
     ]
   },
@@ -1688,8 +1688,9 @@
     "featured_count_sm": 1,
     "featured_count_xs": 1,
     "ids": [
-      "6a2f82c9e14b2140fc718709",
       "6a3aaacf16a695c8bb066105",
+      "6947d108da6ce23e8e932ab7",
+      "6a2f82c9e14b2140fc718709",
       "68e4bc4d69d7b4696cc59469",
       "6a4c981bf7f43ec64e009d6f",
       "6264079bdb43524328b143c6",
@@ -1699,49 +1700,9 @@
       "6a3e1ffb173846d64434c1e0",
       "6a3f858da6726df8fd3d2da5",
       "6a45f4aa4be02ecfafff8988",
-      "6a4b319fc52ec62c8b20d888",
-      "6a473e6cbaf8dde7e3d39848"
+      "6a4b319fc52ec62c8b20d888"
     ],
     "movies": [
-      {
-        "id": "6a2f82c9e14b2140fc718709",
-        "title": "Những Bản Di Chúc (Phần 1)",
-        "origin_name": "The Testaments (Season 1)",
-        "slug": "nhung-ban-di-chuc-phan-1",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-ban-di-chuc-phan-1.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-ban-di-chuc-phan-1.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          },
-          {
-            "id": "620a2238e0fc277084dfd291",
-            "name": "Tâm Lý",
-            "slug": "tam-ly"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a231fe0fc277084dfd7ce",
-            "name": "Âu Mỹ",
-            "slug": "au-my"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 9",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": true,
-        "modified": "2026-07-08T12:29:02.000Z"
-      },
       {
         "id": "6a3aaacf16a695c8bb066105",
         "title": "Góc Tối Nhân Bản",
@@ -1781,7 +1742,7 @@
           }
         ],
         "lang_key": "Vietsub",
-        "episode_current": "Tập 7",
+        "episode_current": "Tập 8",
         "quality": "HD",
         "status": "ongoing",
         "showtimes": "",
@@ -1789,7 +1750,85 @@
         "is_exclusive": false,
         "chieurap": false,
         "sub_docquyen": true,
-        "modified": "2026-07-07T19:04:46.000Z"
+        "modified": "2026-07-09T00:00:09.000Z"
+      },
+      {
+        "id": "6947d108da6ce23e8e932ab7",
+        "title": "Ranh Giới Định Mệnh",
+        "origin_name": "Bound by Fate",
+        "slug": "ranh-gioi-dinh-menh",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ra/ranh-gioi-dinh-menh.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ra/ranh-gioi-dinh-menh.webp",
+        "year": 2025,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620e4c0b6ba8271c5eef05a8",
+            "name": "Gia Đình",
+            "slug": "gia-dinh"
+          },
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620f7fa791fa4af90ab6ad1f",
+            "name": "Thổ Nhĩ Kỳ",
+            "slug": "tho-nhi-ky"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 50",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-07-08T23:40:27.000Z"
+      },
+      {
+        "id": "6a2f82c9e14b2140fc718709",
+        "title": "Những Bản Di Chúc (Phần 1)",
+        "origin_name": "The Testaments (Season 1)",
+        "slug": "nhung-ban-di-chuc-phan-1",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-ban-di-chuc-phan-1.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-ban-di-chuc-phan-1.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          },
+          {
+            "id": "620a2238e0fc277084dfd291",
+            "name": "Tâm Lý",
+            "slug": "tam-ly"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a231fe0fc277084dfd7ce",
+            "name": "Âu Mỹ",
+            "slug": "au-my"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 9",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-07-08T12:29:02.000Z"
       },
       {
         "id": "68e4bc4d69d7b4696cc59469",
@@ -2225,40 +2264,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-07-07T12:19:53.000Z"
-      },
-      {
-        "id": "6a473e6cbaf8dde7e3d39848",
-        "title": "Quý Nhân Mang Nhiều Điềm Lành",
-        "origin_name": "Auspicious Nobles",
-        "slug": "quy-nhan-mang-nhieu-diem-lanh",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/qu/quy-nhan-mang-nhieu-diem-lanh.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/qu/quy-nhan-mang-nhieu-diem-lanh.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "62093063196e9f4ab6b448b8",
-            "name": "Trung Quốc",
-            "slug": "trung-quoc"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 14",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-07-07T12:11:41.000Z"
       }
     ]
   },
@@ -6049,8 +6054,9 @@
     "featured_count_sm": 0,
     "featured_count_xs": 0,
     "ids": [
-      "6a2f82c9e14b2140fc718709",
       "6a3aaacf16a695c8bb066105",
+      "6947d108da6ce23e8e932ab7",
+      "6a2f82c9e14b2140fc718709",
       "68e4bc4d69d7b4696cc59469",
       "6a488f1d12f0391f00dbb5af",
       "6a4c9ed1416b9186f01a2096",
@@ -6063,49 +6069,9 @@
       "68e4ba284f7493692abb949c",
       "6a3e1ffb173846d64434c1e0",
       "6a3f858da6726df8fd3d2da5",
-      "6a449f20142ea533b028d43b",
-      "6a45f4aa4be02ecfafff8988"
+      "6a449f20142ea533b028d43b"
     ],
     "movies": [
-      {
-        "id": "6a2f82c9e14b2140fc718709",
-        "title": "Những Bản Di Chúc (Phần 1)",
-        "origin_name": "The Testaments (Season 1)",
-        "slug": "nhung-ban-di-chuc-phan-1",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-ban-di-chuc-phan-1.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-ban-di-chuc-phan-1.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          },
-          {
-            "id": "620a2238e0fc277084dfd291",
-            "name": "Tâm Lý",
-            "slug": "tam-ly"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a231fe0fc277084dfd7ce",
-            "name": "Âu Mỹ",
-            "slug": "au-my"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 9",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": true,
-        "modified": "2026-07-08T12:29:02.000Z"
-      },
       {
         "id": "6a3aaacf16a695c8bb066105",
         "title": "Góc Tối Nhân Bản",
@@ -6145,7 +6111,7 @@
           }
         ],
         "lang_key": "Vietsub",
-        "episode_current": "Tập 7",
+        "episode_current": "Tập 8",
         "quality": "HD",
         "status": "ongoing",
         "showtimes": "",
@@ -6153,7 +6119,85 @@
         "is_exclusive": false,
         "chieurap": false,
         "sub_docquyen": true,
-        "modified": "2026-07-07T19:04:46.000Z"
+        "modified": "2026-07-09T00:00:09.000Z"
+      },
+      {
+        "id": "6947d108da6ce23e8e932ab7",
+        "title": "Ranh Giới Định Mệnh",
+        "origin_name": "Bound by Fate",
+        "slug": "ranh-gioi-dinh-menh",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ra/ranh-gioi-dinh-menh.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ra/ranh-gioi-dinh-menh.webp",
+        "year": 2025,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620e4c0b6ba8271c5eef05a8",
+            "name": "Gia Đình",
+            "slug": "gia-dinh"
+          },
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          }
+        ],
+        "country": [
+          {
+            "id": "620f7fa791fa4af90ab6ad1f",
+            "name": "Thổ Nhĩ Kỳ",
+            "slug": "tho-nhi-ky"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 50",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-07-08T23:40:27.000Z"
+      },
+      {
+        "id": "6a2f82c9e14b2140fc718709",
+        "title": "Những Bản Di Chúc (Phần 1)",
+        "origin_name": "The Testaments (Season 1)",
+        "slug": "nhung-ban-di-chuc-phan-1",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-ban-di-chuc-phan-1.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-ban-di-chuc-phan-1.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          },
+          {
+            "id": "620a2238e0fc277084dfd291",
+            "name": "Tâm Lý",
+            "slug": "tam-ly"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a231fe0fc277084dfd7ce",
+            "name": "Âu Mỹ",
+            "slug": "au-my"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 9",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-07-08T12:29:02.000Z"
       },
       {
         "id": "68e4bc4d69d7b4696cc59469",
@@ -6721,40 +6765,6 @@
         "chieurap": false,
         "sub_docquyen": false,
         "modified": "2026-07-07T12:20:47.000Z"
-      },
-      {
-        "id": "6a45f4aa4be02ecfafff8988",
-        "title": "Hoán Sa Lục",
-        "origin_name": "The Silk Master from the Future",
-        "slug": "hoan-sa-luc",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/ho/hoan-sa-luc.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ho/hoan-sa-luc.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          }
-        ],
-        "country": [
-          {
-            "id": "62093063196e9f4ab6b448b8",
-            "name": "Trung Quốc",
-            "slug": "trung-quoc"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 17",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": false,
-        "modified": "2026-07-07T12:20:10.000Z"
       }
     ]
   },
@@ -8261,8 +8271,8 @@
     "featured_count_sm": 0,
     "featured_count_xs": 0,
     "ids": [
-      "6a2f82c9e14b2140fc718709",
       "6a3aaacf16a695c8bb066105",
+      "6a2f82c9e14b2140fc718709",
       "6a13d0dce12218d7285724c1",
       "6a3a58714e6584edee499a5e",
       "6a2fde1cf7f43ec64efa9e11",
@@ -8279,45 +8289,6 @@
       "6a3774ffc52ec62c8b1cc5bf"
     ],
     "movies": [
-      {
-        "id": "6a2f82c9e14b2140fc718709",
-        "title": "Những Bản Di Chúc (Phần 1)",
-        "origin_name": "The Testaments (Season 1)",
-        "slug": "nhung-ban-di-chuc-phan-1",
-        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-ban-di-chuc-phan-1.webp",
-        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-ban-di-chuc-phan-1.webp",
-        "year": 2026,
-        "type": "series",
-        "genre": [
-          {
-            "id": "620f3d2b91fa4af90ab697fe",
-            "name": "Chính kịch",
-            "slug": "chinh-kich"
-          },
-          {
-            "id": "620a2238e0fc277084dfd291",
-            "name": "Tâm Lý",
-            "slug": "tam-ly"
-          }
-        ],
-        "country": [
-          {
-            "id": "620a231fe0fc277084dfd7ce",
-            "name": "Âu Mỹ",
-            "slug": "au-my"
-          }
-        ],
-        "lang_key": "Vietsub",
-        "episode_current": "Tập 9",
-        "quality": "HD",
-        "status": "ongoing",
-        "showtimes": "",
-        "is_4k": false,
-        "is_exclusive": false,
-        "chieurap": false,
-        "sub_docquyen": true,
-        "modified": "2026-07-08T12:29:02.000Z"
-      },
       {
         "id": "6a3aaacf16a695c8bb066105",
         "title": "Góc Tối Nhân Bản",
@@ -8357,7 +8328,7 @@
           }
         ],
         "lang_key": "Vietsub",
-        "episode_current": "Tập 7",
+        "episode_current": "Tập 8",
         "quality": "HD",
         "status": "ongoing",
         "showtimes": "",
@@ -8365,7 +8336,46 @@
         "is_exclusive": false,
         "chieurap": false,
         "sub_docquyen": true,
-        "modified": "2026-07-07T19:04:46.000Z"
+        "modified": "2026-07-09T00:00:09.000Z"
+      },
+      {
+        "id": "6a2f82c9e14b2140fc718709",
+        "title": "Những Bản Di Chúc (Phần 1)",
+        "origin_name": "The Testaments (Season 1)",
+        "slug": "nhung-ban-di-chuc-phan-1",
+        "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/nh/nhung-ban-di-chuc-phan-1.webp",
+        "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/nh/nhung-ban-di-chuc-phan-1.webp",
+        "year": 2026,
+        "type": "series",
+        "genre": [
+          {
+            "id": "620f3d2b91fa4af90ab697fe",
+            "name": "Chính kịch",
+            "slug": "chinh-kich"
+          },
+          {
+            "id": "620a2238e0fc277084dfd291",
+            "name": "Tâm Lý",
+            "slug": "tam-ly"
+          }
+        ],
+        "country": [
+          {
+            "id": "620a231fe0fc277084dfd7ce",
+            "name": "Âu Mỹ",
+            "slug": "au-my"
+          }
+        ],
+        "lang_key": "Vietsub",
+        "episode_current": "Tập 9",
+        "quality": "HD",
+        "status": "ongoing",
+        "showtimes": "",
+        "is_4k": false,
+        "is_exclusive": false,
+        "chieurap": false,
+        "sub_docquyen": true,
+        "modified": "2026-07-08T12:29:02.000Z"
       },
       {
         "id": "6a13d0dce12218d7285724c1",
