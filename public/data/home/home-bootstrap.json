@@ -1,6 +1,6 @@
 {
   "buildVersion": {
-    "builtAt": "2026-07-13T13:29:57.664Z"
+    "builtAt": "2026-07-13T18:48:27.340Z"
   },
   "siteSettings": {
     "site_name": "GoTV",
@@ -955,9 +955,9 @@
       "featured_count_sm": 1,
       "featured_count_xs": 1,
       "ids": [
+        "6a4f38f54f61d761f77894df",
         "6a2fde1cf7f43ec64efa9e11",
         "6a3218c74e6584edee4800d7",
-        "6a4f38f54f61d761f77894df",
         "6a3aaacf16a695c8bb066105",
         "6a2f82c9e14b2140fc718709",
         "6947d108da6ce23e8e932ab7",
@@ -970,6 +970,50 @@
         "6a4b319fc52ec62c8b20d888"
       ],
       "movies": [
+        {
+          "id": "6a4f38f54f61d761f77894df",
+          "title": "Bóng Ma Báo Thù",
+          "origin_name": "M.I.A.",
+          "slug": "bong-ma-bao-thu",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/bo/bong-ma-bao-thu.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/bo/bong-ma-bao-thu.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a21b2e0fc277084dfd0c5",
+              "name": "Hành Động",
+              "slug": "hanh-dong"
+            },
+            {
+              "id": "620a2249e0fc277084dfd2e5",
+              "name": "Hình Sự",
+              "slug": "hinh-su"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 4",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-07-13T21:38:24.000Z"
+        },
         {
           "id": "6a2fde1cf7f43ec64efa9e11",
           "title": "Ma Cà Rồng: Lestat de Lioncourt",
@@ -1057,50 +1101,6 @@
           "chieurap": false,
           "sub_docquyen": true,
           "modified": "2026-07-12T14:00:34.000Z"
-        },
-        {
-          "id": "6a4f38f54f61d761f77894df",
-          "title": "Bóng Ma Báo Thù",
-          "origin_name": "M.I.A.",
-          "slug": "bong-ma-bao-thu",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/bo/bong-ma-bao-thu.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/bo/bong-ma-bao-thu.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620a21b2e0fc277084dfd0c5",
-              "name": "Hành Động",
-              "slug": "hanh-dong"
-            },
-            {
-              "id": "620a2249e0fc277084dfd2e5",
-              "name": "Hình Sự",
-              "slug": "hinh-su"
-            },
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a231fe0fc277084dfd7ce",
-              "name": "Âu Mỹ",
-              "slug": "au-my"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 3",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": true,
-          "modified": "2026-07-12T12:29:20.000Z"
         },
         {
           "id": "6a3aaacf16a695c8bb066105",
@@ -2051,9 +2051,9 @@
       "grid_columns_sm": 3,
       "grid_columns_xs": 2,
       "ids": [
+        "6a4f38f54f61d761f77894df",
         "6a2fde1cf7f43ec64efa9e11",
         "6a3218c74e6584edee4800d7",
-        "6a4f38f54f61d761f77894df",
         "6a2f82c9e14b2140fc718709",
         "6a488f1d12f0391f00dbb5af",
         "6a4c9e21e14b2140fc779b49",
@@ -2065,6 +2065,50 @@
         "6a4b319fc52ec62c8b20d888"
       ],
       "movies": [
+        {
+          "id": "6a4f38f54f61d761f77894df",
+          "title": "Bóng Ma Báo Thù",
+          "origin_name": "M.I.A.",
+          "slug": "bong-ma-bao-thu",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/bo/bong-ma-bao-thu.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/bo/bong-ma-bao-thu.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a21b2e0fc277084dfd0c5",
+              "name": "Hành Động",
+              "slug": "hanh-dong"
+            },
+            {
+              "id": "620a2249e0fc277084dfd2e5",
+              "name": "Hình Sự",
+              "slug": "hinh-su"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 4",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-07-13T21:38:24.000Z"
+        },
         {
           "id": "6a2fde1cf7f43ec64efa9e11",
           "title": "Ma Cà Rồng: Lestat de Lioncourt",
@@ -2152,50 +2196,6 @@
           "chieurap": false,
           "sub_docquyen": true,
           "modified": "2026-07-12T14:00:34.000Z"
-        },
-        {
-          "id": "6a4f38f54f61d761f77894df",
-          "title": "Bóng Ma Báo Thù",
-          "origin_name": "M.I.A.",
-          "slug": "bong-ma-bao-thu",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/bo/bong-ma-bao-thu.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/bo/bong-ma-bao-thu.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620a21b2e0fc277084dfd0c5",
-              "name": "Hành Động",
-              "slug": "hanh-dong"
-            },
-            {
-              "id": "620a2249e0fc277084dfd2e5",
-              "name": "Hình Sự",
-              "slug": "hinh-su"
-            },
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a231fe0fc277084dfd7ce",
-              "name": "Âu Mỹ",
-              "slug": "au-my"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 3",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": true,
-          "modified": "2026-07-12T12:29:20.000Z"
         },
         {
           "id": "6a2f82c9e14b2140fc718709",
@@ -2580,9 +2580,9 @@
       "featured_count_sm": 1,
       "featured_count_xs": 1,
       "ids": [
+        "6a4f38f54f61d761f77894df",
         "6a2fde1cf7f43ec64efa9e11",
         "6a3218c74e6584edee4800d7",
-        "6a4f38f54f61d761f77894df",
         "6a3aaacf16a695c8bb066105",
         "6947d108da6ce23e8e932ab7",
         "68e4bc4d69d7b4696cc59469",
@@ -2595,6 +2595,50 @@
         "6a3f858da6726df8fd3d2da5"
       ],
       "movies": [
+        {
+          "id": "6a4f38f54f61d761f77894df",
+          "title": "Bóng Ma Báo Thù",
+          "origin_name": "M.I.A.",
+          "slug": "bong-ma-bao-thu",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/bo/bong-ma-bao-thu.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/bo/bong-ma-bao-thu.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a21b2e0fc277084dfd0c5",
+              "name": "Hành Động",
+              "slug": "hanh-dong"
+            },
+            {
+              "id": "620a2249e0fc277084dfd2e5",
+              "name": "Hình Sự",
+              "slug": "hinh-su"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 4",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-07-13T21:38:24.000Z"
+        },
         {
           "id": "6a2fde1cf7f43ec64efa9e11",
           "title": "Ma Cà Rồng: Lestat de Lioncourt",
@@ -2682,50 +2726,6 @@
           "chieurap": false,
           "sub_docquyen": true,
           "modified": "2026-07-12T14:00:34.000Z"
-        },
-        {
-          "id": "6a4f38f54f61d761f77894df",
-          "title": "Bóng Ma Báo Thù",
-          "origin_name": "M.I.A.",
-          "slug": "bong-ma-bao-thu",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/bo/bong-ma-bao-thu.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/bo/bong-ma-bao-thu.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620a21b2e0fc277084dfd0c5",
-              "name": "Hành Động",
-              "slug": "hanh-dong"
-            },
-            {
-              "id": "620a2249e0fc277084dfd2e5",
-              "name": "Hình Sự",
-              "slug": "hinh-su"
-            },
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a231fe0fc277084dfd7ce",
-              "name": "Âu Mỹ",
-              "slug": "au-my"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 3",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": true,
-          "modified": "2026-07-12T12:29:20.000Z"
         },
         {
           "id": "6a3aaacf16a695c8bb066105",
@@ -6971,9 +6971,9 @@
       "featured_count_sm": 0,
       "featured_count_xs": 0,
       "ids": [
+        "6a4f38f54f61d761f77894df",
         "6a2fde1cf7f43ec64efa9e11",
         "6a3218c74e6584edee4800d7",
-        "6a4f38f54f61d761f77894df",
         "6a3aaacf16a695c8bb066105",
         "6a2f82c9e14b2140fc718709",
         "6947d108da6ce23e8e932ab7",
@@ -6989,6 +6989,50 @@
         "68e4ba284f7493692abb949c"
       ],
       "movies": [
+        {
+          "id": "6a4f38f54f61d761f77894df",
+          "title": "Bóng Ma Báo Thù",
+          "origin_name": "M.I.A.",
+          "slug": "bong-ma-bao-thu",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/bo/bong-ma-bao-thu.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/bo/bong-ma-bao-thu.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a21b2e0fc277084dfd0c5",
+              "name": "Hành Động",
+              "slug": "hanh-dong"
+            },
+            {
+              "id": "620a2249e0fc277084dfd2e5",
+              "name": "Hình Sự",
+              "slug": "hinh-su"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 4",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-07-13T21:38:24.000Z"
+        },
         {
           "id": "6a2fde1cf7f43ec64efa9e11",
           "title": "Ma Cà Rồng: Lestat de Lioncourt",
@@ -7076,50 +7120,6 @@
           "chieurap": false,
           "sub_docquyen": true,
           "modified": "2026-07-12T14:00:34.000Z"
-        },
-        {
-          "id": "6a4f38f54f61d761f77894df",
-          "title": "Bóng Ma Báo Thù",
-          "origin_name": "M.I.A.",
-          "slug": "bong-ma-bao-thu",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/bo/bong-ma-bao-thu.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/bo/bong-ma-bao-thu.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620a21b2e0fc277084dfd0c5",
-              "name": "Hành Động",
-              "slug": "hanh-dong"
-            },
-            {
-              "id": "620a2249e0fc277084dfd2e5",
-              "name": "Hình Sự",
-              "slug": "hinh-su"
-            },
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a231fe0fc277084dfd7ce",
-              "name": "Âu Mỹ",
-              "slug": "au-my"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 3",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": true,
-          "modified": "2026-07-12T12:29:20.000Z"
         },
         {
           "id": "6a3aaacf16a695c8bb066105",
@@ -9213,9 +9213,9 @@
       "featured_count_sm": 0,
       "featured_count_xs": 0,
       "ids": [
+        "6a4f38f54f61d761f77894df",
         "6a2fde1cf7f43ec64efa9e11",
         "6a3218c74e6584edee4800d7",
-        "6a4f38f54f61d761f77894df",
         "6a3aaacf16a695c8bb066105",
         "6a2f82c9e14b2140fc718709",
         "6a13d0dce12218d7285724c1",
@@ -9231,6 +9231,50 @@
         "6a4762471fea2c5da7b03673"
       ],
       "movies": [
+        {
+          "id": "6a4f38f54f61d761f77894df",
+          "title": "Bóng Ma Báo Thù",
+          "origin_name": "M.I.A.",
+          "slug": "bong-ma-bao-thu",
+          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/bo/bong-ma-bao-thu.webp",
+          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/bo/bong-ma-bao-thu.webp",
+          "year": 2026,
+          "type": "series",
+          "genre": [
+            {
+              "id": "620a21b2e0fc277084dfd0c5",
+              "name": "Hành Động",
+              "slug": "hanh-dong"
+            },
+            {
+              "id": "620a2249e0fc277084dfd2e5",
+              "name": "Hình Sự",
+              "slug": "hinh-su"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ],
+          "lang_key": "Vietsub",
+          "episode_current": "Tập 4",
+          "quality": "HD",
+          "status": "ongoing",
+          "showtimes": "",
+          "is_4k": false,
+          "is_exclusive": false,
+          "chieurap": false,
+          "sub_docquyen": true,
+          "modified": "2026-07-13T21:38:24.000Z"
+        },
         {
           "id": "6a2fde1cf7f43ec64efa9e11",
           "title": "Ma Cà Rồng: Lestat de Lioncourt",
@@ -9318,50 +9362,6 @@
           "chieurap": false,
           "sub_docquyen": true,
           "modified": "2026-07-12T14:00:34.000Z"
-        },
-        {
-          "id": "6a4f38f54f61d761f77894df",
-          "title": "Bóng Ma Báo Thù",
-          "origin_name": "M.I.A.",
-          "slug": "bong-ma-bao-thu",
-          "thumb": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/thumbs/bo/bong-ma-bao-thu.webp",
-          "poster": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/bo/bong-ma-bao-thu.webp",
-          "year": 2026,
-          "type": "series",
-          "genre": [
-            {
-              "id": "620a21b2e0fc277084dfd0c5",
-              "name": "Hành Động",
-              "slug": "hanh-dong"
-            },
-            {
-              "id": "620a2249e0fc277084dfd2e5",
-              "name": "Hình Sự",
-              "slug": "hinh-su"
-            },
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a231fe0fc277084dfd7ce",
-              "name": "Âu Mỹ",
-              "slug": "au-my"
-            }
-          ],
-          "lang_key": "Vietsub",
-          "episode_current": "Tập 3",
-          "quality": "HD",
-          "status": "ongoing",
-          "showtimes": "",
-          "is_4k": false,
-          "is_exclusive": false,
-          "chieurap": false,
-          "sub_docquyen": true,
-          "modified": "2026-07-12T12:29:20.000Z"
         },
         {
           "id": "6a3aaacf16a695c8bb066105",
@@ -10589,7 +10589,7 @@
             }
           ],
           "lang_key": "Vietsub",
-          "episode_current": "Tập 3",
+          "episode_current": "Tập 4",
           "quality": "HD",
           "status": "ongoing",
           "showtimes": "",
@@ -10597,7 +10597,7 @@
           "is_exclusive": false,
           "chieurap": false,
           "sub_docquyen": true,
-          "modified": "2026-07-12T12:29:20.000Z"
+          "modified": "2026-07-13T21:38:24.000Z"
         },
         {
           "id": "68e4bc4d69d7b4696cc59469",
@@ -11153,6 +11153,21 @@
   ],
   "sliderAuto": [
     {
+      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/bo/bong-ma-bao-thu.webp",
+      "link_url": "/phim/bong-ma-bao-thu.html",
+      "title": "Bóng Ma Báo Thù",
+      "year": "2026",
+      "country": "Âu Mỹ",
+      "episode_current": "Tập 4",
+      "genres": [
+        "Hành Động",
+        "Hình Sự",
+        "Chính kịch"
+      ],
+      "sort_order": 0,
+      "enabled": true
+    },
+    {
       "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/ma/ma-ca-rong-lestat-de-lioncourt.webp",
       "link_url": "/phim/ma-ca-rong-lestat-de-lioncourt.html",
       "title": "Ma Cà Rồng: Lestat de Lioncourt",
@@ -11164,7 +11179,7 @@
         "Khoa Học",
         "Chính kịch"
       ],
-      "sort_order": 0,
+      "sort_order": 1,
       "enabled": true
     },
     {
@@ -11178,21 +11193,6 @@
         "Hình Sự",
         "Chính kịch",
         "Tâm Lý"
-      ],
-      "sort_order": 1,
-      "enabled": true
-    },
-    {
-      "image_url": "https://cdn.jsdelivr.net/gh/phantruongngoc102/goimg102@main/public/posters/bo/bong-ma-bao-thu.webp",
-      "link_url": "/phim/bong-ma-bao-thu.html",
-      "title": "Bóng Ma Báo Thù",
-      "year": "2026",
-      "country": "Âu Mỹ",
-      "episode_current": "Tập 3",
-      "genres": [
-        "Hành Động",
-        "Hình Sự",
-        "Chính kịch"
       ],
       "sort_order": 2,
       "enabled": true
